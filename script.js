@@ -14,7 +14,7 @@
     }
 })();
 
-// Page Loader
+// Page Loader - Fast loading
 window.addEventListener('load', () => {
     const loader = document.querySelector('.page-loader');
     if (loader) {
@@ -23,8 +23,8 @@ window.addEventListener('load', () => {
             // Remove from DOM after animation
             setTimeout(() => {
                 loader.remove();
-            }, 500);
-        }, 300);
+            }, 300);
+        }, 150);
     }
     
     window.scrollTo(0, 0);
@@ -107,18 +107,29 @@ navLinks.forEach(link => {
     });
 });
 
-// Smooth scroll for anchor links (only on click, not on page load)
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', function (e) {
-        e.preventDefault();
-        const target = document.querySelector(this.getAttribute('href'));
-        if (target) {
-            const offsetTop = target.offsetTop - 80; // Account for sticky navbar
-            window.scrollTo({
-                top: offsetTop,
-                behavior: 'smooth'
-            });
-        }
+// Smooth scroll for anchor links (only on click, not on page load) - Optimized
+document.addEventListener('DOMContentLoaded', function() {
+    // Add smooth scroll class only for anchor link clicks
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (e) {
+            e.preventDefault();
+            const target = document.querySelector(this.getAttribute('href'));
+            if (target) {
+                const offsetTop = target.offsetTop - 80; // Account for sticky navbar
+                
+                // Use native smooth scroll with optimized behavior
+                document.documentElement.classList.add('smooth-scroll');
+                window.scrollTo({
+                    top: offsetTop,
+                    behavior: 'smooth'
+                });
+                
+                // Remove smooth scroll class after animation
+                setTimeout(() => {
+                    document.documentElement.classList.remove('smooth-scroll');
+                }, 500);
+            }
+        });
     });
 });
 
@@ -316,3 +327,58 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
+// Careers page search and filter functionality
+document.addEventListener('DOMContentLoaded', () => {
+    const searchInput = document.querySelector('.search-input');
+    const locationFilter = document.querySelectorAll('.filter-select')[0];
+    const departmentFilter = document.querySelectorAll('.filter-select')[1];
+    const typeFilter = document.querySelectorAll('.filter-select')[2];
+    const careerItems = document.querySelectorAll('.career-item');
+    const resultsCount = document.querySelector('.results-count');
+
+    // Only run if we're on the careers page
+    if (!searchInput || !careerItems.length) return;
+
+    function filterJobs() {
+        const searchTerm = searchInput.value.toLowerCase();
+        const selectedLocation = locationFilter.value;
+        const selectedDepartment = departmentFilter.value;
+        const selectedType = typeFilter.value;
+        
+        let visibleCount = 0;
+
+        careerItems.forEach(item => {
+            const title = item.querySelector('h3').textContent.toLowerCase();
+            const description = item.querySelector('.career-item-description').textContent.toLowerCase();
+            const location = item.getAttribute('data-location');
+            const department = item.getAttribute('data-department');
+            const type = item.getAttribute('data-type');
+            const locationText = item.querySelector('.meta-item').textContent.toLowerCase();
+
+            // Check if item matches all filters
+            const matchesSearch = title.includes(searchTerm) || 
+                                  description.includes(searchTerm) || 
+                                  locationText.includes(searchTerm);
+            const matchesLocation = !selectedLocation || location === selectedLocation;
+            const matchesDepartment = !selectedDepartment || department === selectedDepartment;
+            const matchesType = !selectedType || type === selectedType;
+
+            if (matchesSearch && matchesLocation && matchesDepartment && matchesType) {
+                item.style.display = 'flex';
+                visibleCount++;
+            } else {
+                item.style.display = 'none';
+            }
+        });
+
+        // Update results count
+        const positionText = visibleCount === 1 ? 'position' : 'positions';
+        resultsCount.textContent = `${visibleCount} ${positionText} available`;
+    }
+
+    // Add event listeners
+    if (searchInput) searchInput.addEventListener('input', filterJobs);
+    if (locationFilter) locationFilter.addEventListener('change', filterJobs);
+    if (departmentFilter) departmentFilter.addEventListener('change', filterJobs);
+    if (typeFilter) typeFilter.addEventListener('change', filterJobs);
+});
