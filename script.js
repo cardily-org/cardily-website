@@ -661,7 +661,7 @@ function initCookieConsent() {
                     <h3 id="cookie-banner-title">Cookie Notice</h3>
                     <p id="cookie-banner-description">
                         We use essential cookies to ensure our website functions properly. We also use analytics cookies to understand how you interact with our site. 
-                        <a href="/privacy-policy" target="_blank" rel="noopener">Learn more in our Privacy Policy</a>
+                        <a href="privacy-policy.html" target="_blank" rel="noopener">Learn more in our Privacy Policy</a>
                     </p>
                 </div>
                 <div class="cookie-banner-actions">
