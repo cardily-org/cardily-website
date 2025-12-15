@@ -30,14 +30,14 @@
     <nav class="navbar">
         <div class="container">
             <div class="nav-brand">
-                <a href="index.html"><img src="calogo (1).png" alt="Cardily" class="logo"></a>
+                <a href="/"><img src="calogo (1).png" alt="Cardily" class="logo"></a>
             </div>
             <ul class="nav-menu">
-                <li><a href="index.html#about">About</a></li>
-                <li><a href="projects.html" class="active">Projects</a></li>
-                <li><a href="newsletters.html">Newsletters</a></li>
-                <li><a href="research.html">Research</a></li>
-                <li><a href="get-involved.html">Get Involved</a></li>
+                <li><a href="/#about">About</a></li>
+                <li><a href="/projects" class="active">Projects</a></li>
+                <li><a href="/newsletters">Newsletters</a></li>
+                <li><a href="/research">Research</a></li>
+                <li><a href="/get-involved">Get Involved</a></li>
             </ul>
             <button class="mobile-menu-toggle" aria-label="Toggle menu">
                 <span></span>
@@ -103,8 +103,7 @@
                             </div>
                         </div>
                         <div class="project-actions">
-                            <a href="get-involved.html" class="btn btn-primary">Join This Project</a>
-                            <a href="#" class="btn btn-outline">Learn More</a>
+                            <button type="button" class="btn btn-primary" onclick="openProjectLearnMoreModal('CardioPredict')">Learn More</button>
                         </div>
                     </div>
 
@@ -141,22 +140,21 @@
                             </div>
                         </div>
                         <div class="project-actions">
-                            <a href="get-involved.html" class="btn btn-primary">Join This Project</a>
-                            <a href="#" class="btn btn-outline">Learn More</a>
+                            <button type="button" class="btn btn-primary" onclick="openProjectLearnMoreModal('Youth Cardiovascular Health Research Initiative')">Learn More</button>
                         </div>
                     </div>
                     </div>
                 </div>
 
-                <!-- All Projects -->
+                <!-- Initiatives -->
                 <div class="all-projects-section">
-                    <h2>All Projects</h2>
+                    <h2>Initiatives</h2>
                     <p>Explore our complete portfolio of initiatives advancing cardiology accessibility and education.</p>
 
                     <div class="project-grid">
                         <div class="project-card">
                             <div class="card-header">
-                                <span class="status-badge ongoing">Ongoing</span>
+                                <span class="status-badge planning">Planning</span>
                             </div>
                             <h3>AED Mapping Initiative</h3>
                             <p>
@@ -168,7 +166,7 @@
 
                         <div class="project-card">
                             <div class="card-header">
-                                <span class="status-badge ongoing">Ongoing</span>
+                                <span class="status-badge planning">Planning</span>
                             </div>
                             <h3>Opportunities Database</h3>
                             <p>
@@ -192,7 +190,7 @@
 
                         <div class="project-card">
                             <div class="card-header">
-                                <span class="status-badge ongoing">Ongoing</span>
+                                <span class="status-badge planning">Planning</span>
                             </div>
                             <h3>Educational Resources Hub</h3>
                             <p>
@@ -216,7 +214,7 @@
 
                         <div class="project-card">
                             <div class="card-header">
-                                <span class="status-badge ongoing">Ongoing</span>
+                                <span class="status-badge planning">Planning</span>
                             </div>
                             <h3>Research Collaboration Network</h3>
                             <p>
@@ -235,7 +233,121 @@
                         Have an idea for a cardiology initiative? We welcome proposals from students passionate about 
                         making cardiovascular science more accessible. Share your vision and collaborate with our community.
                     </p>
-                    <a href="get-involved.html" class="btn btn-primary btn-lg">Submit Your Idea</a>
+                    <button type="button" class="btn btn-primary btn-lg" onclick="openProjectProposalModal()">Submit Your Idea</button>
+                </div>
+
+                <!-- Project Learn More Modal -->
+                <div id="project-learn-more-modal" class="modal" style="display: none;" onclick="closeProjectLearnMoreModal()">
+                    <div class="modal-content" onclick="event.stopPropagation()">
+                        <div class="modal-header">
+                            <h2 id="project-modal-title">Learn More About Project</h2>
+                            <span class="close-modal" onclick="closeProjectLearnMoreModal()">&times;</span>
+                        </div>
+                        <form id="project-learn-more-form" class="modal-form">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="learn-more-name">Your Name:</label>
+                                    <input type="text" id="learn-more-name" name="name" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="learn-more-email">Email Address:</label>
+                                    <input type="email" id="learn-more-email" name="email" required>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="learn-more-affiliation">Academic/Professional Affiliation:</label>
+                                <input type="text" id="learn-more-affiliation" name="affiliation" placeholder="University, Institution, or Organization">
+                            </div>
+                            <div class="form-group">
+                                <label for="learn-more-background">Academic Background:</label>
+                                <select id="learn-more-background" name="background" required>
+                                    <option value="">Select your background...</option>
+                                    <option value="undergraduate">Undergraduate Student</option>
+                                    <option value="graduate">Graduate Student</option>
+                                    <option value="medical-student">Medical Student</option>
+                                    <option value="resident">Resident/Fellow</option>
+                                    <option value="professional">Healthcare Professional</option>
+                                    <option value="researcher">Researcher</option>
+                                    <option value="other">Other</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="learn-more-interest">Specific Interests:</label>
+                                <textarea id="learn-more-interest" name="interest" rows="4" placeholder="What aspects of this project interest you most? What experience or skills do you bring?"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="learn-more-questions">Questions:</label>
+                                <textarea id="learn-more-questions" name="questions" rows="3" placeholder="Any specific questions about the project, timeline, or requirements?"></textarea>
+                            </div>
+                            <input type="hidden" id="selected-project" name="project">
+                            <div class="form-actions">
+                                <button type="button" class="btn btn-outline" onclick="closeProjectLearnMoreModal()">Cancel</button>
+                                <button type="submit" class="btn btn-primary">Send Inquiry</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <!-- Project Proposal Modal -->
+                <div id="project-proposal-modal" class="modal" style="display: none;" onclick="closeProjectProposalModal()">
+                    <div class="modal-content" onclick="event.stopPropagation()">
+                        <div class="modal-header">
+                            <h2>Submit Project Proposal</h2>
+                            <span class="close-modal" onclick="closeProjectProposalModal()">&times;</span>
+                        </div>
+                        <form id="project-proposal-form" class="modal-form">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="proposal-name">Your Name:</label>
+                                    <input type="text" id="proposal-name" name="name" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="proposal-email">Email Address:</label>
+                                    <input type="email" id="proposal-email" name="email" required>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="proposal-title">Project Title:</label>
+                                <input type="text" id="proposal-title" name="title" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="proposal-category">Project Category:</label>
+                                <select id="proposal-category" name="category" required>
+                                    <option value="">Select category...</option>
+                                    <option value="research">Research Initiative</option>
+                                    <option value="technology">Technology Development</option>
+                                    <option value="education">Educational Program</option>
+                                    <option value="outreach">Community Outreach</option>
+                                    <option value="database">Data/Resource Collection</option>
+                                    <option value="other">Other</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="proposal-summary">Project Summary:</label>
+                                <textarea id="proposal-summary" name="summary" rows="4" required placeholder="Brief description of your project idea (2-3 sentences)"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="proposal-objectives">Project Objectives:</label>
+                                <textarea id="proposal-objectives" name="objectives" rows="4" placeholder="What are the main goals and expected outcomes?"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="proposal-impact">Expected Impact:</label>
+                                <textarea id="proposal-impact" name="impact" rows="3" placeholder="How will this project benefit the cardiology community or students?"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="proposal-timeline">Proposed Timeline:</label>
+                                <input type="text" id="proposal-timeline" name="timeline" placeholder="e.g., 6 months, January - June 2026">
+                            </div>
+                            <div class="form-group">
+                                <label for="proposal-resources">Resources Needed:</label>
+                                <textarea id="proposal-resources" name="resources" rows="3" placeholder="What resources, tools, or support would be needed?"></textarea>
+                            </div>
+                            <div class="form-actions">
+                                <button type="button" class="btn btn-outline" onclick="closeProjectProposalModal()">Cancel</button>
+                                <button type="submit" class="btn btn-primary">Submit Proposal</button>
+                            </div>
+                        </form>
+                    </div>
                 </div>
             </div>
         </div>
@@ -260,31 +372,34 @@
                     <div class="footer-column">
                         <h4>Resources</h4>
                         <ul>
-                            <li><a href="index.html#what-we-do">Programs Directory</a></li>
-                            <li><a href="projects.html">Student Projects</a></li>
-                            <li><a href="newsletters.html">Newsletter</a></li>
+                            <li><a href="/#what-we-do">Programs Directory</a></li>
+                            <li><a href="/projects">Student Projects</a></li>
+                            <li><a href="/newsletters">Newsletter</a></li>
                         </ul>
                     </div>
                     <div class="footer-column">
                         <h4>Get Involved</h4>
                         <ul>
-                            <li><a href="get-involved.html">For Students</a></li>
-                            <li><a href="get-involved.html">Internship Program</a></li>
-                            <li><a href="get-involved.html">Partnerships</a></li>
+                            <li><a href="/careers?search=internship">For Students</a></li>
+                            <li><a href="/careers">Careers</a></li>
+                            <li><a href="/get-involved">Partnerships</a></li>
                         </ul>
                     </div>
                     <div class="footer-column">
                         <h4>About</h4>
                         <ul>
-                            <li><a href="index.html#about">Our Mission</a></li>
-                            <li><a href="index.html#vision">Our Vision</a></li>
-                            <li><a href="index.html#what-we-do">What We Do</a></li>
+                            <li><a href="/#about">Our Mission</a></li>
+                            <li><a href="/#vision">Our Vision</a></li>
+                            <li><a href="/#what-we-do">What We Do</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
+            </div>
             <div class="footer-bottom">
-                <p>&copy; 2025 Cardily. All rights reserved. | Fully Free • Fully Digital • Strictly Non-Medical</p>
+                <p>&copy; 2025 Cardily. All rights reserved. | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-service">Terms of Service</a><br>
+                   Equal Opportunity Employer • GDPR Compliant • Accessibility Standards Met
+                </p>
             </div>
         </div>
     </footer>

@@ -1,0 +1,16 @@
+# Enable URL Rewriting
+RewriteEngine On
+
+# Handle specific legal page routes
+RewriteRule ^privacy/?$ privacy-policy.html [L]
+RewriteRule ^terms/?$ terms-of-service.html [L]
+RewriteRule ^legal/?$ terms-of-service.html [L]
+
+# Remove .html extension from URLs
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
+
+# Redirect .html URLs to extensionless URLs
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.html [NC]
+RewriteRule ^ %1 [R=301,L]

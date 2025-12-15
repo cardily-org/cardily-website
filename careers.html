@@ -29,23 +29,21 @@
     <!-- Navigation -->
     <nav class="navbar">
         <div class="container">
-            <div class="nav-content">
-                <a href="index.html" class="logo">
-                    <img src="calogo (1).png" alt="Cardily Logo">
-                </a>
-                <ul class="nav-links">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="projects.html">Projects</a></li>
-                    <li><a href="research.html">Research</a></li>
-                    <li><a href="newsletters.html">Newsletter</a></li>
-                    <li><a href="get-involved.html">Get Involved</a></li>
-                </ul>
-                <button class="mobile-menu-toggle" aria-label="Toggle menu">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </button>
+            <div class="nav-brand">
+                <a href="/"><img src="calogo (1).png" alt="Cardily Logo" class="logo"></a>
             </div>
+            <ul class="nav-menu">
+                <li><a href="/">Home</a></li>
+                <li><a href="/projects">Projects</a></li>
+                <li><a href="/research">Research</a></li>
+                <li><a href="/newsletters">Newsletter</a></li>
+                <li><a href="/get-involved">Get Involved</a></li>
+            </ul>
+            <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
         </div>
     </nav>
 
@@ -59,6 +57,11 @@
                     individuals to join our team across various roles—from software development to marketing, 
                     research coordination to content creation.
                 </p>
+                
+                <!-- Equal Opportunity Employment Statement -->
+                <div class="eeo-statement" role="complementary" aria-label="Equal Opportunity Employment Statement">
+                    <p><strong>Equal Opportunity Employer:</strong> Cardily is committed to creating a diverse and inclusive workplace. We are an equal opportunity employer and do not discriminate based on race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates.</p>
+                </div>
             </div>
         </div>
     </section>
@@ -67,16 +70,19 @@
         <div class="container">
             <div class="page-content">
                 <!-- Search and Filter Section -->
-                <div class="careers-search-section">
+                <div class="careers-search-section" role="search" aria-label="Job search and filters">
                     <div class="search-container">
-                        <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <label for="job-search-input" class="sr-only">Search job positions</label>
+                        <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                             <circle cx="11" cy="11" r="8"></circle>
                             <path d="m21 21-4.35-4.35"></path>
                         </svg>
-                        <input type="text" class="search-input" placeholder="Search positions by title, keyword, or location...">
+                        <input type="text" id="job-search-input" class="search-input" placeholder="Search positions by title, keyword, or location..." aria-describedby="search-help">
+                        <div id="search-help" class="sr-only">Search through available job positions by title, location, or department</div>
                     </div>
                     <div class="filter-container">
-                        <select class="filter-select">
+                        <label for="location-filter" class="sr-only">Filter by location</label>
+                        <select id="location-filter" class="filter-select" aria-label="Filter jobs by location">
                             <option value="">All Locations</option>
                             <option value="dallas">Dallas, TX</option>
                             <option value="atlanta">Atlanta, GA</option>
@@ -84,7 +90,8 @@
                             <option value="boston">Boston, MA</option>
                             <option value="remote">Remote</option>
                         </select>
-                        <select class="filter-select">
+                        <label for="department-filter" class="sr-only">Filter by department</label>
+                        <select id="department-filter" class="filter-select" aria-label="Filter jobs by department">
                             <option value="">All Departments</option>
                             <option value="engineering">Engineering</option>
                             <option value="marketing">Marketing</option>
@@ -92,7 +99,8 @@
                             <option value="content">Content</option>
                             <option value="design">Design</option>
                         </select>
-                        <select class="filter-select">
+                        <label for="type-filter" class="sr-only">Filter by job type</label>
+                        <select id="type-filter" class="filter-select" aria-label="Filter jobs by employment type">
                             <option value="">All Types</option>
                             <option value="fulltime">Full-Time</option>
                             <option value="parttime">Part-Time</option>
@@ -106,7 +114,7 @@
                     <p class="results-count">12 positions available</p>
                 </div>
 
-                <div class="careers-list">
+                <div class="careers-list" id="careers-list" role="region" aria-label="Available job positions" aria-live="polite">
                     <!-- Director of Engineering -->
                     <div class="career-item" data-location="dallas" data-department="engineering" data-type="fulltime">
                         <div class="career-item-content">
@@ -563,137 +571,7 @@
                         <a href="#" class="career-item-apply">Apply Now →</a>
                     </div>
                 </div>
-                    <!-- Software Development -->
-                    <div class="career-card">
-                        <div class="career-header">
-                            <h3>Software Developer Intern</h3>
-                            <span class="position-type">Remote • Part-Time</span>
-                        </div>
-                        <p class="career-description">
-                            Build and maintain our web platform, working with modern technologies to create seamless 
-                            user experiences. Ideal for students with web development experience.
-                        </p>
-                        <div class="career-requirements">
-                            <strong>What We're Looking For:</strong>
-                            <ul>
-                                <li>Experience with HTML, CSS, JavaScript</li>
-                                <li>Familiarity with React, Node.js, or similar frameworks</li>
-                                <li>Problem-solving mindset and attention to detail</li>
-                                <li>Passion for creating accessible, user-friendly interfaces</li>
-                            </ul>
-                        </div>
-                        <a href="#" class="btn btn-primary">Apply Now</a>
-                    </div>
-
-                    <!-- Marketing -->
-                    <div class="career-card">
-                        <div class="career-header">
-                            <h3>Marketing Intern</h3>
-                            <span class="position-type">Remote • Part-Time</span>
-                        </div>
-                        <p class="career-description">
-                            Drive growth and engagement across our social media channels, create compelling content, 
-                            and help spread our mission to students globally.
-                        </p>
-                        <div class="career-requirements">
-                            <strong>What We're Looking For:</strong>
-                            <ul>
-                                <li>Strong writing and communication skills</li>
-                                <li>Experience with social media platforms (Instagram, LinkedIn, Twitter)</li>
-                                <li>Creative thinking and content creation abilities</li>
-                                <li>Understanding of digital marketing strategies</li>
-                            </ul>
-                        </div>
-                        <a href="#" class="btn btn-primary">Apply Now</a>
-                    </div>
-
-                    <!-- Research Coordinator -->
-                    <div class="career-card">
-                        <div class="career-header">
-                            <h3>Research Coordinator Intern</h3>
-                            <span class="position-type">Remote • Part-Time</span>
-                        </div>
-                        <p class="career-description">
-                            Coordinate research projects, manage data collection, and help students discover 
-                            opportunities in cardiovascular research.
-                        </p>
-                        <div class="career-requirements">
-                            <strong>What We're Looking For:</strong>
-                            <ul>
-                                <li>Strong organizational and project management skills</li>
-                                <li>Interest in cardiology or medical research</li>
-                                <li>Experience with data analysis tools preferred</li>
-                                <li>Excellent written and verbal communication</li>
-                            </ul>
-                        </div>
-                        <a href="#" class="btn btn-primary">Apply Now</a>
-                    </div>
-
-                    <!-- Content Writer -->
-                    <div class="career-card">
-                        <div class="career-header">
-                            <h3>Content Writer Intern</h3>
-                            <span class="position-type">Remote • Part-Time</span>
-                        </div>
-                        <p class="career-description">
-                            Create engaging articles, newsletters, and educational content that makes cardiology 
-                            accessible and interesting for student audiences.
-                        </p>
-                        <div class="career-requirements">
-                            <strong>What We're Looking For:</strong>
-                            <ul>
-                                <li>Exceptional writing and editing skills</li>
-                                <li>Ability to explain complex medical topics clearly</li>
-                                <li>Interest in science communication and healthcare</li>
-                                <li>Self-motivated with ability to meet deadlines</li>
-                            </ul>
-                        </div>
-                        <a href="#" class="btn btn-primary">Apply Now</a>
-                    </div>
-
-                    <!-- Graphic Designer -->
-                    <div class="career-card">
-                        <div class="career-header">
-                            <h3>Graphic Designer Intern</h3>
-                            <span class="position-type">Remote • Part-Time</span>
-                        </div>
-                        <p class="career-description">
-                            Design visuals for our platform, social media, and marketing materials. Help shape 
-                            Cardily's visual identity and create engaging graphics.
-                        </p>
-                        <div class="career-requirements">
-                            <strong>What We're Looking For:</strong>
-                            <ul>
-                                <li>Proficiency in Adobe Creative Suite or Figma</li>
-                                <li>Strong portfolio showcasing design work</li>
-                                <li>Understanding of brand consistency and visual identity</li>
-                                <li>Creative mindset with attention to detail</li>
-                            </ul>
-                        </div>
-                        <a href="#" class="btn btn-primary">Apply Now</a>
-                    </div>
-
-                    <!-- Community Manager -->
-                    <div class="career-card">
-                        <div class="career-header">
-                            <h3>Community Manager Intern</h3>
-                            <span class="position-type">Remote • Part-Time</span>
-                        </div>
-                        <p class="career-description">
-                            Foster engagement within our student community, moderate discussions, and help create 
-                            a welcoming environment for cardiology enthusiasts.
-                        </p>
-                        <div class="career-requirements">
-                            <strong>What We're Looking For:</strong>
-                            <ul>
-                                <li>Strong interpersonal and communication skills</li>
-                                <li>Experience managing online communities</li>
-                                <li>Empathy and ability to resolve conflicts</li>
-                                <li>Passion for connecting people and building relationships</li>
-                            </ul>
-                        </div>
-                        <a href="#" class="btn btn-primary">Apply Now</a>
-                    </div>
+            </div>
                 </div>
 
                 <!-- Why Join -->
@@ -741,10 +619,174 @@
     <footer class="footer">
         <div class="container">
             <div class="footer-content">
-                <p>&copy; 2025 Cardily. All rights reserved.</p>
+                <div class="footer-brand">
+                    <img src="calogo (1).png" alt="Cardily" class="logo-footer">
+                    <p>Bridging the gap between youth and cardiology</p>
+                </div>
+                <div class="footer-links">
+                    <div class="footer-column">
+                        <h4>Resources</h4>
+                        <ul>
+                            <li><a href="/#what-we-do">Programs Directory</a></li>
+                            <li><a href="/projects">Student Projects</a></li>
+                            <li><a href="/newsletters">Newsletter</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-column">
+                        <h4>Get Involved</h4>
+                        <ul>
+                            <li><a href="/careers?search=internship">For Students</a></li>
+                            <li><a href="/careers">Careers</a></li>
+                            <li><a href="/get-involved">Partnerships</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-column">
+                        <h4>About</h4>
+                        <ul>
+                            <li><a href="/#about">Our Mission</a></li>
+                            <li><a href="/#vision">Our Vision</a></li>
+                            <li><a href="/#what-we-do">What We Do</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Cardily. All rights reserved. | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-service">Terms of Service</a><br>
+                   Equal Opportunity Employer • GDPR Compliant • Accessibility Standards Met
+                </p>
             </div>
         </div>
     </footer>
+
+    <!-- Application Modal -->
+    <div id="application-modal" class="modal-overlay">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Apply for Position</h3>
+                <button class="modal-close" type="button">&times;</button>
+            </div>
+            <div class="modal-body">
+                <form id="application-form" enctype="multipart/form-data">
+                    <input type="hidden" id="position-title" name="position">
+                    
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="applicant-name">Full Name *</label>
+                            <input type="text" id="applicant-name" name="name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="applicant-email">Email Address *</label>
+                            <input type="email" id="applicant-email" name="email" required>
+                        </div>
+                    </div>
+                    
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="applicant-phone">Phone Number</label>
+                            <input type="tel" id="applicant-phone" name="phone" placeholder="+1 (555) 123-4567">
+                        </div>
+                        <div class="form-group">
+                            <label for="linkedin-profile">LinkedIn Profile</label>
+                            <input type="url" id="linkedin-profile" name="linkedin" placeholder="https://linkedin.com/in/yourprofile">
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="cover-letter-text">Why are you interested in this position? *</label>
+                        <textarea id="cover-letter-text" name="coverLetterText" rows="4" required placeholder="Tell us about your interest in this role and what makes you a great fit..."></textarea>
+                    </div>
+                    
+                    <div class="form-row">
+                        <div class="form-group file-upload-group">
+                            <label for="resume-upload">Resume/CV *</label>
+                            <div class="file-upload-wrapper">
+                                <input type="file" id="resume-upload" name="resume" accept=".pdf,.doc,.docx" required>
+                                <div class="file-upload-display">
+                                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                                        <polyline points="14 2 14 8 20 8"></polyline>
+                                        <line x1="16" y1="13" x2="8" y2="13"></line>
+                                        <line x1="16" y1="17" x2="8" y2="17"></line>
+                                        <polyline points="10 9 9 9 8 9"></polyline>
+                                    </svg>
+                                    <span class="file-text">Choose Resume File</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group file-upload-group">
+                            <label for="cover-letter-upload">Cover Letter (Optional)</label>
+                            <div class="file-upload-wrapper">
+                                <input type="file" id="cover-letter-upload" name="coverLetter" accept=".pdf,.doc,.docx">
+                                <div class="file-upload-display">
+                                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                                        <polyline points="14 2 14 8 20 8"></polyline>
+                                        <line x1="16" y1="13" x2="8" y2="13"></line>
+                                        <line x1="16" y1="17" x2="8" y2="17"></line>
+                                        <polyline points="10 9 9 9 8 9"></polyline>
+                                    </svg>
+                                    <span class="file-text">Choose Cover Letter</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="portfolio-link">Portfolio/Website (Optional)</label>
+                        <input type="url" id="portfolio-link" name="portfolio" placeholder="https://yourportfolio.com">
+                    </div>
+                    
+                    <!-- Privacy and Compliance Disclosures -->
+                    <div class="compliance-section">
+                        <h4>Privacy and Data Processing</h4>
+                        <div class="compliance-text">
+                            <p>By submitting this application, you acknowledge that:</p>
+                            <ul>
+                                <li>Your personal data will be processed for recruitment purposes</li>
+                                <li>We may retain your application for up to 12 months</li>
+                                <li>Background checks may be required for certain positions</li>
+                                <li>You have read our <a href="/privacy-policy" target="_blank" rel="noopener">Privacy Policy</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group checkbox-group">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="data-processing-consent" required aria-describedby="data-processing-help">
+                            <span class="checkbox-text">I consent to the processing of my personal data for recruitment purposes *</span>
+                        </label>
+                        <div id="data-processing-help" class="help-text">Required for application processing. You can withdraw consent at any time.</div>
+                    </div>
+                    
+                    <div class="form-group checkbox-group">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="terms-agreement" required>
+                            <span class="checkbox-text">I agree to the <a href="/terms-of-service" target="_blank" rel="noopener">Terms of Service</a> *</span>
+                        </label>
+                    </div>
+                    
+                    <div class="form-group checkbox-group">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="background-check-consent">
+                            <span class="checkbox-text">I authorize background checks if required for this position</span>
+                        </label>
+                    </div>
+                    
+                    <div class="form-group checkbox-group">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="marketing-consent">
+                            <span class="checkbox-text">I would like to receive updates about future opportunities (optional)</span>
+                        </label>
+                    </div>
+                    
+                    <div class="form-actions">
+                        <button type="button" class="btn btn-secondary modal-close">Cancel</button>
+                        <button type="submit" class="btn btn-primary">Submit Application</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
 
     <script src="script.js"></script>
 </body>
