@@ -1,6 +1,6 @@
 # Cardily Website
 
-A modern, responsive website for Cardily - a student-led nonprofit dedicated to making cardiology more accessible to the next generation.
+A modern, responsive website for Cardily - a nonprofit dedicated to making cardiology more accessible to the next generation.
 
 ## Features
 
