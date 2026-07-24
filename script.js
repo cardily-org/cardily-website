@@ -92,7 +92,7 @@ if (mobileMenuToggle) {
 // Mobile dropdown toggles
 document.querySelectorAll('.nav-item-dropdown > a').forEach(trigger => {
     trigger.addEventListener('click', (e) => {
-        if (window.innerWidth <= 768) {
+        if (window.innerWidth <= 1100) {
             const parent = trigger.parentElement;
             const hasDropdown = parent.querySelector('.nav-dropdown');
             if (hasDropdown) {
@@ -107,7 +107,7 @@ document.querySelectorAll('.nav-item-dropdown > a').forEach(trigger => {
 const navLinks = document.querySelectorAll('.nav-menu a');
 navLinks.forEach(link => {
     link.addEventListener('click', (e) => {
-        if (link.parentElement.classList.contains('nav-item-dropdown') && window.innerWidth <= 768) {
+        if (link.parentElement.classList.contains('nav-item-dropdown') && window.innerWidth <= 1100) {
             return;
         }
         if (!navMenu || !mobileMenuToggle) return;
@@ -853,8 +853,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 // Open email client
                 window.location.href = mailtoLink;
                 
-                // Show success message
-                showNotification('Thank you! Please send the email to complete your subscription.', 'success');
                 newsletterForm.reset();
             }
         });
