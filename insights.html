@@ -64,7 +64,7 @@
         </div>
     </nav>
 
-    <section class="page-hero">
+    <section class="page-hero insights-hero">
         <div class="container">
             <div class="page-content">
                 <h1>Insights</h1>
@@ -77,14 +77,104 @@
         </div>
     </section>
 
-    <section class="page-section">
+    <section class="page-section insights-library">
         <div class="container">
-            <div class="page-content">
-                <div class="insight-filters" role="group" aria-label="Insight categories">
-                    <button type="button" class="insight-filter-btn">Diseases and Conditions</button>
-                    <button type="button" class="insight-filter-btn">Prevention and Lifestyle</button>
-                    <button type="button" class="insight-filter-btn">Research and Innovation</button>
-                    <button type="button" class="insight-filter-btn">Data and Statistics</button>
+            <div class="insights-content">
+                <div class="insights-section-heading">
+                    <span class="insights-eyebrow">Explore by topic</span>
+                    <h2>Cardiovascular health, organized clearly</h2>
+                    <p>
+                        Our editorial library is organized into four areas. Articles will be added to each
+                        category as they are published.
+                    </p>
+                </div>
+
+                <div class="insight-category-grid" role="group" aria-label="Insight categories">
+                    <button type="button" class="insight-category-card" disabled>
+                        <span class="insight-card-icon" aria-hidden="true">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M12 21s-7-4.35-9-9.5C1.4 7.4 4.1 4 7.8 4c2.1 0 3.5 1.2 4.2 2.3C12.7 5.2 14.1 4 16.2 4c3.7 0 6.4 3.4 4.8 7.5C19 16.65 12 21 12 21Z"></path>
+                                <path d="M7 12h3l1.2-2.5 1.7 5 1.2-2.5H17"></path>
+                            </svg>
+                        </span>
+                        <span class="insight-card-body">
+                            <span class="insight-card-title">Diseases and Conditions</span>
+                            <span class="insight-card-description">
+                                Evidence-based explainers on cardiovascular diseases, conditions, and the factors that shape heart health.
+                            </span>
+                            <span class="insight-card-status">Articles coming soon</span>
+                        </span>
+                        <span class="insight-card-arrow" aria-hidden="true">→</span>
+                    </button>
+
+                    <button type="button" class="insight-category-card" disabled>
+                        <span class="insight-card-icon" aria-hidden="true">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M12 22V10"></path>
+                                <path d="M12 13C7 13 4 10.5 4 6c5 0 8 2.5 8 7Z"></path>
+                                <path d="M12 17c4.5 0 7-2.2 7-6-4.5 0-7 2.2-7 6Z"></path>
+                            </svg>
+                        </span>
+                        <span class="insight-card-body">
+                            <span class="insight-card-title">Prevention and Lifestyle</span>
+                            <span class="insight-card-description">
+                                Clear coverage of prevention, everyday habits, and lifestyle factors connected to cardiovascular health.
+                            </span>
+                            <span class="insight-card-status">Articles coming soon</span>
+                        </span>
+                        <span class="insight-card-arrow" aria-hidden="true">→</span>
+                    </button>
+
+                    <button type="button" class="insight-category-card" disabled>
+                        <span class="insight-card-icon" aria-hidden="true">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M9 3h6"></path>
+                                <path d="M10 3v6l-5 9a2 2 0 0 0 1.7 3h10.6a2 2 0 0 0 1.7-3l-5-9V3"></path>
+                                <path d="M7.5 16h9"></path>
+                                <path d="M10 13h4"></path>
+                            </svg>
+                        </span>
+                        <span class="insight-card-body">
+                            <span class="insight-card-title">Research and Innovation</span>
+                            <span class="insight-card-description">
+                                Accessible perspectives on emerging studies, scientific advances, and innovation in cardiovascular health.
+                            </span>
+                            <span class="insight-card-status">Articles coming soon</span>
+                        </span>
+                        <span class="insight-card-arrow" aria-hidden="true">→</span>
+                    </button>
+
+                    <button type="button" class="insight-category-card" disabled>
+                        <span class="insight-card-icon" aria-hidden="true">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M4 20V10"></path>
+                                <path d="M10 20V4"></path>
+                                <path d="M16 20v-7"></path>
+                                <path d="M22 20H2"></path>
+                            </svg>
+                        </span>
+                        <span class="insight-card-body">
+                            <span class="insight-card-title">Data and Statistics</span>
+                            <span class="insight-card-description">
+                                Understand cardiovascular trends, risk factors, outcomes, and public health data through clear analysis.
+                            </span>
+                            <span class="insight-card-status">Articles coming soon</span>
+                        </span>
+                        <span class="insight-card-arrow" aria-hidden="true">→</span>
+                    </button>
+                </div>
+
+                <div class="insights-empty-state" role="status">
+                    <span class="insights-empty-icon" aria-hidden="true">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                            <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2Z"></path>
+                        </svg>
+                    </span>
+                    <div>
+                        <h3>Insights are coming soon</h3>
+                        <p>Articles will appear here as they are published.</p>
+                    </div>
                 </div>
             </div>
         </div>
