@@ -809,19 +809,6 @@ document.addEventListener('DOMContentLoaded', function() {
     if (newsletterForm) {
         newsletterForm.addEventListener('submit', function(e) {
             e.preventDefault();
-            const email = document.getElementById('newsletter-email').value;
-            
-            if (email) {
-                // Create mailto link for newsletter subscription
-                const subject = encodeURIComponent('Newsletter Subscription Request');
-                const body = encodeURIComponent(`Hello,\n\nI would like to subscribe to the Cardily newsletter.\n\nEmail: ${email}\n\nThank you!`);
-                const mailtoLink = `mailto:newsletter@cardily.org?subject=${subject}&body=${body}`;
-                
-                // Open email client
-                window.location.href = mailtoLink;
-                
-                newsletterForm.reset();
-            }
         });
     }
     
