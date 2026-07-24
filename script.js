@@ -139,7 +139,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 // Remove smooth scroll class after animation
                 setTimeout(() => {
                     document.documentElement.classList.remove('smooth-scroll');
-                }, 500);
+                }, 250);
             }
         });
     });
@@ -160,38 +160,15 @@ const observer = new IntersectionObserver((entries) => {
     });
 }, observerOptions);
 
-// Enhanced scroll animations with stagger effect
+// Lightweight reveal animations
 document.addEventListener('DOMContentLoaded', () => {
-    // Animate cards with stagger
     const cardElements = document.querySelectorAll('.feature-card, .highlight-box, .contact-card, .project-card, .newsletter-card, .research-card');
     cardElements.forEach((el, index) => {
         el.style.opacity = '0';
-        el.style.transform = 'translateY(30px)';
-        el.style.transition = `opacity 0.8s ease ${index * 0.1}s, transform 0.8s ease ${index * 0.1}s`;
+        el.style.transform = 'translateY(14px)';
+        const delay = Math.min(index * 0.03, 0.12);
+        el.style.transition = `opacity 0.35s ease ${delay}s, transform 0.35s ease ${delay}s`;
         observer.observe(el);
-    });
-
-    // Animate sections
-    const sections = document.querySelectorAll('section');
-    sections.forEach((section, index) => {
-        if (!section.classList.contains('hero')) {
-            section.style.opacity = '0';
-            section.style.transform = 'translateY(20px)';
-            section.style.transition = `opacity 0.8s ease ${index * 0.15}s, transform 0.8s ease ${index * 0.15}s`;
-            observer.observe(section);
-        }
-    });
-
-    // Animate navigation items
-    const navItems = document.querySelectorAll('.nav-menu li');
-    navItems.forEach((item, index) => {
-        item.style.opacity = '0';
-        item.style.transform = 'translateY(-10px)';
-        item.style.transition = `opacity 0.5s ease ${index * 0.1 + 0.3}s, transform 0.5s ease ${index * 0.1 + 0.3}s`;
-        setTimeout(() => {
-            item.style.opacity = '1';
-            item.style.transform = 'translateY(0)';
-        }, 100);
     });
 });
 
@@ -249,16 +226,6 @@ if (backToTopBtn) {
         });
     });
 }
-
-// Parallax effect for hero image
-window.addEventListener('scroll', () => {
-    const heroImage = document.querySelector('.hero-image img');
-    if (heroImage) {
-        const scrolled = window.pageYOffset;
-        const rate = scrolled * 0.3;
-        heroImage.style.transform = `translateY(${rate}px) scale(1.05)`;
-    }
-});
 
 // Animated Counter for Stats
 function animateCounter(element) {
@@ -322,8 +289,8 @@ document.addEventListener('DOMContentLoaded', () => {
     elementsToAnimate.forEach(el => {
         if (!el.classList.contains('animated')) {
             el.style.opacity = '0';
-            el.style.transform = 'translateY(20px)';
-            el.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
+            el.style.transform = 'translateY(12px)';
+            el.style.transition = 'opacity 0.35s ease, transform 0.35s ease';
             revealObserver.observe(el);
         }
     });
