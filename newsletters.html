@@ -5,39 +5,56 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
-    <!-- Primary Meta Tags -->
-    <title>Newsletters - Cardily</title>
-    <meta name="title" content="Cardiology Newsletters - Cardily">
-    <meta name="description" content="Stay informed with Cardily's monthly newsletter featuring cardiology opportunities, student projects, and insights for the next generation.">
+    <title>The Cardily Newsletter</title>
+    <meta name="title" content="The Cardily Newsletter">
+    <meta name="description" content="Stay informed on the latest in cardiovascular health. The Cardily Newsletter delivers evidence-based insights, research updates, and platform news.">
     
-    <!-- Favicon -->
     <link rel="icon" type="image/png" href="calogo (1).png">
-    
     <link rel="stylesheet" href="styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
-    <!-- Page Loader -->
     <div class="page-loader">
         <div class="loader-content">
             <div class="loader-spinner"></div>
         </div>
     </div>
 
-    <!-- Navigation -->
     <nav class="navbar">
         <div class="container">
             <div class="nav-brand">
-                <a href="/"><img src="calogo (1).png" alt="Cardily" class="logo"></a>
+                <a href="index.html"><img src="calogo (1).png" alt="Cardily" class="logo"></a>
             </div>
             <ul class="nav-menu">
-                <li><a href="index.html#about">About</a></li>
-                <li><a href="projects.html">Projects</a></li>
-                <li><a href="newsletters.html" class="active">Newsletters</a></li>
-                <li><a href="research.html">Research</a></li>
+                <li><a href="index.html">Home</a></li>
+                <li class="nav-item-dropdown">
+                    <a href="insights.html">Insights</a>
+                    <ul class="nav-dropdown">
+                        <li><a href="insights.html">Diseases and Conditions</a></li>
+                        <li><a href="insights.html">Prevention and Lifestyle</a></li>
+                        <li><a href="insights.html">Research and Innovation</a></li>
+                        <li><a href="insights.html">Data and Statistics</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item-dropdown">
+                    <a href="research.html">Research</a>
+                    <ul class="nav-dropdown">
+                        <li><a href="research.html#opportunities">Research Opportunities</a></li>
+                        <li><a href="research.html#current">Current Research</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item-dropdown">
+                    <a href="projects.html">Projects</a>
+                    <ul class="nav-dropdown">
+                        <li><a href="projects.html#current">Current Projects</a></li>
+                        <li><a href="projects.html#upcoming">Upcoming Projects</a></li>
+                    </ul>
+                </li>
+                <li><a href="newsletters.html" class="active">Newsletter</a></li>
                 <li><a href="get-involved.html">Get Involved</a></li>
+                <li><a href="about.html">About</a></li>
             </ul>
             <button class="mobile-menu-toggle" aria-label="Toggle menu">
                 <span></span>
@@ -47,15 +64,14 @@
         </div>
     </nav>
 
-    <!-- Page Content -->
     <section class="page-hero">
         <div class="container">
             <div class="page-content">
-                <h1>Cardiology Newsletter</h1>
+                <h1>The Cardily Newsletter</h1>
                 <p>
-                    Our monthly newsletter highlights new pathways, tools, and student contributions in the field 
-                    of cardiology. Stay informed about opportunities, projects, and developments that matter to 
-                    the next generation of cardiovascular scientists and innovators.
+                    Stay informed on the latest in cardiovascular health. The Cardily Newsletter delivers evidence-based
+                    insights, research updates, community initiatives, and platform news — published here on cardily.org and
+                    delivered directly to your inbox.
                 </p>
             </div>
         </div>
@@ -64,220 +80,82 @@
     <section class="page-section">
         <div class="container">
             <div class="page-content">
-                <!-- Newsletter Stats -->
-                <div class="newsletter-stats">
-                    <div class="stat-box">
-                        <div class="stat-value">Monthly</div>
-                        <div class="stat-description">Publication Schedule</div>
-                    </div>
-                    <div class="stat-box">
-                        <div class="stat-value">Free</div>
-                        <div class="stat-description">Always Accessible</div>
-                    </div>
-                    <div class="stat-box">
-                        <div class="stat-value">Digital</div>
-                        <div class="stat-description">Delivered to Inbox</div>
-                    </div>
-                </div>
+                <div class="section-block">
+                    <h2>What you can expect</h2>
+                    <ul class="expect-list">
+                        <li>Cardiovascular health articles and insights</li>
+                        <li>Research and data updates from Cardily</li>
+                        <li>Community outreach initiatives and awareness campaigns</li>
+                        <li>New opportunities and contributor spotlights</li>
+                    </ul>
 
-                <!-- What's Inside Section -->
-                <div class="newsletter-features">
-                    <h2>What's Inside Each Issue</h2>
-                    <div class="features-list">
-                        <div class="feature-item">
-                            <div class="feature-number">01</div>
-                            <div class="feature-content">
-                                <h3>Opportunity Highlights</h3>
-                                <p>Discover new summer programs, research opportunities, and cardiology pathways</p>
-                            </div>
-                        </div>
-                        <div class="feature-item">
-                            <div class="feature-number">02</div>
-                            <div class="feature-content">
-                                <h3>Student Spotlights</h3>
-                                <p>Featuring innovative projects and contributions from students worldwide</p>
-                            </div>
-                        </div>
-                        <div class="feature-item">
-                            <div class="feature-number">03</div>
-                            <div class="feature-content">
-                                <h3>Expert Insights</h3>
-                                <p>Perspectives from cardiology professionals and mentors in the field</p>
-                            </div>
-                        </div>
-                        <div class="feature-item">
-                            <div class="feature-number">04</div>
-                            <div class="feature-content">
-                                <h3>Research Updates</h3>
-                                <p>Latest developments and opportunities in cardiovascular research</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Latest Issue -->
-                <div class="latest-issue-section">
-                    <h2>Latest Issue</h2>
-                    <div class="latest-issue-card">
-                        <div class="issue-header">
-                            <span class="issue-badge">New</span>
-                            <h3>December 2025</h3>
-                            <p class="issue-date">Published December 1, 2025</p>
-                        </div>
-                        <div class="issue-content">
-                            <h4>In This Issue:</h4>
-                            <ul class="issue-highlights">
-                                <li><strong>Launch Announcement:</strong> Welcome to Cardily's inaugural newsletter</li>
-                                <li><strong>Our Mission:</strong> Making cardiology accessible to the next generation</li>
-                                <li><strong>Getting Started:</strong> How to explore opportunities and get involved</li>
-                                <li><strong>Platform Overview:</strong> Discover our resources, projects, and programs</li>
-                                <li><strong>What's Next:</strong> Upcoming opportunities and initiatives for 2026</li>
-                            </ul>
-                            <div class="issue-actions">
-                                <a href="/newsletter-december-2025" class="btn btn-primary">Read Full Issue</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Subscribe Section -->
-                <div class="newsletter-cta-section">
-                    <div class="cta-box subscribe-box">
-                        <h2>Subscribe to Our Newsletter</h2>
-                        <p>Stay connected with the cardiology community. Receive our monthly newsletter directly in your inbox, featuring the latest opportunities, student projects, and insights.</p>
+                    <!-- Beehiiv embed placeholder — production-ready UI; wire embed/backend when available -->
+                    <div class="beehiiv-embed" id="beehiiv-signup">
                         <form class="newsletter-form" id="newsletter-subscribe-form">
                             <div class="form-group">
                                 <input type="email" id="newsletter-email" placeholder="Enter your email address" required>
-                                <button type="submit" class="btn btn-primary btn-lg">Subscribe Now</button>
+                                <button type="submit" class="btn btn-primary btn-lg">Subscribe</button>
                             </div>
-                            <p class="form-disclaimer">We respect your privacy. Unsubscribe at any time.</p>
+                            <p class="form-disclaimer">Published on cardily.org and delivered by email via Beehiiv.</p>
                         </form>
                     </div>
                 </div>
 
-                <!-- Contribute Section -->
-                <div class="contribute-box">
-                    <h2>Contribute to Our Newsletter</h2>
-                    <p>Have something to share? We welcome student contributions, project updates, and insights from the cardiology community. Get in touch to feature your work in an upcoming issue.</p>
-                    <div class="contribute-options">
-                        <div class="contribute-item">
-                            <h4>Share Your Project</h4>
-                            <p>Showcase your cardiology-related work to our community</p>
-                        </div>
-                        <div class="contribute-item">
-                            <h4>Submit Insights</h4>
-                            <p>Share perspectives and experiences in the field</p>
-                        </div>
-                        <div class="contribute-item">
-                            <h4>Highlight Opportunities</h4>
-                            <p>Help others discover programs and pathways</p>
-                        </div>
-                    </div>
-                    <button type="button" class="btn btn-outline btn-lg" onclick="openContentSubmissionModal()">Submit Content</button>
-                </div>
-
-                <!-- Content Submission Modal -->
-                <div id="content-submission-modal" class="modal" style="display: none;">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <h2>Submit Content to Newsletter</h2>
-                            <span class="close-modal" onclick="closeContentSubmissionModal()">&times;</span>
-                        </div>
-                        <form id="content-submission-form" class="modal-form">
-                            <div class="form-group">
-                                <label for="content-type">Content Type:</label>
-                                <select id="content-type" name="contentType" required>
-                                    <option value="">Select content type...</option>
-                                    <option value="project">Student Project</option>
-                                    <option value="insight">Field Insights</option>
-                                    <option value="opportunity">Program Opportunity</option>
-                                    <option value="research">Research Update</option>
-                                </select>
-                            </div>
-                            <div class="form-row">
-                                <div class="form-group">
-                                    <label for="contributor-name">Your Name:</label>
-                                    <input type="text" id="contributor-name" name="contributorName" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="contributor-email">Email Address:</label>
-                                    <input type="email" id="contributor-email" name="contributorEmail" required>
-                                </div>
-                            </div>
-                            <div class="form-group">
-                                <label for="content-title">Title:</label>
-                                <input type="text" id="content-title" name="contentTitle" required>
-                            </div>
-                            <div class="form-group">
-                                <label for="content-description">Description/Summary:</label>
-                                <textarea id="content-description" name="contentDescription" rows="4" required placeholder="Provide a brief description of your content..."></textarea>
-                            </div>
-                            <div class="form-group">
-                                <label for="content-details">Full Content:</label>
-                                <textarea id="content-details" name="contentDetails" rows="6" placeholder="Share your full content here..."></textarea>
-                            </div>
-                            <div class="form-group">
-                                <label for="content-attachments">Supporting Materials (Optional):</label>
-                                <input type="file" id="content-attachments" name="contentAttachments" multiple accept=".pdf,.doc,.docx,.jpg,.jpeg,.png">
-                                <small class="file-info">Accepted formats: PDF, DOC, DOCX, JPG, PNG (Max 5MB each)</small>
-                            </div>
-                            <div class="form-actions">
-                                <button type="button" class="btn btn-outline" onclick="closeContentSubmissionModal()">Cancel</button>
-                                <button type="submit" class="btn btn-primary">Submit Content</button>
-                            </div>
-                        </form>
+                <div class="section-block">
+                    <h2>Issues Archive</h2>
+                    <div class="archive-placeholder">
+                        <p>August Newsletter coming soon. Subscribe above to be the first to receive it.</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Back to Top Button -->
     <button id="back-to-top" class="back-to-top" aria-label="Back to top">
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <polyline points="18 15 12 9 6 15"></polyline>
         </svg>
     </button>
 
-    <!-- Footer -->
     <footer class="footer">
         <div class="container">
             <div class="footer-content">
                 <div class="footer-brand">
                     <img src="calogo (1).png" alt="Cardily" class="logo-footer">
-                    <p>Bridging the gap between youth and cardiology</p>
+                    <p>Advancing cardiovascular health through education, research, and community</p>
                 </div>
                 <div class="footer-links">
                     <div class="footer-column">
-                        <h4>Resources</h4>
+                        <h4>Explore</h4>
                         <ul>
-                            <li><a href="/#what-we-do">Programs Directory</a></li>
-                            <li><a href="/projects">Student Projects</a></li>
-                            <li><a href="/newsletters">Newsletter</a></li>
+                            <li><a href="insights.html">Insights</a></li>
+                            <li><a href="research.html">Research</a></li>
+                            <li><a href="projects.html">Projects</a></li>
+                            <li><a href="newsletters.html">Newsletter</a></li>
                         </ul>
                     </div>
                     <div class="footer-column">
                         <h4>Get Involved</h4>
                         <ul>
-                            <li><a href="/get-involved">For Students</a></li>
-                            <li><a href="/get-involved">Internship Program</a></li>
-                            <li><a href="/get-involved">Partnerships</a></li>
+                            <li><a href="get-involved.html">Opportunities</a></li>
+                            <li><a href="contact.html?type=partnership">Partnerships</a></li>
+                            <li><a href="contact.html?type=general">Contact</a></li>
                         </ul>
                     </div>
                     <div class="footer-column">
                         <h4>About</h4>
                         <ul>
-                            <li><a href="/#about">Our Mission</a></li>
-                            <li><a href="/#vision">Our Vision</a></li>
-                            <li><a href="/#what-we-do">What We Do</a></li>
+                            <li><a href="about.html">About Cardily</a></li>
+                            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                            <li><a href="terms-of-service.html">Terms of Service</a></li>
+                            <li><a href="medical-disclaimer.html">Medical Disclaimer</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2025 Cardily. All rights reserved. | <a href="privacy-policy.html">Privacy Policy</a> | <a href="terms-of-service.html">Terms of Service</a><br>
-                   Equal Opportunity Employer • GDPR Compliant • Accessibility Standards Met
-                </p>
+                <p>&copy; 2025 Cardily. All rights reserved. | <a href="privacy-policy.html">Privacy Policy</a> | <a href="terms-of-service.html">Terms of Service</a></p>
+                <p class="footer-disclaimer">Cardily content is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional for medical concerns. | <a href="medical-disclaimer.html">Medical Disclaimer</a></p>
             </div>
         </div>
     </footer>
@@ -285,4 +163,3 @@
     <script src="script.js"></script>
 </body>
 </html>
-

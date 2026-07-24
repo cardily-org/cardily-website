@@ -1,16 +1,11 @@
-// Ensure page starts at the top and stays there - prevent any auto-scrolling
+// Ensure page starts at the top unless navigating to an on-page section
 (function() {
-    // Immediately set scroll position before anything else
-    if (window.scrollY > 0) {
-        window.scrollTo(0, 0);
-    }
-    document.documentElement.scrollTop = 0;
-    document.body.scrollTop = 0;
-    
-    // Prevent hash from scrolling on page load
     const hash = window.location.hash;
-    if (hash) {
-        window.location.hash = '';
+    const hasSectionTarget = hash && /^#[\w-]+$/.test(hash);
+    if (!hasSectionTarget && window.scrollY > 0) {
+        window.scrollTo(0, 0);
+        document.documentElement.scrollTop = 0;
+        document.body.scrollTop = 0;
     }
 })();
 
@@ -26,29 +21,32 @@ window.addEventListener('load', () => {
             }, 300);
         }, 150);
     }
-    
-    window.scrollTo(0, 0);
-    document.documentElement.scrollTop = 0;
-    document.body.scrollTop = 0;
+
+    const hash = window.location.hash;
+    const sectionTarget = hash && document.querySelector(hash);
+    if (sectionTarget) {
+        const offsetTop = sectionTarget.offsetTop - 80;
+        window.scrollTo({ top: offsetTop, behavior: 'auto' });
+    } else if (!hash) {
+        window.scrollTo(0, 0);
+        document.documentElement.scrollTop = 0;
+        document.body.scrollTop = 0;
+    }
 });
 
 document.addEventListener('DOMContentLoaded', () => {
-    // Force immediate scroll to top
-    window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
-    document.documentElement.scrollTop = 0;
-    document.body.scrollTop = 0;
-    
-    // Only allow hash scrolling if it's from a user click, not initial load
     const hash = window.location.hash;
-    if (hash) {
-        // Remove hash temporarily to prevent auto-scroll
-        history.replaceState(null, null, ' ');
-        // Restore hash after a delay if needed for navigation
+    const sectionTarget = hash && document.querySelector(hash);
+
+    if (sectionTarget) {
         setTimeout(() => {
-            if (hash) {
-                history.replaceState(null, null, hash);
-            }
-        }, 100);
+            const offsetTop = sectionTarget.offsetTop - 80;
+            window.scrollTo({ top: offsetTop, behavior: 'auto' });
+        }, 150);
+    } else {
+        window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+        document.documentElement.scrollTop = 0;
+        document.body.scrollTop = 0;
     }
     
     // Accessibility enhancements
@@ -59,19 +57,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const navLinks = document.querySelectorAll('.nav-menu a');
     
     navLinks.forEach(link => {
-        const linkPage = link.getAttribute('href').split('#')[0];
-        if (linkPage === currentPage || (currentPage === '' && linkPage === 'index.html')) {
-            link.classList.add('active');
-        }
-        
-        // Also handle hash links on the same page
-        if (link.getAttribute('href').startsWith('#')) {
-            link.addEventListener('click', () => {
-                navLinks.forEach(l => l.classList.remove('active'));
-                if (currentPage === 'index.html' || currentPage === '') {
-                    link.classList.add('active');
-                }
-            });
+        const href = link.getAttribute('href') || '';
+        const linkPage = href.split('#')[0];
+        if (linkPage === currentPage || (currentPage === '' && linkPage === 'index.html') || (currentPage === 'index.html' && linkPage === '')) {
+            if (!link.closest('.nav-dropdown')) {
+                link.classList.add('active');
+            }
         }
     });
 });
@@ -98,10 +89,28 @@ if (mobileMenuToggle) {
     });
 }
 
-// Close mobile menu when clicking on a link
+// Mobile dropdown toggles
+document.querySelectorAll('.nav-item-dropdown > a').forEach(trigger => {
+    trigger.addEventListener('click', (e) => {
+        if (window.innerWidth <= 768) {
+            const parent = trigger.parentElement;
+            const hasDropdown = parent.querySelector('.nav-dropdown');
+            if (hasDropdown) {
+                e.preventDefault();
+                parent.classList.toggle('open');
+            }
+        }
+    });
+});
+
+// Close mobile menu when clicking on a link (not dropdown parents)
 const navLinks = document.querySelectorAll('.nav-menu a');
 navLinks.forEach(link => {
-    link.addEventListener('click', () => {
+    link.addEventListener('click', (e) => {
+        if (link.parentElement.classList.contains('nav-item-dropdown') && window.innerWidth <= 768) {
+            return;
+        }
+        if (!navMenu || !mobileMenuToggle) return;
         navMenu.classList.remove('active');
         const spans = mobileMenuToggle.querySelectorAll('span');
         spans[0].style.transform = 'none';
@@ -135,16 +144,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
-
-// Prevent automatic scrolling on page load
-if (window.location.hash) {
-    // Only scroll to hash if it's from a click, not initial page load
-    const hash = window.location.hash;
-    window.location.hash = '';
-    setTimeout(() => {
-        window.location.hash = hash;
-    }, 100);
-}
 
 // Add scroll animation to elements
 const observerOptions = {
@@ -505,7 +504,7 @@ Compliance verified: Yes
 `;
         
         // Create mailto link
-        const mailtoLink = `mailto:support@cardily.org?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+        const mailtoLink = `mailto:cardily.org@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
         
         // Show success message
         showSuccessMessage(data.position);
@@ -783,9 +782,62 @@ if (document.readyState === 'loading') {
     initCookieConsent();
 }
 
+// Contact form — inquiry type from URL + mailto routing
+const CARDILY_CONTACT_EMAIL = 'cardily.org@gmail.com';
+
+document.addEventListener('DOMContentLoaded', function() {
+    const contactForm = document.getElementById('contact-form');
+    const inquirySelect = document.getElementById('inquiry-type');
+
+    if (inquirySelect) {
+        const params = new URLSearchParams(window.location.search);
+        const typeMap = {
+            research: 'Research Collaboration',
+            partnership: 'Partnership',
+            submission: 'Article Submission',
+            general: 'General Inquiry'
+        };
+        const typeParam = params.get('type');
+        if (typeParam && typeMap[typeParam]) {
+            inquirySelect.value = typeMap[typeParam];
+        }
+    }
+
+    if (contactForm) {
+        contactForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+            const name = document.getElementById('contact-name').value.trim();
+            const email = document.getElementById('contact-email').value.trim();
+            const inquiryType = document.getElementById('inquiry-type').value;
+            const message = document.getElementById('contact-message').value.trim();
+
+            const subject = encodeURIComponent(`Cardily Contact: ${inquiryType} — ${name}`);
+            const body = encodeURIComponent(
+                `Inquiry Type: ${inquiryType}\n\nName: ${name}\nEmail: ${email}\n\nMessage:\n${message}`
+            );
+            window.location.href = `mailto:${CARDILY_CONTACT_EMAIL}?subject=${subject}&body=${body}`;
+            showNotification('Thank you! Please send the email that opened to complete your inquiry.', 'success');
+            contactForm.reset();
+            if (inquirySelect && new URLSearchParams(window.location.search).get('type')) {
+                const params = new URLSearchParams(window.location.search);
+                const typeMap = {
+                    research: 'Research Collaboration',
+                    partnership: 'Partnership',
+                    submission: 'Article Submission',
+                    general: 'General Inquiry'
+                };
+                const typeParam = params.get('type');
+                if (typeParam && typeMap[typeParam]) {
+                    inquirySelect.value = typeMap[typeParam];
+                }
+            }
+        });
+    }
+});
+
 // Newsletter Functionality
 document.addEventListener('DOMContentLoaded', function() {
-    // Newsletter subscription form
+    // Newsletter subscription form (placeholder until Beehiiv embed is added)
     const newsletterForm = document.getElementById('newsletter-subscribe-form');
     if (newsletterForm) {
         newsletterForm.addEventListener('submit', function(e) {
@@ -935,7 +987,7 @@ function openProjectLearnMoreModal(projectName) {
             }
         }, 100);
     } else {
-        alert(`To learn more about ${projectName}, please contact us at support@cardily.org`);
+        alert(`To learn more about ${projectName}, please contact us at cardily.org@gmail.com`);
     }
 }
 
@@ -992,7 +1044,7 @@ function openProjectProposalModal() {
             }
         }, 100);
     } else {
-        alert('To submit your project proposal, please contact us at support@cardily.org');
+        alert('To submit your project proposal, please contact us at cardily.org@gmail.com');
     }
 }
 
@@ -1048,7 +1100,7 @@ document.addEventListener('DOMContentLoaded', function() {
             if (questions) emailBody += `Questions:\n${questions}\n\n`;
             emailBody += `Thank you for your time. I look forward to hearing from you.\n\nBest regards,\n${name}`;
             
-            const mailtoLink = `mailto:support@cardily.org?subject=${subject}&body=${encodeURIComponent(emailBody)}`;
+            const mailtoLink = `mailto:cardily.org@gmail.com?subject=${subject}&body=${encodeURIComponent(emailBody)}`;
             
             // Open email client
             window.location.href = mailtoLink;
@@ -1092,7 +1144,7 @@ document.addEventListener('DOMContentLoaded', function() {
             if (resources) emailBody += `Resources Needed:\n${resources}\n\n`;
             emailBody += `I would appreciate the opportunity to discuss this proposal further.\n\nBest regards,\n${name}`;
             
-            const mailtoLink = `mailto:support@cardily.org?subject=${subject}&body=${encodeURIComponent(emailBody)}`;
+            const mailtoLink = `mailto:cardily.org@gmail.com?subject=${subject}&body=${encodeURIComponent(emailBody)}`;
             
             // Open email client
             window.location.href = mailtoLink;

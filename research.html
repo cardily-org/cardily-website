@@ -3,25 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
     <title>Research - Cardily</title>
+    <meta name="title" content="Research - Cardily">
+    <meta name="description" content="Cardily develops and publishes original cardiovascular research, from data analysis to literature reviews.">
+    
+    <link rel="icon" type="image/png" href="calogo (1).png">
     <link rel="stylesheet" href="styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
-    <!-- Navigation -->
+    <div class="page-loader">
+        <div class="loader-content">
+            <div class="loader-spinner"></div>
+        </div>
+    </div>
+
     <nav class="navbar">
         <div class="container">
             <div class="nav-brand">
-                <a href="/"><img src="calogo (1).png" alt="Cardily" class="logo"></a>
+                <a href="index.html"><img src="calogo (1).png" alt="Cardily" class="logo"></a>
             </div>
             <ul class="nav-menu">
-                <li><a href="index.html#about">About</a></li>
-                <li><a href="projects.html">Projects</a></li>
-                <li><a href="newsletters.html">Newsletters</a></li>
-                <li><a href="research.html" class="active">Research</a></li>
+                <li><a href="index.html">Home</a></li>
+                <li class="nav-item-dropdown">
+                    <a href="insights.html">Insights</a>
+                    <ul class="nav-dropdown">
+                        <li><a href="insights.html">Diseases and Conditions</a></li>
+                        <li><a href="insights.html">Prevention and Lifestyle</a></li>
+                        <li><a href="insights.html">Research and Innovation</a></li>
+                        <li><a href="insights.html">Data and Statistics</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item-dropdown">
+                    <a href="research.html" class="active">Research</a>
+                    <ul class="nav-dropdown">
+                        <li><a href="research.html#opportunities">Research Opportunities</a></li>
+                        <li><a href="research.html#current">Current Research</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item-dropdown">
+                    <a href="projects.html">Projects</a>
+                    <ul class="nav-dropdown">
+                        <li><a href="projects.html#current">Current Projects</a></li>
+                        <li><a href="projects.html#upcoming">Upcoming Projects</a></li>
+                    </ul>
+                </li>
+                <li><a href="newsletters.html">Newsletter</a></li>
                 <li><a href="get-involved.html">Get Involved</a></li>
+                <li><a href="about.html">About</a></li>
             </ul>
             <button class="mobile-menu-toggle" aria-label="Toggle menu">
                 <span></span>
@@ -31,15 +64,14 @@
         </div>
     </nav>
 
-    <!-- Page Content -->
     <section class="page-hero">
         <div class="container">
             <div class="page-content">
-                <h1>Research Opportunities</h1>
+                <h1>Research</h1>
                 <p>
-                    Discover cardiology research opportunities, summer programs, and internships designed for students 
-                    interested in cardiovascular science. Our comprehensive directory helps you find the right research 
-                    experience to advance your understanding of cardiology.
+                    Cardily is committed to developing and publishing original cardiovascular
+                    research. From data analysis to literature reviews, our research initiatives aim to surface meaningful insights
+                    that advance cardiovascular health knowledge.
                 </p>
             </div>
         </div>
@@ -48,103 +80,79 @@
     <section class="page-section">
         <div class="container">
             <div class="page-content">
-                <h2>Research Programs</h2>
-                <p>
-                    Explore curated research opportunities in cardiology, from summer programs to year-round 
-                    internships and research positions.
-                </p>
-
-                <div class="research-grid">
-                    <div class="research-card">
-                        <h3>Summer Research Programs</h3>
-                        <p>
-                            Intensive summer research experiences at leading institutions, offering hands-on 
-                            experience in cardiovascular research and mentorship from established researchers.
-                        </p>
-                        <a href="#">Explore Programs →</a>
-                    </div>
-
-                    <div class="research-card">
-                        <h3>Undergraduate Research Positions</h3>
-                        <p>
-                            Year-round research opportunities for undergraduate students interested in contributing 
-                            to cardiology research projects and gaining valuable laboratory experience.
-                        </p>
-                        <a href="#">Explore Positions →</a>
-                    </div>
-
-                    <div class="research-card">
-                        <h3>High School Research Initiatives</h3>
-                        <p>
-                            Early research opportunities designed for high school students, providing exposure to 
-                            cardiology research and pathways into cardiovascular science.
-                        </p>
-                        <a href="#">Explore Initiatives →</a>
-                    </div>
-
-                    <div class="research-card">
-                        <h3>Virtual Research Opportunities</h3>
-                        <p>
-                            Remote research positions and projects that allow students to contribute to cardiology 
-                            research from anywhere, making research more accessible.
-                        </p>
-                        <a href="#">Explore Opportunities →</a>
-                    </div>
-
-                    <div class="research-card">
-                        <h3>Clinical Research Programs</h3>
-                        <p>
-                            Non-clinical research positions focused on data analysis, literature review, and 
-                            research organization in cardiology settings.
-                        </p>
-                        <a href="#">Explore Programs →</a>
-                    </div>
-
-                    <div class="research-card">
-                        <h3>Mentorship Programs</h3>
-                        <p>
-                            Structured mentorship opportunities connecting students with cardiology researchers 
-                            and physicians for guidance and research collaboration.
-                        </p>
-                        <a href="#">Explore Programs →</a>
-                    </div>
+                <div id="opportunities" class="section-block">
+                    <h2>Research Opportunities</h2>
+                    <p>
+                        Cardily is actively seeking research collaborators including students, researchers, and medical professionals
+                        interested in contributing to original cardiovascular research initiatives. If you are interested in partnering
+                        with us, reach out.
+                    </p>
+                    <p>
+                        <a href="contact.html?type=research" class="btn btn-primary">Contact Us</a>
+                    </p>
                 </div>
 
-                <h2>Research Resources</h2>
-                <p>
-                    Access tools and resources to help you navigate research opportunities, prepare applications, 
-                    and make the most of your research experience in cardiology.
-                </p>
-                <ul>
-                    <li>Application guides and tips for research positions</li>
-                    <li>Directory of cardiology research institutions</li>
-                    <li>Resources for understanding research methodologies</li>
-                    <li>Networking opportunities with researchers and students</li>
-                    <li>Updates on new research opportunities and deadlines</li>
-                </ul>
-
-                <h2>Get Started</h2>
-                <p>
-                    Ready to explore research opportunities in cardiology? Browse our comprehensive directory 
-                    or get in touch for personalized guidance on finding the right research experience.
-                </p>
-                <p>
-                    <a href="/get-involved" class="btn btn-primary">Explore Directory</a>
-                    <a href="/get-involved" class="btn btn-outline">Get Guidance</a>
-                </p>
+                <div id="current" class="section-block">
+                    <h2>Current Research</h2>
+                    <div class="research-card" style="max-width: 100%;">
+                        <h3>Cardiovascular Risk Factors in Adolescents and Young Adults</h3>
+                        <p>
+                            Cardily is currently conducting research on cardiovascular risk factors in adolescents and young adults. This
+                            initiative examines the prevalence, trends, and determinants of cardiovascular risk in younger populations,
+                            with findings to be published on cardily.org.
+                        </p>
+                        <p class="research-status"><span class="status-badge active">Active</span></p>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
 
-    <!-- Footer -->
+    <button id="back-to-top" class="back-to-top" aria-label="Back to top">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+    </button>
+
     <footer class="footer">
         <div class="container">
-
-
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <img src="calogo (1).png" alt="Cardily" class="logo-footer">
+                    <p>Advancing cardiovascular health through education, research, and community</p>
+                </div>
+                <div class="footer-links">
+                    <div class="footer-column">
+                        <h4>Explore</h4>
+                        <ul>
+                            <li><a href="insights.html">Insights</a></li>
+                            <li><a href="research.html">Research</a></li>
+                            <li><a href="projects.html">Projects</a></li>
+                            <li><a href="newsletters.html">Newsletter</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-column">
+                        <h4>Get Involved</h4>
+                        <ul>
+                            <li><a href="get-involved.html">Opportunities</a></li>
+                            <li><a href="contact.html?type=partnership">Partnerships</a></li>
+                            <li><a href="contact.html?type=general">Contact</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-column">
+                        <h4>About</h4>
+                        <ul>
+                            <li><a href="about.html">About Cardily</a></li>
+                            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                            <li><a href="terms-of-service.html">Terms of Service</a></li>
+                            <li><a href="medical-disclaimer.html">Medical Disclaimer</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
             <div class="footer-bottom">
-                <p>&copy; 2025 Cardily. All rights reserved. | <a href="privacy-policy.html">Privacy Policy</a> | <a href="terms-of-service.html">Terms of Service</a><br>
-                   Equal Opportunity Employer • GDPR Compliant • Accessibility Standards Met
-                </p>
+                <p>&copy; 2025 Cardily. All rights reserved. | <a href="privacy-policy.html">Privacy Policy</a> | <a href="terms-of-service.html">Terms of Service</a></p>
+                <p class="footer-disclaimer">Cardily content is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional for medical concerns. | <a href="medical-disclaimer.html">Medical Disclaimer</a></p>
             </div>
         </div>
     </footer>
@@ -152,4 +160,3 @@
     <script src="script.js"></script>
 </body>
 </html>
-

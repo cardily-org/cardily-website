@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
-    <title>Projects - Cardily</title>
-    <meta name="title" content="Projects - Cardily">
-    <meta name="description" content="Cardily develops cardiovascular health projects spanning education, community outreach, data research, and digital initiatives.">
+    <title>Contact - Cardily</title>
+    <meta name="title" content="Contact - Cardily">
+    <meta name="description" content="Get in touch with Cardily about research collaboration, partnerships, article submissions, or general inquiries.">
     
     <link rel="icon" type="image/png" href="calogo (1).png">
     <link rel="stylesheet" href="styles.css">
@@ -46,7 +46,7 @@
                     </ul>
                 </li>
                 <li class="nav-item-dropdown">
-                    <a href="projects.html" class="active">Projects</a>
+                    <a href="projects.html">Projects</a>
                     <ul class="nav-dropdown">
                         <li><a href="projects.html#current">Current Projects</a></li>
                         <li><a href="projects.html#upcoming">Upcoming Projects</a></li>
@@ -67,11 +67,9 @@
     <section class="page-hero">
         <div class="container">
             <div class="page-content">
-                <h1>Projects</h1>
+                <h1>Contact</h1>
                 <p>
-                    Cardily is actively developing cardiovascular health projects spanning
-                    education, community outreach, data research, and digital initiatives. Our projects aim to create measurable
-                    impact in cardiovascular health awareness and advancement.
+                    Reach out to Cardily about research collaboration, partnerships, article submissions, or general inquiries.
                 </p>
             </div>
         </div>
@@ -79,25 +77,34 @@
 
     <section class="page-section">
         <div class="container">
-            <div class="page-content">
-                <div id="current" class="section-block">
-                    <h2>Current Projects</h2>
-                    <p>
-                        Cardily is currently developing its first wave of cardiovascular health initiatives. Check back here for updates
-                        as projects launch and progress.
-                    </p>
-                </div>
-
-                <div id="upcoming" class="section-block">
-                    <h2>Upcoming Projects</h2>
-                    <p>
-                        We are planning a range of projects across cardiovascular education, community outreach, and data
-                        research. If you have an idea or want to collaborate on a project, reach out.
-                    </p>
-                    <p>
-                        <a href="get-involved.html" class="btn btn-primary">Get Involved</a>
-                    </p>
-                </div>
+            <div class="contact-form-wrapper">
+                <form id="contact-form" class="contact-form">
+                    <div class="form-group">
+                        <label for="contact-name">Name</label>
+                        <input type="text" id="contact-name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="contact-email">Email</label>
+                        <input type="email" id="contact-email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="inquiry-type">What is your inquiry about?</label>
+                        <select id="inquiry-type" name="inquiryType" required>
+                            <option value="">Select an option...</option>
+                            <option value="Research Collaboration">Research Collaboration</option>
+                            <option value="Partnership">Partnership</option>
+                            <option value="Article Submission">Article Submission</option>
+                            <option value="General Inquiry">General Inquiry</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="contact-message">Message</label>
+                        <textarea id="contact-message" name="message" rows="6" required></textarea>
+                    </div>
+                    <div class="form-actions">
+                        <button type="submit" class="btn btn-primary btn-lg">Send Message</button>
+                    </div>
+                </form>
             </div>
         </div>
     </section>

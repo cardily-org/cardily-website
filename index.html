@@ -6,25 +6,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
     <!-- Primary Meta Tags -->
-    <title>Cardily - Bridging the Gap Between Youth and Cardiology</title>
-    <meta name="title" content="Cardily - Bridging the Gap Between Youth and Cardiology">
-    <meta name="description" content="A fully digital nonprofit dedicated to making cardiology accessible to the next generation through innovation, clarity, and opportunity. Explore opportunities, projects, and resources.">
-    <meta name="keywords" content="cardiology, student programs, medical education, cardiology opportunities, heart science, youth cardiology, medical research">
+    <title>Cardily - Advancing Cardiovascular Health Through Education, Research, and Community</title>
+    <meta name="title" content="Cardily - Advancing Cardiovascular Health Through Education, Research, and Community">
+    <meta name="description" content="Cardily is a fully digital nonprofit dedicated to advancing cardiovascular health through evidence-based content, original research, community outreach, and global education.">
+    <meta name="keywords" content="cardiovascular health, cardiology, heart health, cardiovascular research, medical education, heart disease education">
     <meta name="author" content="Cardily">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://cardily.org/">
-    <meta property="og:title" content="Cardily - Bridging the Gap Between Youth and Cardiology">
-    <meta property="og:description" content="A fully digital nonprofit dedicated to making cardiology accessible to the next generation. Explore opportunities, projects, and resources.">
+    <meta property="og:title" content="Cardily - Advancing Cardiovascular Health Through Education, Research, and Community">
+    <meta property="og:description" content="Cardily is a fully digital nonprofit dedicated to advancing cardiovascular health through evidence-based content, original research, community outreach, and global education.">
     <meta property="og:image" content="https://cardily.org/calogo (1).png">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://cardily.org/">
-    <meta property="twitter:title" content="Cardily - Bridging the Gap Between Youth and Cardiology">
-    <meta property="twitter:description" content="A fully digital nonprofit dedicated to making cardiology accessible to the next generation.">
+    <meta property="twitter:title" content="Cardily - Advancing Cardiovascular Health Through Education, Research, and Community">
+    <meta property="twitter:description" content="Cardily is a fully digital nonprofit dedicated to advancing cardiovascular health through evidence-based content, original research, community outreach, and global education.">
     <meta property="twitter:image" content="https://cardily.org/calogo (1).png">
     
     <!-- Favicon -->
@@ -44,7 +44,7 @@
       "@context": "https://schema.org",
       "@type": "Organization",
       "name": "Cardily",
-      "description": "A fully digital nonprofit dedicated to making cardiology accessible to the next generation.",
+      "description": "A fully digital nonprofit dedicated to advancing cardiovascular health through evidence-based content, original research, community outreach, and global education.",
       "url": "https://cardily.org",
       "logo": "https://cardily.org/calogo (1).png",
       "sameAs": []
@@ -63,14 +63,36 @@
     <nav class="navbar">
         <div class="container">
             <div class="nav-brand">
-                <a href="/"><img src="calogo (1).png" alt="Cardily" class="logo"></a>
+                <a href="index.html"><img src="calogo (1).png" alt="Cardily" class="logo"></a>
             </div>
             <ul class="nav-menu">
-                <li><a href="index.html#about">About</a></li>
-                <li><a href="projects.html">Projects</a></li>
-                <li><a href="newsletters.html">Newsletters</a></li>
-                <li><a href="research.html">Research</a></li>
+                <li><a href="index.html" class="active">Home</a></li>
+                <li class="nav-item-dropdown">
+                    <a href="insights.html">Insights</a>
+                    <ul class="nav-dropdown">
+                        <li><a href="insights.html">Diseases and Conditions</a></li>
+                        <li><a href="insights.html">Prevention and Lifestyle</a></li>
+                        <li><a href="insights.html">Research and Innovation</a></li>
+                        <li><a href="insights.html">Data and Statistics</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item-dropdown">
+                    <a href="research.html">Research</a>
+                    <ul class="nav-dropdown">
+                        <li><a href="research.html#opportunities">Research Opportunities</a></li>
+                        <li><a href="research.html#current">Current Research</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item-dropdown">
+                    <a href="projects.html">Projects</a>
+                    <ul class="nav-dropdown">
+                        <li><a href="projects.html#current">Current Projects</a></li>
+                        <li><a href="projects.html#upcoming">Upcoming Projects</a></li>
+                    </ul>
+                </li>
+                <li><a href="newsletters.html">Newsletter</a></li>
                 <li><a href="get-involved.html">Get Involved</a></li>
+                <li><a href="about.html">About</a></li>
             </ul>
             <button class="mobile-menu-toggle" aria-label="Toggle menu">
                 <span></span>
@@ -86,13 +108,13 @@
             <div class="hero-wrapper">
                 <div class="hero-content">
                     <h1 class="hero-title">Cardily</h1>
-                    <p class="hero-subtitle">Making cardiology more accessible to the next generation</p>
+                    <p class="hero-subtitle">Advancing Cardiovascular Health Through Education, Research, and Community</p>
                     <p class="hero-description">
-                        A fully digital nonprofit dedicated to bridging the gap between youth and cardiology 
-                        through innovation, clarity, and opportunity.
+                        Cardily is a fully digital nonprofit dedicated to advancing cardiovascular health through
+                        evidence-based content, original research, community outreach, and global education.
                     </p>
                     <div class="hero-buttons">
-                        <a href="#what-we-do" class="btn btn-primary">Explore Opportunities</a>
+                        <a href="insights.html" class="btn btn-primary">Explore Insights</a>
                         <a href="get-involved.html" class="btn btn-secondary">Get Involved</a>
                     </div>
                 </div>
@@ -103,25 +125,49 @@
         </div>
     </section>
 
-    <!-- Impact Stats Section -->
+    <!-- Stat Banner -->
     <section class="stats-section">
         <div class="container">
-            <div class="stats-grid">
-                <div class="stat-item">
-                    <div class="stat-number" data-target="1000">0</div>
-                    <div class="stat-label">Students Connected</div>
+            <div class="stat-banner">
+                <p class="stat-banner-text">
+                    Cardiovascular disease claims 17.9 million lives per year, making it the leading cause of death worldwide.
+                    Cardily exists to change that through education, research, outreach, and awareness.
+                </p>
+                <p class="stat-banner-source">Source: World Health Organization</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- What We Do Section -->
+    <section id="what-we-do" class="what-we-do">
+        <div class="container">
+            <div class="section-header">
+                <h2>What We Do</h2>
+            </div>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <h3>Insights Publication</h3>
+                    <p>We publish evidence-based articles on cardiovascular health covering diseases and conditions, prevention, lifestyle, and the latest research and innovation.</p>
                 </div>
-                <div class="stat-item">
-                    <div class="stat-number" data-target="50">0</div>
-                    <div class="stat-label">Opportunities Listed</div>
+                <div class="feature-card">
+                    <h3>Cardiovascular Research</h3>
+                    <p>Cardily develops and publishes original cardiovascular data research, bringing meaningful analysis to topics that matter in heart health.</p>
                 </div>
-                <div class="stat-item">
-                    <div class="stat-number" data-target="20">0</div>
-                    <div class="stat-label">Active Projects</div>
+                <div class="feature-card">
+                    <h3>Community Outreach</h3>
+                    <p>We engage communities directly through awareness campaigns, cardiovascular health education initiatives, and partnerships with organizations that share our mission.</p>
                 </div>
-                <div class="stat-item">
-                    <div class="stat-number" data-target="15">0</div>
-                    <div class="stat-label">Partner Organizations</div>
+                <div class="feature-card">
+                    <h3>Scientific Publishing Internship</h3>
+                    <p>A structured program where contributors research, write, and publish cardiovascular health content under editorial guidance.</p>
+                </div>
+                <div class="feature-card">
+                    <h3>Professional Collaborations</h3>
+                    <p>Partnerships with physicians, researchers, and medical professionals serving in advisory and contributory roles.</p>
+                </div>
+                <div class="feature-card">
+                    <h3>Newsletter</h3>
+                    <p>A cardiovascular-focused newsletter published on cardily.org and delivered directly to your inbox, covering the latest insights, research, and Cardily news.</p>
                 </div>
             </div>
         </div>
@@ -133,67 +179,33 @@
             <div class="section-header">
                 <h2>Our Mission</h2>
                 <p class="mission-statement">
-                    To bridge the gap between youth and cardiology through innovation, clarity, and opportunity.
+                    To advance cardiovascular health through evidence-based education, original research, community
+                    outreach, and accessible content for everyone.
                 </p>
             </div>
             <div class="mission-content">
                 <p>
-                    Cardily is a fully digital nonprofit dedicated to making cardiology more accessible 
-                    to the next generation. We create a centralized platform where students can explore cardiology-related 
-                    opportunities, build meaningful projects, and connect with mentors in the field.
+                    Cardily is a fully digital nonprofit that publishes cardiovascular health insights, develops original research,
+                    engages communities through outreach, and creates opportunities for students and professionals to
+                    contribute to the field. We exist because cardiovascular disease remains the world's leading killer, and
+                    education and community action are among the most powerful tools we have against it.
                 </p>
                 <div class="mission-highlights">
                     <div class="highlight-box">
                         <div class="highlight-icon">Free</div>
-                        <h3>Fully Free</h3>
-                        <p>All resources and opportunities are completely free for students</p>
+                        <h3>Completely Free</h3>
+                        <p>All resources are completely free</p>
                     </div>
                     <div class="highlight-box">
-                        <div class="highlight-icon">Digital</div>
-                        <h3>Fully Digital</h3>
-                        <p>Access everything online, from anywhere in the world</p>
+                        <div class="highlight-icon">Global</div>
+                        <h3>Accessible Worldwide</h3>
+                        <p>Accessible from anywhere in the world</p>
                     </div>
                     <div class="highlight-box">
-                        <div class="highlight-icon">Non-Medical</div>
-                        <h3>Strictly Non-Medical</h3>
-                        <p>We do not provide medical advice or clinical education</p>
+                        <div class="highlight-icon">Open</div>
+                        <h3>For Everyone</h3>
+                        <p>For students, researchers, medical professionals, and communities alike</p>
                     </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- What We Do Section -->
-    <section id="what-we-do" class="what-we-do">
-        <div class="container">
-            <div class="section-header">
-                <h2>What We Do</h2>
-                <p>Through our work, we curate and maintain:</p>
-            </div>
-            <div class="features-grid">
-                <div class="feature-card">
-                    <h3>Comprehensive Directory</h3>
-                    <p>A centralized database of cardiology summer programs and research opportunities for students to explore and apply to.</p>
-                </div>
-                <div class="feature-card">
-                    <h3>Digital Student Projects</h3>
-                    <p>Platform for innovative initiatives including AED mapping, resource databases, and other impactful cardiology projects.</p>
-                </div>
-                <div class="feature-card">
-                    <h3>Monthly Newsletter</h3>
-                    <p>A cardiology-focused newsletter highlighting new pathways, tools, and student contributions in the field.</p>
-                </div>
-                <div class="feature-card">
-                    <h3>Internship Program</h3>
-                    <p>A structured program where students help research, organize, and build the platform while gaining valuable experience.</p>
-                </div>
-                <div class="feature-card">
-                    <h3>Professional Collaborations</h3>
-                    <p>Partnerships with physicians and researchers serving in non-clinical advisory roles to guide our initiatives.</p>
-                </div>
-                <div class="feature-card">
-                    <h3>Global Network</h3>
-                    <p>Connecting students worldwide who are passionate about heart science and its future.</p>
                 </div>
             </div>
         </div>
@@ -205,13 +217,10 @@
             <div class="vision-content">
                 <h2>Our Vision</h2>
                 <p class="vision-text">
-                    Our long-term vision is to become the leading youth cardiology platform: a place where students 
-                    can discover opportunities, launch impactful projects, and develop the confidence to pursue 
-                    careers in cardiovascular science, medicine, and innovation.
-                </p>
-                <p class="vision-text">
-                    Cardily exists to spark early interest, provide structure, and empower a global network of 
-                    young people passionate about heart science and its future.
+                    Cardily's long-term vision is to become a leading cardiovascular health platform where evidence-based
+                    content meets original research and real community impact. We aim to build a global network of
+                    contributors, from students to medical professionals to community advocates, united by a commitment to
+                    advancing heart health through knowledge, outreach, and innovation.
                 </p>
             </div>
         </div>
@@ -221,11 +230,13 @@
     <section class="cta-section">
         <div class="container">
             <div class="cta-content">
-                <h2>Ready to Start Your Journey?</h2>
-                <p>Join thousands of students already exploring opportunities in cardiology. Whether you're interested in research, education, or innovation, Cardily has resources for you.</p>
+                <h2>Ready to Make an Impact?</h2>
+                <p>Whether you are a student, researcher, writer, medical professional, or community advocate, there is a
+                    place for you at Cardily. Explore our latest insights, contribute to our research, join our publishing team, or
+                    partner with us on outreach initiatives.</p>
                 <div class="cta-buttons">
-                    <a href="/get-involved" class="btn btn-primary btn-lg">Get Involved Today</a>
-                    <a href="/projects" class="btn btn-outline btn-lg">Explore Projects</a>
+                    <a href="insights.html" class="btn btn-primary btn-lg">Explore Insights</a>
+                    <a href="get-involved.html" class="btn btn-outline btn-lg">Get Involved</a>
                 </div>
             </div>
         </div>
@@ -244,39 +255,40 @@
             <div class="footer-content">
                 <div class="footer-brand">
                     <img src="calogo (1).png" alt="Cardily" class="logo-footer">
-                    <p>Bridging the gap between youth and cardiology</p>
+                    <p>Advancing cardiovascular health through education, research, and community</p>
                 </div>
                 <div class="footer-links">
                     <div class="footer-column">
-                        <h4>Resources</h4>
+                        <h4>Explore</h4>
                         <ul>
-                            <li><a href="/#what-we-do">Programs Directory</a></li>
-                            <li><a href="/projects">Student Projects</a></li>
-                            <li><a href="/newsletters">Newsletter</a></li>
+                            <li><a href="insights.html">Insights</a></li>
+                            <li><a href="research.html">Research</a></li>
+                            <li><a href="projects.html">Projects</a></li>
+                            <li><a href="newsletters.html">Newsletter</a></li>
                         </ul>
                     </div>
                     <div class="footer-column">
                         <h4>Get Involved</h4>
                         <ul>
-                            <li><a href="/careers?search=internship">For Students</a></li>
-                            <li><a href="/careers">Careers</a></li>
-                            <li><a href="/get-involved">Partnerships</a></li>
+                            <li><a href="get-involved.html">Opportunities</a></li>
+                            <li><a href="contact.html?type=partnership">Partnerships</a></li>
+                            <li><a href="contact.html?type=general">Contact</a></li>
                         </ul>
                     </div>
                     <div class="footer-column">
                         <h4>About</h4>
                         <ul>
-                            <li><a href="/#about">Our Mission</a></li>
-                            <li><a href="/#vision">Our Vision</a></li>
-                            <li><a href="/#what-we-do">What We Do</a></li>
+                            <li><a href="about.html">About Cardily</a></li>
+                            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                            <li><a href="terms-of-service.html">Terms of Service</a></li>
+                            <li><a href="medical-disclaimer.html">Medical Disclaimer</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2025 Cardily. All rights reserved. | <a href="privacy-policy.html">Privacy Policy</a> | <a href="terms-of-service.html">Terms of Service</a><br>
-                   Equal Opportunity Employer • GDPR Compliant • Accessibility Standards Met
-                </p>
+                <p>&copy; 2025 Cardily. All rights reserved. | <a href="privacy-policy.html">Privacy Policy</a> | <a href="terms-of-service.html">Terms of Service</a></p>
+                <p class="footer-disclaimer">Cardily content is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional for medical concerns. | <a href="medical-disclaimer.html">Medical Disclaimer</a></p>
             </div>
         </div>
     </footer>
@@ -284,4 +296,3 @@
     <script src="script.js"></script>
 </body>
 </html>
-
