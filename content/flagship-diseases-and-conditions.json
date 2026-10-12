@@ -1,0 +1,797 @@
+[
+  {
+    "slug": "understanding-heart-failure-with-reduced-ejection-fraction-a-clear-educational-g",
+    "title": "Understanding Heart Failure with Reduced Ejection Fraction: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of heart failure with reduced ejection fraction, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "HFrEF",
+      "remodeling",
+      "pump"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "remodeling cascade in plain language",
+    "outline": [
+      "Core definition",
+      "Pathophysiology in plain language",
+      "Symptoms and warning patterns",
+      "Tests you will hear about",
+      "Learning checkpoints"
+    ]
+  },
+  {
+    "slug": "understanding-heart-failure-with-preserved-ejection-fraction-a-clear-educational",
+    "title": "Understanding Heart Failure with Preserved Ejection Fraction: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of heart failure with preserved ejection fraction, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "HFpEF",
+      "diastolic",
+      "stiff"
+    ],
+    "audience": "both",
+    "difficulty": "advanced",
+    "angle": "why EF normal does not mean normal heart",
+    "outline": [
+      "Why this diagnosis matters",
+      "Mechanisms and natural history",
+      "Differential thinking",
+      "Treatment categories at a high level",
+      "How to keep learning responsibly"
+    ]
+  },
+  {
+    "slug": "understanding-coronary-artery-disease-a-clear-educational-guide",
+    "title": "Understanding Coronary Artery Disease: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of coronary artery disease, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "atherosclerosis",
+      "ischemia",
+      "plaque"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "how supply-demand mismatch develops",
+    "outline": [
+      "What this condition is",
+      "How the heart and vessels are affected",
+      "How clinicians usually evaluate it",
+      "What students should master first",
+      "Questions for clinical conversations"
+    ]
+  },
+  {
+    "slug": "understanding-stemi-myocardial-infarction-a-clear-educational-guide",
+    "title": "Understanding STEMI Myocardial Infarction: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of stemi myocardial infarction, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "ST elevation",
+      "occlusion",
+      "heart attack"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "what ECG patterns represent conceptually",
+    "outline": [
+      "What this condition is",
+      "How the heart and vessels are affected",
+      "How clinicians usually evaluate it",
+      "What students should master first",
+      "Questions for clinical conversations"
+    ]
+  },
+  {
+    "slug": "understanding-spontaneous-coronary-artery-dissection-a-clear-educational-guide",
+    "title": "Understanding Spontaneous Coronary Artery Dissection: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of spontaneous coronary artery dissection, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "SCAD",
+      "pregnancy",
+      "fibromuscular"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "who is classically affected and why",
+    "outline": [
+      "What this condition is",
+      "How the heart and vessels are affected",
+      "How clinicians usually evaluate it",
+      "What students should master first",
+      "Questions for clinical conversations"
+    ]
+  },
+  {
+    "slug": "understanding-acute-decompensated-heart-failure-a-clear-educational-guide",
+    "title": "Understanding Acute Decompensated Heart Failure: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of acute decompensated heart failure, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "congestion",
+      "edema",
+      "dyspnea"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "congestion phenotypes students should recognize",
+    "outline": [
+      "What this condition is",
+      "How the heart and vessels are affected",
+      "How clinicians usually evaluate it",
+      "What students should master first",
+      "Questions for clinical conversations"
+    ]
+  },
+  {
+    "slug": "understanding-aortic-stenosis-a-clear-educational-guide",
+    "title": "Understanding Aortic Stenosis: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of aortic stenosis, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "valve narrowing",
+      "syncope",
+      "angina"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "pressure overload pathophysiology",
+    "outline": [
+      "What this condition is",
+      "How the heart and vessels are affected",
+      "How clinicians usually evaluate it",
+      "What students should master first",
+      "Questions for clinical conversations"
+    ]
+  },
+  {
+    "slug": "understanding-atrial-fibrillation-a-clear-educational-guide",
+    "title": "Understanding Atrial Fibrillation: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of atrial fibrillation, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "irregular",
+      "atrium",
+      "stroke risk"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "rate, rhythm, and thromboembolism concepts",
+    "outline": [
+      "What this condition is",
+      "How the heart and vessels are affected",
+      "How clinicians usually evaluate it",
+      "What students should master first",
+      "Questions for clinical conversations"
+    ]
+  },
+  {
+    "slug": "understanding-ischemic-stroke-a-clear-educational-guide",
+    "title": "Understanding Ischemic Stroke: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of ischemic stroke, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "cerebral infarct",
+      "embolic"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "cardioembolic pathways overview",
+    "outline": [
+      "What this condition is",
+      "How the heart and vessels are affected",
+      "How clinicians usually evaluate it",
+      "What students should master first",
+      "Questions for clinical conversations"
+    ]
+  },
+  {
+    "slug": "understanding-masked-hypertension-a-clear-educational-guide",
+    "title": "Understanding Masked Hypertension: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of masked hypertension, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "home high",
+      "office normal"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "hidden elevation concept",
+    "outline": [
+      "What this condition is",
+      "How the heart and vessels are affected",
+      "How clinicians usually evaluate it",
+      "What students should master first",
+      "Questions for clinical conversations"
+    ]
+  },
+  {
+    "slug": "understanding-coronary-calcium-scoring-a-clear-educational-guide",
+    "title": "Understanding Coronary Calcium Scoring: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of coronary calcium scoring, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "Agatston",
+      "plaque burden"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "risk stratification imaging education",
+    "outline": [
+      "What this condition is",
+      "How the heart and vessels are affected",
+      "How clinicians usually evaluate it",
+      "What students should master first",
+      "Questions for clinical conversations"
+    ]
+  },
+  {
+    "slug": "understanding-anomalous-coronary-origins-a-clear-educational-guide",
+    "title": "Understanding Anomalous Coronary Origins: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of anomalous coronary origins, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "sudden death risk debates"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "anatomy variants athletes hear about",
+    "outline": [
+      "What this condition is",
+      "How the heart and vessels are affected",
+      "How clinicians usually evaluate it",
+      "What students should master first",
+      "Questions for clinical conversations"
+    ]
+  },
+  {
+    "slug": "understanding-right-heart-failure-phenotype-a-clear-educational-guide",
+    "title": "Understanding Right Heart Failure Phenotype: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of right heart failure phenotype, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "RV",
+      "congestion"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "systemic venous congestion teaching",
+    "outline": [
+      "What this condition is",
+      "How the heart and vessels are affected",
+      "How clinicians usually evaluate it",
+      "What students should master first",
+      "Questions for clinical conversations"
+    ]
+  },
+  {
+    "slug": "understanding-palliative-care-in-advanced-heart-failure-a-clear-educational-guid",
+    "title": "Understanding Palliative Care in Advanced Heart Failure: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of palliative care in advanced heart failure, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "symptoms",
+      "goals"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "supportive care is not giving up",
+    "outline": [
+      "What this condition is",
+      "How the heart and vessels are affected",
+      "How clinicians usually evaluate it",
+      "What students should master first",
+      "Questions for clinical conversations"
+    ]
+  },
+  {
+    "slug": "understanding-adolescent-sudden-death-prevention-themes-a-clear-educational-guid",
+    "title": "Understanding Adolescent Sudden Death Prevention Themes: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of adolescent sudden death prevention themes, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "screening debates"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "what evidence controversies include",
+    "outline": [
+      "What this condition is",
+      "How the heart and vessels are affected",
+      "How clinicians usually evaluate it",
+      "What students should master first",
+      "Questions for clinical conversations"
+    ]
+  },
+  {
+    "slug": "understanding-nstemi-myocardial-infarction-a-clear-educational-guide",
+    "title": "Understanding NSTEMI Myocardial Infarction: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of nstemi myocardial infarction, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "non-ST elevation",
+      "troponin"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "biomarkers versus ECG in ACS education",
+    "outline": [
+      "Core definition",
+      "Pathophysiology in plain language",
+      "Symptoms and warning patterns",
+      "Tests you will hear about",
+      "Learning checkpoints"
+    ]
+  },
+  {
+    "slug": "understanding-type-2-myocardial-infarction-a-clear-educational-guide",
+    "title": "Understanding Type 2 Myocardial Infarction: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of type 2 myocardial infarction, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "supply demand",
+      "secondary ischemia"
+    ],
+    "audience": "both",
+    "difficulty": "advanced",
+    "angle": "distinguishing demand ischemia concepts",
+    "outline": [
+      "Why this diagnosis matters",
+      "Mechanisms and natural history",
+      "Differential thinking",
+      "Treatment categories at a high level",
+      "How to keep learning responsibly"
+    ]
+  },
+  {
+    "slug": "understanding-coronary-vasospasm-a-clear-educational-guide",
+    "title": "Understanding Coronary Vasospasm: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of coronary vasospasm, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "Prinzmetal",
+      "vasomotor"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "functional ischemia beyond fixed stenoses",
+    "outline": [
+      "Core definition",
+      "Pathophysiology in plain language",
+      "Symptoms and warning patterns",
+      "Tests you will hear about",
+      "Learning checkpoints"
+    ]
+  },
+  {
+    "slug": "understanding-myocardial-bridging-a-clear-educational-guide",
+    "title": "Understanding Myocardial Bridging: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of myocardial bridging, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "intramyocardial coronary"
+    ],
+    "audience": "both",
+    "difficulty": "advanced",
+    "angle": "anatomic variants and symptom debates",
+    "outline": [
+      "Why this diagnosis matters",
+      "Mechanisms and natural history",
+      "Differential thinking",
+      "Treatment categories at a high level",
+      "How to keep learning responsibly"
+    ]
+  },
+  {
+    "slug": "understanding-pulmonary-arterial-hypertension-a-clear-educational-guide",
+    "title": "Understanding Pulmonary Arterial Hypertension: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of pulmonary arterial hypertension, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "PAH",
+      "pre-capillary"
+    ],
+    "audience": "both",
+    "difficulty": "advanced",
+    "angle": "hemodynamic classification literacy",
+    "outline": [
+      "Why this diagnosis matters",
+      "Mechanisms and natural history",
+      "Differential thinking",
+      "Treatment categories at a high level",
+      "How to keep learning responsibly"
+    ]
+  },
+  {
+    "slug": "understanding-hemorrhagic-stroke-a-clear-educational-guide",
+    "title": "Understanding Hemorrhagic Stroke: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of hemorrhagic stroke, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "ICH",
+      "vessel rupture"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "why stroke is not one disease",
+    "outline": [
+      "Core definition",
+      "Pathophysiology in plain language",
+      "Symptoms and warning patterns",
+      "Tests you will hear about",
+      "Learning checkpoints"
+    ]
+  },
+  {
+    "slug": "understanding-hypertension-a-clear-educational-guide",
+    "title": "Understanding Hypertension: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of hypertension, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "blood pressure",
+      "silent"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "why elevated pressure damages vessels",
+    "outline": [
+      "Core definition",
+      "Pathophysiology in plain language",
+      "Symptoms and warning patterns",
+      "Tests you will hear about",
+      "Learning checkpoints"
+    ]
+  },
+  {
+    "slug": "understanding-white-coat-hypertension-a-clear-educational-guide",
+    "title": "Understanding White Coat Hypertension: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of white coat hypertension, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "office elevation"
+    ],
+    "audience": "both",
+    "difficulty": "advanced",
+    "angle": "measurement context matters",
+    "outline": [
+      "Why this diagnosis matters",
+      "Mechanisms and natural history",
+      "Differential thinking",
+      "Treatment categories at a high level",
+      "How to keep learning responsibly"
+    ]
+  },
+  {
+    "slug": "understanding-resistant-hypertension-a-clear-educational-guide",
+    "title": "Understanding Resistant Hypertension: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of resistant hypertension, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "above goal on multiple agents"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "definition used in guidelines education",
+    "outline": [
+      "Core definition",
+      "Pathophysiology in plain language",
+      "Symptoms and warning patterns",
+      "Tests you will hear about",
+      "Learning checkpoints"
+    ]
+  },
+  {
+    "slug": "understanding-secondary-hypertension-a-clear-educational-guide",
+    "title": "Understanding Secondary Hypertension: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of secondary hypertension, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "renovascular",
+      "endocrine"
+    ],
+    "audience": "both",
+    "difficulty": "advanced",
+    "angle": "when secondary causes are considered",
+    "outline": [
+      "Why this diagnosis matters",
+      "Mechanisms and natural history",
+      "Differential thinking",
+      "Treatment categories at a high level",
+      "How to keep learning responsibly"
+    ]
+  },
+  {
+    "slug": "understanding-sleep-apnea-and-the-heart-a-clear-educational-guide",
+    "title": "Understanding Sleep Apnea and the Heart: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of sleep apnea and the heart, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "OSA",
+      "nocturnal hypoxia"
+    ],
+    "audience": "both",
+    "difficulty": "advanced",
+    "angle": "cardiovascular consequences overview",
+    "outline": [
+      "Why this diagnosis matters",
+      "Mechanisms and natural history",
+      "Differential thinking",
+      "Treatment categories at a high level",
+      "How to keep learning responsibly"
+    ]
+  },
+  {
+    "slug": "understanding-pregnancy-associated-hypertension-a-clear-educational-guide",
+    "title": "Understanding Pregnancy-Associated Hypertension: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of pregnancy-associated hypertension, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "preeclampsia",
+      "gestational"
+    ],
+    "audience": "both",
+    "difficulty": "advanced",
+    "angle": "hypertensive disorders of pregnancy",
+    "outline": [
+      "Why this diagnosis matters",
+      "Mechanisms and natural history",
+      "Differential thinking",
+      "Treatment categories at a high level",
+      "How to keep learning responsibly"
+    ]
+  },
+  {
+    "slug": "understanding-statins-mechanism-overview-a-clear-educational-guide",
+    "title": "Understanding Statins Mechanism Overview: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of statins mechanism overview, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "HMG-CoA",
+      "LDL"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "how lipid lowering drugs work conceptually",
+    "outline": [
+      "Core definition",
+      "Pathophysiology in plain language",
+      "Symptoms and warning patterns",
+      "Tests you will hear about",
+      "Learning checkpoints"
+    ]
+  },
+  {
+    "slug": "understanding-sglt2-inhibitors-heart-effects-a-clear-educational-guide",
+    "title": "Understanding SGLT2 Inhibitors Heart Effects: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of sglt2 inhibitors heart effects, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "cardiorenal benefit class"
+    ],
+    "audience": "both",
+    "difficulty": "advanced",
+    "angle": "why diabetes drugs reshaped HF care discussions",
+    "outline": [
+      "Why this diagnosis matters",
+      "Mechanisms and natural history",
+      "Differential thinking",
+      "Treatment categories at a high level",
+      "How to keep learning responsibly"
+    ]
+  },
+  {
+    "slug": "understanding-atrial-thrombus-and-stroke-a-clear-educational-guide",
+    "title": "Understanding Atrial Thrombus and Stroke: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of atrial thrombus and stroke, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "LA appendage"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "AF thromboembolism pathway",
+    "outline": [
+      "Core definition",
+      "Pathophysiology in plain language",
+      "Symptoms and warning patterns",
+      "Tests you will hear about",
+      "Learning checkpoints"
+    ]
+  },
+  {
+    "slug": "understanding-coronary-artery-ectasia-a-clear-educational-guide",
+    "title": "Understanding Coronary Artery Ectasia: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of coronary artery ectasia, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "dilated coronaries"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "less common coronary phenotypes",
+    "outline": [
+      "Core definition",
+      "Pathophysiology in plain language",
+      "Symptoms and warning patterns",
+      "Tests you will hear about",
+      "Learning checkpoints"
+    ]
+  },
+  {
+    "slug": "understanding-coronary-fistulas-a-clear-educational-guide",
+    "title": "Understanding Coronary Fistulas: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of coronary fistulas, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "abnormal connections"
+    ],
+    "audience": "both",
+    "difficulty": "advanced",
+    "angle": "congenital coronary anomalies overview",
+    "outline": [
+      "Why this diagnosis matters",
+      "Mechanisms and natural history",
+      "Differential thinking",
+      "Treatment categories at a high level",
+      "How to keep learning responsibly"
+    ]
+  },
+  {
+    "slug": "understanding-myocardial-noncompaction-a-clear-educational-guide",
+    "title": "Understanding Myocardial Noncompaction: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of myocardial noncompaction, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "trabeculations"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "controversial cardiomyopathy phenotype",
+    "outline": [
+      "Core definition",
+      "Pathophysiology in plain language",
+      "Symptoms and warning patterns",
+      "Tests you will hear about",
+      "Learning checkpoints"
+    ]
+  },
+  {
+    "slug": "understanding-high-output-heart-failure-a-clear-educational-guide",
+    "title": "Understanding High-Output Heart Failure: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of high-output heart failure, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "thyrotoxicosis",
+      "anemia",
+      "shunt"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "when output is high yet syndrome present",
+    "outline": [
+      "Core definition",
+      "Pathophysiology in plain language",
+      "Symptoms and warning patterns",
+      "Tests you will hear about",
+      "Learning checkpoints"
+    ]
+  },
+  {
+    "slug": "understanding-low-output-heart-failure-signs-a-clear-educational-guide",
+    "title": "Understanding Low-Output Heart Failure Signs: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of low-output heart failure signs, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "hypoperfusion"
+    ],
+    "audience": "both",
+    "difficulty": "advanced",
+    "angle": "cold-and-wet frameworks",
+    "outline": [
+      "Why this diagnosis matters",
+      "Mechanisms and natural history",
+      "Differential thinking",
+      "Treatment categories at a high level",
+      "How to keep learning responsibly"
+    ]
+  },
+  {
+    "slug": "understanding-pulmonary-hypertension-groups-a-clear-educational-guide",
+    "title": "Understanding Pulmonary Hypertension Groups: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of pulmonary hypertension groups, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "WHO groups"
+    ],
+    "audience": "both",
+    "difficulty": "advanced",
+    "angle": "classification literacy",
+    "outline": [
+      "Why this diagnosis matters",
+      "Mechanisms and natural history",
+      "Differential thinking",
+      "Treatment categories at a high level",
+      "How to keep learning responsibly"
+    ]
+  },
+  {
+    "slug": "understanding-frailty-and-heart-failure-a-clear-educational-guide",
+    "title": "Understanding Frailty and Heart Failure: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of frailty and heart failure, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "vulnerability"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "why function matters beyond EF",
+    "outline": [
+      "Core definition",
+      "Pathophysiology in plain language",
+      "Symptoms and warning patterns",
+      "Tests you will hear about",
+      "Learning checkpoints"
+    ]
+  },
+  {
+    "slug": "understanding-pediatric-hypertension-a-clear-educational-guide",
+    "title": "Understanding Pediatric Hypertension: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of pediatric hypertension, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "child BP norms"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "youth blood pressure education",
+    "outline": [
+      "Core definition",
+      "Pathophysiology in plain language",
+      "Symptoms and warning patterns",
+      "Tests you will hear about",
+      "Learning checkpoints"
+    ]
+  },
+  {
+    "slug": "understanding-minoca-a-clear-educational-guide",
+    "title": "Understanding MINOCA: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of minoca, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "MI with non-obstructive arteries"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "when angiograms look surprisingly clear",
+    "outline": [
+      "What this condition is",
+      "How the heart and vessels are affected",
+      "How clinicians usually evaluate it",
+      "What students should master first",
+      "Questions for clinical conversations"
+    ]
+  },
+  {
+    "slug": "understanding-hypertrophic-cardiomyopathy-a-clear-educational-guide",
+    "title": "Understanding Hypertrophic Cardiomyopathy: A Clear Educational Guide",
+    "category": "diseases-and-conditions",
+    "summary": "An evidence-aware educational overview of hypertrophic cardiomyopathy, written for students and curious readers seeking clarity without personal medical advice.",
+    "keywords": [
+      "HCM",
+      "LVH",
+      "obstruction"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "genetic and obstructive concepts",
+    "outline": [
+      "What this condition is",
+      "How the heart and vessels are affected",
+      "How clinicians usually evaluate it",
+      "What students should master first",
+      "Questions for clinical conversations"
+    ]
+  }
+]

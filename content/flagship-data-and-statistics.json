@@ -1,0 +1,949 @@
+[
+  {
+    "slug": "how-to-read-aha-heart-disease-and-stroke-statistics",
+    "title": "How to Read AHA Heart Disease and Stroke Statistics",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on how to Read AHA Heart Disease and Stroke Statistics, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "how",
+      "to",
+      "read",
+      "aha",
+      "heart",
+      "disease"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "statistical literacy for how to read aha heart disease and stroke statistics",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "framingham-risk-score-historical-literacy",
+    "title": "Framingham Risk Score Historical Literacy",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on framingham Risk Score Historical Literacy, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "framingham",
+      "risk",
+      "score",
+      "historical",
+      "literacy"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "statistical literacy for framingham risk score historical literacy",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "adolescent-hypertension-recognition-gap-stats",
+    "title": "Adolescent Hypertension Recognition Gap Stats",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on adolescent Hypertension Recognition Gap Stats, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "adolescent",
+      "hypertension",
+      "recognition",
+      "gap",
+      "stats"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "statistical literacy for adolescent hypertension recognition gap stats",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "pregnancy-ascvd-risk-multiplier-after-preeclampsia",
+    "title": "Pregnancy ASCVD Risk Multiplier After Preeclampsia",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on pregnancy ASCVD Risk Multiplier After Preeclampsia, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "pregnancy",
+      "ascvd",
+      "risk",
+      "multiplier",
+      "after",
+      "preeclampsia"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "statistical literacy for pregnancy ascvd risk multiplier after preeclampsia",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "sglt2-hf-hospitalization-absolute-benefits",
+    "title": "SGLT2 HF Hospitalization Absolute Benefits",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on sGLT2 HF Hospitalization Absolute Benefits, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "sglt2",
+      "hf",
+      "hospitalization",
+      "absolute",
+      "benefits"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "statistical literacy for sglt2 hf hospitalization absolute benefits",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "lifetime-risk-of-ascvd-how-estimators-differ",
+    "title": "Lifetime Risk of ASCVD How Estimators Differ",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on lifetime Risk of ASCVD How Estimators Differ, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "lifetime",
+      "risk",
+      "of",
+      "ascvd",
+      "how",
+      "estimators"
+    ],
+    "audience": "students",
+    "difficulty": "advanced",
+    "angle": "statistical literacy for lifetime risk of ascvd how estimators differ",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "pooled-cohort-ascvd-equations-teaching-guide",
+    "title": "Pooled Cohort ASCVD Equations Teaching Guide",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on pooled Cohort ASCVD Equations Teaching Guide, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "pooled",
+      "cohort",
+      "ascvd",
+      "equations",
+      "teaching",
+      "guide"
+    ],
+    "audience": "students",
+    "difficulty": "intermediate",
+    "angle": "statistical literacy for pooled cohort ascvd equations teaching guide",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "coronary-calcium-reclassification-statistics-idea",
+    "title": "Coronary Calcium Reclassification Statistics Idea",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on coronary Calcium Reclassification Statistics Idea, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "coronary",
+      "calcium",
+      "reclassification",
+      "statistics",
+      "idea"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "statistical literacy for coronary calcium reclassification statistics idea",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "absolute-risk-communication-best-practices",
+    "title": "Absolute Risk Communication Best Practices",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on absolute Risk Communication Best Practices, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "absolute",
+      "risk",
+      "communication",
+      "best",
+      "practices"
+    ],
+    "audience": "students",
+    "difficulty": "intermediate",
+    "angle": "statistical literacy for absolute risk communication best practices",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "30-day-readmission-heart-failure-nuanced-view",
+    "title": "30 Day Readmission Heart Failure Nuanced View",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on 30 Day Readmission Heart Failure Nuanced View, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "30",
+      "day",
+      "readmission",
+      "heart",
+      "failure",
+      "nuanced"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "statistical literacy for 30 day readmission heart failure nuanced view",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "heart-failure-prevalence-aging-population-math",
+    "title": "Heart Failure Prevalence Aging Population Math",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on heart Failure Prevalence Aging Population Math, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "heart",
+      "failure",
+      "prevalence",
+      "aging",
+      "population",
+      "math"
+    ],
+    "audience": "both",
+    "difficulty": "advanced",
+    "angle": "statistical literacy for heart failure prevalence aging population math",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "tobacco-use-youth-trend-lines-heart-future",
+    "title": "Tobacco Use Youth Trend Lines Heart Future",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on tobacco Use Youth Trend Lines Heart Future, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "tobacco",
+      "use",
+      "youth",
+      "trend",
+      "lines",
+      "heart"
+    ],
+    "audience": "students",
+    "difficulty": "intermediate",
+    "angle": "statistical literacy for tobacco use youth trend lines heart future",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "sleep-duration-population-short-sleep-epidemic",
+    "title": "Sleep Duration Population Short Sleep Epidemic",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on sleep Duration Population Short Sleep Epidemic, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "sleep",
+      "duration",
+      "population",
+      "short",
+      "sleep",
+      "epidemic"
+    ],
+    "audience": "students",
+    "difficulty": "advanced",
+    "angle": "statistical literacy for sleep duration population short sleep epidemic",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "undiagnosed-hypertension-proportion-estimates",
+    "title": "Undiagnosed Hypertension Proportion Estimates",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on undiagnosed Hypertension Proportion Estimates, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "undiagnosed",
+      "hypertension",
+      "proportion",
+      "estimates"
+    ],
+    "audience": "both",
+    "difficulty": "advanced",
+    "angle": "statistical literacy for undiagnosed hypertension proportion estimates",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "treatment-cascade-hypertension-diagnose-treat-control",
+    "title": "Treatment Cascade Hypertension Diagnose Treat Control",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on treatment Cascade Hypertension Diagnose Treat Control, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "treatment",
+      "cascade",
+      "hypertension",
+      "diagnose",
+      "treat",
+      "control"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "statistical literacy for treatment cascade hypertension diagnose treat control",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "pregnancy-related-hypertension-incidence-trends",
+    "title": "Pregnancy Related Hypertension Incidence Trends",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on pregnancy Related Hypertension Incidence Trends, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "pregnancy",
+      "related",
+      "hypertension",
+      "incidence",
+      "trends"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "statistical literacy for pregnancy related hypertension incidence trends",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "racial-disparities-hypertension-control-data-context",
+    "title": "Racial Disparities Hypertension Control Data Context",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on racial Disparities Hypertension Control Data Context, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "racial",
+      "disparities",
+      "hypertension",
+      "control",
+      "data",
+      "context"
+    ],
+    "audience": "students",
+    "difficulty": "intermediate",
+    "angle": "statistical literacy for racial disparities hypertension control data context",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "cost-of-heart-failure-hospitalization-literacy",
+    "title": "Cost of Heart Failure Hospitalization Literacy",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on cost of Heart Failure Hospitalization Literacy, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "cost",
+      "of",
+      "heart",
+      "failure",
+      "hospitalization",
+      "literacy"
+    ],
+    "audience": "both",
+    "difficulty": "advanced",
+    "angle": "statistical literacy for cost of heart failure hospitalization literacy",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "icd-utilization-primary-prevention-guidelines-gap",
+    "title": "ICD Utilization Primary Prevention Guidelines Gap",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on iCD Utilization Primary Prevention Guidelines Gap, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "icd",
+      "utilization",
+      "primary",
+      "prevention",
+      "guidelines",
+      "gap"
+    ],
+    "audience": "students",
+    "difficulty": "advanced",
+    "angle": "statistical literacy for icd utilization primary prevention guidelines gap",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "statin-intolerance-reported-versus-confirmed-rates",
+    "title": "Statin Intolerance Reported versus Confirmed Rates",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on statin Intolerance Reported versus Confirmed Rates, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "statin",
+      "intolerance",
+      "reported",
+      "versus",
+      "confirmed",
+      "rates"
+    ],
+    "audience": "both",
+    "difficulty": "advanced",
+    "angle": "statistical literacy for statin intolerance reported versus confirmed rates",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "incidental-coronary-calcium-on-chest-ct-rates",
+    "title": "Incidental Coronary Calcium on Chest CT Rates",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on incidental Coronary Calcium on Chest CT Rates, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "incidental",
+      "coronary",
+      "calcium",
+      "on",
+      "chest",
+      "ct"
+    ],
+    "audience": "students",
+    "difficulty": "advanced",
+    "angle": "statistical literacy for incidental coronary calcium on chest ct rates",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "rheumatoid-arthritis-ascvd-excess-risk-numbers",
+    "title": "Rheumatoid Arthritis ASCVD Excess Risk Numbers",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on rheumatoid Arthritis ASCVD Excess Risk Numbers, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "rheumatoid",
+      "arthritis",
+      "ascvd",
+      "excess",
+      "risk",
+      "numbers"
+    ],
+    "audience": "students",
+    "difficulty": "intermediate",
+    "angle": "statistical literacy for rheumatoid arthritis ascvd excess risk numbers",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "coronary-calcium-distribution-by-age-sex",
+    "title": "Coronary Calcium Distribution by Age Sex",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on coronary Calcium Distribution by Age Sex, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "coronary",
+      "calcium",
+      "distribution",
+      "by",
+      "age",
+      "sex"
+    ],
+    "audience": "students",
+    "difficulty": "advanced",
+    "angle": "statistical literacy for coronary calcium distribution by age sex",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "glp1-outcome-trial-absolute-risk-reductions",
+    "title": "GLP1 Outcome Trial Absolute Risk Reductions",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on gLP1 Outcome Trial Absolute Risk Reductions, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "glp1",
+      "outcome",
+      "trial",
+      "absolute",
+      "risk",
+      "reductions"
+    ],
+    "audience": "students",
+    "difficulty": "advanced",
+    "angle": "statistical literacy for glp1 outcome trial absolute risk reductions",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "arni-absolute-risk-reduction-paradigm-context",
+    "title": "ARNI Absolute Risk Reduction PARADIGM Context",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on aRNI Absolute Risk Reduction PARADIGM Context, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "arni",
+      "absolute",
+      "risk",
+      "reduction",
+      "paradigm",
+      "context"
+    ],
+    "audience": "students",
+    "difficulty": "intermediate",
+    "angle": "statistical literacy for arni absolute risk reduction paradigm context",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "aspirin-primary-prevention-arr-extremely-small",
+    "title": "Aspirin Primary Prevention ARR Extremely Small",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on aspirin Primary Prevention ARR Extremely Small, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "aspirin",
+      "primary",
+      "prevention",
+      "arr",
+      "extremely",
+      "small"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "statistical literacy for aspirin primary prevention arr extremely small",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "age-standardized-mortality-what-it-means",
+    "title": "Age Standardized Mortality What It Means",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on age Standardized Mortality What It Means, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "age",
+      "standardized",
+      "mortality",
+      "what",
+      "it",
+      "means"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "statistical literacy for age standardized mortality what it means",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "qalys-in-heart-policy-conversations",
+    "title": "QALYs in Heart Policy Conversations",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on qALYs in Heart Policy Conversations, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "qalys",
+      "in",
+      "heart",
+      "policy",
+      "conversations"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "statistical literacy for qalys in heart policy conversations",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "risk-enhancers-beyond-the-equation",
+    "title": "Risk Enhancers Beyond the Equation",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on risk Enhancers Beyond the Equation, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "risk",
+      "enhancers",
+      "beyond",
+      "the",
+      "equation"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "statistical literacy for risk enhancers beyond the equation",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "roc-curves-auc-cardiology-prediction-literacy",
+    "title": "ROC Curves AUC Cardiology Prediction Literacy",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on rOC Curves AUC Cardiology Prediction Literacy, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "roc",
+      "curves",
+      "auc",
+      "cardiology",
+      "prediction",
+      "literacy"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "statistical literacy for roc curves auc cardiology prediction literacy",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "number-needed-to-treat-and-harm-pairing",
+    "title": "Number Needed to Treat and Harm Pairing",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on number Needed to Treat and Harm Pairing, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "number",
+      "needed",
+      "to",
+      "treat",
+      "and",
+      "harm"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "statistical literacy for number needed to treat and harm pairing",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "immortal-time-bias-classic-trap",
+    "title": "Immortal Time Bias Classic Trap",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on immortal Time Bias Classic Trap, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "immortal",
+      "time",
+      "bias",
+      "classic",
+      "trap"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "statistical literacy for immortal time bias classic trap",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "false-positive-stress-test-base-rate-logic",
+    "title": "False Positive Stress Test Base Rate Logic",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on false Positive Stress Test Base Rate Logic, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "false",
+      "positive",
+      "stress",
+      "test",
+      "base",
+      "rate"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "statistical literacy for false positive stress test base rate logic",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "likelihood-ratios-bedside-bayesian-lite",
+    "title": "Likelihood Ratios Bedside Bayesian Lite",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on likelihood Ratios Bedside Bayesian Lite, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "likelihood",
+      "ratios",
+      "bedside",
+      "bayesian",
+      "lite"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "statistical literacy for likelihood ratios bedside bayesian lite",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "brfss-self-report-limitations-heart-behaviors",
+    "title": "BRFSS Self Report Limitations Heart Behaviors",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on bRFSS Self Report Limitations Heart Behaviors, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "brfss",
+      "self",
+      "report",
+      "limitations",
+      "heart",
+      "behaviors"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "statistical literacy for brfss self report limitations heart behaviors",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "out-of-hospital-cardiac-arrest-registry-metrics",
+    "title": "Out of Hospital Cardiac Arrest Registry Metrics",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on out of Hospital Cardiac Arrest Registry Metrics, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "out",
+      "of",
+      "hospital",
+      "cardiac",
+      "arrest",
+      "registry"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "statistical literacy for out of hospital cardiac arrest registry metrics",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "door-to-balloon-stemi-system-measure",
+    "title": "Door to Balloon STEMI System Measure",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on door to Balloon STEMI System Measure, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "door",
+      "to",
+      "balloon",
+      "stemi",
+      "system",
+      "measure"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "statistical literacy for door to balloon stemi system measure",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "volume-outcome-relationships-surgery-statistics",
+    "title": "Volume Outcome Relationships Surgery Statistics",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on volume Outcome Relationships Surgery Statistics, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "volume",
+      "outcome",
+      "relationships",
+      "surgery",
+      "statistics"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "statistical literacy for volume outcome relationships surgery statistics",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  },
+  {
+    "slug": "air-pollution-lag-days-heart-event-time-series",
+    "title": "Air Pollution Lag Days Heart Event Time Series",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on air Pollution Lag Days Heart Event Time Series, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "air",
+      "pollution",
+      "lag",
+      "days",
+      "heart",
+      "event"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "statistical literacy for air pollution lag days heart event time series",
+    "outline": [
+      "What the numbers are trying to measure",
+      "How to interpret them without being misled",
+      "Common statistical traps",
+      "What the data imply for learning and policy literacy",
+      "Responsible takeaways"
+    ]
+  },
+  {
+    "slug": "global-burden-of-disease-cvd-ranking-literacy",
+    "title": "Global Burden of Disease CVD Ranking Literacy",
+    "category": "data-and-statistics",
+    "summary": "A Cardily data-literacy explainer on global Burden of Disease CVD Ranking Literacy, focused on interpretation rather than invented precision.",
+    "keywords": [
+      "global",
+      "burden",
+      "of",
+      "disease",
+      "cvd",
+      "ranking"
+    ],
+    "audience": "both",
+    "difficulty": "intro",
+    "angle": "statistical literacy for global burden of disease cvd ranking literacy",
+    "outline": [
+      "Metric definition",
+      "Where the data usually come from",
+      "How trends can fool you",
+      "Equity and subgroup reading skills",
+      "Questions to ask of any chart"
+    ]
+  }
+]

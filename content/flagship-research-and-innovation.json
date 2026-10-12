@@ -1,0 +1,931 @@
+[
+  {
+    "slug": "sglt2-inhibitors-heart-failure-trial-era",
+    "title": "SGLT2 Inhibitors Heart Failure Trial Era",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to sGLT2 Inhibitors Heart Failure Trial Era, focused on research literacy rather than hype.",
+    "keywords": [
+      "sglt2",
+      "inhibitors",
+      "heart",
+      "failure",
+      "trial",
+      "era"
+    ],
+    "audience": "students",
+    "difficulty": "advanced",
+    "angle": "critical appraisal lens on sglt2 inhibitors heart failure trial era",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "spect-versus-pet-myocardial-perfusion-concepts",
+    "title": "Spect versus PET Myocardial Perfusion Concepts",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to spect versus PET Myocardial Perfusion Concepts, focused on research literacy rather than hype.",
+    "keywords": [
+      "spect",
+      "versus",
+      "pet",
+      "myocardial",
+      "perfusion",
+      "concepts"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on spect versus pet myocardial perfusion concepts",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "coronary-restaging-after-imaging-advances",
+    "title": "Coronary Restaging After Imaging Advances",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to coronary Restaging After Imaging Advances, focused on research literacy rather than hype.",
+    "keywords": [
+      "coronary",
+      "restaging",
+      "after",
+      "imaging",
+      "advances"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on coronary restaging after imaging advances",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "glp-1-agonists-ascvd-outcome-literacy",
+    "title": "GLP-1 Agonists ASCVD Outcome Literacy",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to gLP-1 Agonists ASCVD Outcome Literacy, focused on research literacy rather than hype.",
+    "keywords": [
+      "glp-1",
+      "agonists",
+      "ascvd",
+      "outcome",
+      "literacy"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on glp-1 agonists ascvd outcome literacy",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "gene-therapy-heart-failure-ambitions",
+    "title": "Gene Therapy Heart Failure Ambitions",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to gene Therapy Heart Failure Ambitions, focused on research literacy rather than hype.",
+    "keywords": [
+      "gene",
+      "therapy",
+      "heart",
+      "failure",
+      "ambitions"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on gene therapy heart failure ambitions",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "digital-therapeutics-hypertension-evidence",
+    "title": "Digital Therapeutics Hypertension Evidence",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to digital Therapeutics Hypertension Evidence, focused on research literacy rather than hype.",
+    "keywords": [
+      "digital",
+      "therapeutics",
+      "hypertension",
+      "evidence"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on digital therapeutics hypertension evidence",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "actigraphy-sleep-heart-outcome-studies",
+    "title": "Actigraphy Sleep Heart Outcome Studies",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to actigraphy Sleep Heart Outcome Studies, focused on research literacy rather than hype.",
+    "keywords": [
+      "actigraphy",
+      "sleep",
+      "heart",
+      "outcome",
+      "studies"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on actigraphy sleep heart outcome studies",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "interact-ascvd-risk-factor-combination-science",
+    "title": "INTERACT ASCVD Risk Factor Combination Science",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to iNTERACT ASCVD Risk Factor Combination Science, focused on research literacy rather than hype.",
+    "keywords": [
+      "interact",
+      "ascvd",
+      "risk",
+      "factor",
+      "combination",
+      "science"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on interact ascvd risk factor combination science",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "community-health-worker-hypertension-trials",
+    "title": "Community Health Worker Hypertension Trials",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to community Health Worker Hypertension Trials, focused on research literacy rather than hype.",
+    "keywords": [
+      "community",
+      "health",
+      "worker",
+      "hypertension",
+      "trials"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on community health worker hypertension trials",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "living-myocardial-patches-preclinical-path",
+    "title": "Living Myocardial Patches Preclinical Path",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to living Myocardial Patches Preclinical Path, focused on research literacy rather than hype.",
+    "keywords": [
+      "living",
+      "myocardial",
+      "patches",
+      "preclinical",
+      "path"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on living myocardial patches preclinical path",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "how-to-read-a-cardiology-randomized-trial",
+    "title": "How to Read a Cardiology Randomized Trial",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to how to Read a Cardiology Randomized Trial, focused on research literacy rather than hype.",
+    "keywords": [
+      "how",
+      "to",
+      "read",
+      "a",
+      "cardiology",
+      "randomized"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "critical appraisal lens on how to read a cardiology randomized trial",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "computational-fluid-dynamics-coronary-research",
+    "title": "Computational Fluid Dynamics Coronary Research",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to computational Fluid Dynamics Coronary Research, focused on research literacy rather than hype.",
+    "keywords": [
+      "computational",
+      "fluid",
+      "dynamics",
+      "coronary",
+      "research"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "critical appraisal lens on computational fluid dynamics coronary research",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "colchicine-coronary-inflammation-trials",
+    "title": "Colchicine Coronary Inflammation Trials",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to colchicine Coronary Inflammation Trials, focused on research literacy rather than hype.",
+    "keywords": [
+      "colchicine",
+      "coronary",
+      "inflammation",
+      "trials"
+    ],
+    "audience": "students",
+    "difficulty": "advanced",
+    "angle": "critical appraisal lens on colchicine coronary inflammation trials",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "coronary-inflammation-imaging-research",
+    "title": "Coronary Inflammation Imaging Research",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to coronary Inflammation Imaging Research, focused on research literacy rather than hype.",
+    "keywords": [
+      "coronary",
+      "inflammation",
+      "imaging",
+      "research"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "critical appraisal lens on coronary inflammation imaging research",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "ecmo-randomized-evidence-gaps",
+    "title": "ECMO Randomized Evidence Gaps",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to eCMO Randomized Evidence Gaps, focused on research literacy rather than hype.",
+    "keywords": [
+      "ecmo",
+      "randomized",
+      "evidence",
+      "gaps"
+    ],
+    "audience": "students",
+    "difficulty": "advanced",
+    "angle": "critical appraisal lens on ecmo randomized evidence gaps",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "fixed-dose-combination-hypertension-evidence",
+    "title": "Fixed Dose Combination Hypertension Evidence",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to fixed Dose Combination Hypertension Evidence, focused on research literacy rather than hype.",
+    "keywords": [
+      "fixed",
+      "dose",
+      "combination",
+      "hypertension",
+      "evidence"
+    ],
+    "audience": "students",
+    "difficulty": "advanced",
+    "angle": "critical appraisal lens on fixed dose combination hypertension evidence",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "salt-substitute-cluster-randomized-evidence",
+    "title": "Salt Substitute Cluster Randomized Evidence",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to salt Substitute Cluster Randomized Evidence, focused on research literacy rather than hype.",
+    "keywords": [
+      "salt",
+      "substitute",
+      "cluster",
+      "randomized",
+      "evidence"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "critical appraisal lens on salt substitute cluster randomized evidence",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "tobacco-control-policy-cardiovascular-impact-studies",
+    "title": "Tobacco Control Policy Cardiovascular Impact Studies",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to tobacco Control Policy Cardiovascular Impact Studies, focused on research literacy rather than hype.",
+    "keywords": [
+      "tobacco",
+      "control",
+      "policy",
+      "cardiovascular",
+      "impact",
+      "studies"
+    ],
+    "audience": "both",
+    "difficulty": "intermediate",
+    "angle": "critical appraisal lens on tobacco control policy cardiovascular impact studies",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "legacy-of-statins-post-trial-follow-up",
+    "title": "Legacy of Statins Post Trial Follow Up",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to legacy of Statins Post Trial Follow Up, focused on research literacy rather than hype.",
+    "keywords": [
+      "legacy",
+      "of",
+      "statins",
+      "post",
+      "trial",
+      "follow"
+    ],
+    "audience": "students",
+    "difficulty": "advanced",
+    "angle": "critical appraisal lens on legacy of statins post trial follow up",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "composite-endpoints-pros-and-pitfalls",
+    "title": "Composite Endpoints Pros and Pitfalls",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to composite Endpoints Pros and Pitfalls, focused on research literacy rather than hype.",
+    "keywords": [
+      "composite",
+      "endpoints",
+      "pros",
+      "and",
+      "pitfalls"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on composite endpoints pros and pitfalls",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "blinding-and-allocation-concealment-in-heart-trials",
+    "title": "Blinding and Allocation Concealment in Heart Trials",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to blinding and Allocation Concealment in Heart Trials, focused on research literacy rather than hype.",
+    "keywords": [
+      "blinding",
+      "and",
+      "allocation",
+      "concealment",
+      "in",
+      "heart"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on blinding and allocation concealment in heart trials",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "absolute-versus-relative-risk-reduction-teaching",
+    "title": "Absolute versus Relative Risk Reduction Teaching",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to absolute versus Relative Risk Reduction Teaching, focused on research literacy rather than hype.",
+    "keywords": [
+      "absolute",
+      "versus",
+      "relative",
+      "risk",
+      "reduction",
+      "teaching"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on absolute versus relative risk reduction teaching",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "competing-risks-in-cardiovascular-research",
+    "title": "Competing Risks in Cardiovascular Research",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to competing Risks in Cardiovascular Research, focused on research literacy rather than hype.",
+    "keywords": [
+      "competing",
+      "risks",
+      "in",
+      "cardiovascular",
+      "research"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on competing risks in cardiovascular research",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "forest-plots-how-to-read-them",
+    "title": "Forest Plots How to Read Them",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to forest Plots How to Read Them, focused on research literacy rather than hype.",
+    "keywords": [
+      "forest",
+      "plots",
+      "how",
+      "to",
+      "read",
+      "them"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on forest plots how to read them",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "confounding-indication-bias-explained",
+    "title": "Confounding Indication Bias Explained",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to confounding Indication Bias Explained, focused on research literacy rather than hype.",
+    "keywords": [
+      "confounding",
+      "indication",
+      "bias",
+      "explained"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on confounding indication bias explained",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "registry-science-strengths-and-limits",
+    "title": "Registry Science Strengths and Limits",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to registry Science Strengths and Limits, focused on research literacy rather than hype.",
+    "keywords": [
+      "registry",
+      "science",
+      "strengths",
+      "and",
+      "limits"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on registry science strengths and limits",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "adaptive-trial-designs-cardiology-examples-conceptually",
+    "title": "Adaptive Trial Designs Cardiology Examples Conceptually",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to adaptive Trial Designs Cardiology Examples Conceptually, focused on research literacy rather than hype.",
+    "keywords": [
+      "adaptive",
+      "trial",
+      "designs",
+      "cardiology",
+      "examples",
+      "conceptually"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on adaptive trial designs cardiology examples conceptually",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "fragile-results-and-fragility-index-idea",
+    "title": "Fragile Results and Fragility Index Idea",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to fragile Results and Fragility Index Idea, focused on research literacy rather than hype.",
+    "keywords": [
+      "fragile",
+      "results",
+      "and",
+      "fragility",
+      "index",
+      "idea"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on fragile results and fragility index idea",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "class-of-recommendation-level-of-evidence-decoder",
+    "title": "Class of Recommendation Level of Evidence Decoder",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to class of Recommendation Level of Evidence Decoder, focused on research literacy rather than hype.",
+    "keywords": [
+      "class",
+      "of",
+      "recommendation",
+      "level",
+      "of",
+      "evidence"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on class of recommendation level of evidence decoder",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "preprints-pros-cons-for-heart-science",
+    "title": "Preprints Pros Cons for Heart Science",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to preprints Pros Cons for Heart Science, focused on research literacy rather than hype.",
+    "keywords": [
+      "preprints",
+      "pros",
+      "cons",
+      "for",
+      "heart",
+      "science"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on preprints pros cons for heart science",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "data-sharing-fair-principles-heart-research",
+    "title": "Data Sharing FAIR Principles Heart Research",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to data Sharing FAIR Principles Heart Research, focused on research literacy rather than hype.",
+    "keywords": [
+      "data",
+      "sharing",
+      "fair",
+      "principles",
+      "heart",
+      "research"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on data sharing fair principles heart research",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "academic-industry-partnerships-guardrails",
+    "title": "Academic Industry Partnerships Guardrails",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to academic Industry Partnerships Guardrails, focused on research literacy rather than hype.",
+    "keywords": [
+      "academic",
+      "industry",
+      "partnerships",
+      "guardrails"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on academic industry partnerships guardrails",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "learning-curve-effects-in-procedural-studies",
+    "title": "Learning Curve Effects in Procedural Studies",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to learning Curve Effects in Procedural Studies, focused on research literacy rather than hype.",
+    "keywords": [
+      "learning",
+      "curve",
+      "effects",
+      "in",
+      "procedural",
+      "studies"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on learning curve effects in procedural studies",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "wearable-af-detection-evidence-map",
+    "title": "Wearable AF Detection Evidence Map",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to wearable AF Detection Evidence Map, focused on research literacy rather than hype.",
+    "keywords": [
+      "wearable",
+      "af",
+      "detection",
+      "evidence",
+      "map"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on wearable af detection evidence map",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "ai-imaging-triage-cardiology-use-cases",
+    "title": "AI Imaging Triage Cardiology Use Cases",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to aI Imaging Triage Cardiology Use Cases, focused on research literacy rather than hype.",
+    "keywords": [
+      "ai",
+      "imaging",
+      "triage",
+      "cardiology",
+      "use",
+      "cases"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on ai imaging triage cardiology use cases",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "digital-twins-heart-modeling-concept",
+    "title": "Digital Twins Heart Modeling Concept",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to digital Twins Heart Modeling Concept, focused on research literacy rather than hype.",
+    "keywords": [
+      "digital",
+      "twins",
+      "heart",
+      "modeling",
+      "concept"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on digital twins heart modeling concept",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  },
+  {
+    "slug": "photon-counting-ct-cardiology-horizon",
+    "title": "Photon Counting CT Cardiology Horizon",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to photon Counting CT Cardiology Horizon, focused on research literacy rather than hype.",
+    "keywords": [
+      "photon",
+      "counting",
+      "ct",
+      "cardiology",
+      "horizon"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on photon counting ct cardiology horizon",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "intracardiac-echocardiography-procedural-role",
+    "title": "Intracardiac Echocardiography Procedural Role",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to intracardiac Echocardiography Procedural Role, focused on research literacy rather than hype.",
+    "keywords": [
+      "intracardiac",
+      "echocardiography",
+      "procedural",
+      "role"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on intracardiac echocardiography procedural role",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "tricuspid-device-therapy-emerging-evidence",
+    "title": "Tricuspid Device Therapy Emerging Evidence",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to tricuspid Device Therapy Emerging Evidence, focused on research literacy rather than hype.",
+    "keywords": [
+      "tricuspid",
+      "device",
+      "therapy",
+      "emerging",
+      "evidence"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on tricuspid device therapy emerging evidence",
+    "outline": [
+      "Big idea in one paragraph",
+      "Key methods learners should recognize",
+      "Landmark findings and honest limitations",
+      "Translation barriers",
+      "Questions that remain open"
+    ]
+  },
+  {
+    "slug": "af-ablation-outcome-endpoints-evolution",
+    "title": "AF Ablation Outcome Endpoints Evolution",
+    "category": "research-and-innovation",
+    "summary": "An educational guide to aF Ablation Outcome Endpoints Evolution, focused on research literacy rather than hype.",
+    "keywords": [
+      "af",
+      "ablation",
+      "outcome",
+      "endpoints",
+      "evolution"
+    ],
+    "audience": "students",
+    "difficulty": "intro",
+    "angle": "critical appraisal lens on af ablation outcome endpoints evolution",
+    "outline": [
+      "What problem the research is trying to solve",
+      "How studies in this area are usually designed",
+      "How to read claims critically",
+      "What is ready for clinics versus still emerging",
+      "Student takeaways and further reading habits"
+    ]
+  }
+]

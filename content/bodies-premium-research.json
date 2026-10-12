@@ -1,0 +1,3444 @@
+[
+  {
+    "slug": "sglt2-inhibitors-heart-failure-trial-era",
+    "takeaways": [
+      "SGLT2 inhibitor heart-failure trials moved the field from glucose-centric thinking to cardiorenal outcome trials with prespecified hierarchies.",
+      "DAPA-HF and EMPEROR-Reduced enrolled HFrEF regardless of diabetes; read them as add-on therapy trials on guideline-directed background, not monotherapy comparisons.",
+      "Primary endpoints combined cardiovascular death and heart-failure hospitalization\u2014always unpack which component drove the hazard ratio.",
+      "Relative risk reductions near 20\u201325% can correspond to modest absolute benefits when event rates are low; number-needed-to-treat depends on baseline risk.",
+      "Guideline incorporation (ACC/AHA heart failure guidance) reflects replicated trials; implementation gaps (eGFR thresholds, initiation in hospital) remain research and systems questions."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Heart failure with reduced ejection fraction (HFrEF) carries high morbidity from recurrent hospitalizations and progressive pump failure. For years, neurohormonal blockade (ACE inhibitors/ARNI, beta-blockers, MRA) defined the evidence base, yet many patients still decompensated.",
+          "SGLT2 inhibitors were developed as antihyperglycemic agents, but mechanistic work suggested natriuresis, reduced preload, and favorable metabolic shifts independent of glucose lowering. The research question became whether these drugs improve hard outcomes when added to modern HFrEF therapy.",
+          "Trials also extended to heart failure with preserved ejection fraction (HFpEF) and to chronic kidney disease with albuminuria\u2014testing whether a single drug class addresses overlapping cardiorenal physiology rather than a single ICD code.",
+          "This article is research literacy, not prescribing advice. It teaches how to read the trial era: populations, run-in periods, background therapy, and what \u201cpositive\u201d meant statistically versus clinically."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "Landmark trials such as DAPA-HF (dapagliflozin) and EMPEROR-Reduced (empagliflozin) used randomized, double-blind, placebo-controlled designs in symptomatic HFrEF with EF \u226440% (DAPA-HF) or similar cutoffs in related programs. Both allowed stable background GDMT; that matters because the estimand is incremental benefit, not replacement.",
+          "Primary endpoints were time-to-first composite of worsening heart failure (hospitalization or urgent visit requiring IV therapy) or cardiovascular death. Composite endpoints increase event rates and statistical power but require readers to inspect component-specific effects and whether components are equally patient-important.",
+          "EMPEROR-Preserved and DELIVER addressed HFpEF\u2014a harder phenotype with heterogeneous pathophysiology and lower event rates. Shorter follow-up and smaller absolute event reductions make absolute benefit interpretation essential.",
+          "Renal trials (e.g., DAPA-CKD, EMPA-KIDNEY) used kidney-disease progression endpoints alongside cardiovascular death, illustrating how one molecule class spans trial designs with different primary outcomes yet shared safety monitoring (volume depletion, genital infections, rare euglycemic DKA)."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "When headlines cite \u201c25% relative risk reduction,\u201d locate the control-group event rate and compute absolute risk reduction (ARR). A hazard ratio of 0.75 with a 10% two-year control event rate implies roughly 2.5 ARR percentage points\u2014not the same story as when control rates are 25%.",
+          "Check whether trials stopped early for benefit. Early stopping can inflate apparent effects; inspect independent data monitoring committee protocols and whether results were consistent across subgroups pre-specified in the statistical analysis plan.",
+          "Subgroup analyses (diabetes vs no diabetes, baseline EF, renal function) are hypothesis-generating unless powered. DAPA-HF\u2019s signal without diabetes helped change labeling narratives, but cross-trial consistency matters more than a single forest-plot diamond.",
+          "Watch for confounding by indication in observational follow-up: sicker patients may start SGLT2 inhibitors later. Randomized evidence anchors causal claims; registries explain real-world uptake and disparities."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "ACC/AHA heart failure guidelines now integrate SGLT2 inhibitors for selected HFrEF and HFpEF phenotypes, reflecting class effects supported by multiple trials rather than one sponsor narrative. Guideline strength ties to event-driven RCTs, not surrogate hemodynamics alone.",
+          "Clinic-ready elements include oral dosing, outpatient initiation in stable patients, and protocols for sick-day management and peri-procedural holding. Still emerging: optimal sequencing with ARNI, in-hospital initiation pathways, and equity in access among underinsured populations.",
+          "Translation readiness differs by health system: formulary placement, pharmacist-led education, and eGFR monitoring workflows determine whether trial efficacy becomes population benefit.",
+          "Ongoing trials and registries ask about combined device-therapy strategies, advanced CKD, and post-acute transitions\u2014areas where evidence is active, not settled."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Build a trial-reading checklist: eligibility, background therapy, primary endpoint definition, follow-up duration, missing data handling, and adverse events of special interest.",
+          "Practice converting published hazard ratios into absolute scales using supplemental appendix event tables\u2014skills that transfer to GLP-1, colchicine, and device trials.",
+          "Compare society summaries (ACC, AHA) with primary publications in NEJM/Lancet to see how certainty language is calibrated.",
+          "Note funding and authorship networks without dismissing results\u2014instead, ask whether endpoints were prespecified and whether independent academic leadership shaped analysis plans."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "The SGLT2 era demonstrates how a drug class can be repurposed through disciplined outcome trials that respect cardiorenal biology. The durable lesson is methodological: prespecified composites, add-on designs, and replication across sponsors and phenotypes.",
+          "Readers who master absolute effects and component endpoints can participate intelligently in journal clubs and policy debates without treating every relative-percent headline as a mandate.",
+          "Keep following ClinicalTrials.gov for heart failure programs combining SGLT2 inhibitors with novel anti-fibrotic or device strategies\u2014translation is iterative, not a single press release.",
+          "Cardily frames this history as evidence education; treatment decisions belong with clinicians who know the whole patient."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 14,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "spect-versus-pet-myocardial-perfusion-concepts",
+    "takeaways": [
+      "SPECT and PET both estimate myocardial perfusion under stress, but they differ in radiotracer physics, attenuation correction, and quantification\u2014methods shape diagnostic accuracy claims.",
+      "Diagnostic accuracy studies often report sensitivity/specificity without patient-level outcomes; distinguish test performance from whether testing changes management or events.",
+      "PET (often rubidium-82 or ammonia) enables absolute myocardial blood flow and flow reserve; SPECT more commonly reports relative perfusion defects\u2014endpoints are not interchangeable.",
+      "Referral bias and partial verification threaten perfusion imaging studies unless readers examine how patients without catheterization were handled.",
+      "Clinical translation depends on availability, radiation dose, cost, and integration with CT coronary angiography\u2014not only laboratory performance."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Stable chest pain and known coronary disease often prompt stress imaging to detect ischemia guiding revascularization decisions. The underlying research problem is inferring flow-limiting obstruction from tracer distribution patterns.",
+          "SPECT has been the workhorse modality for decades; PET offers higher temporal resolution and quantitative flow metrics. Comparing them is not a beauty contest\u2014it is a question of which endpoint matches the clinical decision.",
+          "Students should separate anatomy (coronary stenosis on CT or angiography) from physiology (ischemia under stress). Perfusion imaging speaks to physiology; mismatch between stenosis severity and ischemia is common.",
+          "This guide focuses on how perfusion-imaging studies are designed and reported, not on which test any individual should receive."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "SPECT trials and registries typically enroll patients referred for evaluation of suspected CAD, apply stress (exercise or pharmacologic), and compare findings to a reference standard\u2014often invasive coronary angiography with fractional flow reserve (FFR) in substudies.",
+          "PET studies may co-register perfusion with absolute blood flow quantification, enabling endpoints like global myocardial flow reserve (MFR). MFR integrates microvascular and epicardial disease, changing how \u2018 abnormal \u2019 is defined.",
+          "Hybrid PET/CT and SPECT/CT add attenuation correction and coronary calcium context; design papers should state whether CT data influenced interpretation (blinding matters).",
+          "Outcome trials linking perfusion strategies to hard events are fewer than diagnostic accuracy studies; many designs stop at revascularization rates or symptom scores."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Sensitivity and specificity sound definitive but depend on the threshold chosen and the severity mix of the referral population. In enriched high-prevalence cohorts, specificity can look worse than in low-risk outpatient practices.",
+          "Relative perfusion defect size on SPECT does not equal grams of ischemic myocardium at risk; PET flow reserve may identify balanced ischemia missed by relative maps\u2014read claims about \u2018superior detection\u2019 for the endpoint used.",
+          "Radiation dose and tracer supply chain affect generalizability. Rubidium generators and cyclotron-produced ammonia limit PET access; technetium shortages historically shifted SPECT protocols\u2014context external to statistics.",
+          "Meta-analyses pooling heterogeneous scanners and interpretation algorithms can overstate precision; inspect heterogeneity I\u00b2 and whether modern machines were included."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "PET quantitative flow is clinic-ready in specialized centers and influences decisions when microvascular disease is suspected. Widespread SPECT remains the default in many health systems because of cost and infrastructure.",
+          "Guidelines discuss both modalities in ischemia evaluation pathways; shared decision-making weighs test accuracy against downstream invasive testing rates.",
+          "Emerging work links MFR to heart failure with preserved EF and to risk stratification post-ACS\u2014translation still requires outcome studies, not only diagnostic correlation.",
+          "AI-assisted interpretation is investigational for both modalities; regulatory clearance does not replace prospective outcome validation."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Sketch a 2\u00d72 table for any perfusion paper: true/false ischemia versus test positive/negative. Ask who was excluded from the reference standard.",
+          "Learn units: mL/min/g for flow, percent uptake for relative SPECT\u2014mixing units breeds error in journal club.",
+          "Follow ACC appropriate use criteria documents as examples of how evidence quality (not just test performance) shapes recommendations.",
+          "Use PubMed filters for \u2018myocardial blood flow\u2019 and \u2018positron emission tomography\u2019 to find primary methods papers alongside clinical series."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "SPECT and PET answer related but not identical research questions. Literacy means matching modality capabilities to endpoints and recognizing when a study compares apples (diagnostic accuracy) to oranges (quantitative flow biology).",
+          "Absolute patient benefit flows from correct test selection in the right pretest-risk group\u2014a systems problem as much as a physics problem.",
+          "Stay skeptical of single-center superiority claims without multicenter reproducibility and without clarity on reader blinding.",
+          "Cardily treats imaging innovation as methods education; individual testing pathways require clinical correlation."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 12,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "coronary-restaging-after-imaging-advances",
+    "takeaways": [
+      "Restaging means reclassifying coronary disease severity after new imaging\u2014not repeating the same test by habit.",
+      "CT angiography, plaque characterization, and FFR-CT shift endpoints from stenosis percent to ischemia probability; trial comparators must match.",
+      "Deferred invasive angiography is an outcome in some strategy trials; fewer procedures can be benefit or harm depending on missed ischemia.",
+      "Post-PCI and post-CABG restaging studies face stent artifact and graft anatomy\u2014generalizability limits are methodological, not footnotes.",
+      "Translation readiness hinges on whether restaging changes GDMT intensity, rehabilitation, or revascularization with outcome data\u2014not only reclassification rates."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Coronary disease is dynamic: plaques evolve, stents restenose, grafts fail, and symptoms return without classic angina. Clinicians restage to update risk and intervention plans.",
+          "Advanced CT, intravascular imaging, and noninvasive FFR estimates promise finer anatomic and functional labels. Research asks whether these labels improve decisions compared with older staging systems.",
+          "Restaging sits at the intersection of diagnostic accuracy and management strategy\u2014readers must track which decisions changed, not only how many lesions were reclassified.",
+          "Educational goal: appraise restaging studies without assuming newer imaging automatically improves prognosis."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "Strategy trials randomize patients to an imaging-guided pathway versus usual care, with endpoints such as invasive angiography rate, revascularization, MACE, or cost.",
+          "Diagnostic cohort studies compare CT-FFR or perfusion against invasive FFR as reference, often in selected referral centers with high pretest probability.",
+          "Serial imaging studies measure plaque volume or low-attenuation plaque over time\u2014surrogate endpoints requiring linkage to events for translation.",
+          "Blinding invasive cardiologists to CT results (when ethical) strengthens causal inference about downstream procedures; open-label designs inflate procedure differences."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "When a study reports fewer angiograms, ask whether ischemia was missed and whether symptom-driven events increased in follow-up.",
+          "Stenosis thresholds (50% vs 70%) change prevalence of \u2018significant\u2019 disease without changing biology\u2014endpoint definitions drive apparent progress.",
+          "Radiation and contrast loads accumulate with repeat CT; harms belong on the balance sheet alongside avoided cath lab visits.",
+          "Machine learning plaque scores may overfit single-vendor datasets; external validation cohorts are minimum bar for believing restaging algorithms."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "CT-first chest pain pathways are implemented in many centers with appropriate-use criteria; restaging after ACS or revascularization remains more individualized.",
+          "Intravascular imaging (OCT/IVUS) guides PCI optimization in cath labs\u2014ready for procedural use, less standardized for long-term restaging schedules.",
+          "Population-level translation needs health-equity analysis: who gets repeat advanced imaging, and who gets symptom reassessment only?",
+          "Ongoing trials link quantitative plaque metrics to event reduction with intensive medical therapy\u2014still emerging as policy drivers."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Map each restaging paper to a decision fork: revascularize, intensify meds, or reassure\u2014did the study measure that fork?",
+          "Practice reading supplemental CT images descriptions and core lab adjudication rules.",
+          "Compare ACC chest pain guideline updates with primary strategy-trial publications to see evidence grading.",
+          "Use ClinicalTrials.gov keywords \u2018coronary computed tomography angiography strategy\u2019 to track active restaging trials."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Restaging science is about updating labels responsibly. Imaging advances increase label precision only when validation ties labels to outcomes patients care about.",
+          "Critical readers weigh absolute changes in procedures and events, not only reclassification kappa statistics.",
+          "Cardily teaches appraisal; cath lab and CT scheduling decisions stay clinical."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "glp-1-agonists-ascvd-outcome-literacy",
+    "takeaways": [
+      "GLP-1 receptor agonist cardiovascular outcome trials (CVOTs) were mandated for diabetes drugs to exclude excess MACE\u2014many later showed benefit, changing the research frame.",
+      "Primary MACE composites (CV death, nonfatal MI, nonfatal stroke) differ slightly by trial; always read component-specific results.",
+      "LEADER, SUSTAIN-6, REWIND, and SELECT span diabetes and obesity populations\u2014effect sizes and baseline risk differ, so relative HRs are not directly interchangeable.",
+      "Weight-mediated mechanisms complicate attribution in obesity trials; cardiovascular endpoints still require intention-to-treat analysis with clear censoring rules.",
+      "Guideline and label translation for ASCVD risk reduction is evolving separately from glycemic indications\u2014readiness varies by payer and comorbidity mix."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "Type 2 diabetes elevates atherosclerotic cardiovascular disease (ASCVD) risk through lipids, blood pressure, inflammation, and renal injury. GLP-1 agonists began as glucose-lowering injectables with favorable weight effects.",
+          "Regulators required large CVOTs to prove non-inferiority for MACE; several trials unexpectedly demonstrated superiority, reframing GLP-1 agents as cardiometabolic therapies.",
+          "More recent obesity-focused trials (e.g., SELECT with semaglutide) tested MACE reduction in overweight individuals with established ASCVD but without diabetes\u2014another population, another baseline event rate.",
+          "Literacy here means parsing trial mandates, endpoints, and populations without conflating \u2018works for diabetes MACE\u2019 with \u2018works identically for all overweight patients.\u2019"
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "CVOTs are typically randomized, double-blind, placebo-controlled, event-driven trials powered for MACE superiority or non-inferiority margins.",
+          "Inclusion criteria often require established ASCVD or high-risk features, shaping generalizability to primary prevention.",
+          "SELECT enrolled adults with BMI \u226527 and prior MI, stroke, or symptomatic PAD\u2014highlighting secondary prevention in an obesity-era trial design.",
+          "Time-to-first event analysis dominates; recurrent event models appear in secondary analyses and require different interpretation."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "A hazard ratio of 0.86 for MACE sounds uniform, but absolute benefit depends on control-arm event rates over median follow-up (often 2\u20134 years).",
+          "Stroke vs MI vs CV death components may diverge; pooling into MACE can hide harm in one component offset by benefit in another\u2014inspect each.",
+          "Early adverse gastrointestinal effects affect adherence; intention-to-treat preserves randomization but dilutes benefit if discontinuation is high\u2014check per-protocol sensitivity analyses.",
+          "Compare active control backgrounds: all patients should receive statins and BP therapy per standards; gaps in GDMT weaken real-world translation."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "ACC/AHA documents increasingly discuss GLP-1 and dual GIP/GLP-1 agents in obesity and diabetes with ASCVD, with attention to cost and access.",
+          "Clinic-ready: injectable and oral formulations with cardiovascular trial backing for specific labels\u2014not every GLP-1 molecule has identical outcome data.",
+          "Still emerging: primary prevention, heart failure subsets, and combination with SGLT2 inhibitors\u2014often registry data ahead of definitive trials.",
+          "Health-system translation includes prior authorization friction that trials do not capture."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Build a CVOT comparison table: drug, N, population, primary endpoint, HR, ARR, NNT, key safety signals.",
+          "Practice explaining non-inferiority margins versus superiority claims to a peer.",
+          "Read FDA label \u2018Indications\u2019 versus trial publications\u2014labels lag and narrow populations.",
+          "Follow AHA journal meta-analyses for class effects but verify heterogeneity across molecules."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "GLP-1 agonist outcome literacy is a case study in regulatory-driven trial design producing unexpected clinical benefit\u2014when methods are sound.",
+          "Relative effects travel fast on social media; absolute effects and eligible populations should travel with them.",
+          "Cardily educates on evidence, not prescribing GLP-1 therapy for individual risk."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 14,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "gene-therapy-heart-failure-ambitions",
+    "takeaways": [
+      "Cardiac gene therapy trials usually target sarcoplasmic reticulum calcium cycling (e.g., SERCA2a) or modulate inflammatory/fibrotic pathways\u2014endpoints mix hemodynamics and clinical events.",
+      "Phase 2 studies often use LV function surrogates (EF, end-systolic volume) with small N; translation requires durable event reduction in phase 3.",
+      "Delivery method (intracoronary infusion, AAV vectors) defines risk profiles; adverse event monitoring dominates early-phase designs.",
+      "Blinding is difficult when procedures differ; sham-controlled surgical trials are rare\u2014read open-label results cautiously.",
+      "Clinic readiness remains investigational outside research protocols; literacy means separating mechanistic promise from outcome proof."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Heart failure with reduced EF reflects maladaptive remodeling, neurohormonal activation, and molecular changes in cardiomyocytes. Gene therapy aims to restore deficient proteins or modulate pathologic signaling at the source.",
+          "Ambition outpaces evidence: viral vectors, durable expression, immune reactions, and off-target effects constrain scalable therapy.",
+          "Research tries to bridge bench discoveries (calcium handling, sarcomere genes) with catheter-based or systemic delivery feasible in humans.",
+          "Students should track what claim type each study makes\u2014expression, hemodynamics, symptoms, or hard events."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "Early-phase trials enroll highly selected HFrEF cohorts, often NYHA II\u2013III, on maximal medical therapy, excluding active myocarditis or severe renal/hepatic disease.",
+          "Endpoints include change in LVEF, 6-minute walk, NT-proBNP, and hospitalization composites over 12 months\u2014underpowered for mortality.",
+          "AAV trials monitor troponin elevations, immune responses, and liver enzyme shifts; dose-finding escalates under data safety boards.",
+          "Preclinical large-animal models (swine ischemia/reperfusion) precede human studies; translational gap is standard for the field."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Positive EF shifts of a few points may not translate to symptom or survival benefit\u2014surrogate validity is the central critical question.",
+          "Single-center enthusiasm and industry sponsorship require scrutiny of prespecified endpoints versus post hoc biomarker stories.",
+          "Relative improvements in BNP can reflect volume status rather than true reverse remodeling\u2014contextualize labs.",
+          "Compare effect sizes to established GDMT trials where mortality moved\u2014gene therapy must clear a high bar for adoption."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "No gene therapy is standard HF care; ACC/AHA guidance remains rooted in pharmacologic and device therapies with outcome trials.",
+          "Specialized centers run investigational protocols with IRB oversight\u2014translation readiness is \u2018research only.\u2019",
+          "Manufacturing scalability and long-term expression durability are active engineering problems.",
+          "Regulatory paths may require composite clinical endpoints rather than imaging alone\u2014FDA alignment shapes future trial sizes."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Read phase 1/2 press releases for missing control groups and underreported adverse events.",
+          "Map vector type (AAV serotype) to organ tropism and known class toxicities.",
+          "Follow ClinicalTrials.gov gene therapy heart failure listings for endpoint evolution.",
+          "Contrast ethical frameworks for first-in-human cardiac delivery with standard drug trials."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Gene therapy in HF teaches how molecular ambition meets trial reality: surrogates first, events later, safety always.",
+          "Maintain skepticism proportional to phase and sample size while respecting genuine innovation pathways.",
+          "Cardily covers research literacy, not enrollment in experimental gene protocols."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "digital-therapeutics-hypertension-evidence",
+    "takeaways": [
+      "Digital therapeutics (DTx) for hypertension usually combine home BP monitoring, coaching, and medication adherence prompts\u2014intervention components must be unpacked.",
+      "Many studies use change in systolic BP at 3\u20136 months as primary endpoint; long-term cardiovascular events data are sparse.",
+      "Unblinded participants and Hawthorne effects inflate apparent benefit versus usual care without equivalent contact time.",
+      "Regulatory clearance (FDA software as medical device) differs from payer coverage\u2014translation has two gates.",
+      "Absolute mmHg reductions matter clinically when sustained; small mean differences may still help at population scale if adherence is real."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Hypertension control reduces stroke and heart failure, yet real-world control rates lag guidelines. Digital tools promise continuous monitoring and behavioral nudges between clinic visits.",
+          "The research problem is whether structured digital programs add BP lowering beyond standard office care and home cuff use.",
+          "DTx spans FDA-regulated prescription apps to wellness trackers\u2014endpoint validity varies widely.",
+          "Literacy requires separating device accuracy from coaching content from pharmacist integration."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "Randomized trials often assign uncontrolled hypertensive adults to app-based interventions plus usual care versus usual care alone.",
+          "Primary outcomes frequently mean change in office or ambulatory systolic BP; secondary outcomes include medication adherence scores and patient activation.",
+          "Cluster-randomized employer studies appear\u2014intraclass correlation affects power and confidence intervals.",
+          "Duration matters: short trials capture initiation effects; maintenance at 12\u201324 months is harder to prove."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Ask whether control-group patients received any digital contact; parity of human time reduces bias.",
+          "Self-measured BP can improve with training alone\u2014attribute effects to the right component.",
+          "Relative percent BP reduction headlines hide baseline levels; 5 mmHg mean reduction has different implications at 150 vs 130 mmHg starting systolic.",
+          "Dropout and missing ambulatory BP readings threaten intention-to-treat integrity\u2014inspect multiple imputation methods."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "Some DTx have regulatory authorization for adjunctive hypertension management; guidelines mention self-measured BP and team-based care more than specific apps.",
+          "Health systems pilot DTx within hypertension bundles; evidence for hard ASCVD endpoints remains limited.",
+          "Equity concerns: smartphone access, health literacy, and cuff calibration in diverse populations affect real-world effectiveness.",
+          "Integration with EHR and pharmacist-led titration protocols is an implementation science frontier."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Build a PICO for each DTx paper: population risk, intervention parts, comparator intensity, outcome type.",
+          "Compare ACC hypertension guideline recommendations on home BP with trial inclusion criteria.",
+          "Search PubMed for \u2018digital therapeutic hypertension randomized\u2019 and tabulate follow-up length.",
+          "Discuss privacy and data governance as part of critical appraisal\u2014not optional ethics garnish."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Digital hypertension tools illustrate how behavioral trials must match comparator intensity and report absolute BP shifts with adherence data.",
+          "Translation readiness is partial: clinic workflows adopt monitoring faster than they adopt any single app brand.",
+          "Cardily educates on evidence quality, not app prescribing."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 12,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "actigraphy-sleep-heart-outcome-studies",
+    "takeaways": [
+      "Actigraphy estimates sleep-wake patterns from wrist movement; it is not polysomnography\u2014misclassification affects epidemiologic associations.",
+      "Prospective cohort studies link short or fragmented sleep with incident hypertension, AF, and CAD\u2014confounding by lifestyle and mental health persists.",
+      "Intervention trials using actigraphy as adherence or outcome tools need standardized scoring algorithms across device vendors.",
+      "Relative hazard ratios for \u2018short sleep\u2019 often modest; absolute risk differences depend on baseline cardiovascular risk and age.",
+      "Translation to clinic is screening and counseling, not diagnosing sleep apnea without formal sleep studies when suspicion is high."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Sleep duration and quality associate with autonomic tone, BP dipping, inflammation, and glucose metabolism\u2014all relevant to cardiovascular health.",
+          "Actigraphy enables large-scale, multi-night measurement in cohort studies impractical with in-lab polysomnography.",
+          "Research asks whether objectively measured sleep patterns predict events independently of traditional risk factors.",
+          "Readers must respect measurement limits while valuing population-level insights."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "Cohort studies (MESA, UK Biobank substudies, ARIC sleep modules) enroll thousands, strap devices for days, and link to adjudicated MI, stroke, HF, and atrial fibrillation.",
+          "Covariates include BMI, apnea risk scores, shift work, depression, and alcohol\u2014adjustment sets change hazard ratios materially.",
+          "Some trials randomize sleep extension or CBT-I and use actigraphy as secondary endpoints alongside BP and arterial stiffness.",
+          "Cross-sectional designs cannot establish directionality\u2014sick hearts may disturb sleep as much as short sleep harms hearts."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "A hazard ratio of 1.15 for \u2018short sleep\u2019 may reflect residual confounding; sensitivity analyses excluding early follow-up help but do not eliminate bias.",
+          "Device algorithms differ; harmonization projects attempt comparability\u2014check whether studies used validated cutoffs.",
+          "Relative risks amplify in low-risk young cohorts with tiny absolute event counts\u2014confidence intervals widen appropriately.",
+          "Competing risks (non-CV death) matter in older actigraphy cohorts\u2014cause-specific vs competing-risk models diverge."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "Sleep hygiene counseling is clinic-ready; actigraphy is research and selective clinical tool, not universal screening mandate.",
+          "Obstructive sleep apnea pathways still require diagnostic testing when clinical suspicion exists\u2014actigraphy does not replace apnea evaluation.",
+          "Cardiovascular guidelines increasingly mention sleep as risk modifier; strength of recommendation varies.",
+          "Wearable sleep staging from consumer devices lacks trial linkage to hard endpoints\u2014separate research-grade actigraphy from marketing."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Practice drawing DAGs (directed acyclic graphs) for sleep-CV associations to articulate confounding.",
+          "Read AHA scientific statements on sleep and cardiovascular disease for balanced synthesis.",
+          "Compare absolute 10-year risk shifts from sleep variables\u2014often smaller than from smoking or BP.",
+          "Use PubMed to find actigraphy methods papers before outcome papers."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Actigraphy studies teach measurement humility in big data: useful signals, imperfect gold standards, confounding always lurking.",
+          "Population sleep health matters; individual diagnosis still needs clinical sleep medicine when indicated.",
+          "Cardily focuses on interpreting sleep-heart literature, not treating sleep disorders from articles."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "interact-ascvd-risk-factor-combination-science",
+    "takeaways": [
+      "Risk factors interact: combined exposure (smoking plus hypertension plus diabetes) often produces supra-additive or sub-additive risk\u2014not simple sums.",
+      "Pooled cohort equations and newer PREVENT tools model combinations statistically; validation cohorts differ by race, ethnicity, and region.",
+      "Trials rarely randomize \u2018combinations\u2019; observational interaction terms require large samples and careful model specification.",
+      "Relative risk ratios for interaction do not translate directly to clinical action without absolute risk reclassification metrics.",
+      "Translation uses combined risk scores for statin and BP targets\u2014readiness depends on calibration in local populations."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "ASCVD prevention targets lipids, blood pressure, glucose, smoking, and kidney function. Real patients carry bundles of exposures accumulated over decades.",
+          "Combination science asks whether joint effects exceed what single-factor models predict\u2014critical for prioritizing interventions.",
+          "Risk engines embed statistical interactions; understanding their limits prevents overconfidence in a single number.",
+          "This topic is methods-heavy: literacy beats memorizing any one calculator output."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "Framingham, PCE, and PREVENT derive from multivariable Cox models with interaction terms or splines for age and risk factors.",
+          "Validation studies split cohorts geographically and demographically\u2014discrimination (C-statistic) and calibration plots judge performance.",
+          "Cluster trials of polypill strategies test combined pharmacologic delivery, not statistical interaction per se.",
+          "Mendelian randomization studies probe combined genetic proxies\u2014different causal language than RCTs."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "Statistical interaction on the multiplicative scale differs from additive scale\u2014read which scale authors report.",
+          "Overfitting interaction models in small datasets yields unstable estimates\u2014watch confidence interval width.",
+          "Relative hazard for smokers with diabetes may look large while absolute event rates remain low in younger groups.",
+          "Risk reclassification metrics (NRI) are controversial; net benefit frameworks preferred in some methodologic circles."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "ACC/AHA guideline discussions integrate multiple risk factors into treatment thresholds\u2014clinic-ready as shared decision tools.",
+          "PREVENT adoption is gradual; institutions must choose which calculator anchors protocols.",
+          "Combination pharmacotherapy trials (polypill) show adherence benefits\u2014implementation science more than biology.",
+          "Emerging biomarkers (Lp(a), hsCRP) add layers; combination models update as evidence accrues."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Recalculate example patients in online PREVENT and PCE tools; note differences.",
+          "Read primary validation papers, not only calculator landing pages.",
+          "Journal club an interaction term: interpret coefficient, CI, and clinical plausibility.",
+          "Connect to fixed-dose combination hypertension evidence elsewhere in this series."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Combination risk science reminds us cardiovascular prevention is multivariable, not siloed single-factor stories.",
+          "Absolute risk framing keeps interaction findings clinically grounded.",
+          "Cardily teaches appraisal of risk models, not replacing clinician judgment with a webpage score."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 12,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "community-health-worker-hypertension-trials",
+    "takeaways": [
+      "Community health worker (CHW) hypertension trials test task-shifting: non-clinician supporters deliver education, BP checks, and linkage to care.",
+      "Cluster-randomized designs randomize villages, clinics, or parishes\u2014intracluster correlation inflates required sample size.",
+      "Primary endpoints often mean systolic BP reduction or proportion at goal\u2014not MACE\u2014translation to events requires longer follow-up or modeling.",
+      "Contamination between clusters and spillover effects threaten internal validity if control communities receive partial programming.",
+      "Implementation readiness is high where workforce funding exists; evidence gaps remain for sustainability and cardiometabolic bundles beyond BP."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Hypertension prevalence is global, yet control rates lag especially where physician density is low. CHW models extend reach into homes and faith settings.",
+          "Research evaluates whether structured CHW protocols improve BP relative to usual health system contact.",
+          "Equity and access are central\u2014not afterthoughts\u2014because trials often enroll under-resourced populations by design.",
+          "Literacy means understanding cluster trials and real-world adherence to protocols."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "HOPE trials and similar programs randomize geographic clusters to CHW-led home BP monitoring plus treatment facilitation versus enhanced usual care.",
+          "Training standardization, supervision, and referral algorithms are intervention components\u2014detail matters for replication.",
+          "Sample size calculations account for design effect from clustering; ignore at peril of underpowered claims.",
+          "Economic evaluations accompany some trials\u2014cost per mmHg or per patient reaching goal."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Mean BP differences of 5\u201310 mmHg can be clinically meaningful if sustained\u2014check 12-month durability, not only 3-month wins.",
+          "Control groups may receive education pamphlets\u2014ensure comparators match intensity where claiming superiority.",
+          "Relative risk of \u2018BP at goal\u2019 depends on baseline control rates\u2014report absolute proportion changes.",
+          "Selection of CHWs and community trust affects outcomes\u2014qualitative substudies explain quantitative results."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "WHO and national ministries endorse CHW hypertension programs where trials show feasibility\u2014translation is policy plus payroll.",
+          "US models vary by payer; Medicaid waivers and FQHC integration differ from global LMIC implementations.",
+          "Hard ASCVD endpoint trials with CHW arms are rare\u2014most evidence stops at intermediate outcomes.",
+          "Combining CHW BP work with diabetes and smoking cessation is active implementation research."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Sketch a cluster trial diagram: units, randomization, analysis level (individual vs cluster).",
+          "Read CONSORT extension for cluster trials when appraising papers.",
+          "Compare ACC global BP initiatives with local CHW program metrics.",
+          "Search ClinicalTrials.gov for \u2018community health worker blood pressure\u2019 to see endpoint choices."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "CHW hypertension trials show how health systems research uses cluster designs to match delivery reality.",
+          "Absolute BP and control proportions belong in every summary\u2014not only p-values.",
+          "Cardily educates on trial reading; community programs require local leadership and clinical backup."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "living-myocardial-patches-preclinical-path",
+    "takeaways": [
+      "Engineered myocardial patches aim to remuscularize infarct zones or support failing ventricles\u2014preclinical endpoints focus on graft survival, vascularization, and arrhythmia risk.",
+      "Large-animal models (swine MI) dominate; translation to humans requires GMP manufacturing, immunogenicity control, and delivery surgery trials.",
+      "EF improvement in animals does not automatically predict anti-remodeling benefit\u2014surrogate imaging endpoints need human event linkage.",
+      "Blinding in animal studies is uneven; randomization and sample size often smaller than human phase 1 standards.",
+      "Clinical readiness is early-phase human safety studies only; literacy treats press releases as hypothesis, not therapy."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "After myocardial infarction, scar replaces contractile tissue. Living patches\u2014cell-seeded scaffolds or tissue-engineered constructs\u2014seek to restore mechanical function and paracrine signaling.",
+          "Preclinical path maps bench optimization to large-animal proof-of-concept before first-in-human surgical implantation.",
+          "Arrhythmogenicity and thrombogenicity are safety concerns that animal models attempt to screen.",
+          "Readers learn what preclinical success criteria actually measure."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "Studies randomize swine to patch implantation versus sham thoracotomy or standard care post-LAD ligation.",
+          "Endpoints include scar size on MRI, LVEF, wall stress, and histologic vascular density at 4\u201312 weeks.",
+          "Cell sources (iPSC-derived cardiomyocytes, MSCs) and scaffolds (hydrogels, decellularized matrix) vary\u2014cross-study comparison is hard.",
+          "Good Manufacturing Practice scale-up and tumorigenicity assays precede regulatory IND submissions."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "Small n in animal labs produces fragile EF estimates\u2014inspect error bars and repeat experiments.",
+          "Mechanical coupling of patch to native myocardium may fail silently\u2014functional assays beyond EF matter.",
+          "Immunosuppression strategies in xenograft models may not match human autoimmune responses.",
+          "Relative scar reduction percentages can look impressive with tiny absolute scar volumes\u2014contextualize."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "First-in-human surgical trials monitor arrhythmia, imaging integration, and procedural complications\u2014no guideline endorsement yet.",
+          "ACC/AHA heart failure care remains medical and device-based for virtually all patients.",
+          "Regulatory agencies expect phased escalation with explicit stopping rules for ectopy or graft failure.",
+          "Cost and surgical complexity limit population impact even if efficacy emerges."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Read stem-cell and tissue-engineering reviews in AHA journals for balanced preclinical synthesis.",
+          "Track ClinicalTrials.gov entries for \u2018cell patch myocardial infarction\u2019 phase 1 designs.",
+          "Compare endpoint choices across species\u2014ejection fraction vs pressure-volume loops.",
+          "Discuss ethics of early human surgical trials with small expected benefit."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Living patches illustrate the long preclinical bridge in regenerative cardiology\u2014biology, engineering, and surgical delivery intertwined.",
+          "Surrogate success in animals demands humble translation language.",
+          "Cardily teaches critical reading of regenerative hype without dismissing rigorous science."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 12,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "how-to-read-a-cardiology-randomized-trial",
+    "takeaways": [
+      "Start with the clinical question (PICO), then eligibility\u2014who was enrolled defines who the answer applies to.",
+      "Primary endpoint hierarchy is prespecified in the protocol; secondary endpoints are exploratory unless trial powered for them.",
+      "Intention-to-treat analysis preserves randomization; per-protocol analyses can bias toward efficacy.",
+      "Report both relative effect (HR, RR) and absolute event rates with confidence intervals\u2014NNT derives from absolute differences.",
+      "Guideline adoption tracks consistency across trials, safety, and feasibility\u2014not a single positive p-value."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Randomized trials exist to estimate causal effects of interventions while minimizing confounding. Cardiology trials influence stent choices, drug labels, and device approvals worldwide.",
+          "Readers without biostatistics training can still master a structured approach that catches most misleading claims.",
+          "The problem is information overload: supplementary appendices hold randomization details, event adjudication, and subgroup plans.",
+          "This article is a reusable reading framework, not commentary on one trial."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "Parallel-group RCTs dominate: eligible patients randomized to intervention vs control, followed until prespecified events accrue.",
+          "Event-driven designs extend follow-up until target event counts\u2014explains why trial duration varies by control event rate.",
+          "Crossover, factorial, and cluster designs appear in cardiology\u2014identify design before interpreting statistics.",
+          "Registry-linked pragmatic trials blend real-world data with randomization\u2014watch for loss to follow-up."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Check allocation concealment and blinding where feasible\u2014open-label procedural trials still valid but bias procedures toward intervention.",
+          "Composite endpoints: require each component clinically meaningful and similarly serious; inspect component-specific forest plots.",
+          "Non-inferiority margins are clinical judgments encoded statistically\u2014superiority claims need HR CI entirely below 1.",
+          "Fragility: small changes in a few events can flip significance\u2014consider fragility index alongside p-values."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "Trials with consistent mortality or MACE benefit across multiple studies drive ACC/AHA class I recommendations when feasible.",
+          "Surrogate-only trials (plaque volume, FFR) may inform research paths without changing standard care immediately.",
+          "Negative trials are informative\u2014 they narrow eligible populations and stop harmful widespread adoption.",
+          "Translation includes cost, training, and equity\u2014not only statistical significance."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Use a one-page trial worksheet: funding, N, follow-up, primary endpoint, ITT result, harms, applicability.",
+          "Practice with landmark trials (4S, COURAGE, DAPA-HF) to calibrate expectations for effect sizes.",
+          "Read CONSORT diagrams for dropout patterns.",
+          "Cross-check ClinicalTrials.gov registration for outcome switching versus published primary endpoint."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Reading cardiology RCTs is a learnable skill that protects patients and learners from hype.",
+          "Absolute effects and applicability questions should close every journal club.",
+          "Cardily reinforces methods education; clinical application stays with care teams."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 14,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "computational-fluid-dynamics-coronary-research",
+    "takeaways": [
+      "CFD simulates blood flow in patient-specific coronary models from CT or angiography\u2014outputs include wall shear stress and pressure gradients.",
+      "Validation studies compare CFD-derived FFR estimates to invasive FFR; diagnostic accuracy endpoints differ from outcome trials.",
+      "Mesh quality, boundary conditions, and pulsatile versus steady-state assumptions affect results\u2014reproducibility is methodological core.",
+      "Relative improvement in AUC for ischemia detection must be weighed against downstream cath lab utilization in strategy studies.",
+      "Clinic translation exists for FFR-CT products where reimbursed; pure research CFD remains non-standard for individual care decisions."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "Coronary stenosis severity on angiography poorly predicts ischemia. CFD plus anatomical models estimate functional significance noninvasively.",
+          "Research asks whether simulation-based metrics improve risk stratification or revascularization decisions versus anatomy alone.",
+          "CFD sits between engineering and clinical epidemiology\u2014both literacies required.",
+          "Not medical advice on whether to obtain FFR-CT."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "Studies reconstruct vessels from CT, apply Navier-Stokes equations, and compare simulated FFR to wire-based FFR in sequential validation cohorts.",
+          "Blinded core labs adjudicate invasive reference standards\u2014partial verification when not all patients undergo wire FFR.",
+          "Some trials randomize CT-FFR care pathways vs standard CT interpretation with MACE or procedure endpoints.",
+          "Sensitivity analyses test impact of microcirculatory disease where CFD may underperform."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "High diagnostic AUC in referral centers may shrink in all-comers chest pain populations\u2014spectrum bias lesson.",
+          "Relative reductions in unnecessary angiography can still miss ischemia if thresholds miscalibrated\u2014absolute false negative rates matter.",
+          "Vendor-specific algorithms limit independent replication\u2014data sharing requests increasingly common.",
+          "Computational cost and reader training affect real-world accuracy versus trial conditions."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "FFR-CT is integrated in guidelines-influenced pathways where payment and expertise exist.",
+          "Pure research CFD exploring shear stress and plaque progression remains investigational for patient-specific therapy.",
+          "AI segmentation errors propagate to hemodynamics\u2014human oversight still required.",
+          "Outcome trials linking CFD-guided deferral to long-term safety continue to define readiness."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Read validation papers for Bland-Altman plots and per-vessel vs per-patient analyses.",
+          "Follow ACC appropriate use criteria updates on coronary CT functional assessment.",
+          "PubMed search \u2018fractional flow reserve computed tomography randomized\u2019 for strategy trials.",
+          "Discuss uncertainty quantification in CFD papers\u2014often omitted but important."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "CFD coronary research shows how engineering models enter medicine through staged validation, not through visuals alone.",
+          "Absolute procedure and event rates should accompany diagnostic accuracy praise.",
+          "Cardily teaches appraisal; test ordering remains clinical."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "colchicine-coronary-inflammation-trials",
+    "takeaways": [
+      "Low-dose colchicine trials (LoDoCo2, COLCOT, CLEAR) target residual inflammatory risk after MI or in chronic CAD\u2014primary endpoints are MACE composites.",
+      "Anti-inflammatory mechanism differs from lipid lowering; background statin therapy is standard in enrolled populations.",
+      "Effect sizes are modest relative risk reductions with absolute benefits tied to recurrent event rates in secondary prevention.",
+      "GI intolerance and drug interactions (CYP3A4, P-gp) affect adherence and safety\u2014trials report discontinuation rates.",
+      "ACC guidance acknowledges role in selected secondary prevention patients; primary prevention and HF populations differ\u2014read labels carefully."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Atherosclerosis is inflammatory. Despite statins, some patients have recurrent MI or urgent revascularization\u2014residual risk drives colchicine research.",
+          "Colchicine, used in gout, inhibits microtubule assembly affecting neutrophil recruitment\u2014repurposing with outcome trials followed.",
+          "Question: does low-dose anti-inflammatory therapy reduce MACE when added to modern secondary prevention?",
+          "Literacy focuses on trial populations and absolute benefit, not DIY colchicine use."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "COLCOT enrolled recent MI patients on standard care, randomized to colchicine 0.5 mg daily vs placebo, primary composite CV death, resuscitated arrest, MI, stroke, or urgent revascularization.",
+          "LoDoCo2 studied chronic CAD over longer follow-up with similar composites\u2014event rates lower, absolute benefits smaller.",
+          "CLEAR outcomes explored broader atherosclerotic populations with kidney endpoints co-primary in related programs\u2014read each trial\u2019s hierarchy.",
+          "Event-driven follow-up with independent adjudication is standard."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Hazard ratios near 0.75\u20130.85 translate to NNT depending on control event rates over trial duration\u2014calculate, don\u2019t memorize.",
+          "Composite driven by revascularization vs hard death/MI differs in patient salience\u2014component forest plots essential.",
+          "Open-label extension and crossover can blur long-term inference\u2014check analysis plans.",
+          "Subgroups (renal function, age) often underpowered\u2014avoid over interpreting single interactions."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "Guidelines incorporate low-dose colchicine for selected secondary prevention when other therapies optimized\u2014implementation varies globally.",
+          "Not established for primary prevention or all HF phenotypes\u2014translation is narrow.",
+          "Drug-drug interaction screening in EMRs becoming clinic-ready where adopted.",
+          "Ongoing research asks about combination with IL-1 pathway agents and precision by hsCRP."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Compare three colchicine trials in one table\u2014population, event rate, HR, ARR, safety stops.",
+          "Read ACC expert consensus documents on residual inflammatory risk.",
+          "PubMed \u2018colchicine myocardial infarction randomized\u2019 for updates.",
+          "Practice explaining why relative anti-inflammatory benefit still needs adherence and monitoring."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Colchicine trials exemplify repurposing with outcome endpoints\u2014 modest absolute effects in real secondary prevention event rates.",
+          "Inflammation science is compelling; adoption follows replicated MACE reductions and safety clarity.",
+          "Cardily educates; prescribing belongs to clinicians."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 14,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "coronary-inflammation-imaging-research",
+    "takeaways": [
+      "Coronary inflammation imaging (e.g., perivascular fat attenuation on CT, PET with inflammatory tracers) targets biology beyond stenosis grade.",
+      "Most data correlate imaging signals with outcomes observationaly; randomized management trials are fewer.",
+      "Surrogate endpoints (FAI, target-to-background ratio) require validation against events and treatment response.",
+      "Confounding by plaque burden and risk factors affects associations\u2014multivariable adjustment and serial imaging help.",
+      "Clinic translation is research and risk communication tool, not standard gate for all PCI decisions."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "High-risk plaques may inflame before rupture. Anatomic stenosis alone misses biology driving acute coronary syndromes.",
+          "Imaging research seeks visual or quantitative markers of arterial wall inflammation activatable in vivo.",
+          "The clinical research gap is whether treating inflammation signals improves outcomes versus treating risk factors alone.",
+          "Appraisal separates beautiful images from decision-changing evidence."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "CT perivascular fat attenuation indexing (FAI) studies link voxel signals around vessels to future ACS in cohorts with serial CT.",
+          "PET tracers (18F-FDG historically, newer vascular inflammation agents) measure uptake in arterial walls\u2014radiation and reproducibility challenges.",
+          "Biobank and post-MI cohorts provide event linkage with adjudication.",
+          "Intervention substudies ask whether statins or colchicine shift imaging signals\u2014surrogate endpoint trials."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Observational hazard ratios for \u2018high FAI\u2019 may shrink after adjusting for plaque volume and traditional risk\u2014residual confounding persists.",
+          "Relative risk increases sound alarming with low baseline ACS rates\u2014absolute risk remains small in many cohorts.",
+          "Reader variability and scanner generation affect quantification\u2014multicenter harmonization needed.",
+          "Lead-time bias if imaging identifies imminent events already clinically suspected."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "Inflammation imaging enriches research cohorts for colchicine or intensive statin trials\u2014emerging enrichment strategy.",
+          "Not ACC/AHA mandated for routine chest pain evaluation.",
+          "Specialized centers publish most series\u2014generalizability limited.",
+          "AI quantification tools seek regulatory paths as software devices."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Read original FAI methodology papers plus independent replication attempts.",
+          "Compare surrogate shifts in colchicine substudies to hard endpoints in parent trials.",
+          "AHA journal reviews on vascular inflammation imaging for synthesis.",
+          "ClinicalTrials.gov search \u2018coronary inflammation imaging\u2019 for interventional designs."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Inflammation imaging advances biology visibility; outcome-linked management trials still maturing.",
+          "Readers pair surrogate enthusiasm with absolute event context.",
+          "Cardily teaches methods, not ordering experimental scans."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "ecmo-randomized-evidence-gaps",
+    "takeaways": [
+      "ECMO randomized trials in cardiogenic shock and cardiac arrest are ethically and logistically hard\u2014many evidence summaries rely on registries and non-randomized comparisons.",
+      "ECLS-Shock and similar trials test early ECMO plus revascularization vs standard care with mortality endpoints\u2014implementation defines treatment contrast.",
+      "Crossover and rescue ECMO in control arms dilute estimated treatment effects\u2014read protocol allowances.",
+      "Absolute mortality differences in shock trials are small relative to high baseline death rates\u2014NNT and harms (bleeding, limb ischemia) central.",
+      "Guidelines discuss ECMO as rescue in selected centers; translation requires regionalization and team volume."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Cardiogenic shock and refractory cardiac arrest carry high mortality. ECMO provides temporary circulatory support while treating underlying cause.",
+          "Rapid adoption outpaced randomized evidence\u2014classic example of innovation-pressure versus trial feasibility.",
+          "Research gaps include patient selection, timing, and comparison to modern impella-supported strategies.",
+          "Literacy clarifies what RCTs exist versus what registries suggest."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "Randomized trials randomize early shock patients to ECMO protocols versus conservative strategy with prespecified rescue rules.",
+          "Primary endpoints often 30-day mortality; secondary include safety, organ failure, and functional status.",
+          "Multicenter enrollment requires standardized cannulation protocols and transport networks\u2014cluster effects within centers.",
+          "ARREST and related trials in refractory VF address overlapping but distinct populations."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Intention-to-treat with crossover interprets as policy effect\u2014per-protocol may exaggerate ECMO benefit if sickest cross over.",
+          "Relative mortality reductions of 10\u201315% relative may be few absolute lives in small trials\u2014confidence intervals often wide.",
+          "Bleeding, stroke, and limb ischemia are competing harms\u2014not rare footnotes.",
+          "Selection bias in ECMO registries (sicker patients chosen for cannulation) inflates non-randomized comparisons."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "ACC/AHA shock statements reference ECMO as rescue in experienced centers\u2014not first-line for all comers.",
+          "Regional ECMO networks determine real-world survival more than trial HRs alone.",
+          "Device comparison trials (ECMO vs microaxial flow) emerging\u2014evidence still formative.",
+          "Cost and ICU bed constraints shape translation as much as statistics."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Map ECLS-Shock CONSORT flow\u2014who excluded, who crossed over.",
+          "Read Society of Thoracic Surgeons ECMO registry methods papers.",
+          "PubMed \u2018extracorporeal membrane oxygenation randomized cardiogenic shock\u2019.",
+          "Discuss ethics of randomizing life-support in time-critical illness."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "ECMO evidence gaps teach humility about life-saving technologies adopted under moral urgency.",
+          "Absolute mortality, harms, and center experience belong in every summary.",
+          "Cardily educates on evidence limits; ECMO decisions are emergent clinical work."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 14,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "fixed-dose-combination-hypertension-evidence",
+    "takeaways": [
+      "Fixed-dose combination (FDC) pills pair two antihypertensives (often thiazide-like plus ACEi/ARB or CCB) to improve adherence and speed titration.",
+      "Trials such as PATHWAY and polypill programs measure BP lowering and time-to-control versus free combinations\u2014event outcomes less common.",
+      "Non-inferiority on BP is typical design; superiority on adherence is key translational claim.",
+      "Absolute mmHg differences of 3\u20135 between arms may be small; population impact scales if adherence gains are real.",
+      "WHO and ACC endorse FDC strategies in some settings; US uptake varies with formulary and physician habit."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "Hypertension control fails when regimens are complex and follow-up sparse. FDCs reduce pill burden and simplify prescribing.",
+          "Research tests whether FDC strategies achieve better BP control and cardiovascular risk reduction than usual multi-pill prescribing.",
+          "Polypill concepts extend FDC to include statin and aspirin in secondary prevention\u2014different endpoint priorities.",
+          "Literacy unpacks adherence mechanisms from pharmacologic synergy."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "Randomized trials assign adults with uncontrolled BP to FDC initiation vs usual care or free combination with matching components.",
+          "Primary outcomes: mean SBP change at 6\u201312 weeks or proportion at goal; secondary: adherence by pill count or pharmacy fills.",
+          "Some large polypill trials in secondary prevention use MACE\u2014longer, event-driven designs.",
+          "Cluster-randomized primary care studies appear in LMIC settings with CHW support."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "Relative risk of reaching BP goal improves with FDC, but control-group intensification must be fair\u2014if usual care under-treats, effect inflates.",
+          "Absolute adherence gains of 10\u201320 percentage points matter if sustained\u2014check dropout.",
+          "BP equivalence trials need bioequivalence assumptions\u2014different generics affect trust.",
+          "Harms: hypotension symptoms, electrolyte changes\u2014same as components, but combined initiation may surprise patients."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "ACC global hypertension initiatives promote single-pill combinations where available.",
+          "US translation limited by insurance tiers and physician preference for titration flexibility.",
+          "Polypill secondary prevention trials (TIPS-3 etc.) inform policy abroad; local guideline uptake varies.",
+          "Implementation research on pharmacist-led FDC initiation is clinic-adjacent and growing."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Compare FDC trial tables: components, baseline BP, delta, adherence metric.",
+          "Read WHO essential medicines list rationale for antihypertensive FDCs.",
+          "PubMed \u2018single pill combination hypertension randomized\u2019.",
+          "Link to salt-substitute and CHW articles for population BP strategy context."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "FDC hypertension evidence is adherence science as much as pharmacology\u2014absolute BP and persistence tell the story.",
+          "Translation depends on systems, not only trial significance.",
+          "Cardily educates; prescribing is clinical."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "salt-substitute-cluster-randomized-evidence",
+    "takeaways": [
+      "Salt substitutes (KCl partial replacement) lower sodium intake while increasing potassium\u2014cluster trials randomize villages or households.",
+      "SSaSS trial in rural China showed stroke and major cardiovascular event reduction with potassium-enriched salt\u2014population with high stroke risk.",
+      "Primary composites combine stroke, major CV events, and safety monitoring for hyperkalemia in at-risk subgroups.",
+      "Absolute event reductions depend on baseline stroke rates; relative reductions ~10\u201315% reported in SSaSS with long follow-up.",
+      "Translation requires local dietary patterns, kidney disease prevalence, and supply-chain access\u2014not one-size global switch."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "Excess dietary sodium raises BP; potassium intake often inadequate. Salt substitutes attempt dual modification at the cooking source.",
+          "Population-level intervention suits cluster randomization because kitchens and social norms cluster geographically.",
+          "Research question: does substitute use reduce hard vascular events safely compared with regular salt?",
+          "Not advice to change diet without clinical context\u2014especially advanced CKD."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "SSaSS randomized ~600 villages, provided subsidized salt substitute, monitored use with periodic spot checks.",
+          "Primary outcome stroke; key secondary major cardiovascular events; safety tracked serious hyperkalemia and AKI.",
+          "Intention-to-treat at village level with long follow-up (~5 years) powered for stroke reduction.",
+          "Other trials examine BP surrogates in smaller cluster designs\u2014shorter follow-up."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "Relative stroke reduction must be read with control event rates and confidence intervals\u2014NNT meaningful in high-risk regions.",
+          "Hyperkalemia risk concentrates in older adults with CKD or on RAAS inhibitors\u2014subgroup monitoring essential.",
+          "Contamination if control villages acquire substitute commercially attenuates effect toward null.",
+          "Dietary sodium biomarkers (24h urine) validate adherence better than self-report."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "Policy translation discussed in stroke-belt and Asian rural contexts; less clear for urban processed-food economies.",
+          "ACC/AHA emphasize sodium reduction generally; specific substitute products vary by market.",
+          "Clinic counseling for individual CKD patients differs from population salt policy.",
+          "Implementation studies on labeling and price subsidies ongoing."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Read SSaSS NEJM primary paper and appendix for cluster analysis methods.",
+          "Practice explaining cluster randomization to a peer using village maps.",
+          "Compare absolute stroke rates per 1000 person-years between arms.",
+          "ClinicalTrials.gov \u2018salt substitute cardiovascular\u2019 for newer designs."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Salt substitute trials exemplify cluster RCTs for lifestyle infrastructure with hard endpoints\u2014 rare and influential.",
+          "Absolute event context and safety subgroups prevent overgeneralization.",
+          "Cardily teaches appraisal, not unsupervised potassium salt use in high-risk kidney disease."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 14,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "tobacco-control-policy-cardiovascular-impact-studies",
+    "takeaways": [
+      "Policy studies use quasi-experimental designs (difference-in-differences, interrupted time series) when randomization is impossible.",
+      "Smoke-free air laws, tax increases, and flavor bans associate with acute MI admission declines in some jurisdictions\u2014effect sizes vary.",
+      "Endpoints are often hospitalization codes, not long-term randomized mortality\u2014confounding by concurrent health policies persists.",
+      "Absolute admission drops can be small relative to baseline rates but meaningful at population scale.",
+      "Translation to CV risk reduction is public-health ready; individual cessation still needs clinical support."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Smoking damages endothelium, promotes thrombosis, and accelerates atherosclerosis. Tobacco control is cardiovascular prevention at population scale.",
+          "Research evaluates whether policies change smoking prevalence and downstream MI/stroke admissions.",
+          "Randomized policy trials are rare; natural experiments dominate.",
+          "Literacy teaches quasi-experimental appraisal, not political advocacy."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "Studies compare regions before/after policy implementation with control regions unchanged over the same calendar period.",
+          "Outcomes: age-adjusted AMI hospitalization rates, smoking prevalence surveys, youth initiation metrics.",
+          "Long lag between policy and hard events requires long observation windows.",
+          "Some cohorts link biomarkers (cotinine) to subclinical atherosclerosis progression."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Parallel trends assumption critical\u2014if control regions differ economically, bias enters.",
+          "Relative admission declines of 5\u201315% post-ban headlines need denominators and coding stability checks.",
+          "Ecological fallacy: population trends don\u2019t prove individual benefit without linking datasets.",
+          "E-cigarette transitions complicate tobacco exposure classification in modern studies."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "AHA and CDC endorse comprehensive tobacco control as CV prevention pillar\u2014implementation ready at policy level.",
+          "Clinical cessation pharmacotherapy evidence separate but synergistic.",
+          "Disparities persist\u2014policy studies should report effects by income and race/ethnicity.",
+          "Emerging nicotine product regulation continues to evolve faster than long-term CV outcome data."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Read example difference-in-differences paper with causal diagram.",
+          "Compare ACC prevention documents on tobacco with epidemiologic effect sizes.",
+          "PubMed \u2018smoke-free legislation myocardial infarction\u2019 for meta-analyses.",
+          "Discuss limits of ICD-coded admissions as endpoints."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Tobacco policy CV studies show how cardiovascular research extends beyond pills to societal interventions\u2014with methodological tradeoffs.",
+          "Absolute population benefit framing keeps policy science honest.",
+          "Cardily educates on evidence; quitting support is clinical and community work."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "legacy-of-statins-post-trial-follow-up",
+    "takeaways": [
+      "Legacy effect describes sustained benefit after trial stop or delayed separation of curves\u2014seen in some statin and BP trials, not all.",
+      "Post-trial open-label follow-up loses randomization\u2014survivor bias and treatment crossover confound causal inference.",
+      "WOSCOPS, CARE, and long-term extension studies inform lifetime LDL exposure hypotheses.",
+      "Relative risk reductions may persist in extensions, but absolute interpretation requires knowing who remained under observation.",
+      "Guidelines emphasize long-term statin therapy in indicated patients based on RCTs plus consistent observational harmonization\u2014not legacy alone."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "Statins reduce LDL and stabilize plaque. Trials with 4\u20135 year follow-up showed MACE reduction; researchers asked whether benefits accumulate or persist after stopping.",
+          "Legacy research explores biology (plaque regression, endothelial memory) and methodology (curve separation after trial end).",
+          "Distinction from \u2018legacy\u2019 marketing language\u2014critical appraisal required.",
+          "Educational focus on post-trial designs, not lipid targets for individuals."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "Initial RCTs randomized double-blind phases; extensions invite participants to open-label statin with variable adherence.",
+          "Some analyses use legacy cohorts with continued treatment vs delayed start\u2014pseudo-randomization degrades.",
+          "Mortality endpoints need longer follow-up than MACE\u2014power challenges.",
+          "Registry linkages (national health systems) enable passive follow-up with treatment drift."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "If curves separate only years after randomization ends, ask whether both groups converged on statin use\u2014crossover dilution.",
+          "Relative legacy HRs can look impressive among survivors\u2014absolute mortality differences may be modest.",
+          "Healthy adherer bias in extensions overestimates benefit\u2014compare ITT from original trial phase first.",
+          "Contrast trials without legacy (immediate separation) vs delayed separation patterns."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "ACC/AHA recommend continued statin in secondary prevention and selected primary prevention\u2014based on trial phases with intact randomization.",
+          "Legacy analyses support lifetime exposure concept but don\u2019t replace ongoing adherence counseling.",
+          "PCSK9 era raises questions about legacy of profound LDL lowering\u2014long-term outcome trials ongoing.",
+          "Translation: don\u2019t stop statins in indicated patients because of misunderstood \u2018legacy\u2019 headlines."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Plot Kaplan-Meier curves from original and extension publications side by side.",
+          "Read AHA reviews on cumulative LDL exposure and lifetime risk.",
+          "PubMed \u2018statin legacy effect follow-up\u2019 critically.",
+          "Journal club: what would ideal post-trial design look like?"
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Statin legacy teaches post-randomization pitfalls and long horizons in prevention science.",
+          "Trust primary trial ITT first; treat extensions as hypothesis-generating.",
+          "Cardily educates on evidence layers, not personal statin decisions."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 12,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "composite-endpoints-pros-and-pitfalls",
+    "takeaways": [
+      "Composite endpoints combine events (e.g., CV death, MI, stroke) to increase statistical power and capture total morbidity.",
+      "Components should be similarly serious to patients and biologically related\u2014mixing hospitalization with death can mislead.",
+      "Dominance problems occur when benefit concentrates in softer components while hard endpoints neutral.",
+      "Relative composite HRs hide which component moved\u2014always request component-specific analyses.",
+      "Regulatory and guideline acceptance depends on prespecification and clinical salience, not convenience alone."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Cardiovascular trials need many events for power. Composites inflate event rates by counting first of several types.",
+          "The research problem composites solve is efficiency; the pitfall is interpretability.",
+          "Readers encounter composites in heart failure hospitalization trials, MACE trials, and device studies.",
+          "Literacy means judging composite quality before accepting a headline HR."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "Trials prespecify hierarchical composites (win ratio approaches in some HF trials) or traditional time-to-first-event.",
+          "Adjudication committees blinded to treatment assign event labels\u2014quality matters.",
+          "Some designs use recurrent event composites\u2014different statistical models.",
+          "FDA guidance discusses acceptable composite structures for approval."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Ask: would patients value all components equally? HF hospitalization vs CV death often yes in HF trials; angina revascularization mixes with death in some CAD composites\u2014scrutinize.",
+          "Relative 20% composite reduction driven entirely by revascularization may not imply mortality benefit.",
+          "Absolute event rates per component clarify NNT for outcomes patients fear most.",
+          "Multiplicity adjustments for secondary components\u2014check hierarchy."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "Guidelines cite composites from major trials when components align with goals of care\u2014HF hospitalization reduction is actionable.",
+          "Surrogate-rich composites in imaging trials less clinic-ready.",
+          "Win ratio methods (HF trials) attempt ordinal ranking\u2014learn basics to read modern papers.",
+          "Translation requires communicating which part of composite matters to shared decisions."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Decompose DAPA-HF and COLCOT composites as practice.",
+          "Read ACC/AHA glossary entries on endpoint types.",
+          "PubMed \u2018composite endpoint cardiovascular trial methodology\u2019.",
+          "Discuss ethical issue of powering on softer endpoints alone."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Composites are tools, not shortcuts\u2014good ones respect patient priorities and prespecification.",
+          "Absolute component rates should accompany every relative composite claim.",
+          "Cardily builds methods literacy for journal clubs and guideline reading."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "blinding-and-allocation-concealment-in-heart-trials",
+    "takeaways": [
+      "Allocation concealment prevents foreknowledge of upcoming assignments at enrollment; blinding reduces post-randomization bias in outcomes and care.",
+      "Drug trials often double-blind with matched placebo; device/procedure trials frequently open-label with blinded endpoint adjudication.",
+      "Performance bias occurs when clinicians treat arms differently; detection bias when outcome assessors know assignment.",
+      "Sham-controlled device trials are gold standard but ethically and practically limited.",
+      "Appraisal checklist: who was blinded, to what, and for how long?"
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "Randomization removes confounding at baseline; blinding protects equality after randomization.",
+          "Heart trials span pills (easier to blind) to PCI vs medical therapy (harder).",
+          "Misunderstanding blinding leads to over-trusting open-label procedural superiority claims.",
+          "This article teaches bias taxonomy applied to cardiology examples."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "Double-blind RCTs use identical-appearing study drug and centralized randomization with concealed lists.",
+          "Open-label strategy trials may blind event committees reviewing hospital records for MACE.",
+          "ECG core labs blinded to treatment for QT or arrhythmia endpoints in drug trials.",
+          "Cluster trials rarely blind participants\u2014design effect and bias both increase."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "If only \u2018investigator blinded\u2019 is stated, clarify whether patients and outcome assessors were blinded.",
+          "Relative benefits in open-label revascularization trials may reflect referral patterns\u2014COURAGE lessons linger.",
+          "Placebo effects on symptoms can mimic drug benefits in angina trials\u2014blinding essential for symptom endpoints.",
+          "Early unblinding for safety should be reported with impact on analysis."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "Regulatory submissions require blinding descriptions\u2014labels reflect trial integrity.",
+          "Guidelines downgrade open-label evidence when outcomes subjective.",
+          "Blinded adjudication is clinic-adjacent standard in major outcome trials.",
+          "Digital adherence monitoring doesn\u2019t replace blinding for soft outcomes."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Use Cochrane risk-of-bias tool on a cardiology paper.",
+          "Compare blinded vs open-label HF drug trials\u2019 effect sizes informally (with caution).",
+          "ACC clinical trial primer documents on bias.",
+          "Role-play explaining allocation concealment vs random sequence generation."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Blinding and concealment are invisible when done well\u2014readers must hunt for them.",
+          "Absolute outcomes still matter; blinding reduces but doesn\u2019t eliminate skepticism needs.",
+          "Cardily strengthens trial literacy, not trial conduct."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 12,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "absolute-versus-relative-risk-reduction-teaching",
+    "takeaways": [
+      "Relative risk reduction (RRR) divides absolute risk drop by control risk\u2014stable across baselines only in proportional hazards assumptions, not in public communication.",
+      "Absolute risk reduction (ARR) and number needed to treat (NNT = 1/ARR) ground shared decisions.",
+      "Same RRR can imply different NNT when control event rates differ\u2014secondary prevention vs low-risk primary prevention.",
+      "Relative measures dominate marketing; guidelines increasingly show absolute tables.",
+      "Teaching habit: always pair HR or RRR with event rates per 1000 patient-years."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Patients and learners encounter \u201830% reduction\u2019 constantly in cardiology media. Without baseline risk, the phrase is incomplete.",
+          "Research reporting standards (CONSORT) encourage absolute metrics; adherence uneven.",
+          "The pedagogical problem is cognitive: relative numbers feel big, absolute numbers calibrate.",
+          "Not investment or treatment advice\u2014numeracy for evidence reading."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "RCTs report intention-to-treat event counts by arm over follow-up\u2014numerators and denominators enable ARR calculation.",
+          "Kaplan-Meier curves visualize absolute separation over time\u2014read at clinically relevant timepoints.",
+          "Hazard ratios summarize relative instantaneous risk\u2014distinct from absolute cumulative incidence if non-proportional hazards.",
+          "Meta-analyses pool relative effects; absolute benefit requires applying to local baseline risk."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Example: RRR 25% with 8% control vs 6% intervention = 2 ARR percentage points, NNT 50 over trial duration.",
+          "Same RRR with 40% control vs 30% = 10 ARR points, NNT 10\u2014dramatically different policy implications.",
+          "Relative risk increases for harm (side effects) equally need absolute framing\u2014NNH.",
+          "Watch rounding: \u20183% vs 2%\u2019 is 33% RRR but tiny ARR."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "ACC/AHA shared decision aids increasingly include absolute risk charts.",
+          "Clinic-ready skill for clinicians; learners practice for journal clubs and patient education support roles.",
+          "Risk calculators output absolute 10-year risk\u2014link trial NNT to calculator outputs for teaching.",
+          "Still emerging: personalized ARR from trial subgroups\u2014often underpowered."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Drill ARR/NNT from three published trials (statin, SGLT2, colchicine).",
+          "Read AHA scientific statement on communicating risk.",
+          "PubMed \u2018absolute risk reduction teaching cardiovascular\u2019.",
+          "Create a one-slide teaching example without misleading RRR alone."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Absolute versus relative teaching is foundational cardiovascular research literacy\u2014applies to every trial era.",
+          "Pair numbers every time you hear a percent in a headline.",
+          "Cardily builds numeracy; clinical decisions integrate values and context."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "competing-risks-in-cardiovascular-research",
+    "takeaways": [
+      "Competing risks occur when non-CV death or other events preclude observing the CV endpoint of interest\u2014standard Kaplan-Meier can overestimate incidence.",
+      "Fine-Gray subdistribution hazards and cause-specific hazards models answer different questions\u2014pick intentionally.",
+      "In elderly HF and AF cohorts, non-CV mortality competes strongly with HF hospitalization endpoints.",
+      "Relative subdistribution HRs differ numerically from cause-specific HRs for the same data\u2014do not interchange without translation.",
+      "Trial reporting increasingly includes competing-risk analyses for mortality composites\u2014read footnotes for model choice."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "Older adults with cardiovascular disease face multiple failure modes: sudden arrhythmic death, progressive pump failure, cancer, infection.",
+          "When one event removes a patient from risk for another, classic survival analysis misstates cumulative incidence.",
+          "Research must specify whether the estimand is \u2018risk of HF hospitalization in the presence of competing death\u2019 or \u2018among those alive.\u2019",
+          "Literacy prevents misreading HF trial curves in geriatric populations."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "Cohort studies of AF ablation vs drugs use competing-risk models for stroke vs death.",
+          "Trials with mortality components sometimes publish sensitivity analyses with Fine-Gray methods.",
+          "Registry studies of LVAD and transplant list mortality inherently competitive\u2014multiple absorbing states.",
+          "Simulation papers teach when bias from ignoring competing risks matters most."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "A relative increase in HF hospitalization subdistribution hazard may reflect reduced competing mortality from treatment\u2014paradoxical interpretation lesson.",
+          "Absolute cumulative incidence functions (Aalen-Johansen) should accompany curves\u2014not only cause-specific Cox.",
+          "Check censoring: loss to follow-up treated as independent censoring may fail if related to health.",
+          "Composite endpoints mixing death and hospitalization still need competing-risk thinking at analysis stage."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "Guideline writers increasingly consult statisticians on competing risks for HF in older adults\u2014methods influence recommendation strength indirectly.",
+          "Clinic impact indirect: better trial reporting improves applicability counseling.",
+          "Software defaults (standard Cox) still common\u2014reader vigilance required.",
+          "Emerging standardization in journal statistical guidelines."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Reproduce a simple competing-risk example with published supplemental data if available.",
+          "Read AHA statistical methods primers on competing risks.",
+          "PubMed \u2018competing risks heart failure hospitalization\u2019.",
+          "Journal club: which estimand matches patient question?"
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Competing risks remind us cardiovascular endpoints live in multi-morbid lives\u2014methods must match that reality.",
+          "Absolute cumulative incidence beats naive curve reading.",
+          "Cardily teaches analysis literacy, not biostatistics licensing."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "forest-plots-how-to-read-them",
+    "takeaways": [
+      "Forest plots display effect estimates and confidence intervals across subgroups or studies\u2014horizontal line at null (HR=1 or RR=1) is reference.",
+      "Square size reflects weight in meta-analysis; diamond summarizes pooled effect\u2014check heterogeneity I\u00b2 and \u03c4\u00b2.",
+      "Subgroup lines are exploratory unless interaction p-values prespecified and trial powered for interaction.",
+      "Relative measures dominate forest plots\u2014seek absolute event data in tables accompanying figures.",
+      "Overlapping confidence intervals suggest no strong subgroup modification\u2014not proof of uniformity."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Meta-analyses and trial subgroup reports use forest plots as visual grammar for uncertainty.",
+          "Misreading plots causes overconfidence in \u2018benefit only in men\u2019 narratives from chance splits.",
+          "Students learn systematic reading order: pooled estimate, heterogeneity, then subgroups.",
+          "Educational\u2014not a substitute for reading full methods."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "Fixed-effect models assume one true effect; random-effects models account for between-study variation\u2014cardiology meta-analyses often random-effects.",
+          "Trial-level forest plots in supplementary appendices show primary endpoint subgroups (age, sex, diabetes).",
+          "Leave-one-out sensitivity analyses test influential studies.",
+          "Publication bias funnel plots sometimes accompany forests\u2014egger test limitations acknowledged."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "If subgroup diamond excludes null but overall does not, suspect multiplicity\u2014count how many subgroups tested.",
+          "Relative HR 0.8 in low-risk subgroup with wide CI overlaps 1.0\u2014headlines omit width.",
+          "Absolute risk forest plots rare\u2014construct mentally from event tables when possible.",
+          "Different scales (OR vs HR) should not be pooled naively\u2014check model."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "Guideline panels use meta-analytic forests in evidence reviews\u2014GRADE certainty considers heterogeneity.",
+          "Clinic-ready skill for interpreting society documents and journal club slides.",
+          "AI-generated forest plots in preprints require same scrutiny as published.",
+          "Interactive plots online should show underlying numbers on hover\u2014transparency marker."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Practice with Cochrane review forest for statins in secondary prevention.",
+          "Read ACC guideline supplemental meta-analysis figures.",
+          "PubMed \u2018forest plot tutorial cardiovascular\u2019.",
+          "Draw null line and label axes before interpreting subgroups."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Forest plots compress trials into one image\u2014powerful if read with heterogeneity and multiplicity discipline.",
+          "Pair every forest with absolute event context when deciding relevance.",
+          "Cardily builds visual statistical literacy."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 12,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "confounding-indication-bias-explained",
+    "takeaways": [
+      "Confounding by indication occurs when sicker patients receive aggressive therapy\u2014observational comparisons favor less-treated groups or exaggerate treated groups depending on trajectory bias.",
+      "Time-varying treatments in HF (initiate after decompensation) create immortal time and channeling biases.",
+      "Propensity scores and marginal structural models attempt adjustment but cannot fix unmeasured confounding.",
+      "Relative benefits in registries often shrink toward null vs RCTs for the same drug class.",
+      "Translation: observational studies generate hypotheses; RCTs anchor causal claims for guidelines."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "Clinicians prescribe based on prognosis\u2014exactly when confounding by indication thrives.",
+          "Cardiology registries for PCI, ICDs, and new drugs illustrate treatment selection tied to severity.",
+          "Research literacy distinguishes association from causation in real-world data.",
+          "Not arguing against registries\u2014arguing for correct inference standards."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "Cohort studies adjust for measured covariates (EF, creatinine, comorbidity scores).",
+          "Instrumental variable analyses occasionally use regional practice variation\u2014assumptions debatable.",
+          "Target trial emulation frameworks specify hypothetical RCT protocol applied to observational data.",
+          "Negative control outcomes test residual confounding signals."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "SGLT2 initiators after hospitalization may appear sicker at baseline\u2014initiation strategies bias early observational comparisons.",
+          "Relative mortality lower in treated arm may reflect survivor selection\u2014inspect new-user designs.",
+          "Absolute standardized mortality differences after weighting still uncertain if unmeasured severity differs.",
+          "Compare observational HR magnitudes to trial HRs\u2014large divergence hints bias."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "ACC/AHA recommendations prioritize RCTs; registries inform safety and gaps.",
+          "Clinic decisions use trials; registries monitor rare harms post-market.",
+          "EHR-based studies increasingly clinic-linked\u2014transparency on algorithms needed.",
+          "Causal ML methods emerging\u2014not default standard."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Sketch directed acyclic graph for ICD indication confounding.",
+          "Read examples of target trial emulation in cardiovascular journals.",
+          "PubMed \u2018confounding by indication heart failure\u2019.",
+          "Pair with registry science article in this series."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Indication bias is the central reason observational hero narratives require humility.",
+          "Absolute rates and design matter more than fancy statistics labels.",
+          "Cardily teaches causal thinking for learners, not registry analytics certification."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "registry-science-strengths-and-limits",
+    "takeaways": [
+      "Registries capture real-world procedures, devices, and outcomes at scale\u2014STS, ACC NCDR, and national MI registries exemplify.",
+      "Strengths: generalizability, rare events, long follow-up; limits: missing data, non-standardized indications, confounding.",
+      "Risk-adjusted outcomes compare hospitals or devices using logistic models\u2014model calibration matters more than discrimination alone.",
+      "Relative odds ratios for in-hospital mortality differ from long-term trial HRs\u2014endpoint and timeframe specific.",
+      "Translation supports quality improvement and post-market surveillance more than initial efficacy claims."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Not every clinical question fits RCT feasibility. Registries fill gaps for device safety, procedural volumes, and disparities.",
+          "Cardiovascular registries influenced public reporting and center certification.",
+          "Research literacy asks how data were collected, defined, and audited.",
+          "Separate registry science from registry marketing."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "Prospective registries enroll consecutive patients with standardized definitions (e.g., STS risk models for CABG).",
+          "Linkages to Medicare claims extend follow-up beyond index hospitalization.",
+          "Device registries track implanter experience and complication rates\u2014learning curve visible.",
+          "Some registries support mandated post-approval studies for FDA."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Missing comorbidity fields bias risk adjustment\u2014relative performance rankings shift.",
+          "Compare risk-adjusted vs unadjusted mortality\u2014overadjustment controversies in quality metrics.",
+          "Absolute event rates at low-volume centers have wide CIs\u2014rankings unstable.",
+          "Coding drift over years affects trend analyses."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "Public reporting drives quality improvement\u2014clinic systems respond to metrics.",
+          "Guidelines cite registry gaps to justify research needs.",
+          "Not replacement for RCTs for drug efficacy\u2014registries track adoption and safety signals.",
+          "Data use agreements and FAIR principles increasingly govern sharing."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Tour ACC NCDR methodology documents online.",
+          "Read STS annual report methods appendix.",
+          "PubMed \u2018national cardiovascular data registry outcomes\u2019.",
+          "Discuss equity when registries undercapture uninsured patients."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Registry science powers modern quality cardiovascular care with eyes open to confounding and missingness.",
+          "Absolute hospital-level rates contextualize league tables.",
+          "Cardily educates on registry appraisal."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "adaptive-trial-designs-cardiology-examples-conceptually",
+    "takeaways": [
+      "Adaptive designs modify trial features (sample size, allocation ratios, population) based on prespecified interim analyses while controlling type I error.",
+      "Examples include adaptive enrichment in HF trials and seamless phase II/III designs in device studies.",
+      "Interim looks can increase efficiency but require independent committees and strict statistical plans\u2014post hoc adaptation invalidates inference.",
+      "Relative effect estimates after adaptation still need absolute event context\u2014early stopping may exaggerate.",
+      "Regulators (FDA adaptive design guidance) accept prespecified adaptations; clinic impact follows only after successful adapted trials complete."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "Traditional fixed trials may be too large or slow for emerging therapies. Adaptive methods promise flexibility with statistical guardrails.",
+          "Cardiology uses adaptation for futility stopping, sample size re-estimation, and biomarker enrichment.",
+          "Conceptual literacy prevents confusing adaptive with ad hoc protocol changes.",
+          "Not a tutorial on running trials\u2014reader-focused."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "Group sequential designs stop early for efficacy or futility at interim looks with alpha spending functions.",
+          "Response-adaptive randomization shifts allocation toward better-performing arms in some oncology models\u2014less common in CV drugs.",
+          "Population enrichment adapts eligibility after interim signal in subgroup\u2014requires prespecification.",
+          "Simulations (Monte Carlo) validate operating characteristics before trial start."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "Relative HR at interim may look compelling with few events\u2014monitor fragility.",
+          "Absolute event counts at adaptation points belong in publications\u2014transparency check.",
+          "If trial adapts sample size upward, final significance thresholds adjusted\u2014read methods not only results.",
+          "Non-adaptive trials compared to adaptive in same disease\u2014efficiency gains vary."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "Successful adaptive HF and antithrombotic trials influence regulatory paths.",
+          "Clinicians encounter adapted trials as final publications\u2014need not know design math but must recognize interim bias risks.",
+          "Guidelines treat adapted trials like other RCTs if integrity preserved.",
+          "Emerging platform trials in cardiology rare but growing conceptually."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Read FDA adaptive design guidance summary.",
+          "Find one cardiology trial with prespecified interim analysis in ClinicalTrials.gov.",
+          "PubMed \u2018adaptive design heart failure trial\u2019.",
+          "Discuss ethics of stopping early for benefit with incomplete safety follow-up."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Adaptive designs trade flexibility for complexity\u2014cardiology readers verify prespecification and absolute event maturity.",
+          "Translation waits on completed, well-run adapted trials.",
+          "Cardily teaches design vocabulary."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 12,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "fragile-results-and-fragility-index-idea",
+    "takeaways": [
+      "Fragility index asks: how many patients switching from non-event to event would flip p-value below 0.05\u2014small index means fragile significance.",
+      "Applies to binary outcomes at fixed follow-up; less straightforward for time-to-event analyses but related concepts exist.",
+      "Large trials with small absolute event differences can have low fragility indices despite \u2018significant\u2019 p-values.",
+      "Relative effect sizes near null with narrow CI exclusion of null can still be fragile if event counts tiny.",
+      "Teaching point: combine fragility thinking with absolute event counts and CI width\u2014not replace clinical judgment."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Statistical significance does not measure robustness. Fragility index quantifies how brittle a positive finding might be.",
+          "Cardiology trials with composite endpoints and low event rates invite fragility scrutiny.",
+          "Educational tool for journal clubs skeptical of borderline wins.",
+          "Not a formal regulatory metric\u2014conceptual literacy."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "Calculated on 2\u00d72 tables for primary binary outcomes at chosen timepoint.",
+          "Extensions proposed for survival data\u2014methodologic debate continues.",
+          "Meta-analyses may report fragility for each trial component.",
+          "Simulation studies show correlation between small sample and low fragility index."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Trial reporting p=0.049 with fragility index 2 should temper relative HR enthusiasm.",
+          "Absolute event difference of 1\u20132 events in small PCI trials\u2014check index before changing practice locally.",
+          "Multiplicity: many secondary endpoints\u2014fragility applies per hypothesis.",
+          "Contrast with large event-driven trials where flipping many events needed\u2014robust relative and absolute signals."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "Guidelines rely on bodies of evidence, not single fragile trials\u2014context reduces harm from one borderline study.",
+          "Clinicians rarely calculate fragility index bedside\u2014conceptual awareness suffices.",
+          "Teaching programs incorporate fragility alongside NNT.",
+          "Preprints with small n especially warrant fragility mindset."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Calculate fragility index manually on a published 2\u00d72 table as exercise.",
+          "Read critical methods papers on fragility index limitations.",
+          "PubMed \u2018fragility index randomized trial cardiology\u2019.",
+          "Pair with absolute vs relative teaching article."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Fragility thinking complements absolute risk literacy\u2014both resist hype from minimal event separation.",
+          "Robust translation needs replication and biological plausibility, not only p-values.",
+          "Cardily fosters skeptical numeracy."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 12,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "class-of-recommendation-level-of-evidence-decoder",
+    "takeaways": [
+      "ACC/AHA class I recommendations indicate benefit >> risk with strong wording \u2018is indicated\u2019; class IIa \u2018is reasonable\u2019; class IIb \u2018may be considered\u2019; class III \u2018not recommended\u2019 or harmful.",
+      "Level of evidence A = multiple RCTs or meta-analyses; B-R single RCT; B-NR nonrandomized; C-LD limited data; C-EO expert opinion.",
+      "Guideline upgrades/downgrades occur when new trials shift certainty\u2014read change logs across editions.",
+      "Relative trial effects underpin class decisions, but write-ups increasingly note absolute benefit and value statements.",
+      "Translation to bedside requires patient preferences especially for class II recommendations\u2014shared decision-making explicit."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "Guidelines compress thousands of papers into actionable statements. Class and level decode certainty and strength.",
+          "Misreading \u2018class I\u2019 as mandatory in all comers ignores qualifying text and patient context.",
+          "Students confuse evidence level with recommendation class\u2014they are orthogonal dimensions.",
+          "Literacy enables reading ACC/AHA HF, CAD, and arrhythmia documents critically."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "Evidence tables link each recommendation to pivotal trials with effect sizes.",
+          "Systematic reviews commissioned by guideline committees follow GRADE-like principles adapted to ACC/AHA format.",
+          "Value statements newer\u2014integrate cost and equity where data exist.",
+          "Appropriate use criteria parallel guidelines for imaging and PCI with rating schemes."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "Class I from single small RCT (B-R) differs from class I supported by multiple trials (A)\u2014inspect level letter.",
+          "Relative benefit statements in guidelines should be traced to absolute data in source trials.",
+          "Conflicting guidelines internationally\u2014compare populations and evidence cutoff dates.",
+          "Industry relationships disclosed\u2014transparency without automatic dismissal."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "Guidelines clinic-ready as frameworks; individualization remains standard of care.",
+          "Electronic health record order sets sometimes misapply class I without qualifiers\u2014implementation gap.",
+          "Guideline-directed medical therapy (GDMT) term anchors HF class I pharmacology.",
+          "Living guidelines update online\u2014check revision dates not only print PDF year."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Open ACC/AHA HF guideline PDF\u2014map one recommendation to class, level, and trial.",
+          "Practice explaining class IIa to a simulated patient with absolute benefit numbers.",
+          "PubMed \u2018guideline level of evidence ACC AHA methodology\u2019.",
+          "Compare ESC vs ACC wording for same therapy\u2014harmonization incomplete."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Class and level decoding turns guideline PDFs from authority monoliths into traceable evidence maps.",
+          "Absolute benefit and patient values complete the translation chain.",
+          "Cardily educates on guideline literacy, not replacing clinician judgment."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "preprints-pros-cons-for-heart-science",
+    "takeaways": [
+      "Preprints are manuscripts posted before peer review\u2014rapid dissemination but no quality seal.",
+      "Cardiology preprints during conference season may precede major trial presentations\u2014media risk running ahead of scrutiny.",
+      "Methods sections may be incomplete; statistical code and data often absent initially.",
+      "Relative effect headlines from preprints have been corrected after review\u2014track version history.",
+      "Translation to practice should wait for peer-reviewed publication and guideline synthesis unless emergency public health exception."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Research cycles faster than journal print timelines. Preprint servers (medRxiv, bioRxiv) post findings within days.",
+          "Benefit: open science, early feedback, reproducibility checks.",
+          "Risk: unvetted claims influence news and social media before event adjudication verified.",
+          "Literacy defines appropriate weight for preprints in learning, not care."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "Authors post PDFs; minimal screening for ethics and non-human content.",
+          "Version updates may change results\u2014DOI versioning tracks edits.",
+          "Some journals allow simultaneous submission; others restrict\u2014policy varies.",
+          "Conference abstracts overlap but differ legally and methodologically from full preprints."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Read preprints with extra skepticism: inspect randomization, primary endpoint prespecification, funding.",
+          "Relative reductions without event tables\u2014wait for supplement.",
+          "Cardiology AI preprints especially prone to dataset leakage\u2014external validation often missing.",
+          "Retraction rare on preprint servers\u2014corrections rely on author integrity."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "Clinicians generally should not change practice on preprints alone\u2014ACC/AHA don\u2019t cite preprints as evidence base.",
+          "Researchers use preprints for collaboration and priority claims.",
+          "Peer review still catches major flaws in many but not all papers.",
+          "Emergency pandemic-era precedents for early sharing differ from routine CV drug trials."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Compare a medRxiv cardiology preprint to its later journal version if available.",
+          "Read AHA statement on preprints and media responsibility.",
+          "Follow PubMed publication status\u2014not all preprints graduate.",
+          "Teach students to cite preprints with label \u2018not peer reviewed.\u2019"
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Preprints accelerate science visibility; cardiovascular translation still demands reviewed evidence and absolute effect clarity.",
+          "Healthy skepticism is the pro; hype is the con.",
+          "Cardily treats preprints as learning sources with caution flags."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 12,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "data-sharing-fair-principles-heart-research",
+    "takeaways": [
+      "FAIR principles demand data Findable, Accessible, Interoperable, Reusable\u2014NIH and funders increasingly mandate sharing plans for cardiovascular studies.",
+      "Trial data sharing (IPD) enables meta-analyses and reproducibility but requires de-identification and governance\u2014bias if only positive trials share.",
+      "Machine learning studies need shared code and external validation cohorts\u2014relative AUC improvements collapse without them.",
+      "Accessible does not mean open without restrictions\u2014controlled access protects privacy in genomic cardiology cohorts.",
+      "Translation: reproducible evidence matures faster; clinic impact follows validated replication, not one-off model files."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "Large CV trials and biobanks generate terabytes of ECGs, imaging, and omics. Sharing policy shapes second-generation science.",
+          "Without sharing, relative effect claims in subgroups go unreplicated.",
+          "FAIR is infrastructure literacy for modern readers evaluating AI and genetics papers.",
+          "Not legal advice on data use agreements."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "Platforms like Vivli host IPD from trials; YODA and others govern sponsor data.",
+          "Metadata standards (CDISC) improve interoperability across trials.",
+          "UK Biobank and All of Us enable cardiovascular phenotype research with application review.",
+          "Pre-registration and analysis plans pair with sharing commitments."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "Cherry-picked sharing inflates apparent reproducibility\u2014ask whether sharing mandatory for all funded trials.",
+          "Relative hazard ratios from re-analyses may shift slightly with different models\u2014absolute counts should match original.",
+          "De-identification failures risk re-identification in rare disease genetics\u2014governance essential.",
+          "AI models without shared weights/code hinder independent AUC verification."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "Journals (AHA, ACC-affiliated) strengthen data availability statements.",
+          "Clinic-ready impact indirect\u2014better models after replication enter triage tools.",
+          "Regulatory submissions increasingly include reproducibility packages.",
+          "Equity: global South access to shared data from Northern trials still uneven."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Read NIH data management policy summary.",
+          "Inspect a trial\u2019s data sharing plan on ClinicalTrials.gov.",
+          "PubMed \u2018FAIR data cardiovascular research\u2019.",
+          "Discuss informed consent language for future reuse."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "FAIR sharing is part of evidence quality\u2014cardiology readers reward transparent data as much as flashy relative effects.",
+          "Translation readiness tracks replication culture.",
+          "Cardily teaches research infrastructure literacy."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "academic-industry-partnerships-guardrails",
+    "takeaways": [
+      "Industry sponsors many pivotal CV trials\u2014firewalls between sponsor and independent academic steering committees protect integrity.",
+      "Contracts should guarantee publication rights, access to data, and independent statistical analysis\u2014ICMJE conflicts disclosure minimum.",
+      "Relative benefit claims in press releases may precede full data\u2014compare with peer-reviewed tables.",
+      "Post-marketing registry funding creates ongoing relationship\u2014track endpoint choices.",
+      "Translation depends on trust in trial conduct; guardrails are part of evidence quality, not anti-innovation."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Drug and device development requires scale only industry often provides. Academia supplies patients, endpoints expertise, and credibility.",
+          "Partnership failures (hidden data, ghostwriting) historically damaged trust\u2014modern guardrails respond.",
+          "Learners read trials knowing sponsorship without assuming fraud, but verifying independence structures.",
+          "Educational ethics topic, not legal counsel."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "Large outcome trials list academic chair, independent DSMB, and prespecified analysis plans in protocols.",
+          "FDA requires sponsor reporting; EMA parallel\u2014regulatory oversight complements academic leadership.",
+          "Investigator-initiated trials (IIT) complement sponsor trials\u2014different incentive shapes.",
+          "Medical writing support disclosed\u2014distinguish from undisclosed authorship."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Compare relative HR in press release vs NEJM\u2014rare discrepancies flag issues.",
+          "Absolute event tables should be available regardless of sponsor.",
+          "Trials stopping early for sponsor stock reasons\u2014scrutinize DSMB independence.",
+          "Subgroup mining in industry-funded supplements\u2014multiplicity watch."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "ACC/AHA guidelines cite trials regardless of sponsor when quality high\u2014GRADE evaluates risk of bias domains.",
+          "Clinicians rely on guardrailed trials for GDMT\u2014partnerships enable those trials.",
+          "Sunshine Act payments searchable\u2014context for speaker relationships.",
+          "Emerging public-private partnership models for global health BP programs differ from drug trials."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Read ICMJE conflict of interest form examples.",
+          "Inspect steering committee rosters on major HF trial publications.",
+          "PubMed \u2018independent data monitoring committee cardiovascular trial\u2019.",
+          "Journal club sponsor role using CONSORT industry extension."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Academic-industry partnerships are necessary infrastructure\u2014guardrails turn sponsorship into trustworthy relative and absolute evidence.",
+          "Readers verify independence, not just p-values.",
+          "Cardily promotes transparent appraisal habits."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 12,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "learning-curve-effects-in-procedural-studies",
+    "takeaways": [
+      "Learning curves describe improving outcomes as operators gain experience\u2014TAVR, PCI, and ablation programs show early-era hazard.",
+      "Early registry eras compare unfavorably to later eras\u2014confounding by experience vs patient selection vs device iteration.",
+      "Randomized trials during rollout may understate long-term feasibility if high-volume centers only enrolled.",
+      "Relative complication odds drop with volume\u2014absolute complication rates still matter for low-volume sites.",
+      "Translation requires regionalization, proctoring, and case minimums\u2014policy more than single-study HR."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "Complex structural and electrophysiology procedures have technical failure modes that decline with repetition.",
+          "Research separates device efficacy from operator proficiency\u2014a common appraisal blind spot.",
+          "Learning curve bias affects observational comparisons of new vs established therapies.",
+          "Literacy for structural heart and EP evidence maps."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "Volume-outcome studies categorize hospitals by annual case counts, model risk-adjusted mortality/complications.",
+          "RCTs often require center experience thresholds\u2014enrolled population not representative of first cases nationally.",
+          "Prospective learning curve analyses track cumulative sum (CUSUM) of complications in training programs.",
+          "Device generation changes mid-registry complicate time trends."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "Relative reduction in complications from year 1 to year 3 may reflect selection tightening, not skill alone\u2014disentangle.",
+          "Absolute complication rates at low-volume centers may exceed trial rates\u2014translation warning.",
+          "Intra-procedural imaging adoption over time changes outcomes\u2014technology learning interacts with operator learning.",
+          "Compare published trial complication rates to NCDR real-world metrics."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "ACC/STS volume recommendations and site requirements clinic-ready for TAVR and complex PCI.",
+          "Guidelines acknowledge operator/hospital volume in recommendations.",
+          "Simulation training emerging to shorten curves\u2014evidence formative.",
+          "Rural access vs centralization tension unresolved\u2014equity dimension."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Read STS learning curve methodology papers.",
+          "Graph NCDR complication trends vs national TAVR growth.",
+          "PubMed \u2018learning curve transcatheter aortic valve replacement\u2019.",
+          "Link to intracardiac echo and tricuspid device articles."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Learning curves remind us procedural evidence is team-volume dependent\u2014relative trial success \u2260 everywhere immediate readiness.",
+          "Absolute safety at your institution\u2019s volume tier matters for translation.",
+          "Cardily teaches contextual appraisal."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "wearable-af-detection-evidence-map",
+    "takeaways": [
+      "Consumer and clinical wearables detect irregular pulse or single-lead ECG\u2014Apple Heart Study and mSToPS screened for AF in large cohorts.",
+      "Primary endpoints often AF diagnosis yield and downstream anticoagulation starts\u2014not stroke reduction in short follow-up.",
+      "Screening generates false positives and inconclusive strips\u2014absolute yield and PPV vary by age and risk.",
+      "Relative stroke risk in detected AF treated per guidelines assumed but not always trial-proven for screen-detected cases.",
+      "Translation: shared decisions on screening; guidelines cautiously address opportunistic screening in older adults."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "AF increases stroke risk; anticoagulation reduces it in high-risk patients. Wearables promise earlier detection before symptoms.",
+          "Evidence map spans screening trials, algorithm validation, and health system pilots.",
+          "Research question: does wearable-guided detection improve outcomes net of overdiagnosis and anxiety?",
+          "Not recommending any device purchase."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "Apple Heart Study: app-based pulse irregularity notification, confirmatory ECG patch\u2014observational yield metrics.",
+          "mSToPS randomized ECG patch screening vs usual care with AF detection and clinical actions endpoints.",
+          "Huawei and other algorithms publish validation against 12-lead gold standard in case-control designs.",
+          "Smartwatch AF alerts in HF patients\u2014distinct population."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Positive predictive value low in young screened populations\u2014absolute AF cases found small.",
+          "Relative increase in anticoagulation initiation after screening must be weighed against bleeding risk on absolute scales.",
+          "Lead II single-lead cannot distinguish all arrhythmias\u2014false AF labels possible.",
+          "Duration of monitoring affects detection\u2014intermittent AF missed between wears."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "ACC guidance discusses screening in selected older adults with consumer devices as part of clinical evaluation after confirmatory ECG.",
+          "Not class I population screening\u2014translation cautious.",
+          "Health systems build AF clinics to manage wearable referrals\u2014workflow research active.",
+          "Stroke outcome trials of wearable screening likely long-term and expensive\u2014gap remains."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Map mSToPS primary endpoints and absolute detection rates.",
+          "Read AHA AF guideline screening sections.",
+          "ClinicalTrials.gov \u2018atrial fibrillation screening wearable\u2019.",
+          "Discuss ethics of incidental findings in research studies."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Wearable AF evidence is detection-rich, outcome-modest\u2014absolute yield and confirmation pathways define responsible translation.",
+          "Relative stroke benefit from anticoagulation in known AF does not automatically extend to all screen-detected short episodes without context.",
+          "Cardily educates on screening literacy."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 14,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "ai-imaging-triage-cardiology-use-cases",
+    "takeaways": [
+      "AI triage prioritizes unread chest pain CTs or flags EF on echocardiograms\u2014endpoints include turnaround time, sensitivity for critical findings, and reader workload.",
+      "Validation cohorts often retrospective; prospective implementation trials measure workflow and missed critical lesions.",
+      "Relative sensitivity improvements vs humans must include absolute false negative counts in busy ED settings.",
+      "Regulatory clearance (FDA 510(k)) for specific tasks does not equal outcome benefit\u2014MACE trials rare.",
+      "Translation readiness varies: EF screening aids in point-of-care echo more than autonomous diagnosis."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "Imaging volumes overwhelm staff. AI promises sorting urgent studies and extracting measurements consistently.",
+          "Cardiology use cases: coronary CT plaque, echo EF, cath lab angiography quantification.",
+          "Research separates algorithm performance from patient outcomes.",
+          "Literacy for digital health product claims."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "Retrospective training on labeled datasets; hold-out test sets report AUC, sensitivity at fixed specificity.",
+          "Prospective cluster-randomized ED trials assign AI triage on vs off\u2014primary workflow time, secondary missed ACS.",
+          "Reader studies cross human vs human+AI\u2014paired design.",
+          "External validation on different scanner vendors essential\u2014often missing in early papers."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "AUC 0.95 in retrospective set may drop prospectively\u2014absolute false negatives rise.",
+          "Relative time savings percentages hide baseline backlog hours\u2014implementation context.",
+          "Spectrum bias if training on severe disease only.",
+          "Explainability and liability when AI misses LAD occlusion\u2014ethical weight."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "Some AI measurement tools clinic-ready with human oversight; autonomous reads not standard.",
+          "ACC data standards documents emerging for AI validation reporting.",
+          "Reimbursement codes evolving slower than software releases.",
+          "Outcome trials linking AI triage to MACE prevention largely future work."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Read FDA summaries for cleared cardiovascular AI devices.",
+          "PubMed \u2018artificial intelligence coronary computed tomography triage\u2019.",
+          "Compare validation checklist (CLAIM, CONSORT-AI extensions).",
+          "Discuss dataset diversity and skin tone irrelevant but scanner vendor diversity relevant."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "AI triage is workflow science first\u2014absolute miss rates and time gains determine translation before outcome hero narratives.",
+          "Relative AUC alone insufficient for clinic adoption decisions.",
+          "Cardily teaches digital evidence appraisal."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "digital-twins-heart-modeling-concept",
+    "takeaways": [
+      "Digital twins are patient-specific computational models updated with serial data to simulate interventions\u2014still largely research concept in cardiology.",
+      "Endpoints in pilot studies are prediction accuracy for pressure, flow, or arrhythmia inducibility\u2014not randomized outcome improvement.",
+      "Model calibration error and identifiability limit relative improvement claims over standard care planning.",
+      "Requires rich data (MRI, cath, genetics)\u2014generalizability narrow.",
+      "Clinic translation not ready for routine HF or EP decision-making outside specialized research consortia."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "Engineering \u2018digital twin\u2019 language enters medicine: a virtual replica used to test therapies in silico before bedside.",
+          "Cardiac applications include HF hemodynamic tuning, valve replacement simulation, and arrhythmia substrate mapping.",
+          "Research problem: prove simulations change decisions or outcomes, not only look sophisticated.",
+          "Conceptual literacy to evaluate press releases."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "Studies build finite-element or lumped-parameter models from imaging, validate against invasive measurements.",
+          "Prospective pilots compare management plans with vs without twin guidance\u2014small n.",
+          "Uncertainty quantification sensitivity analyses vary parameters.",
+          "Integration with CFD and EP biophysics literature."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Relative reduction in prediction error for LV pressure may not affect outcomes\u2014surrogate gap.",
+          "Absolute clinical events not powered in pilots.",
+          "Overfitting patient-specific models to noise\u2014validation on future timepoints needed.",
+          "Data acquisition burden limits scalability."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "No ACC/AHA recommendation for digital twins\u2014research tool.",
+          "Industry partnerships fund consortia\u2014watch independence.",
+          "Regulatory pathway for simulation-guided therapy unclear.",
+          "May enrich trial enrichment strategies someday\u2014emerging."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Read review articles in Circulation on computational cardiology.",
+          "ClinicalTrials.gov \u2018digital twin heart\u2019.",
+          "Contrast digital twin hype vs FDA-cleared deterministic calculators.",
+          "Discuss ethics of simulating untested therapies virtually."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Digital twins illustrate future personalized modeling\u2014current evidence is accuracy-focused, not outcome-proven.",
+          "Absolute patient benefit un demonstrated at scale.",
+          "Cardily keeps expectations calibrated."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 12,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "photon-counting-ct-cardiology-horizon",
+    "takeaways": [
+      "Photon-counting CT detectors improve spatial resolution and contrast-to-noise vs energy-integrating detectors\u2014technical endpoints dominate early reports.",
+      "Coronary CT angiography studies compare stenosis assessment and plaque characterization against conventional CT and invasive reference.",
+      "Radiation dose reduction claims need absolute dose metrics (mSv) per protocol, not only relative percentages.",
+      "Diagnostic accuracy trials are first wave; MACE strategy trials with photon-counting remain limited.",
+      "Translation: flagship hospitals adopt; widespread readiness depends on cost, service contracts, and reader training."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "Coronary and structural heart imaging demand fine detail. Photon-counting CT represents detector-generation change, not merely software tweak.",
+          "Research validates whether improved images change stenosis classification and plaque typing.",
+          "Horizon scanning literacy for trainees reading vendor-heavy literature.",
+          "Not advising which scanner to use."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "Crossover reader studies blind interpreters to conventional vs photon-counting acquisitions.",
+          "Phantom and cadaver work precedes patient studies.",
+          "Some series report lower contrast volume needs\u2014patient-centered secondary endpoint.",
+          "Registry adoption tracking installed base vs outcomes pending."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "Relative improvement in stenosis c-statistic may be modest\u2014absolute reclassification counts small.",
+          "Spectrum bias in referral centers inflates accuracy.",
+          "Compare radiation on matched protocols\u2014vendor defaults differ.",
+          "AI plaque tools coupled to new detectors\u2014confounded comparisons."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "Early adopters integrate into chest pain pathways where reimbursed.",
+          "Guidelines not yet specific to detector type\u2014general coronary CT recommendations apply.",
+          "Outcome trials lag technology deployment\u2014typical imaging cycle.",
+          "Equity: community hospitals may lag decade\u2014access gap."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Read RSNA and ACC scientific session abstracts critically.",
+          "PubMed \u2018photon counting computed tomography coronary\u2019.",
+          "Compare diagnostic endpoints to SSCT strategy trial frameworks.",
+          "Track ClinicalTrials.gov for photon-counting specific registrations."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Photon-counting CT is engineering advance seeking clinical proof\u2014absolute dose, accuracy, and eventually events define translation.",
+          "Relative image quality alone rarely changes guidelines.",
+          "Cardily teaches imaging innovation appraisal."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "intracardiac-echocardiography-procedural-role",
+    "takeaways": [
+      "Intracardiac echocardiography (ICE) guides transseptal puncture, device placement, and complication detection during EP and structural procedures.",
+      "Evidence mixes procedural success rates, fluoroscopy time reduction, and complication odds vs TEE-guided approaches\u2014randomized trials exist in subsets.",
+      "Primary endpoints often technical success and procedure time\u2014not long-term MACE.",
+      "Relative fluoroscopy reduction benefits staff radiation exposure\u2014absolute minutes matter operationally.",
+      "Translation: ICE standard in many EP labs; structural heart adoption growing with training requirements."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "Transesophageal echo requires general anesthesia or deep sedation in many centers. ICE places ultrasound inside the heart for real-time imaging.",
+          "Research asks whether ICE improves safety and efficiency for ablation, LAA closure, and septal procedures.",
+          "Procedural medicine endpoints differ from chronic disease outcome trials.",
+          "Literacy for device and EP literature."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "Randomized trials compare ICE vs TEE for AF ablation: primary technical success, secondary complications, time.",
+          "Observational registries track ICE adoption trends and learning curves.",
+          "Case series report ICE-only structural procedures avoiding general anesthesia\u2014patient experience endpoint.",
+          "Cost-effectiveness analyses include probe reuse and capital equipment."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "Relative complication reduction may be nonsignificant in small RCTs\u2014absolute event counts low.",
+          "Operator preference confounds observational comparisons\u2014indication bias.",
+          "ICE cannot replace all TEE views\u2014limitations for certain structures.",
+          "General anesthesia avoidance absolute benefit varies by patient frailty."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "ICE clinic-ready in trained EP programs\u2014ACC EP training guidelines incorporate imaging competencies.",
+          "Structural programs adopt ICE for selected cases\u2014translation uneven.",
+          "Long-term outcome trials unnecessary for imaging adjunct if procedural safety improved\u2014hierarchy of evidence accepted.",
+          "Emerging 3D ICE may shift comparisons\u2014technology evolution."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Read ICE vs TEE ablation RCT primary outcomes.",
+          "HRS scientific documents on imaging.",
+          "PubMed \u2018intracardiac echocardiography randomized atrial fibrillation ablation\u2019.",
+          "Link learning curve article for adoption context."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "ICE evidence is procedural\u2014absolute success and complication rates with operational outcomes define value.",
+          "Relative fluoro time savings matter to teams even when MACE unchanged.",
+          "Cardily educates on procedural study reading."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 12,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "tricuspid-device-therapy-emerging-evidence",
+    "takeaways": [
+      "Tricuspid regurgitation (TR) severe disease associated with HF symptoms; surgical repair often high risk\u2014transcatheter devices (edge-to-edge, coaptation, replacement) in trials.",
+      "Primary endpoints mix TR grade reduction, 6-minute walk, KCCQ, and HF hospitalization composites\u2014surrogate-heavy early phase.",
+      "TRILUMINATE and related trials report hierarchical win ratios or composite wins\u2014read statistical appendix.",
+      "Absolute HF hospitalization reductions smaller than in left-sided HF drug trials\u2014event rates and follow-up duration key.",
+      "Guidelines evolving cautiously\u2014translation limited to specialized valve centers with heart team."
+    ],
+    "sections": [
+      {
+        "heading": "Big idea in one paragraph",
+        "paragraphs": [
+          "Functional TR common in HF and pulmonary hypertension; symptoms and prognosis worsen with severe regurgitation.",
+          "Surgery mortality high in frail patients\u2014device innovation targets unmet need.",
+          "Evidence base younger than TAVR/MitraClip\u2014learners track trial maturity.",
+          "Not selecting patients for devices."
+        ]
+      },
+      {
+        "heading": "Key methods learners should recognize",
+        "paragraphs": [
+          "Randomized trials compare device plus medical therapy vs medical therapy alone in symptomatic severe TR.",
+          "Primary endpoints often win ratio combining death, TR procedure, HF hospitalization, 6MWD, KCCQ.",
+          "Sham-controlled not feasible\u2014open-label performance bias possible on symptoms.",
+          "Registry data complement trials for safety signals."
+        ]
+      },
+      {
+        "heading": "Landmark findings and honest limitations",
+        "paragraphs": [
+          "Relative win ratios significant while mortality neutral\u2014parse which component wins.",
+          "Absolute TR grade reduction does not guarantee symptom benefit\u2014surrogate disconnect.",
+          "Right heart failure heterogeneity limits generalizability.",
+          "Trials exclude some pulmonary pressures\u2014applicability narrow."
+        ]
+      },
+      {
+        "heading": "Translation barriers",
+        "paragraphs": [
+          "ACC structural heart documents discuss tricuspid therapies as emerging\u2014center experience required.",
+          "Reimbursement and device availability region-specific.",
+          "Longer follow-up trials will clarify durability and HF hospitalization absolute benefits.",
+          "Combined TR and MR programs emerging\u2014complexity high."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Read TRILUMINATE primary paper win ratio explanation.",
+          "ClinicalTrials.gov tricuspid transcatheter active list.",
+          "Compare endpoint evolution to early MitraClip era.",
+          "AHA journal reviews on tricuspid intervention evidence map."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "Tricuspid device evidence is ascending\u2014absolute symptom and hospitalization data must anchor translation more than TR grade alone.",
+          "Relative win ratios demand component-level literacy.",
+          "Cardily tracks innovation with methods-first reading."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 14,
+    "handcrafted": true,
+    "tier": "premium"
+  },
+  {
+    "slug": "af-ablation-outcome-endpoints-evolution",
+    "takeaways": [
+      "AF ablation trials evolved from rhythm endpoint (freedom from AF) to hard composites including death, stroke, HF hospitalization\u2014CASTLE-AU, EAST-AFNET 4 examples.",
+      "Early rhythm success rates overestimate clinical benefit if symptoms and outcomes unchanged\u2014surrogate duration matters.",
+      "Relative reductions in HF hospitalization in some trials larger than stroke reduction\u2014component analysis essential.",
+      "Blinding impossible; sham trials rare\u2014symptom endpoints susceptible to bias.",
+      "Guidelines integrate early rhythm control trials (EAST-AFNET 4) with ablation appropriateness criteria\u2014translation combines trials and expertise."
+    ],
+    "sections": [
+      {
+        "heading": "What problem the research is trying to solve",
+        "paragraphs": [
+          "AF ablation isolates pulmonary veins to reduce arrhythmia burden. Demonstrating outcome benefit beyond symptom relief took decades of endpoint evolution.",
+          "Research problem: align trial endpoints with what patients and payers value\u2014stroke, death, HF admissions, quality of life.",
+          "Endpoint evolution mirrors other CV fields moving off surrogates.",
+          "Educational history of ablation evidence, not procedure referral."
+        ]
+      },
+      {
+        "heading": "How studies in this area are usually designed",
+        "paragraphs": [
+          "CASTLE-AF enrolled HF with reduced EF and AF, primary composite death or HF hospitalization\u2014ablation vs medical rhythm control.",
+          "EAST-AFNET 4 randomized early rhythm control vs usual care with composite outcomes.",
+          "Traditional studies used 12-month freedom from AF on monitor\u2014high recurrence yet symptom improvement possible.",
+          "Continuous monitoring increases detected recurrence\u2014endpoint definitions affect success rates absolutely."
+        ]
+      },
+      {
+        "heading": "How to read claims critically",
+        "paragraphs": [
+          "Relative HF hospitalization reduction in CASTLE-AF subgroup analyses requires careful population matching\u2014absolute event rates in HFrEF only.",
+          "Rhythm endpoint \u201880% success\u2019 may mean 30% absolute freedom with strict monitoring\u2014read definitions.",
+          "Open-label design may bias QoL scores\u2014use objective endpoints when available.",
+          "Crossover to ablation in control arms dilutes ITT effects."
+        ]
+      },
+      {
+        "heading": "What is ready for clinics versus still emerging",
+        "paragraphs": [
+          "ACC/AHA AF guidelines reference early rhythm control and ablation in selected HF and symptomatic AF\u2014class varies by population.",
+          "Appropriate use criteria rate ablation by symptom and failure of drugs.",
+          "Outcome translation strongest in HFrEF with AF in CASTLE-AF-like patients\u2014not all comers.",
+          "Ongoing trials may expand primary prevention ablation claims\u2014evidence immature."
+        ]
+      },
+      {
+        "heading": "Student takeaways and further reading habits",
+        "paragraphs": [
+          "Timeline table: pivotal ablation trials vs endpoints used.",
+          "Read EAST-AFNET 4 primary composite components.",
+          "PubMed \u2018atrial fibrillation ablation heart failure hospitalization randomized\u2019.",
+          "Pair with wearable AF detection article for screening vs treatment evidence gap."
+        ]
+      },
+      {
+        "heading": "Putting it together",
+        "paragraphs": [
+          "AF ablation endpoint evolution teaches surrogate replacement by composites\u2014absolute hospitalization and mortality context required.",
+          "Relative rhythm success alone no longer sufficient for policy claims.",
+          "Cardily educates on EP trial literacy; ablation decisions are clinical heart-team work."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      },
+      {
+        "label": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "label": "ACC/AHA Guidelines Hub",
+        "url": "https://www.acc.org/guidelines"
+      },
+      {
+        "label": "AHA Journals",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "reading_minutes": 13,
+    "handcrafted": true,
+    "tier": "premium"
+  }
+]
