@@ -2,17 +2,17 @@
   {
     "slug": "how-to-read-aha-heart-disease-and-stroke-statistics",
     "takeaways": [
-      "The AHA statistical update is a synthesis of many sources—not a single survey you can treat like a live dashboard.",
+      "The AHA statistical update is a synthesis of many sources-not a single survey you can treat like a live dashboard.",
       "Every headline number needs a denominator: U.S. adults, Medicare beneficiaries, incident cases per year, or lifetime risk in a defined cohort.",
       "Age adjustment lets you compare mortality across eras; it also hides youth burden if you forget to read unadjusted tables too.",
-      "Stroke and heart disease are umbrella terms—ischemic stroke, hemorrhagic stroke, HF, and CAD move on different tracks in the tables.",
+      "Stroke and heart disease are umbrella terms-ischemic stroke, hemorrhagic stroke, HF, and CAD move on different tracks in the tables.",
       "This Cardily piece teaches reading skills; it is not medical advice and does not replace clinical risk assessment."
     ],
     "sections": [
       {
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
-          "Each year the American Heart Association publishes a statistical update that aggregates cardiovascular and cerebrovascular metrics from federal surveys, registries, vital statistics, and peer-reviewed analyses. The document is best understood as an annotated map of where U.S. (and often global) data live—not as one harmonized dataset with identical definitions everywhere.",
+          "Each year the American Heart Association publishes a statistical update that aggregates cardiovascular and cerebrovascular metrics from federal surveys, registries, vital statistics, and peer-reviewed analyses. The document is best understood as an annotated map of where U.S. (and often global) data live-not as one harmonized dataset with identical definitions everywhere.",
           "Counts such as “how many people have heart failure” usually reflect modeling from NHANES examination data plus administrative claims, depending on the subsection. Death counts often come from CDC mortality files coded with ICD rules that shift over time. Hospitalization figures may draw on HCUP or Medicare sources with different catchment.",
           "Before repeating a number, locate the footnote: Does it mean prevalence (people living with a condition), incidence (new diagnoses in a window), or mortality (deaths attributed on death certificates)? Those are different questions. Mixing them produces confident nonsense.",
           "Lifetime and “risk of developing” metrics appear in some chapters. They depend on cohort age, follow-up length, and competing risks from non-CVD death. They answer longitudinal questions, not “what is happening in clinics this month.”"
@@ -23,8 +23,8 @@
         "paragraphs": [
           "Start with the population statement printed near the table. “Among U.S. adults aged 20 and older” is not interchangeable with “among hospitalized patients” or “among Medicare fee-for-service members.” Your social feed rarely includes that sentence; your reading habit should.",
           "When a figure is age-adjusted to the 2000 U.S. standard population, the goal is fair comparison across years despite aging. A declining age-adjusted death rate can coexist with rising crude counts because the population is larger and older. Both can be true; neither alone tells the full story.",
-          "Pay attention to attribution on death certificates. Multiple contributing causes are common in older adults. Rankings of “leading causes of death” use underlying cause rules—reasonable for public health, but not identical to “every death where CVD appeared anywhere on the certificate.”",
-          "Subgroup tables (sex, race, ethnicity, geography) are essential for equity literacy. Read them as patterns tied to measurement, access, and social context—not as fixed biological tiers. Confidence intervals and suppression rules for small cells matter as much as point estimates."
+          "Pay attention to attribution on death certificates. Multiple contributing causes are common in older adults. Rankings of “leading causes of death” use underlying cause rules-reasonable for public health, but not identical to “every death where CVD appeared anywhere on the certificate.”",
+          "Subgroup tables (sex, race, ethnicity, geography) are essential for equity literacy. Read them as patterns tied to measurement, access, and social context-not as fixed biological tiers. Confidence intervals and suppression rules for small cells matter as much as point estimates."
         ]
       },
       {
@@ -40,7 +40,7 @@
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
           "For students, the statistical update is a syllabus of open questions: Where is surveillance strong? Where do we impute missing data? Which outcomes are standardized enough for international comparison via GBD, and which are U.S.-specific?",
-          "Policy readers should notice what is measured well enough to manage—blood pressure control from NHANES plus treatment surveys, STEMI systems from registries—and what remains noisy, such as out-of-hospital cardiac arrest denominators that depend on who gets counted as attempted resuscitation.",
+          "Policy readers should notice what is measured well enough to manage-blood pressure control from NHANES plus treatment surveys, STEMI systems from registries-and what remains noisy, such as out-of-hospital cardiac arrest denominators that depend on who gets counted as attempted resuscitation.",
           "Journalists and advocates can use the document responsibly by pairing one striking number with its definition and one limitation. That discipline reduces panic and reduces false reassurance alike.",
           "Cross-checking with CDC WONDER lets you reproduce some mortality trends with transparent query parameters. That exercise builds more skill than memorizing last year’s headline integer."
         ]
@@ -51,7 +51,7 @@
           "Use AHA statistics to frame questions, not to self-diagnose. They describe populations under explicit rules.",
           "Carry a three-question checklist: Who is in the denominator? What outcome definition? Adjusted for what?",
           "When disparities appear, ask about care access, medication affordability, and measurement bias before defaulting to genetic explanation.",
-          "Teach others to request absolute rates alongside relative ones—especially for treatments and prevention debates covered elsewhere in Cardily."
+          "Teach others to request absolute rates alongside relative ones-especially for treatments and prevention debates covered elsewhere in Cardily."
         ]
       },
       {
@@ -59,7 +59,7 @@
         "paragraphs": [
           "Reading the AHA heart disease and stroke statistics is a literacy project in denominators, definitions, and adjustment. The update’s value is coherence across scattered sources, not oracle-like precision for an individual reader.",
           "Pair this chapter with hands-on practice: pull one mortality trend in CDC WONDER, then find the matching narrative section in the statistical update and note where definitions align or diverge.",
-          "Cardily publishes this guide so learners can participate in cardiovascular conversations without treating every rounded national estimate as personal fate—or as proof that statistics “lie.” They don’t lie; they answer specific questions, and skilled readers learn which question was asked."
+          "Cardily publishes this guide so learners can participate in cardiovascular conversations without treating every rounded national estimate as personal fate-or as proof that statistics “lie.” They don’t lie; they answer specific questions, and skilled readers learn which question was asked."
         ]
       }
     ],
@@ -88,33 +88,33 @@
   {
     "slug": "framingham-risk-score-historical-literacy",
     "takeaways": [
-      "Framingham risk scores translate cohort follow-up into predicted 10-year hard ASCVD event rates—predictions, not diagnoses.",
+      "Framingham risk scores translate cohort follow-up into predicted 10-year hard ASCVD event rates-predictions, not diagnoses.",
       "The original cohorts were largely white, middle-class, and from one region; portability to other communities is an empirical question.",
       "Risk scores changed as endpoints, labs, and treatment eras changed; comparing “Framingham” across decades requires endpoint matching.",
       "Calibration matters as much as discrimination: a model can rank well yet systematically over- or under-predict in new populations.",
-      "Historical literacy helps you teach why newer pooled-cohort equations exist—not to mock old science, but to read context."
+      "Historical literacy helps you teach why newer pooled-cohort equations exist-not to mock old science, but to read context."
     ],
     "sections": [
       {
         "heading": "Metric definition",
         "paragraphs": [
-          "Framingham-based risk scores estimate the probability of a first hard atherosclerotic cardiovascular event within a time window—classically ten years—given age, sex, smoking, blood pressure, cholesterol (and sometimes diabetes). The output is a percent, which is easier to misread than it looks.",
+          "Framingham-based risk scores estimate the probability of a first hard atherosclerotic cardiovascular event within a time window-classically ten years-given age, sex, smoking, blood pressure, cholesterol (and sometimes diabetes). The output is a percent, which is easier to misread than it looks.",
           "“Hard ASCVD” in teaching materials usually means coronary death, myocardial infarction, and stroke composites used in the underlying survival models. Soft endpoints, revascularizations, or heart failure may be excluded. Two papers both citing “Framingham” may therefore predict different futures.",
-          "The score is a population-derived conditional probability. It does not know your family history in detail, your inflammatory disease burden, your pregnancy history, or your zip code’s air quality—unless later tools explicitly add those layers."
+          "The score is a population-derived conditional probability. It does not know your family history in detail, your inflammatory disease burden, your pregnancy history, or your zip code’s air quality-unless later tools explicitly add those layers."
         ]
       },
       {
         "heading": "Where the data usually come from",
         "paragraphs": [
-          "The Framingham Heart Study and offspring cohorts provide longitudinally adjudicated outcomes—valuable because passive billing codes alone miss events and misclassify others. That richness underpinned early multivariable risk functions.",
-          "When textbooks reproduce Framingham tables, they often freeze one publication year’s coefficients. Clinical practice moved to pooled cohort equations derived from multiple community cohorts precisely because single-cohort portability was uneven—especially for Black adults and for contemporary treated populations.",
+          "The Framingham Heart Study and offspring cohorts provide longitudinally adjudicated outcomes-valuable because passive billing codes alone miss events and misclassify others. That richness underpinned early multivariable risk functions.",
+          "When textbooks reproduce Framingham tables, they often freeze one publication year’s coefficients. Clinical practice moved to pooled cohort equations derived from multiple community cohorts precisely because single-cohort portability was uneven-especially for Black adults and for contemporary treated populations.",
           "NHANES and modern cohorts help re-calibrate expectations about risk factor distributions nationally, but they do not replace outcome adjudication from dedicated longitudinal studies."
         ]
       },
       {
         "heading": "How trends can fool you",
         "paragraphs": [
-          "Average population risk fell over decades as smoking declined and treatment improved. A score trained on older eras can misread a treated patient today if applied naively—another calibration issue, not “wrong math.”",
+          "Average population risk fell over decades as smoking declined and treatment improved. A score trained on older eras can misread a treated patient today if applied naively-another calibration issue, not “wrong math.”",
           "Relative risk ratios for smoking or hypertension can stay stable while absolute event rates fall because baseline risk dropped. Teaching only ratios obscures that nuance.",
           "Charts that show “percent of adults at high risk” over time mix true epidemiology with changing score thresholds and changing statin-era guidelines. The line on the slide is part biology, part policy."
         ]
@@ -123,14 +123,14 @@
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
           "When Framingham functions under-predicted events in some Black cohorts, the lesson was statistical, not a claim that biology “increases risk” by race. Social determinants, stress exposure, care access, and cohort composition all shift observed event rates away from a 1970s New England baseline.",
-          "Read subgroup performance with calibration plots: Are predicted 10-year risks near observed event rates? Discrimination (ranking) can look acceptable while calibration fails in subgroups—leading to systematic under-treatment if uncorrected.",
+          "Read subgroup performance with calibration plots: Are predicted 10-year risks near observed event rates? Discrimination (ranking) can look acceptable while calibration fails in subgroups-leading to systematic under-treatment if uncorrected.",
           "Avoid essentialist storytelling. Risk models summarize history encoded in data. Changing care systems and racism’s structural effects change the data; models must be updated and audited, not racialized as destiny."
         ]
       },
       {
         "heading": "Questions to ask of any chart",
         "paragraphs": [
-          "Which Framingham publication produced this curve—lipid model, blood pressure model, general CVD, hard CHD only?",
+          "Which Framingham publication produced this curve-lipid model, blood pressure model, general CVD, hard CHD only?",
           "Is the y-axis predicted risk or observed incidence? Over what follow-up?",
           "Was the validation cohort independent, and did authors report calibration by race, sex, and age band?",
           "Does the graphic imply individual certainty from a population curve?"
@@ -140,7 +140,7 @@
         "heading": "Putting it together",
         "paragraphs": [
           "Framingham risk score historical literacy is about anchoring modern tools: why equations exist, what “10-year hard ASCVD” meant in source papers, and why recalibration is normal science.",
-          "Students should be able to explain the difference between a risk ranking tool and a diagnostic test—a theme Cardily returns to in ROC and likelihood-ratio pieces.",
+          "Students should be able to explain the difference between a risk ranking tool and a diagnostic test-a theme Cardily returns to in ROC and likelihood-ratio pieces.",
           "Use Framingham as a case study in humility: powerful cohorts, limited generalizability unless tested, and ongoing obligation to match statistics to the communities they serve."
         ]
       }
@@ -170,17 +170,17 @@
   {
     "slug": "adolescent-hypertension-recognition-gap-stats",
     "takeaways": [
-      "Adolescent hypertension statistics hinge on cuff size, resting conditions, and repeat measurements—not one school screening reading.",
+      "Adolescent hypertension statistics hinge on cuff size, resting conditions, and repeat measurements-not one school screening reading.",
       "“Recognition gap” compares measured elevation with documented diagnosis; gap size varies by setting and EHR completeness.",
       "NHANES provides nationally representative exam blood pressures; clinic registries show different numerators and denominators.",
-      "Trend lines can reflect true prevalence, obesity patterns, or improved measurement rigor—disentangle before narrating.",
+      "Trend lines can reflect true prevalence, obesity patterns, or improved measurement rigor-disentangle before narrating.",
       "Pediatric cardiovascular literacy demands age-, sex-, and height-aware thresholds, not adult 140/90 shortcuts."
     ],
     "sections": [
       {
         "heading": "Metric definition",
         "paragraphs": [
-          "Hypertension in youth is defined using age, sex, and height percentiles (or equivalent tables)—not fixed adult cutoffs. A statistic labeled “elevated BP” should specify which guideline threshold and whether ambulatory confirmation was required.",
+          "Hypertension in youth is defined using age, sex, and height percentiles (or equivalent tables)-not fixed adult cutoffs. A statistic labeled “elevated BP” should specify which guideline threshold and whether ambulatory confirmation was required.",
           "The recognition gap is typically framed as the proportion of youth with elevated measurements on repeated testing who lack a corresponding diagnosis or follow-up plan in medical records. It is a care-delivery and documentation metric as much as a physiologic one.",
           "Some surveys report “prehypertension” or “elevated” categories that changed across guideline eras. Comparing 2010 and 2020 headlines without definition alignment overstates or understates “epidemics.”"
         ]
@@ -188,16 +188,16 @@
       {
         "heading": "Where the data usually come from",
         "paragraphs": [
-          "NHANES examination protocols standardize cuff selection and resting time, yielding national prevalence estimates with sampling weights. Those denominators represent the civilian noninstitutionalized population—not every adolescent seen in busy primary care.",
+          "NHANES examination protocols standardize cuff selection and resting time, yielding national prevalence estimates with sampling weights. Those denominators represent the civilian noninstitutionalized population-not every adolescent seen in busy primary care.",
           "Electronic health record studies capture recognition and treatment but suffer from white-coat effects, sparse repeat visits, and missing cuff data. A large gap in EHR studies may partly reflect documentation norms, not only clinician unawareness.",
-          "School-based screening programs produce numerators skewed toward single-visit elevations that regress on repeat testing—a classic source of overcount if labeled “hypertension” prematurely."
+          "School-based screening programs produce numerators skewed toward single-visit elevations that regress on repeat testing-a classic source of overcount if labeled “hypertension” prematurely."
         ]
       },
       {
         "heading": "How trends can fool you",
         "paragraphs": [
           "Rising obesity prevalence can push more adolescents above percentile thresholds, but measurement quality improvements can also increase detected elevation without changing underlying hemodynamics.",
-          "Awareness campaigns may widen the “gap” temporarily by increasing screening numerators faster than diagnosis catches up—policy success can look like failure on a gap chart.",
+          "Awareness campaigns may widen the “gap” temporarily by increasing screening numerators faster than diagnosis catches up-policy success can look like failure on a gap chart.",
           "Short-term dips in recognition during public-health emergencies often reflect missed well-child visits, not sudden physiologic improvement."
         ]
       },
@@ -205,7 +205,7 @@
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
           "Subgroup tables by race, ethnicity, insurance, and geography reflect intertwined access to primary care, sports physicals, and nutrition environments. Read gaps as systems indicators.",
-          "Avoid interpreting higher observed prevalence in marginalized communities as innate vulnerability without examining stress, sleep, sodium exposure, and care continuity—NHANES and local surveys rarely capture all mediators.",
+          "Avoid interpreting higher observed prevalence in marginalized communities as innate vulnerability without examining stress, sleep, sodium exposure, and care continuity-NHANES and local surveys rarely capture all mediators.",
           "Ask whether culturally competent follow-up and cuff access were equal across groups before attributing gap differences to “patient nonadherence.”"
         ]
       },
@@ -222,7 +222,7 @@
         "heading": "Putting it together",
         "paragraphs": [
           "Adolescent hypertension recognition gap statistics train you to separate physiology from workflow: what NHANES measures nationally versus what clinics document locally.",
-          "Responsible readers pair prevalence (how many elevated) with cascade metrics (how many diagnosed, treated, controlled)—a pattern Cardily uses across hypertension topics.",
+          "Responsible readers pair prevalence (how many elevated) with cascade metrics (how many diagnosed, treated, controlled)-a pattern Cardily uses across hypertension topics.",
           "This is educational interpretation, not guidance for parents to diagnose children. Abnormal readings deserve clinical confirmation."
         ]
       }
@@ -252,18 +252,18 @@
   {
     "slug": "pregnancy-ascvd-risk-multiplier-after-preeclampsia",
     "takeaways": [
-      "“Multiplier” language describes relative comparisons in cohort studies—not a fixed factor applied to individual risk calculators.",
+      "“Multiplier” language describes relative comparisons in cohort studies-not a fixed factor applied to individual risk calculators.",
       "Preeclampsia and related disorders flag later ASCVD risk; absolute risk still depends on age, smoking, lipids, and social determinants.",
       "Numerators differ: first MI, composite ASCVD, or mortality each yield different multipliers.",
       "Immortal time and surveillance bias can inflate retrospective registry estimates if pregnancy simply marks more medical contact.",
-      "Use multipliers to prioritize follow-up and risk-factor modification conversations—not to frighten with pseudo-precision."
+      "Use multipliers to prioritize follow-up and risk-factor modification conversations-not to frighten with pseudo-precision."
     ],
     "sections": [
       {
         "heading": "Metric definition",
         "paragraphs": [
           "A hazard ratio or incidence rate ratio above 1 compares event rates in people with prior preeclampsia or hypertensive disorders of pregnancy to those without, over defined follow-up. Calling it a “multiplier” is shorthand for that relative comparison.",
-          "ASCVD endpoints in studies may include myocardial infarction, stroke, coronary revascularization, or composite cards—each changes the reported ratio. Heart failure and atrial fibrillation sometimes appear in extended analyses but not in the primary multiplier quoted in slides.",
+          "ASCVD endpoints in studies may include myocardial infarction, stroke, coronary revascularization, or composite cards-each changes the reported ratio. Heart failure and atrial fibrillation sometimes appear in extended analyses but not in the primary multiplier quoted in slides.",
           "Lifetime risk statements after pregnancy complications integrate long horizons with competing risks. They answer epidemiologic questions; they do not automatically reclassify a 35-year-old into a pharmacologic tier without guideline context."
         ]
       },
@@ -271,7 +271,7 @@
         "heading": "Where the data usually come from",
         "paragraphs": [
           "Nordic registries and large U.S. claims datasets link obstetric diagnoses to later cardiovascular events, enabling long follow-up. Pregnancy detail is rich; lifestyle and postpartum care intensity may be incomplete.",
-          "Prospective cohorts with measured risk factors allow adjustment for smoking, BMI, and blood pressure after delivery—critical because shared antecedents (insulin resistance, renal sensitivity) confound naive comparisons.",
+          "Prospective cohorts with measured risk factors allow adjustment for smoking, BMI, and blood pressure after delivery-critical because shared antecedents (insulin resistance, renal sensitivity) confound naive comparisons.",
           "NHANES is less central here due to sparse pregnancy-specific longitudinal outcomes; specialized registries and cohort publications dominate teaching examples."
         ]
       },
@@ -286,9 +286,9 @@
       {
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
-          "Black and Indigenous women face higher preeclampsia incidence and later cardiovascular burden, driven heavily by structural racism, care quality, and chronic stress—not by reducing race to biology.",
+          "Black and Indigenous women face higher preeclampsia incidence and later cardiovascular burden, driven heavily by structural racism, care quality, and chronic stress-not by reducing race to biology.",
           "When slides show higher multipliers in marginalized groups, ask whether adjustment included chronic hypertension predating pregnancy, neighborhood exposures, and postpartum loss to follow-up.",
-          "Interpret multipliers as arguments for equitable postpartum transition to primary care and cardiometabolic screening—not as deterministic labels on individuals."
+          "Interpret multipliers as arguments for equitable postpartum transition to primary care and cardiometabolic screening-not as deterministic labels on individuals."
         ]
       },
       {
@@ -304,7 +304,7 @@
         "heading": "Putting it together",
         "paragraphs": [
           "Pregnancy ASCVD multiplier statistics teach relative versus absolute framing for a clinically meaningful risk enhancer recognized in prevention guidelines.",
-          "Readers should exit able to explain why a doubling of a small baseline rate differs from a doubling of a high baseline—and why postpartum care gaps matter for observed disparities.",
+          "Readers should exit able to explain why a doubling of a small baseline rate differs from a doubling of a high baseline-and why postpartum care gaps matter for observed disparities.",
           "Cardily emphasizes interpretation, not obstetric or prescribing advice; personal history belongs in shared decision-making with qualified clinicians."
         ]
       }
@@ -335,8 +335,8 @@
     "slug": "sglt2-hf-hospitalization-absolute-benefits",
     "takeaways": [
       "SGLT2 inhibitor trials report relative risk reductions for heart failure hospitalization; absolute benefits depend on control-arm event rates.",
-      "Trial populations often had established HFrEF or HFmrEF with high background therapy—benefit in low-risk outpatients may be smaller in absolute terms.",
-      "Number needed to treat derives from absolute risk reduction—useful for teaching, sensitive to time horizon and composite endpoints.",
+      "Trial populations often had established HFrEF or HFmrEF with high background therapy-benefit in low-risk outpatients may be smaller in absolute terms.",
+      "Number needed to treat derives from absolute risk reduction-useful for teaching, sensitive to time horizon and composite endpoints.",
       "Hospitalization avoidance is patient-meaningful, but cross-trial comparisons require matching endpoints and follow-up duration.",
       "Registry uptake statistics describe prescribing patterns; they do not replace trial effect estimates."
     ],
@@ -344,8 +344,8 @@
       {
         "heading": "Metric definition",
         "paragraphs": [
-          "Heart failure hospitalization endpoints count adjudicated admissions for worsening HF over trial follow-up—typically one to three years. Urgent ED visits without admission may be captured separately or not at all, changing apparent benefit.",
-          "Absolute risk reduction subtracts the event rate in the treatment group from the control group (or vice versa) on the same scale—often percentage points over the trial period. That quantity, not the headline relative percent alone, drives public-health impact at scale.",
+          "Heart failure hospitalization endpoints count adjudicated admissions for worsening HF over trial follow-up-typically one to three years. Urgent ED visits without admission may be captured separately or not at all, changing apparent benefit.",
+          "Absolute risk reduction subtracts the event rate in the treatment group from the control group (or vice versa) on the same scale-often percentage points over the trial period. That quantity, not the headline relative percent alone, drives public-health impact at scale.",
           "Some analyses present first hospitalization only; others include recurrent events models. Recurrent event methods can increase statistical power but complicate intuitive NNT calculations for learners."
         ]
       },
@@ -354,7 +354,7 @@
         "paragraphs": [
           "Randomized trials in dedicated heart failure populations supply the cleanest effect estimates, with blinded adjudication. AHA statistical updates may cite trial ARRs when summarizing therapeutic advances; NHANES does not generate trial-style treatment contrasts.",
           "Real-world effectiveness studies using claims mirror prescribing trends and comorbidity mix, but confounding by indication can inflate apparent benefits unless handled with rigorous methods.",
-          "Hospitalization rates in the general HF population from HCUP set the backdrop for how large trial ARRs might be if applied broadly—another denominator lesson."
+          "Hospitalization rates in the general HF population from HCUP set the backdrop for how large trial ARRs might be if applied broadly-another denominator lesson."
         ]
       },
       {
@@ -362,14 +362,14 @@
         "paragraphs": [
           "Declining national HF hospitalization rates over a decade can make a trial’s control-arm rate look outdated, shrinking expected absolute benefit today even if relative effects persist.",
           "COVID-era hospitalization avoidance policies temporarily altered admission thresholds, distorting before-after quality metrics unrelated to drug efficacy.",
-          "Combining HF hospitalization with cardiovascular death into composites yields impressive relative reductions while hiding which component moved—and by how much absolutely."
+          "Combining HF hospitalization with cardiovascular death into composites yields impressive relative reductions while hiding which component moved-and by how much absolutely."
         ]
       },
       {
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
           "Trial enrollment under-represented some racial and ethnic groups and older frail adults; subgroup ARRs often have wide uncertainty. Absence of proof in a subgroup is not proof of absence.",
-          "Access to SGLT2 inhibitors through formularies and kidney monitoring requirements shapes real-world benefit distribution—statistics on utilization gaps belong in the same conversation as trial ARRs.",
+          "Access to SGLT2 inhibitors through formularies and kidney monitoring requirements shapes real-world benefit distribution-statistics on utilization gaps belong in the same conversation as trial ARRs.",
           "Teach students to demand absolute subgroup tables, not only forest-plot ratios, when equity claims appear in headlines."
         ]
       },
@@ -387,7 +387,7 @@
         "paragraphs": [
           "SGLT2 heart failure hospitalization statistics are a classroom for absolute benefit: the same relative reduction means fewer prevented admissions when baseline hospitalization risk is low.",
           "Pair trial ARRs with transparent NNT over matching horizons, and caution against extrapolating to populations excluded from trials.",
-          "This explainer supports evidence literacy, not medication decisions—those require individual clinical assessment."
+          "This explainer supports evidence literacy, not medication decisions-those require individual clinical assessment."
         ]
       }
     ],
@@ -416,9 +416,9 @@
   {
     "slug": "lifetime-risk-of-ascvd-how-estimators-differ",
     "takeaways": [
-      "Lifetime ASCVD risk estimates integrate decades of competing mortality—highly sensitive to starting age and risk factor assumptions.",
+      "Lifetime ASCVD risk estimates integrate decades of competing mortality-highly sensitive to starting age and risk factor assumptions.",
       "Markov models, cohort life-table methods, and microsimulations can yield different numbers from the same literature inputs.",
-      "“Lifetime” often means to age 95 or through remaining life expectancy—not literally every reader’s personal horizon.",
+      "“Lifetime” often means to age 95 or through remaining life expectancy-not literally every reader’s personal horizon.",
       "Risk factor trajectories (rising BMI, quitting smoking) are simplified in many calculators; static inputs misread dynamic lives.",
       "Use lifetime metrics for prevention messaging at population scale; pair with shorter horizons for near-term decisions."
     ],
@@ -427,7 +427,7 @@
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
           "Lifetime ASCVD risk answers: If a person with specified risk factors survives non-CVD threats, what cumulative chance do models assign to a first ASCVD event before a terminal age? It is forward-looking arithmetic built from age-specific incidence and competing risks.",
-          "Estimators differ in whether they update risk factors with age, how they treat borderline hypertension, and whether they include stroke uniformly with coronary events. AHA summaries may cite multiple modeling groups; GBD outputs address burden rather than individual lifetime risk—related but not interchangeable.",
+          "Estimators differ in whether they update risk factors with age, how they treat borderline hypertension, and whether they include stroke uniformly with coronary events. AHA summaries may cite multiple modeling groups; GBD outputs address burden rather than individual lifetime risk-related but not interchangeable.",
           "Remaining lifetime risk from midlife differs from “lifetime risk from age 20” because early low-risk years dilute cumulative curves. Headlines rarely specify the index age."
         ]
       },
@@ -435,22 +435,22 @@
         "heading": "How to interpret them without being misled",
         "paragraphs": [
           "Treat outputs as scenario analyses: “If this risk factor profile persisted as modeled…” Real people change behavior, start statins, and experience pregnancy-related shifts calculators may omit.",
-          "Compare estimators by checking input cohorts—Framingham-derived, pooled cohort, or global synthetic cohorts—and whether calibration targeted U.S. national mortality.",
+          "Compare estimators by checking input cohorts-Framingham-derived, pooled cohort, or global synthetic cohorts-and whether calibration targeted U.S. national mortality.",
           "When two apps disagree, trace whether one uses hard ASCVD only while another includes heart failure readmissions in broader definitions."
         ]
       },
       {
         "heading": "Common statistical traps",
         "paragraphs": [
-          "Presenting lifetime risk alongside 10-year risk without clarifying that short-term risk may be low while lifetime risk appears high—especially in young adults with one elevated factor.",
+          "Presenting lifetime risk alongside 10-year risk without clarifying that short-term risk may be low while lifetime risk appears high-especially in young adults with one elevated factor.",
           "Using lifetime risk to argue for immediate pharmacotherapy in low 10-year risk patients without referencing guideline frameworks that weigh long-term exposure differently.",
-          "Ignoring competing risk: aggressive prevention of ASCVD in models still assumes death from cancer or accidents at population rates—uncertainty grows at older ages."
+          "Ignoring competing risk: aggressive prevention of ASCVD in models still assumes death from cancer or accidents at population rates-uncertainty grows at older ages."
         ]
       },
       {
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
-          "Policy simulations use lifetime models to compare tobacco taxation or sodium reduction across decades. Students should see parallel structure to clinical calculators—same math family, different purpose.",
+          "Policy simulations use lifetime models to compare tobacco taxation or sodium reduction across decades. Students should see parallel structure to clinical calculators-same math family, different purpose.",
           "NHANES supplies cross-sectional risk factor distributions feeding simulations; adjudicated cohorts supply event rates. Weakness in either input propagates to lifetime outputs quietly.",
           "Transparent sensitivity analyses (best/worst case factor trajectories) should accompany any lifetime statistic used in advocacy."
         ]
@@ -460,7 +460,7 @@
         "paragraphs": [
           "Ask for index age, endpoint definition, and competing-risk handling before sharing a lifetime percentage.",
           "Teach that lifetime and 10-year risks complement; neither replaces shared decision-making.",
-          "Avoid deterministic language—“your lifetime risk is X% therefore you will…”—models assign probabilities, not fates."
+          "Avoid deterministic language-“your lifetime risk is X% therefore you will…”-models assign probabilities, not fates."
         ]
       },
       {
@@ -468,7 +468,7 @@
         "paragraphs": [
           "Lifetime ASCVD estimator literacy demystifies why reputable tools disagree slightly and why guidelines emphasize both near- and long-term frames.",
           "Cardily readers should finish able to sketch a simple competing-risk verbal explanation and to locate where NHANES and cohort studies feed the black box.",
-          "Educational content only—not individualized prevention planning."
+          "Educational content only-not individualized prevention planning."
         ]
       }
     ],
@@ -497,26 +497,26 @@
   {
     "slug": "pooled-cohort-ascvd-equations-teaching-guide",
     "takeaways": [
-      "Pooled cohort equations predict 10-year hard ASCVD risk using coefficients from combined community cohorts—not a single zip code.",
+      "Pooled cohort equations predict 10-year hard ASCVD risk using coefficients from combined community cohorts-not a single zip code.",
       "Race appears in the U.S. equations as a social variable correlated with event rates in training data; interpret with calibration ethics, not essentialism.",
       "Discrimination (c-statistic) modesty is expected; the tool targets risk stratification at population thresholds, not perfect individual prediction.",
-      "Recalibration and adjunct testing (CAC, biomarkers) address misprediction—statistics explain why those pathways exist.",
+      "Recalibration and adjunct testing (CAC, biomarkers) address misprediction-statistics explain why those pathways exist.",
       "Teaching should emphasize thresholds as policy constructs tied to trial evidence, not natural law."
     ],
     "sections": [
       {
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
-          "The pooled cohort ASCVD equations estimate the probability of a first hard atherosclerotic event within ten years among asymptomatic adults free of clinical ASCVD at baseline, using age, sex, total and HDL cholesterol, treated or untreated systolic blood pressure, smoking, diabetes, and—in the U.S. version—race categories specified in the source publications.",
+          "The pooled cohort ASCVD equations estimate the probability of a first hard atherosclerotic event within ten years among asymptomatic adults free of clinical ASCVD at baseline, using age, sex, total and HDL cholesterol, treated or untreated systolic blood pressure, smoking, diabetes, and-in the U.S. version-race categories specified in the source publications.",
           "Outputs feed guideline discussions about statin initiation and intensity in primary prevention. The number is a input to conversation, not an automatic prescription.",
-          "Validation metrics include calibration (predicted vs observed events) and discrimination (ranking). ACC/AHA materials and subsequent literature debate performance in younger adults, women, and diverse communities—students should read that literature as ongoing quality improvement."
+          "Validation metrics include calibration (predicted vs observed events) and discrimination (ranking). ACC/AHA materials and subsequent literature debate performance in younger adults, women, and diverse communities-students should read that literature as ongoing quality improvement."
         ]
       },
       {
         "heading": "How to interpret them without being misled",
         "paragraphs": [
           "A 7.5% ten-year risk is not “7.5% this year.” It is a cumulative decade estimate under model assumptions. Divide-by-ten mental math is misleading because risk accelerates with age.",
-          "When risk enhancers (family history, chronic kidney disease, metabolic syndrome, inflammatory conditions) appear in guidelines, they acknowledge equation limits—teach enhancers as statistical under-capture, not mystical overrides.",
+          "When risk enhancers (family history, chronic kidney disease, metabolic syndrome, inflammatory conditions) appear in guidelines, they acknowledge equation limits-teach enhancers as statistical under-capture, not mystical overrides.",
           "Compare predicted risk to observed cohort event rates in your teaching panel; miscalibration by subgroup is a data justice issue when it drives under-treatment."
         ]
       },
@@ -525,14 +525,14 @@
         "paragraphs": [
           "Treating the equation as diagnostic for plaque: it predicts events, not stenosis grade.",
           "Applying the tool outside intended age bands or to patients with prior statin intolerance without reframing.",
-          "Confusing treatment benefit (trial ARR) with baseline risk (equation output)—benefit still requires separate evidence integration."
+          "Confusing treatment benefit (trial ARR) with baseline risk (equation output)-benefit still requires separate evidence integration."
         ]
       },
       {
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
           "Equations encode historical experience; changing national treatment patterns means periodic recalibration belongs in curriculum, not surprise.",
-          "NHANES-linked simulations show how shifting cholesterol distributions alter the fraction above guideline thresholds—even when relative model performance is stable.",
+          "NHANES-linked simulations show how shifting cholesterol distributions alter the fraction above guideline thresholds-even when relative model performance is stable.",
           "Policy debates about universal lipid screening in youth connect indirectly: early identification changes inputs to later-life estimates, not the math form alone."
         ]
       },
@@ -540,7 +540,7 @@
         "heading": "Responsible takeaways",
         "paragraphs": [
           "Teach students to document which equation version, which units, and whether risk factors were treated values.",
-          "Pair pooled cohort outputs with absolute benefit framing from statin trials when discussing shared decision-making—without prescribing here.",
+          "Pair pooled cohort outputs with absolute benefit framing from statin trials when discussing shared decision-making-without prescribing here.",
           "Discuss race coefficients critically: social exposures and care gaps, not innate destiny."
         ]
       },
@@ -549,7 +549,7 @@
         "paragraphs": [
           "This teaching guide positions pooled cohort equations inside statistical literacy: prediction, calibration, thresholds, and equity-aware skepticism.",
           "Readers should navigate AHA statistical discussions of ASCVD burden while understanding how primary prevention tools attempt to prioritize limited attention.",
-          "Not medical advice—clinical application belongs with licensed professionals using current guidelines."
+          "Not medical advice-clinical application belongs with licensed professionals using current guidelines."
         ]
       }
     ],
@@ -578,8 +578,8 @@
   {
     "slug": "coronary-calcium-reclassification-statistics-idea",
     "takeaways": [
-      "Reclassification statistics ask whether a test moves people across risk categories enough to change decisions—not whether it merely correlates.",
-      "Coronary artery calcium (CAC) score of zero often downshifts predicted risk; high scores may upshift—magnitude depends on baseline risk stratum.",
+      "Reclassification statistics ask whether a test moves people across risk categories enough to change decisions-not whether it merely correlates.",
+      "Coronary artery calcium (CAC) score of zero often downshifts predicted risk; high scores may upshift-magnitude depends on baseline risk stratum.",
       "Net reclassification improvement (NRI) is controversial; teach both event-based NRI and its limitations in case-control settings.",
       "CAC studies often enroll intermediate-risk adults; extrapolation to very low or very high baseline risk skews reclassification percentages.",
       "Incidental detection on non-gated CT is a separate numerator problem from dedicated scoring protocols."
@@ -588,8 +588,8 @@
       {
         "heading": "Metric definition",
         "paragraphs": [
-          "Risk reclassification compares how many individuals move from one predicted risk bin to another when CAC data are added, relative to equations alone. “Moved up” and “moved down” should be reported separately—net shifts can hide harmful misclassification.",
-          "CAC=0 carries a low short-term hard event rate in many cohorts, which is why zero scores influence shared decision-making discussions. It is not a guarantee—rare events and non-calcified plaque still exist statistically.",
+          "Risk reclassification compares how many individuals move from one predicted risk bin to another when CAC data are added, relative to equations alone. “Moved up” and “moved down” should be reported separately-net shifts can hide harmful misclassification.",
+          "CAC=0 carries a low short-term hard event rate in many cohorts, which is why zero scores influence shared decision-making discussions. It is not a guarantee-rare events and non-calcified plaque still exist statistically.",
           "Agatston scoring requires standardized acquisition; volumetric and mass scores appear in research. Comparisons across scanners and eras need protocol awareness."
         ]
       },
@@ -598,7 +598,7 @@
         "paragraphs": [
           "Multi-ethnic cohort studies (MESA is the classic teaching example) link CAC to adjudicated ASCVD outcomes, enabling reclassification analyses against pooled cohort predictions.",
           "NHANES has not routinely included CAC for entire cycles; national prevalence of high scores often comes from cohort subsamples, not universal surveillance.",
-          "Incidental calcium on chest CT draws from imaging utilization statistics—numerators depend on indication mix (oncology staging vs infection workups)."
+          "Incidental calcium on chest CT draws from imaging utilization statistics-numerators depend on indication mix (oncology staging vs infection workups)."
         ]
       },
       {
@@ -612,8 +612,8 @@
       {
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
-          "CAC burden differs across groups for reasons including exposure, access to preventive care, and chronic stress—not because race is a biological input to scanners.",
-          "When reclassification metrics perform unevenly by subgroup, interpret as need for better baseline equations and access—not as denial of testing to marginalized patients by default.",
+          "CAC burden differs across groups for reasons including exposure, access to preventive care, and chronic stress-not because race is a biological input to scanners.",
+          "When reclassification metrics perform unevenly by subgroup, interpret as need for better baseline equations and access-not as denial of testing to marginalized patients by default.",
           "Cost and radiation (minimal for dedicated scoring, but not zero) interact with equity; statistics on who receives CAC reflect social structure."
         ]
       },
@@ -630,7 +630,7 @@
         "heading": "Putting it together",
         "paragraphs": [
           "Coronary calcium reclassification statistics illustrate intermediate-risk decision science: when adding a test improves classification enough to justify cost and downstream care changes.",
-          "Students should explain why reclassification is not the same as treatment benefit—trials of CAC-guided management address that distinct question.",
+          "Students should explain why reclassification is not the same as treatment benefit-trials of CAC-guided management address that distinct question.",
           "Educational framing only; imaging decisions require clinical context."
         ]
       }
@@ -661,7 +661,7 @@
     "slug": "absolute-risk-communication-best-practices",
     "takeaways": [
       "Absolute risks use the same units for baseline and outcome; relative risks alone amplify small baselines into scary headlines.",
-      "Frequency formats (10 in 1,000) often outperform raw percentages for public comprehension—still require clear time frames.",
+      "Frequency formats (10 in 1,000) often outperform raw percentages for public comprehension-still require clear time frames.",
       "Icon arrays help, but scale choice can nudge perception; ethical communication shows both benefit and harm absolutely.",
       "Shared decision-making needs consistent denominators when comparing drugs, devices, and lifestyle options.",
       "Best practices are ethical statistics, not manipulation for consent."
@@ -671,23 +671,23 @@
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
           "Absolute risk communication states how many people in a defined group experience an outcome over a defined period, or the probability for an individual under explicit assumptions. It anchors treatment conversations to countable events.",
-          "Absolute risk reduction subtracts treated from control event rates. Number needed to treat is the reciprocal when ARR is expressed as a proportion—always tied to the trial’s time horizon.",
+          "Absolute risk reduction subtracts treated from control event rates. Number needed to treat is the reciprocal when ARR is expressed as a proportion-always tied to the trial’s time horizon.",
           "Absolute excess risk of harm mirrors the structure for side effects. Pairing NNT and NNH without matching horizons misleads."
         ]
       },
       {
         "heading": "How to interpret them without being misled",
         "paragraphs": [
-          "When media cite “50% reduction,” locate the control rate. A drop from 2% to 1% is 50% relative but only 1 percentage point absolute—a huge teaching moment for cardiovascular prevention debates.",
+          "When media cite “50% reduction,” locate the control rate. A drop from 2% to 1% is 50% relative but only 1 percentage point absolute-a huge teaching moment for cardiovascular prevention debates.",
           "Express the same data as frequencies per 1,000 patient-years to reveal scale for policy audiences reviewing AHA burden tables alongside trial ARRs.",
-          "Clarify whether numbers are personal predictions, trial subgroup results, or population averages—category errors here drive overtreatment and undertreatment."
+          "Clarify whether numbers are personal predictions, trial subgroup results, or population averages-category errors here drive overtreatment and undertreatment."
         ]
       },
       {
         "heading": "Common statistical traps",
         "paragraphs": [
           "Using relative risk reduction from trials with low event rates to imply large personal benefit without estimating baseline risk.",
-          "Showing benefits in relative terms and harms in absolute terms—or vice versa.",
+          "Showing benefits in relative terms and harms in absolute terms-or vice versa.",
           "Extending trial ARR beyond follow-up without acknowledging uncertainty growth."
         ]
       },
@@ -695,7 +695,7 @@
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
           "Guideline panels increasingly demand absolute framing in evidence tables; students who read ACC/AHA documents should trace GRADE summaries for absolute effects.",
-          "Public health campaigns on smoking cessation pair relative health gains with absolute death tolls from CDC WONDER—dual framing for different audiences is intentional, not contradictory.",
+          "Public health campaigns on smoking cessation pair relative health gains with absolute death tolls from CDC WONDER-dual framing for different audiences is intentional, not contradictory.",
           "Digital health apps should be scrutinized for denominator transparency; Cardily readers can audit pop-ups using the same checklist."
         ]
       },
@@ -711,8 +711,8 @@
         "heading": "Putting it together",
         "paragraphs": [
           "Absolute risk communication best practices unify Cardily’s data-literacy spine: denominators, horizons, paired harm/benefit, and honest uncertainty.",
-          "Mastering this skill makes every other statistics article—SGLT2 ARR, aspirin primary prevention, GLP-1 trials—easier to read without cynicism.",
-          "Educational only—not individualized counseling."
+          "Mastering this skill makes every other statistics article-SGLT2 ARR, aspirin primary prevention, GLP-1 trials-easier to read without cynicism.",
+          "Educational only-not individualized counseling."
         ]
       }
     ],
@@ -743,7 +743,7 @@
     "takeaways": [
       "30-day all-cause readmission metrics penalize hospitals for returns unrelated to HF if not risk-adjusted carefully.",
       "Denominator is index HF hospitalizations; readmission definitions follow CMS algorithms with exclusion windows.",
-      "Improvement can reflect better transitions, stricter admission thresholds, or patient avoidance of returns—quality and gaming coexist in metrics.",
+      "Improvement can reflect better transitions, stricter admission thresholds, or patient avoidance of returns-quality and gaming coexist in metrics.",
       "Absolute readmission rates vary by comorbidity burden; compare risk-standardized rates, not raw rankings.",
       "Patient-centered outcomes include survival and quality of life, not only avoiding day 31 rehospitalization."
     ],
@@ -753,7 +753,7 @@
         "paragraphs": [
           "The CMS 30-day heart failure readmission measure tracks unplanned readmissions within 30 days of discharge from an index HF admission, with specified exclusions for planned procedures and certain transfers. It is an all-cause readmission metric unless a program explicitly uses HF-specific readmission variants in research.",
           "Risk adjustment models incorporate age, comorbidities, and prior utilization so hospitals caring for sicker populations are not ranked solely on case mix. Residual bias remains a teaching topic.",
-          "Observed-to-expected ratios and categorical star ratings compress uncertainty—readers should seek confidence intervals when available in research versions."
+          "Observed-to-expected ratios and categorical star ratings compress uncertainty-readers should seek confidence intervals when available in research versions."
         ]
       },
       {
@@ -761,22 +761,22 @@
         "paragraphs": [
           "Medicare claims dominate public reporting for older U.S. adults; younger HF readmission patterns require different datasets with smaller uniform policy levers.",
           "AHA statistical updates contextualize HF hospitalization volume nationally; readmission metrics come from CMS quality programs and peer-reviewed health services research.",
-          "Single-center dashboards rarely match national risk models—local numerators may look worse if social determinants drive returns homelessness, medication access."
+          "Single-center dashboards rarely match national risk models-local numerators may look worse if social determinants drive returns homelessness, medication access."
         ]
       },
       {
         "heading": "How trends can fool you",
         "paragraphs": [
-          "Hospitals may increase observation stays to avoid index admissions, shifting events out of the denominator—a denominator manipulation lesson.",
+          "Hospitals may increase observation stays to avoid index admissions, shifting events out of the denominator-a denominator manipulation lesson.",
           "COVID-19 changed readmission patterns and patient fear of returning; year-over-year comparisons need pandemic annotation.",
-          "Success on 30-day readmission can coincide with rising 90-day mortality if discharges are premature—always pair process metrics with outcome metrics."
+          "Success on 30-day readmission can coincide with rising 90-day mortality if discharges are premature-always pair process metrics with outcome metrics."
         ]
       },
       {
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
           "Safety-net hospitals treat higher proportions of patients with housing instability and low health literacy; readmission penalties can worsen financial strain without fixing upstream causes.",
-          "Racial disparities in readmission often reflect post-discharge pharmacy access and follow-up appointment availability—read rates as structural, not behavioral moralizing.",
+          "Racial disparities in readmission often reflect post-discharge pharmacy access and follow-up appointment availability-read rates as structural, not behavioral moralizing.",
           "Community-level interventions (medication delivery, nurse calls) change absolute readmission percentages; evaluate who receives them."
         ]
       },
@@ -793,8 +793,8 @@
         "heading": "Putting it together",
         "paragraphs": [
           "A nuanced view of 30-day HF readmission teaches quality metric literacy: definition, gaming, equity, and pairing with mortality.",
-          "Students should articulate why a hospital’s rank is not a direct measure of cardiologist skill alone—systems and social context dominate.",
-          "Not guidance for patients choosing care—use official quality resources and clinical relationships."
+          "Students should articulate why a hospital’s rank is not a direct measure of cardiologist skill alone-systems and social context dominate.",
+          "Not guidance for patients choosing care-use official quality resources and clinical relationships."
         ]
       }
     ],
@@ -825,8 +825,8 @@
     "takeaways": [
       "Heart failure prevalence rises steeply with age; national totals mix true incidence with longer survival on modern therapy.",
       "Prevalence equals existing cases; aging populations increase prevalence even if age-specific incidence is flat.",
-      "NHANES self-report plus exam algorithms differ from claims-based “active HF” counts—expect different millions.",
-      "HFpEF share growth reflects diagnosis patterns, echo use, and obesity—not one simple epidemic curve.",
+      "NHANES self-report plus exam algorithms differ from claims-based “active HF” counts-expect different millions.",
+      "HFpEF share growth reflects diagnosis patterns, echo use, and obesity-not one simple epidemic curve.",
       "Teach students to separate demography math from pathophysiology stories."
     ],
     "sections": [
@@ -835,7 +835,7 @@
         "paragraphs": [
           "Heart failure prevalence counts people living with HF at a point in time or over a survey window. Incidence counts new diagnoses. AHA updates often cite both, sometimes modeled when survey sample sizes are thin for rare combinations.",
           "Definitions vary: symptomatic HF with reduced ejection fraction, HF with preserved EF, or “probable HF” from survey algorithms. Each definition shifts the numerator.",
-          "Lifetime prevalence includes people who ever had HF; point prevalence includes only current cases—headlines rarely specify which."
+          "Lifetime prevalence includes people who ever had HF; point prevalence includes only current cases-headlines rarely specify which."
         ]
       },
       {
@@ -843,13 +843,13 @@
         "paragraphs": [
           "NHANES provides nationally weighted estimates with clinical components; BRFSS adds self-reported HF with known misclassification limits.",
           "Medicare claims yield high-volume numerators for older adults but depend on billing codes that conflate chronic HF with acute exacerbation coding habits.",
-          "GBD publishes global prevalence with modeling across countries—compare methods before ranking nations."
+          "GBD publishes global prevalence with modeling across countries-compare methods before ranking nations."
         ]
       },
       {
         "heading": "How trends can fool you",
         "paragraphs": [
-          "Better survival after MI and HFrEF therapy increases prevalent pool—success can look like an epidemic on prevalence charts.",
+          "Better survival after MI and HFrEF therapy increases prevalent pool-success can look like an epidemic on prevalence charts.",
           "Expanded use of natriuretic peptides and echocardiography raises diagnosed HFpEF prevalence without proving identical pathophysiology prevalence decades ago.",
           "Aging baby boomers shift age pyramids; age-standardized prevalence may be stable while crude totals rise."
         ]
@@ -857,7 +857,7 @@
       {
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
-          "Higher HF prevalence in Black communities reflects hypertension burden, care access, and environmental exposures—interpret with structural lens.",
+          "Higher HF prevalence in Black communities reflects hypertension burden, care access, and environmental exposures-interpret with structural lens.",
           "Rural hospitalization rates and specialist access shape where HF is diagnosed early vs late, affecting prevalence surveys differently from claims.",
           "Avoid using prevalence gaps to imply individual inevitability; they flag systems needing investment."
         ]
@@ -874,9 +874,9 @@
       {
         "heading": "Putting it together",
         "paragraphs": [
-          "HF prevalence aging math links demography to cardiovascular surveillance: numerators, numerators, numerators—and survival on GDMT.",
+          "HF prevalence aging math links demography to cardiovascular surveillance: numerators, numerators, numerators-and survival on GDMT.",
           "Readers should sketch how declining mortality can increase prevalence without contradicting prevention progress.",
-          "Educational statistics literacy—not individual prognosis."
+          "Educational statistics literacy-not individual prognosis."
         ]
       }
     ],
@@ -905,18 +905,18 @@
   {
     "slug": "tobacco-use-youth-trend-lines-heart-future",
     "takeaways": [
-      "Youth tobacco charts mix cigarettes, e-cigarettes, and dual use—definitions drive trend shape more than rhetoric.",
+      "Youth tobacco charts mix cigarettes, e-cigarettes, and dual use-definitions drive trend shape more than rhetoric.",
       "BRFSS and school surveys (NYTS) cover different ages and settings; do not merge without harmonizing.",
-      "Declining cigarette use can hide rising nicotine exposure via vaping—read product-specific lines.",
-      "Lag decades separate youth uptake from adult ASCVD events—trend lines are leading indicators, not instant outcomes.",
+      "Declining cigarette use can hide rising nicotine exposure via vaping-read product-specific lines.",
+      "Lag decades separate youth uptake from adult ASCVD events-trend lines are leading indicators, not instant outcomes.",
       "Policy graphs should show confidence intervals and survey mode changes."
     ],
     "sections": [
       {
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
-          "Youth tobacco surveillance tracks current use, ever use, and frequency by product class. “Current e-cigarette use” numerators exploded in some years while combustible cigarette rates fell—both truths belong on the same slide with separate colors.",
-          "Heart disease statistical updates link smoking to attributable fractions for mortality; youth trend lines answer a different time horizon—prevention upstream.",
+          "Youth tobacco surveillance tracks current use, ever use, and frequency by product class. “Current e-cigarette use” numerators exploded in some years while combustible cigarette rates fell-both truths belong on the same slide with separate colors.",
+          "Heart disease statistical updates link smoking to attributable fractions for mortality; youth trend lines answer a different time horizon-prevention upstream.",
           "Nicotine dependence, not just formal diagnosis, matters biologically, but surveys proxy behavior with self-report."
         ]
       },
@@ -925,7 +925,7 @@
         "paragraphs": [
           "A downward trend in one product is not universal decline in nicotine exposure. Read stacked product panels.",
           "Survey wording changes (e.g., device examples) alter responses; annotate revision years on charts.",
-          "Weight BRFSS youth subsamples carefully—they are smaller and noisier than adult BRFSS modules."
+          "Weight BRFSS youth subsamples carefully-they are smaller and noisier than adult BRFSS modules."
         ]
       },
       {
@@ -957,7 +957,7 @@
         "paragraphs": [
           "Youth tobacco trend literacy prepares readers for future heart burden statistics that will reflect today’s product mix.",
           "Cardily emphasizes interpretation of public surveillance, not moral panic from a single year’s spike.",
-          "Not cessation counseling—clinical support for nicotine dependence is personal and professional."
+          "Not cessation counseling-clinical support for nicotine dependence is personal and professional."
         ]
       }
     ],
@@ -986,10 +986,10 @@
   {
     "slug": "sleep-duration-population-short-sleep-epidemic",
     "takeaways": [
-      "Short sleep prevalence depends on self-reported vs actigraphy—NHANES uses questionnaires with known bias.",
+      "Short sleep prevalence depends on self-reported vs actigraphy-NHANES uses questionnaires with known bias.",
       "“Epidemic” language often means rising survey prevalence, not verified clinical sleep disorder diagnoses.",
       "Cardiovascular links in population data are associative; confounding by shift work, stress, and mental health is substantial.",
-      "Age, employment, and caregiving stratify sleep duration—aggregate averages hide night-shift workers.",
+      "Age, employment, and caregiving stratify sleep duration-aggregate averages hide night-shift workers.",
       "Teach time-use and social determinants alongside hypothalamic biology."
     ],
     "sections": [
@@ -997,22 +997,22 @@
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
           "Population sleep duration statistics typically ask: How many hours of sleep do you usually get? Short sleep is defined as below a threshold (often less than 7 hours for adults in public health messaging), which is a crude proxy for sleep health.",
-          "AHA summaries may cite sleep as a Life’s Essential 8 component; NHANES cycles add sleep questions intermittently—check which cycles include comparable items before drawing trend lines.",
+          "AHA summaries may cite sleep as a Life’s Essential 8 component; NHANES cycles add sleep questions intermittently-check which cycles include comparable items before drawing trend lines.",
           "Sleep apnea prevalence is a distinct metric requiring symptoms plus testing in ideal surveillance; undercount is common."
         ]
       },
       {
         "heading": "How to interpret them without being misled",
         "paragraphs": [
-          "Self-report tends to misestimate actual sleep vs time in bed. Wearables introduce new datasets with device-specific algorithms—not automatically gold standard.",
+          "Self-report tends to misestimate actual sleep vs time in bed. Wearables introduce new datasets with device-specific algorithms-not automatically gold standard.",
           "Short sleep correlates with low income, long commutes, and rotating shifts; adjusting only for age and sex leaves structural drivers on the table.",
-          "Cardiovascular outcome associations often use long follow-up cohorts; magnitude is modest compared with smoking—absolute risk differences are small at individual level."
+          "Cardiovascular outcome associations often use long follow-up cohorts; magnitude is modest compared with smoking-absolute risk differences are small at individual level."
         ]
       },
       {
         "heading": "Common statistical traps",
         "paragraphs": [
-          "Calling survey short sleep an “epidemic” of cardiovascular events—lag and confounding separate the curves.",
+          "Calling survey short sleep an “epidemic” of cardiovascular events-lag and confounding separate the curves.",
           "U-shaped mortality curves for sleep duration can reflect reverse causation from illness causing both long bed rest and mortality.",
           "Pooling weekend catch-up sleep with weekday deprivation without diary data."
         ]
@@ -1020,7 +1020,7 @@
       {
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
-          "Workplace and school start-time policies target population sleep statistics with plausible cardiovascular co-benefits—evaluate with difference-in-differences designs, not vibes.",
+          "Workplace and school start-time policies target population sleep statistics with plausible cardiovascular co-benefits-evaluate with difference-in-differences designs, not vibes.",
           "GBD includes sleep-related risk factors in some iterations; compare to NHANES direct measurement scope.",
           "Students should read sleep-CVD papers for adjustment sets: BMI, depression, alcohol, activity."
         ]
@@ -1038,7 +1038,7 @@
         "paragraphs": [
           "Short sleep population statistics teach associative epidemiology with heavy confounding and equity dimensions.",
           "Pair this with BRFSS limitations and NHANES exam modules for a full surveillance picture.",
-          "Educational only—not sleep medicine advice."
+          "Educational only-not sleep medicine advice."
         ]
       }
     ],
@@ -1067,9 +1067,9 @@
   {
     "slug": "undiagnosed-hypertension-proportion-estimates",
     "takeaways": [
-      "Undiagnosed hypertension compares exam-defined elevation with self-reported diagnosis or medication—NHANES is the classic source.",
+      "Undiagnosed hypertension compares exam-defined elevation with self-reported diagnosis or medication-NHANES is the classic source.",
       "White-coat and masked hypertension blur “undiagnosed” labels if only office norms are used.",
-      "Treatment cascades separate unaware, untreated, and uncontrolled—each step has its own statistic.",
+      "Treatment cascades separate unaware, untreated, and uncontrolled-each step has its own statistic.",
       "Improving awareness can temporarily raise diagnosed prevalence without changing true physiology prevalence.",
       "Absolute counts depend on U.S. population totals and survey weights, not back-of-envelope guesses."
     ],
@@ -1078,7 +1078,7 @@
         "heading": "Metric definition",
         "paragraphs": [
           "Undiagnosed hypertension proportion is typically: adults meeting survey BP criteria on repeated measurements who deny a hypertension diagnosis and report no antihypertensive use. Definitions follow guideline thresholds active for that NHANES analytic cycle.",
-          "Some analyses include only stage 2 elevation; others include stage 1—compare before debating “half undiagnosed” headlines.",
+          "Some analyses include only stage 2 elevation; others include stage 1-compare before debating “half undiagnosed” headlines.",
           "Awareness is distinct from control; AHA statistical updates often present both in hypertension chapters."
         ]
       },
@@ -1101,7 +1101,7 @@
       {
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
-          "Higher undiagnosed fractions in young adults and in groups with less primary care access are common findings—frame as care system gaps.",
+          "Higher undiagnosed fractions in young adults and in groups with less primary care access are common findings-frame as care system gaps.",
           "Avoid blaming individuals for “silent” hypertension; screening access and follow-up loops matter.",
           "Compare undiagnosed proportions alongside uninsured rates and pharmacy deserts in the same geography."
         ]
@@ -1119,7 +1119,7 @@
         "heading": "Putting it together",
         "paragraphs": [
           "Undiagnosed hypertension estimates anchor the treatment cascade story Cardily tells across data articles.",
-          "Readers should translate a weighted NHANES percent into a thoughtful national scale without faux precision—ranges and uncertainty matter.",
+          "Readers should translate a weighted NHANES percent into a thoughtful national scale without faux precision-ranges and uncertainty matter.",
           "Not a prompt to start medication without clinical evaluation."
         ]
       }
@@ -1150,16 +1150,16 @@
     "slug": "treatment-cascade-hypertension-diagnose-treat-control",
     "takeaways": [
       "Hypertension cascades partition the population into measured elevated, aware, treated, and controlled stages.",
-      "Each transition has a dropout rate; multiplying step yields overall control fraction—denominator clarity is essential.",
+      "Each transition has a dropout rate; multiplying step yields overall control fraction-denominator clarity is essential.",
       "NHANES enables national cascades; local health departments replicate with community surveys.",
-      "Improvement in control can reflect better drugs or relaxed thresholds—read definition stability.",
+      "Improvement in control can reflect better drugs or relaxed thresholds-read definition stability.",
       "Disparities appear at every cascade step, not only at control."
     ],
     "sections": [
       {
         "heading": "Metric definition",
         "paragraphs": [
-          "A treatment cascade begins with a defined eligible population (e.g., adults with hypertension by exam criteria). Stages: (1) aware, (2) pharmacologically treated among aware, (3) controlled BP among treated or among all hypertensive—authors must specify denominators.",
+          "A treatment cascade begins with a defined eligible population (e.g., adults with hypertension by exam criteria). Stages: (1) aware, (2) pharmacologically treated among aware, (3) controlled BP among treated or among all hypertensive-authors must specify denominators.",
           "“Control” usually means below guideline BP on exam, not home logs unless stated.",
           "Lost-to-follow-up in clinic cohorts differs from cross-sectional NHANES snapshots."
         ]
@@ -1175,7 +1175,7 @@
       {
         "heading": "How trends can fool you",
         "paragraphs": [
-          "Adding more effective drug classes improves control without changing awareness—decompose which stage moved.",
+          "Adding more effective drug classes improves control without changing awareness-decompose which stage moved.",
           "Pandemic-related care delays reduced treatment persistence, shrinking control denominators temporarily.",
           "Comparing U.S. cascades to nations with universal primary care without noting access differences misattributes biology."
         ]
@@ -1183,7 +1183,7 @@
       {
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
-          "Black adults often show similar awareness but lower control—hinting medication adherence support, side effects, and clinical inertia rather than “unawareness” alone.",
+          "Black adults often show similar awareness but lower control-hinting medication adherence support, side effects, and clinical inertia rather than “unawareness” alone.",
           "Rural pharmacy closure affects treat and control steps.",
           "Language-access barriers appear in aware-but-untreated gaps."
         ]
@@ -1200,8 +1200,8 @@
         "heading": "Putting it together",
         "paragraphs": [
           "Hypertension cascade literacy turns one overwhelming epidemic statistic into actionable stages for policy and education.",
-          "Students should draw a four-bar cascade from NHANES once in their training—memory hook for denominators.",
-          "Educational interpretation—not personal BP management."
+          "Students should draw a four-bar cascade from NHANES once in their training-memory hook for denominators.",
+          "Educational interpretation-not personal BP management."
         ]
       }
     ],
@@ -1231,7 +1231,7 @@
     "slug": "pregnancy-related-hypertension-incidence-trends",
     "takeaways": [
       "Pregnancy-related hypertension incidence trends mix true physiology with coding awareness and older maternal age.",
-      "Numerators include gestational hypertension, preeclampsia/eclampsia, and chronic hypertension with superimposed preeclampsia—do not aggregate blindly.",
+      "Numerators include gestational hypertension, preeclampsia/eclampsia, and chronic hypertension with superimposed preeclampsia-do not aggregate blindly.",
       "Vital statistics and hospital discharge datasets disagree on timing and severity.",
       "Trend lines rose in some eras partly because obesity and assisted reproduction increased high-risk pregnancies.",
       "Interpret trends as maternal health equity indicators."
@@ -1241,8 +1241,8 @@
         "heading": "Metric definition",
         "paragraphs": [
           "Incidence in obstetric statistics usually counts cases per deliveries or per live births in a calendar year. Severe features (eclampsia, HELLP) should be separated from mild gestational hypertension when teaching.",
-          "Chronic hypertension present before pregnancy requires different coding from de novo gestational hypertension—misclassification flattens trends.",
-          "AHA updates may cite CDC maternal mortality review data alongside morbidity trends—distinct outcomes."
+          "Chronic hypertension present before pregnancy requires different coding from de novo gestational hypertension-misclassification flattens trends.",
+          "AHA updates may cite CDC maternal mortality review data alongside morbidity trends-distinct outcomes."
         ]
       },
       {
@@ -1250,21 +1250,21 @@
         "paragraphs": [
           "National Vital Statistics System birth certificates capture hypertension fields with variable validation by state.",
           "HCUP and state inpatient databases capture hospitalizations with richer severity but selection toward delivered pregnancies with care.",
-          "Special registries for severe maternal morbidity use CDC coding algorithms—compare when headlines cite “doubling.”"
+          "Special registries for severe maternal morbidity use CDC coding algorithms-compare when headlines cite “doubling.”"
         ]
       },
       {
         "heading": "How trends can fool you",
         "paragraphs": [
           "Increased surveillance and legal attention post-2010 elevated coding intensity.",
-          "Older maternal age shifts risk upward—age adjustment changes slope interpretation.",
+          "Older maternal age shifts risk upward-age adjustment changes slope interpretation.",
           "Changing obesity prevalence contributes; decompose when possible in analytic papers."
         ]
       },
       {
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
-          "Black and Indigenous women experience higher severe morbidity rates—reflect racism in care, not innate susceptibility alone.",
+          "Black and Indigenous women experience higher severe morbidity rates-reflect racism in care, not innate susceptibility alone.",
           "Rural hospital closures affect transfer patterns and case capture.",
           "Immigration status and insurance gaps alter where births are recorded."
         ]
@@ -1282,7 +1282,7 @@
         "paragraphs": [
           "Pregnancy hypertension incidence trends train readers on obstetric surveillance distinct from NHANES adult BP snapshots.",
           "Link trend literacy to later ASCVD multiplier articles without collapsing distinct metrics.",
-          "Not obstetric advice—clinical care guides individual pregnancies."
+          "Not obstetric advice-clinical care guides individual pregnancies."
         ]
       }
     ],
@@ -1311,9 +1311,9 @@
   {
     "slug": "racial-disparities-hypertension-control-data-context",
     "takeaways": [
-      "Hypertension control disparities are measured gaps in cascade outcomes—interpret with structural and clinical context.",
+      "Hypertension control disparities are measured gaps in cascade outcomes-interpret with structural and clinical context.",
       "Race in surveys is self-identified social category correlated with exposure, not a biologic coefficient to essentialize.",
-      "Adjustment for income, insurance, and neighborhood explains part but not all gaps—residual reflects unmeasured racism and care quality.",
+      "Adjustment for income, insurance, and neighborhood explains part but not all gaps-residual reflects unmeasured racism and care quality.",
       "Compare absolute control rates alongside relative disparities.",
       "Data context includes measurement bias, medication access, and clinician prescribing patterns."
     ],
@@ -1321,7 +1321,7 @@
       {
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
-          "Disparity metrics compare hypertension control prevalence between groups, often from NHANES exam BP among treated or among all hypertensive adults. The gap is a difference in percentages or a ratio—both should be reported with uncertainty.",
+          "Disparity metrics compare hypertension control prevalence between groups, often from NHANES exam BP among treated or among all hypertensive adults. The gap is a difference in percentages or a ratio-both should be reported with uncertainty.",
           "Some analyses stratify by age because control is harder at extremes; pooling hides intersectional patterns (e.g., younger Black men vs older white women).",
           "AHA statistical updates highlight persistent gaps; CDC Wonder mortality by hypertension-related causes adds outcome gravity beyond control alone."
         ]
@@ -1329,7 +1329,7 @@
       {
         "heading": "How to interpret them without being misled",
         "paragraphs": [
-          "A narrowing relative gap can occur if all groups worsen but one worsens less—inspect absolute levels.",
+          "A narrowing relative gap can occur if all groups worsen but one worsens less-inspect absolute levels.",
           "Medication class differences (ACE inhibitors vs thiazides) and side-effect experiences affect control but may be omitted in simple tables.",
           "Single-year NHANES slices are noisy; prefer multi-cycle pooling when available."
         ]
@@ -1345,9 +1345,9 @@
       {
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
-          "Policy levers—Medicaid expansion, community health workers, home BP programs—target measurable cascade steps with equity metrics built in.",
+          "Policy levers-Medicaid expansion, community health workers, home BP programs-target measurable cascade steps with equity metrics built in.",
           "Students should read disparities as quality improvement priorities, not as immutable group traits.",
-          "GBD comparisons across countries remind us U.S. gaps are not universal laws of nature—they reflect choices."
+          "GBD comparisons across countries remind us U.S. gaps are not universal laws of nature-they reflect choices."
         ]
       },
       {
@@ -1361,9 +1361,9 @@
       {
         "heading": "Putting it together",
         "paragraphs": [
-          "This article gives data context for hypertension disparity headlines—denominators, adjustment ethics, and structural reading.",
+          "This article gives data context for hypertension disparity headlines-denominators, adjustment ethics, and structural reading.",
           "Pair with treatment cascade and undiagnosed hypertension pieces for a full NHANES-informed picture.",
-          "Educational framing—not individualized treatment recommendations by group."
+          "Educational framing-not individualized treatment recommendations by group."
         ]
       }
     ],
@@ -1392,9 +1392,9 @@
   {
     "slug": "cost-of-heart-failure-hospitalization-literacy",
     "takeaways": [
-      "HF hospitalization cost estimates combine charges, payments, and national expenditures—each answers different questions.",
+      "HF hospitalization cost estimates combine charges, payments, and national expenditures-each answers different questions.",
       "Totals rise with prevalence and price inflation; per-admission costs need case-mix adjustment.",
-      "Readmission penalties and bundled payments changed accounting incentives—financial stats reflect policy.",
+      "Readmission penalties and bundled payments changed accounting incentives-financial stats reflect policy.",
       "Indirect costs (caregiver time) rarely appear in CMS tables but matter in QALY debates.",
       "Cost literacy supports policy, not bedside rationing by lay readers."
     ],
@@ -1403,7 +1403,7 @@
         "heading": "Metric definition",
         "paragraphs": [
           "Direct medical cost of HF hospitalization may mean hospital facility payment, total allowed amount including professional fees, or lifetime HF-related spending trajectories. AHA economic analyses often cite aggregate U.S. spending attributable to HF.",
-          "Charges are list prices; payments are negotiated—journalists confuse them routinely.",
+          "Charges are list prices; payments are negotiated-journalists confuse them routinely.",
           "Incremental cost of an HF admission vs alternative trajectory requires counterfactual modeling, not single bills."
         ]
       },
@@ -1419,7 +1419,7 @@
         "heading": "How trends can fool you",
         "paragraphs": [
           "More diagnosed HFpEF admissions increase counts without identical severity mix as historical HFrEF cohorts.",
-          "Price inflation dominates growth in nominal dollars—real per-case trends differ.",
+          "Price inflation dominates growth in nominal dollars-real per-case trends differ.",
           "Shorter lengths of stay reduce per-admission cost while increasing readmission metrics elsewhere."
         ]
       },
@@ -1428,7 +1428,7 @@
         "paragraphs": [
           "Underinsured patients face catastrophic out-of-pocket shares invisible in aggregate Medicare tables.",
           "Rural transfer costs and lost wages for caregivers skew experienced burden vs billed amounts.",
-          "Avoid using cost stats to blame patients for “expensive” disease—systems set prices."
+          "Avoid using cost stats to blame patients for “expensive” disease-systems set prices."
         ]
       },
       {
@@ -1473,10 +1473,10 @@
   {
     "slug": "icd-utilization-primary-prevention-guidelines-gap",
     "takeaways": [
-      "ICD primary prevention utilization statistics count device implants meeting trial-based criteria—guidelines evolve faster than practice.",
+      "ICD primary prevention utilization statistics count device implants meeting trial-based criteria-guidelines evolve faster than practice.",
       "Denominators are eligible patients with reduced EF and guideline indications, often estimated from registries, not census.",
-      "Gap metrics compare observed implants to expected from guideline criteria—assumption-heavy.",
-      "Overtreatment in non-eligible patients and undertreatment in eligible patients coexist—read both tails.",
+      "Gap metrics compare observed implants to expected from guideline criteria-assumption-heavy.",
+      "Overtreatment in non-eligible patients and undertreatment in eligible patients coexist-read both tails.",
       "Risk adjustment and shared decision-making complicate simple gap percentages."
     ],
     "sections": [
@@ -1484,7 +1484,7 @@
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
           "Primary prevention ICD utilization refers to implants for patients without prior sustained ventricular arrhythmia but with reduced ejection fraction and heart failure status meeting trial entry parallels. Secondary prevention (post-arrest) is a separate statistic.",
-          "Guideline gaps compare real-world implant rates to proportions of HF patients who appear eligible on echo and NYHA class documentation—EHR incompleteness widens apparent gaps.",
+          "Guideline gaps compare real-world implant rates to proportions of HF patients who appear eligible on echo and NYHA class documentation-EHR incompleteness widens apparent gaps.",
           "AHA updates cite survival benefits from landmark trials; utilization registries (NCDR) track implants with facility variation."
         ]
       },
@@ -1507,8 +1507,8 @@
       {
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
-          "Quality programs track implant appropriateness using algorithmic indications—students should read NCDR metrics definitions.",
-          "Disparities in implant by race and sex appear in literature—interpret with access and bias frameworks.",
+          "Quality programs track implant appropriateness using algorithmic indications-students should read NCDR metrics definitions.",
+          "Disparities in implant by race and sex appear in literature-interpret with access and bias frameworks.",
           "Cost-effectiveness analyses use QALY models separate from raw utilization counts."
         ]
       },
@@ -1517,7 +1517,7 @@
         "paragraphs": [
           "Define eligibility before debating gap size.",
           "Pair utilization with complication and revision statistics.",
-          "Educational only—device decisions are highly individualized."
+          "Educational only-device decisions are highly individualized."
         ]
       },
       {
@@ -1555,10 +1555,10 @@
     "slug": "statin-intolerance-reported-versus-confirmed-rates",
     "takeaways": [
       "Reported statin intolerance exceeds rates confirmed by structured rechallenge and placebo-controlled trials.",
-      "Numerators depend on survey questions, EMR allergy lists, and trial protocols—definitions diverge.",
+      "Numerators depend on survey questions, EMR allergy lists, and trial protocols-definitions diverge.",
       "Nocebo effects inflate symptom attribution in open-label settings.",
       "Absolute discontinuation rates matter for population LDL goals; relative “intolerance” labels overstate.",
-      "Equitable access to alternate agents depends on insurance—not only biology."
+      "Equitable access to alternate agents depends on insurance-not only biology."
     ],
     "sections": [
       {
@@ -1588,7 +1588,7 @@
       {
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
-          "Women and older adults report symptoms at higher rates; clinicians may deprescribe faster—disparities cut both ways (undertreatment vs over-attribution).",
+          "Women and older adults report symptoms at higher rates; clinicians may deprescribe faster-disparities cut both ways (undertreatment vs over-attribution).",
           "Language barriers affect symptom documentation and rechallenge offers.",
           "Avoid stereotyping groups as “statin intolerant” in teaching; use measured rates with definitions."
         ]
@@ -1604,7 +1604,7 @@
       {
         "heading": "Putting it together",
         "paragraphs": [
-          "Reported versus confirmed statin intolerance rates teach measurement sensitivity for symptoms and nocebo—key for interpreting lipid treatment gaps.",
+          "Reported versus confirmed statin intolerance rates teach measurement sensitivity for symptoms and nocebo-key for interpreting lipid treatment gaps.",
           "Pair with absolute LDL benefit framing from trials without prescribing here.",
           "Educational statistics literacy only."
         ]
@@ -1635,8 +1635,8 @@
   {
     "slug": "incidental-coronary-calcium-on-chest-ct-rates",
     "takeaways": [
-      "Incidental coronary calcium on non-gated chest CT is a byproduct of utilization patterns—not a screening program numerator.",
-      "Detection rates depend on slice thickness, contrast, and reader attention—comparing studies requires protocol matching.",
+      "Incidental coronary calcium on non-gated chest CT is a byproduct of utilization patterns-not a screening program numerator.",
+      "Detection rates depend on slice thickness, contrast, and reader attention-comparing studies requires protocol matching.",
       "Prevalence among oncology or ED populations differs from asymptomatic screening cohorts.",
       "Follow-up cascades after incidental findings vary; statistics on downstream testing are policy-relevant.",
       "Teach readers to separate opportunistic findings from intentional CAC scoring metrics."
@@ -1645,7 +1645,7 @@
       {
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
-          "Incidental coronary calcium refers to calcified plaque visible on CT performed for other indications (pulmonary embolism rule-out, cancer staging, infection). Rates are proportions of scans with any coronary calcification noted in reports—often without Agatston quantification.",
+          "Incidental coronary calcium refers to calcified plaque visible on CT performed for other indications (pulmonary embolism rule-out, cancer staging, infection). Rates are proportions of scans with any coronary calcification noted in reports-often without Agatston quantification.",
           "Dedicated CAC scoring uses ECG-gated protocols with standardized quantification; incidental detection is messier but clinically common as CT volume rises.",
           "AHA updates on atherosclerosis burden may cite MESA for intentional scoring; incidental literature lives in radiology and health services journals."
         ]
@@ -1654,7 +1654,7 @@
         "heading": "How to interpret them without being misled",
         "paragraphs": [
           "Higher incidental rates in older hospitalized patients reflect age mix, not necessarily community prevalence.",
-          "Contrast enhancement can obscure or mimic calcification depending on phase—protocol text matters.",
+          "Contrast enhancement can obscure or mimic calcification depending on phase-protocol text matters.",
           "Automated AI detection will change numerators rapidly; old benchmarks expire quickly."
         ]
       },
@@ -1662,7 +1662,7 @@
         "heading": "Common statistical traps",
         "paragraphs": [
           "Treating incidental note prevalence as equivalent to Agatston >400 prevalence.",
-          "Assuming every incidental finding triggers appropriate risk-factor management—care pathway studies show gaps.",
+          "Assuming every incidental finding triggers appropriate risk-factor management-care pathway studies show gaps.",
           "Extrapolating from single-center series to national counts without utilization denominators."
         ]
       },
@@ -1671,7 +1671,7 @@
         "paragraphs": [
           "Opportunistic screening debates use these rates to estimate health system workload from unplanned findings.",
           "NHANES does not capture incidental CT findings nationally; modeling must combine claims utilization with detection fractions.",
-          "Equity: who receives CT for other reasons may skew who learns of calcium first—another access story."
+          "Equity: who receives CT for other reasons may skew who learns of calcium first-another access story."
         ]
       },
       {
@@ -1685,7 +1685,7 @@
       {
         "heading": "Putting it together",
         "paragraphs": [
-          "Incidental coronary calcium rates illustrate denominator problems in the imaging era—utilization × detection × reporting.",
+          "Incidental coronary calcium rates illustrate denominator problems in the imaging era-utilization × detection × reporting.",
           "Connect to dedicated CAC reclassification article for intentional testing contrast.",
           "Educational interpretation only."
         ]
@@ -1717,10 +1717,10 @@
     "slug": "rheumatoid-arthritis-ascvd-excess-risk-numbers",
     "takeaways": [
       "RA-associated ASCVD excess is measured as higher event rates vs non-RA comparators in cohort studies.",
-      "Inflammation, glucocorticoid exposure, and traditional risk factors confound naive ratios—adjustment matters.",
+      "Inflammation, glucocorticoid exposure, and traditional risk factors confound naive ratios-adjustment matters.",
       "Relative elevations can be moderate while absolute gaps depend on age and background risk.",
       "Risk enhancer status in guidelines acknowledges under-capture by standard equations.",
-      "Avoid blaming patients; read excess risk as flag for integrated rheumatology–cardiology prevention."
+      "Avoid blaming patients; read excess risk as flag for integrated rheumatology-cardiology prevention."
     ],
     "sections": [
       {
@@ -1728,13 +1728,13 @@
         "paragraphs": [
           "Excess ASCVD risk in rheumatoid arthritis compares incident MI, stroke, or composite cardiovascular events in RA patients to matched general population or osteoarthritis comparators over follow-up.",
           "Some studies report standardized incidence ratios; others hazard ratios from Cox models with traditional risk factor adjustment.",
-          "Heart failure and pulmonary hypertension may appear in expanded outcomes—not always in the headline ratio."
+          "Heart failure and pulmonary hypertension may appear in expanded outcomes-not always in the headline ratio."
         ]
       },
       {
         "heading": "How to interpret them without being misled",
         "paragraphs": [
-          "RA severity, seropositivity, and disease duration stratify risk within RA—aggregate RA vs non-RA hides heterogeneity.",
+          "RA severity, seropositivity, and disease duration stratify risk within RA-aggregate RA vs non-RA hides heterogeneity.",
           "Improved RA therapies changed inflammation exposure over decades; old ratios may not fit current treated cohorts.",
           "Ascertainment bias increases events detected in frequently seen RA patients."
         ]
@@ -1750,7 +1750,7 @@
       {
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
-          "Risk enhancer teaching in pooled cohort conversations uses RA as example of equation limits—connect articles.",
+          "Risk enhancer teaching in pooled cohort conversations uses RA as example of equation limits-connect articles.",
           "NHANES lacks RA diagnosis depth for national ASCVD modeling; specialized registries dominate.",
           "GBD attributes CVD burden to inflammatory conditions with modeling uncertainty."
         ]
@@ -1760,7 +1760,7 @@
         "paragraphs": [
           "Report adjusted vs unadjusted ratios and absolute event rates.",
           "Center inflammation control and traditional factor management without DIY med changes.",
-          "Educational—not rheumatology or cardiology prescribing advice."
+          "Educational-not rheumatology or cardiology prescribing advice."
         ]
       },
       {
@@ -1797,7 +1797,7 @@
   {
     "slug": "coronary-calcium-distribution-by-age-sex",
     "takeaways": [
-      "CAC score distributions are strongly right-skewed—medians stay zero until middle age for many groups.",
+      "CAC score distributions are strongly right-skewed-medians stay zero until middle age for many groups.",
       "Age and sex tables describe population spread, not individual risk without risk factors.",
       "MESA and similar cohorts supply percentile curves; NHANES lacks universal CAC for nationals.",
       "Comparing distributions requires harmonized scoring and exclusion of prior CVD as defined.",
@@ -1809,14 +1809,14 @@
         "paragraphs": [
           "Distribution statistics describe how Agatston scores cluster across age decades and sex groups: means, medians, percentiles with zero-heavy lower tails.",
           "Prevalence of CAC>0 rises with age; mean scores among those with any calcium differ from population means.",
-          "Sex differences reflect hormonal, risk factor, and survival patterns—interpret without deterministic gender essentialism."
+          "Sex differences reflect hormonal, risk factor, and survival patterns-interpret without deterministic gender essentialism."
         ]
       },
       {
         "heading": "How to interpret them without being misled",
         "paragraphs": [
           "A high percentile for age/sex shifts shared decision discussions; it is not a diagnosis of obstruction.",
-          "Smoking and diabetes shift distributions leftward (worse) even at young ages—covariates matter more than age alone.",
+          "Smoking and diabetes shift distributions leftward (worse) even at young ages-covariates matter more than age alone.",
           "Scanner generation and cohort enrollment era affect comparability."
         ]
       },
@@ -1847,7 +1847,7 @@
       {
         "heading": "Putting it together",
         "paragraphs": [
-          "Coronary calcium distribution by age and sex teaches descriptive statistics with heavy skew—foundational for reclassification articles.",
+          "Coronary calcium distribution by age and sex teaches descriptive statistics with heavy skew-foundational for reclassification articles.",
           "Cardily readers learn where cohort data end and individual decisions begin.",
           "Educational content only."
         ]
@@ -1879,9 +1879,9 @@
     "slug": "glp1-outcome-trial-absolute-risk-reductions",
     "takeaways": [
       "GLP-1 receptor agonist cardiovascular outcome trials report MACE composites with trial-specific event rates.",
-      "Absolute risk reductions are modest over 2–3 years in many primary reports—relative reductions sound larger.",
+      "Absolute risk reductions are modest over 2-3 years in many primary reports-relative reductions sound larger.",
       "Trials enrolled high-risk diabetes populations; extrapolation requires caution.",
-      "Components of MACE (CV death, MI, stroke) move unevenly—inspect disaggregation.",
+      "Components of MACE (CV death, MI, stroke) move unevenly-inspect disaggregation.",
       "Weight and glycemic effects confound outcome interpretation in open-label extensions."
     ],
     "sections": [
@@ -1889,16 +1889,16 @@
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
           "Major adverse cardiovascular events (MACE) typically combine cardiovascular death, nonfatal MI, and nonfatal stroke with adjudication. Absolute risk reduction equals control minus treatment event rates over median follow-up.",
-          "Some trials added heart failure hospitalization or kidney outcomes in secondary analyses—distinct from primary MACE ARR.",
+          "Some trials added heart failure hospitalization or kidney outcomes in secondary analyses-distinct from primary MACE ARR.",
           "Time-to-first-event analysis ignores recurrent events unless specified otherwise."
         ]
       },
       {
         "heading": "How to interpret them without being misled",
         "paragraphs": [
-          "Baseline MACE rates in enrolled populations exceed general diabetes prevalence averages—trial ARR scales down when applied naively to lower-risk clinics.",
+          "Baseline MACE rates in enrolled populations exceed general diabetes prevalence averages-trial ARR scales down when applied naively to lower-risk clinics.",
           "Compare hazard ratios with ARR side-by-side; GRADE tables in guidelines do this well.",
-          "Medication adherence in trials exceeds real-world persistence—effectiveness may shrink."
+          "Medication adherence in trials exceeds real-world persistence-effectiveness may shrink."
         ]
       },
       {
@@ -1912,7 +1912,7 @@
       {
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
-          "Cardiometabolic policy weighs GLP-1 costs against absolute event prevention—statistics literacy is central to fair debate.",
+          "Cardiometabolic policy weighs GLP-1 costs against absolute event prevention-statistics literacy is central to fair debate.",
           "NHANES diabetes prevalence sets backdrop; trials supply efficacy denominators.",
           "Disparities in access mean population ARR if treated universally ≠ ARR in who actually receives drug."
         ]
@@ -1922,7 +1922,7 @@
         "paragraphs": [
           "Always cite follow-up duration with ARR.",
           "Show component-specific absolute changes when available.",
-          "Educational—not prescribing or coverage advice."
+          "Educational-not prescribing or coverage advice."
         ]
       },
       {
@@ -1960,8 +1960,8 @@
     "slug": "arni-absolute-risk-reduction-paradigm-context",
     "takeaways": [
       "PARADIGM-HF established ARNI vs ACE inhibitor on HF outcomes; ARR context uses control-arm event rates.",
-      "Composite of CV death and HF hospitalization dominates headlines—parse components.",
-      "Trial population was HFrEF on stable background therapy—generalization limits apply.",
+      "Composite of CV death and HF hospitalization dominates headlines-parse components.",
+      "Trial population was HFrEF on stable background therapy-generalization limits apply.",
       "NNT over trial follow-up helps teaching; real-world persistence alters realized benefit.",
       "Compare ARR to other GDMT additions using same time horizons for fair policy view."
     ],
@@ -1970,14 +1970,14 @@
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
           "Absolute risk reduction for sacubitril/valsartan vs enalapril reflects combined cardiovascular death and heart failure hospitalization rates over median follow-up near three years in PARADIGM-HF.",
-          "Separate absolute reductions for CV mortality alone are smaller than combined endpoints—endpoint choice matters.",
+          "Separate absolute reductions for CV mortality alone are smaller than combined endpoints-endpoint choice matters.",
           "Renal and hypotension adverse events contribute to NNH calculations paired with NNT."
         ]
       },
       {
         "heading": "How to interpret them without being misled",
         "paragraphs": [
-          "Run-in periods excluded unstable patients—trial ARR applies to similar profiles.",
+          "Run-in periods excluded unstable patients-trial ARR applies to similar profiles.",
           "Background beta-blocker and MRA use was high; benefits add to optimized care, not untreated baseline.",
           "Post-trial implementation lag means population-level ARR realization takes years."
         ]
@@ -1993,7 +1993,7 @@
       {
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
-          "Guideline adoption statistics (registry GDMT use) lag trial ARR potential—implementation science gap.",
+          "Guideline adoption statistics (registry GDMT use) lag trial ARR potential-implementation science gap.",
           "AHA HF burden chapters contextualize how many hospitalizations ARR might prevent at scale if eligible patients treated.",
           "Equity in access to branded therapies affects distributional benefit."
         ]
@@ -2041,7 +2041,7 @@
     "slug": "aspirin-primary-prevention-arr-extremely-small",
     "takeaways": [
       "Recent primary prevention aspirin trials in moderate-risk modern cohorts showed small absolute benefits offset by bleeding.",
-      "ARR for MACE in primary prevention is often a fraction of a percent over years—RR reductions can still look “significant.”",
+      "ARR for MACE in primary prevention is often a fraction of a percent over years-RR reductions can still look “significant.”",
       "Age and bleeding risk dominate net benefit; population averages mislead individuals.",
       "Declining smoking and better BP control lowered control-arm event rates vs older aspirin trials.",
       "Guideline shifts reflect ARR/NNH balance, not aspirin “stopping working.”"
@@ -2051,7 +2051,7 @@
         "heading": "Metric definition",
         "paragraphs": [
           "Primary prevention aspirin trials count first MACE vs major bleeding over multi-year follow-up. Absolute risk reduction for MACE subtracts event rates; absolute risk increase for bleeding adds harm side.",
-          "Net clinical benefit metrics combine weights—transparent teaching should show unweighted absolutes first.",
+          "Net clinical benefit metrics combine weights-transparent teaching should show unweighted absolutes first.",
           "AHA updates cite evolving aspirin use prevalence from NHANES and surveys as behavior, not trial efficacy."
         ]
       },
@@ -2059,7 +2059,7 @@
         "heading": "Where the data usually come from",
         "paragraphs": [
           "ASPREE, ARRIVE, and ASCEND anchor modern ARR teaching with diverse populations (older, diabetic).",
-          "Older meta-analyses pooled eras with higher baseline risk—inflated apparent ARR if applied today.",
+          "Older meta-analyses pooled eras with higher baseline risk-inflated apparent ARR if applied today.",
           "CDC WONDER shows declining ischemic heart disease mortality trends affecting baseline risk context."
         ]
       },
@@ -2074,8 +2074,8 @@
       {
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
-          "Bleeding risk varies with access to gastroenterology and H. pylori prevalence—harm ARR not uniform.",
-          "Underserved communities may have used aspirin for primary prevention without shared decision support—deprescribing equity matters.",
+          "Bleeding risk varies with access to gastroenterology and H. pylori prevalence-harm ARR not uniform.",
+          "Underserved communities may have used aspirin for primary prevention without shared decision support-deprescribing equity matters.",
           "Avoid ageist blanket statements; frame with individualized risk tools clinicians use."
         ]
       },
@@ -2092,7 +2092,7 @@
         "paragraphs": [
           "Aspirin primary prevention ARR literacy is the canonical lesson that statistical significance ≠ clinical importance at population scale.",
           "Students should memorize the habit: locate control-arm rate before applauding RR.",
-          "Not aspirin advice—personal decisions require clinical assessment."
+          "Not aspirin advice-personal decisions require clinical assessment."
         ]
       }
     ],
@@ -2122,17 +2122,17 @@
     "slug": "age-standardized-mortality-what-it-means",
     "takeaways": [
       "Age-standardized mortality applies fixed age weights to compare rates across time or place independent of population aging.",
-      "U.S. standard often references 2000 population structure—other standards yield different numbers.",
-      "Crude death counts can rise while age-standardized rates fall—both are valid with labels.",
+      "U.S. standard often references 2000 population structure-other standards yield different numbers.",
+      "Crude death counts can rise while age-standardized rates fall-both are valid with labels.",
       "CDC WONDER enables age-adjusted rate queries with explicit standard selection.",
-      "Standardization does not remove all confounding—cause coding and competing risks remain."
+      "Standardization does not remove all confounding-cause coding and competing risks remain."
     ],
     "sections": [
       {
         "heading": "Metric definition",
         "paragraphs": [
           "Age-standardized (age-adjusted) mortality rate is a weighted sum of age-specific death rates using a chosen standard population age distribution. It answers: What would the overall rate be if age structure were held constant?",
-          "Direct adjustment uses observed age-specific rates; indirect adjustment uses expected deaths—WONDER outputs specify method.",
+          "Direct adjustment uses observed age-specific rates; indirect adjustment uses expected deaths-WONDER outputs specify method.",
           "Heart disease and stroke mortality appear in AHA updates with adjustment footnotes students must read."
         ]
       },
@@ -2147,7 +2147,7 @@
       {
         "heading": "How trends can fool you",
         "paragraphs": [
-          "Changing ICD versions shifts cause-specific standardized rates—annotate revision years.",
+          "Changing ICD versions shifts cause-specific standardized rates-annotate revision years.",
           "COVID-19 increased all-cause mortality affecting denominator context for CVD ranking.",
           "Small populations produce unstable standardized rates without smoothing."
         ]
@@ -2155,7 +2155,7 @@
       {
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
-          "Standardized rates by race/ethnicity reflect cumulative exposure and care—never read as innate mortality destiny.",
+          "Standardized rates by race/ethnicity reflect cumulative exposure and care-never read as innate mortality destiny.",
           "Rural vs urban age-specific patterns differ; one national standardized rate hides geographic age mixes.",
           "Compare absolute death counts for advocacy with standardized rates for trend fairness."
         ]
@@ -2172,8 +2172,8 @@
         "heading": "Putting it together",
         "paragraphs": [
           "Age-standardized mortality literacy unlocks AHA and CDC trend graphs without aging-confounding mistakes.",
-          "Practice one WONDER query to cement denominators—Cardily’s preferred learning loop.",
-          "Educational—not personal mortality prediction."
+          "Practice one WONDER query to cement denominators-Cardily’s preferred learning loop.",
+          "Educational-not personal mortality prediction."
         ]
       }
     ],
@@ -2203,26 +2203,26 @@
     "slug": "qalys-in-heart-policy-conversations",
     "takeaways": [
       "QALYs combine survival time with quality-of-life weights to compare interventions in health economics.",
-      "Utility scores come from population surveys or patient instruments—values embed normative choices.",
-      "Incremental cost-effectiveness ratios use QALY gains in denominators—sensitive to small utility differences.",
+      "Utility scores come from population surveys or patient instruments-values embed normative choices.",
+      "Incremental cost-effectiveness ratios use QALY gains in denominators-sensitive to small utility differences.",
       "Cardiovascular policy (PCSK9, SGLT2, rehab) cites QALYs alongside absolute event reduction.",
-      "QALY debates raise equity concerns—literacy includes ethics, not only math."
+      "QALY debates raise equity concerns-literacy includes ethics, not only math."
     ],
     "sections": [
       {
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
           "One quality-adjusted life year equals one year in full health; less-than-perfect health years are discounted by utility weights between 0 and 1. Heart failure states with dyspnea carry lower utilities than asymptomatic post-MI survival in model tables.",
-          "Cost-effectiveness analyses divide incremental cost by incremental QALYs gained vs comparator—thresholds (e.g., $100,000/QALY) are policy conventions, not natural constants.",
+          "Cost-effectiveness analyses divide incremental cost by incremental QALYs gained vs comparator-thresholds (e.g., $100,000/QALY) are policy conventions, not natural constants.",
           "AHA economic chapters may reference QALY gains from preventive interventions modeled from trial ARRs."
         ]
       },
       {
         "heading": "How to interpret them without being misled",
         "paragraphs": [
-          "Utility weights from general public differ from patient experiences—whose values count is political.",
-          "Tiny QALY differences with huge cost drive ICER instability—inspect confidence intervals.",
-          "Lifetime horizons amplify QALYs for young patients in models—compare horizon choices across drugs."
+          "Utility weights from general public differ from patient experiences-whose values count is political.",
+          "Tiny QALY differences with huge cost drive ICER instability-inspect confidence intervals.",
+          "Lifetime horizons amplify QALYs for young patients in models-compare horizon choices across drugs."
         ]
       },
       {
@@ -2237,8 +2237,8 @@
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
           "Payers use QALY-framed analyses; advocates should critique assumptions transparently.",
-          "Pair QALY slides with absolute event metrics patients understand—dual literacy prevents manipulation.",
-          "GBD DALYs relate but differ in disability weight construction—do not conflate casually."
+          "Pair QALY slides with absolute event metrics patients understand-dual literacy prevents manipulation.",
+          "GBD DALYs relate but differ in disability weight construction-do not conflate casually."
         ]
       },
       {
@@ -2252,7 +2252,7 @@
       {
         "heading": "Putting it together",
         "paragraphs": [
-          "QALYs in heart policy conversations connect trial ARRs to dollars and ethics—advanced Cardily statistics literacy.",
+          "QALYs in heart policy conversations connect trial ARRs to dollars and ethics-advanced Cardily statistics literacy.",
           "Readers should neither worship nor dismiss QALYs; they should audit them.",
           "Not coverage or treatment decisions for individuals."
         ]
@@ -2284,9 +2284,9 @@
     "slug": "risk-enhancers-beyond-the-equation",
     "takeaways": [
       "Risk enhancers are factors associated with ASCVD not fully captured by pooled cohort equations.",
-      "Guidelines use enhancers to inform shared decisions—not automatic statin triggers by themselves.",
+      "Guidelines use enhancers to inform shared decisions-not automatic statin triggers by themselves.",
       "Family history, chronic kidney disease, metabolic syndrome, inflammatory conditions, and adverse pregnancy history appear in teaching lists.",
-      "Statistics justify enhancers via cohort excess risk—magnitude varies and is rarely precise for individuals.",
+      "Statistics justify enhancers via cohort excess risk-magnitude varies and is rarely precise for individuals.",
       "Teach enhancers as calibration and equity tools, not fear labels."
     ],
     "sections": [
@@ -2294,16 +2294,16 @@
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
           "Risk enhancers quantify or qualify additional risk beyond equation output: e.g., long-standing diabetes, elevated Lp(a), South Asian ancestry in some frameworks, or autoimmune disease markers in research.",
-          "Evidence comes from observational cohorts and meta-analyses estimating adjusted hazard ratios—not always translated to absolute increments at each age.",
+          "Evidence comes from observational cohorts and meta-analyses estimating adjusted hazard ratios-not always translated to absolute increments at each age.",
           "AHA prevention documents list enhancers with varying evidence grades."
         ]
       },
       {
         "heading": "How to interpret them without being misled",
         "paragraphs": [
-          "An enhancer shifts suspicion; it does not replace 10-year risk math—it informs whether borderline risk warrants therapy discussion.",
+          "An enhancer shifts suspicion; it does not replace 10-year risk math-it informs whether borderline risk warrants therapy discussion.",
           "Multiple enhancers do not add linearly in calculators; avoid DIY scoring.",
-          "Pregnancy history links to Cardily’s preeclampsia multiplier article—same literacy family."
+          "Pregnancy history links to Cardily’s preeclampsia multiplier article-same literacy family."
         ]
       },
       {
@@ -2317,7 +2317,7 @@
       {
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
-          "Enhancers explain why two people with identical equation outputs may warrant different conversations—statistics meet clinical judgment.",
+          "Enhancers explain why two people with identical equation outputs may warrant different conversations-statistics meet clinical judgment.",
           "NHANES prevalence of enhancers (CKD stages, diabetes duration proxies) sets population scale.",
           "Disparities in Lp(a) testing access illustrate social implementation gaps."
         ]
@@ -2365,9 +2365,9 @@
     "slug": "roc-curves-auc-cardiology-prediction-literacy",
     "takeaways": [
       "ROC curves plot sensitivity vs 1-specificity across thresholds; AUC summarizes ranking ability, not clinical utility alone.",
-      "AUC 0.7 is common for cardiovascular predictors—modest discrimination is normal.",
-      "Threshold choice trades false positives vs false negatives—policy depends on costs.",
-      "Calibration plots complement ROC—good AUC can coexist with misprediction.",
+      "AUC 0.7 is common for cardiovascular predictors-modest discrimination is normal.",
+      "Threshold choice trades false positives vs false negatives-policy depends on costs.",
+      "Calibration plots complement ROC-good AUC can coexist with misprediction.",
       "Do not use AUC alone to approve or dismiss tools like equations or biomarkers."
     ],
     "sections": [
@@ -2375,22 +2375,22 @@
         "heading": "Metric definition",
         "paragraphs": [
           "Receiver operating characteristic curves display performance of a continuous risk score for binary outcomes (e.g., 10-year ASCVD event yes/no). Area under curve (AUC/c-statistic) equals probability a random case ranks higher than a random non-case.",
-          "AUC of 0.5 is coin flip; 1.0 is perfect separation—rare in real cardiology prediction.",
+          "AUC of 0.5 is coin flip; 1.0 is perfect separation-rare in real cardiology prediction.",
           "Net benefit and decision curve analysis add clinical consequence weights ROC ignores."
         ]
       },
       {
         "heading": "Where the data usually come from",
         "paragraphs": [
-          "Pooled cohort validation papers report AUC for equations; biomarker studies add incremental AUC—often small gains.",
-          "Machine learning papers on EHR data claim higher AUC sometimes due to leakage or temporal split errors—skepticism required.",
+          "Pooled cohort validation papers report AUC for equations; biomarker studies add incremental AUC-often small gains.",
+          "Machine learning papers on EHR data claim higher AUC sometimes due to leakage or temporal split errors-skepticism required.",
           "NHANES-linked cohorts occasionally validate tools nationally."
         ]
       },
       {
         "heading": "How trends can fool you",
         "paragraphs": [
-          "Incremental AUC from 0.75 to 0.77 may be statistically significant but clinically trivial—inspect reclassification and decision impact.",
+          "Incremental AUC from 0.75 to 0.77 may be statistically significant but clinically trivial-inspect reclassification and decision impact.",
           "Case-control designs inflate AUC vs prospective cohorts.",
           "Overfitting in training data inflates AUC before external validation shrinks it."
         ]
@@ -2398,9 +2398,9 @@
       {
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
-          "AUC may be similar across groups while calibration fails—subgroup ROC alone insufficient.",
+          "AUC may be similar across groups while calibration fails-subgroup ROC alone insufficient.",
           "Underrepresentation in training data yields unstable subgroup AUC with wide CIs.",
-          "Avoid using AUC differences by race to argue biological superiority—investigate data representation."
+          "Avoid using AUC differences by race to argue biological superiority-investigate data representation."
         ]
       },
       {
@@ -2416,7 +2416,7 @@
         "paragraphs": [
           "ROC/AUC literacy prevents worshipping flashy model metrics in cardiology AI and classic risk scores alike.",
           "Pair with false-positive stress test and likelihood ratio articles for full diagnostic-test education.",
-          "Educational—not tool selection for individual patients."
+          "Educational-not tool selection for individual patients."
         ]
       }
     ],
@@ -2445,7 +2445,7 @@
   {
     "slug": "number-needed-to-treat-and-harm-pairing",
     "takeaways": [
-      "NNT is 1/ARR when ARR is expressed as a decimal over a defined period—horizon mismatch invalidates pairing.",
+      "NNT is 1/ARR when ARR is expressed as a decimal over a defined period-horizon mismatch invalidates pairing.",
       "NNH uses absolute risk increase of harm; compare on same time scale as NNT.",
       "Round NNT up for public communication conventions (treat 20.2 as 21) and state uncertainty from trials.",
       "Low baseline risk inflates NNT even when relative benefit is real.",
@@ -2456,14 +2456,14 @@
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
           "Number needed to treat estimates how many people need an intervention for one additional benefit compared with control over the trial’s follow-up. It derives directly from absolute risk reduction, not relative risk reduction alone.",
-          "Number needed to harm is the reciprocal of absolute risk increase for a specified adverse outcome—myopathy, bleeding, hypotension—again tied to duration.",
+          "Number needed to harm is the reciprocal of absolute risk increase for a specified adverse outcome-myopathy, bleeding, hypotension-again tied to duration.",
           "Confidence intervals for NNT are wide when event rates are low; point NNT alone overstates precision."
         ]
       },
       {
         "heading": "How to interpret them without being misled",
         "paragraphs": [
-          "A statin NNT of 50 over five years for MACE prevention differs from an SGLT2 NNT for HF hospitalization over two years—they are not interchangeable rankings of “better drug.”",
+          "A statin NNT of 50 over five years for MACE prevention differs from an SGLT2 NNT for HF hospitalization over two years-they are not interchangeable rankings of “better drug.”",
           "When trials report composite endpoints, NNT prevents one composite event, which may not equal preventing one death.",
           "Express paired NNT/NNH to the same population: trial entrants, not general population averages."
         ]
@@ -2471,7 +2471,7 @@
       {
         "heading": "Common statistical traps",
         "paragraphs": [
-          "Calculating NNT from relative risk reduction without control event rate—invalid.",
+          "Calculating NNT from relative risk reduction without control event rate-invalid.",
           "Using median follow-up when events accrue non-uniformly without person-time alignment.",
           "Ignoring competing mortality that removes patients from harm denominators."
         ]
@@ -2480,7 +2480,7 @@
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
           "Shared decision aids use NNT frames; policy models multiply prevented events by eligible population from NHANES prevalence estimates.",
-          "AHA summaries of therapeutic advances sometimes cite illustrative NNTs—trace back to source trials.",
+          "AHA summaries of therapeutic advances sometimes cite illustrative NNTs-trace back to source trials.",
           "Equity: if only affluent patients receive therapy, realized population NNT is worse than trial NNT."
         ]
       },
@@ -2536,9 +2536,9 @@
       {
         "heading": "Metric definition",
         "paragraphs": [
-          "Immortal time refers to periods where, by design, an outcome of interest (often death) cannot occur under the analytic rules—yet person-time is assigned to a exposure group incorrectly.",
+          "Immortal time refers to periods where, by design, an outcome of interest (often death) cannot occur under the analytic rules-yet person-time is assigned to a exposure group incorrectly.",
           "Classic example: comparing initiators vs never-users without aligning time zero at treatment eligibility.",
-          "Bias magnitude grows when initiation delay is long—common for specialty referrals and insurance authorization."
+          "Bias magnitude grows when initiation delay is long-common for specialty referrals and insurance authorization."
         ]
       },
       {
@@ -2554,13 +2554,13 @@
         "paragraphs": [
           "Apparent survival advantage for treated groups may reflect months of guaranteed survival before treatment start counted as treated time.",
           "Quality metrics rewarding early prescription can worsen bias if analysts rush naive comparisons.",
-          "Pregnancy exposure windows create related time-related misclassification—cousin bias family."
+          "Pregnancy exposure windows create related time-related misclassification-cousin bias family."
         ]
       },
       {
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
-          "Delayed treatment initiation in underserved groups can artificially worsen untreated arm outcomes in naive studies—misleading equity conclusions.",
+          "Delayed treatment initiation in underserved groups can artificially worsen untreated arm outcomes in naive studies-misleading equity conclusions.",
           "Read methods sections for time-zero alignment, not only hazard ratios in abstracts.",
           "Advocacy using flawed observational stats can misallocate interventions."
         ]
@@ -2578,7 +2578,7 @@
         "paragraphs": [
           "Immortal time bias is a classic trap Cardily readers use to filter observational cardiology headlines.",
           "Pair with likelihood ratios and trial ARR articles to contrast study designs.",
-          "Educational epidemiology—not study conduct advice."
+          "Educational epidemiology-not study conduct advice."
         ]
       }
     ],
@@ -2611,22 +2611,22 @@
       "In low-risk populations, most positive stress tests are false positives even with reasonable specificity.",
       "Sensitivity and specificity pair with prevalence in Bayes theorem teaching.",
       "Bayesian thinking prevents unnecessary angiography driven by misleading percentages.",
-      "Screening asymptomatic low-risk groups shifts base rate down—paradoxically worsening positive predictive value."
+      "Screening asymptomatic low-risk groups shifts base rate down-paradoxically worsening positive predictive value."
     ],
     "sections": [
       {
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
           "Stress testing sensitivity is proportion of true coronary ischemia cases that test positive; specificity is proportion without significant disease that test negative. False-positive rate among positives equals 1 minus positive predictive value, which shrinks when disease prevalence is low.",
-          "Pre-test probability integrates age, sex, symptoms, and risk factors—not generic population averages.",
+          "Pre-test probability integrates age, sex, symptoms, and risk factors-not generic population averages.",
           "Exercise vs pharmacologic stress, imaging vs ECG-only modalities change sensitivity/specificity pairs."
         ]
       },
       {
         "heading": "How to interpret them without being misled",
         "paragraphs": [
-          "A specificity of 90% sounds reassuring, but if pre-test probability is 5%, most positives are still false—absolute counts illustrate this faster than formulas for many learners.",
-          "Likelihood ratios formalize the update from pre- to post-test odds—Cardily’s companion article.",
+          "A specificity of 90% sounds reassuring, but if pre-test probability is 5%, most positives are still false-absolute counts illustrate this faster than formulas for many learners.",
+          "Likelihood ratios formalize the update from pre- to post-test odds-Cardily’s companion article.",
           "Sequential testing changes post-test probability; single-test stats mislead if ignored."
         ]
       },
@@ -2642,8 +2642,8 @@
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
           "Appropriate use criteria exist partly because base-rate logic limits value in low-risk testing cascades.",
-          "AHA testing appropriateness documents embed pre-test probability concepts—statistics literacy aligns with guidelines language.",
-          "Cost and radiation downstream of false positives matter for policy—not only binary test labels."
+          "AHA testing appropriateness documents embed pre-test probability concepts-statistics literacy aligns with guidelines language.",
+          "Cost and radiation downstream of false positives matter for policy-not only binary test labels."
         ]
       },
       {
@@ -2691,7 +2691,7 @@
       "Likelihood ratios summarize how much a test result shifts pre-test odds: LR+ = sens/(1-spec), LR− = (1-sens)/spec.",
       "Multiply pre-test odds by LR to get post-test odds; convert back to probability for communication.",
       "LRs near 1 add little information; large LRs (>10) or small LR− (<0.1) are stronger.",
-      "Apply to ECG findings, exam maneuvers, and biomarkers—not only imaging.",
+      "Apply to ECG findings, exam maneuvers, and biomarkers-not only imaging.",
       "Bedside Bayesian lite avoids formal math phobia while preserving logic."
     ],
     "sections": [
@@ -2700,7 +2700,7 @@
         "paragraphs": [
           "Positive likelihood ratio is probability of a given test result in diseased patients divided by probability of that result in non-diseased patients. It updates pre-test probability upward when positive.",
           "Negative likelihood ratio does the reverse for reassuring negatives.",
-          "Fagan nomograms visualize the update—useful teaching tool in cardiology workshops."
+          "Fagan nomograms visualize the update-useful teaching tool in cardiology workshops."
         ]
       },
       {
@@ -2716,13 +2716,13 @@
         "paragraphs": [
           "Applying troponin LRs from early-generation assays to high-sensitivity assays without recalibration.",
           "Using LRs from inpatient MI workups for outpatient chest pain clinics with different prevalence.",
-          "Forgetting that sequential LRs multiply only when tests are conditionally independent—often violated."
+          "Forgetting that sequential LRs multiply only when tests are conditionally independent-often violated."
         ]
       },
       {
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
-          "Test performance may differ by sex and body habitus—pooled LRs hide subgroup misprediction.",
+          "Test performance may differ by sex and body habitus-pooled LRs hide subgroup misprediction.",
           "Access to high-quality echo or CMRI changes post-test pathways after stress testing.",
           "Teach LRs as tools reducing over-testing in marginalized groups historically subjected to cascades."
         ]
@@ -2740,7 +2740,7 @@
         "paragraphs": [
           "Likelihood ratios offer bedside Bayesian lite for Cardily readers linking stress test false-positive logic to quantitative updates.",
           "Practice one worked example with low pre-test probability to build muscle memory.",
-          "Educational—not diagnostic instruction."
+          "Educational-not diagnostic instruction."
         ]
       }
     ],
@@ -2769,7 +2769,7 @@
   {
     "slug": "brfss-self-report-limitations-heart-behaviors",
     "takeaways": [
-      "BRFSS relies on self-reported behaviors—smoking, diet proxies, physical activity—with social desirability bias.",
+      "BRFSS relies on self-reported behaviors-smoking, diet proxies, physical activity-with social desirability bias.",
       "State-level estimates use complex weighting; small states have wider uncertainty.",
       "Cell-phone-only sampling and survey mode changes affect trends over time.",
       "BRFSS excels for policy surveillance, not individual risk assessment.",
@@ -2780,7 +2780,7 @@
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
           "Behavioral Risk Factor Surveillance System tracks modifiable cardiovascular risk behaviors via telephone and cell surveys across U.S. states and territories. Indicators include current smoking, fruit/vegetable intake proxies, leisure-time physical activity, and sometimes sleep.",
-          "Heart disease prevalence questions are self-reported diagnosis—different from NHANES exam definitions.",
+          "Heart disease prevalence questions are self-reported diagnosis-different from NHANES exam definitions.",
           "AHA statistical updates cite BRFSS for state maps alongside NHANES national anchors."
         ]
       },
@@ -2788,8 +2788,8 @@
         "heading": "How to interpret them without being misled",
         "paragraphs": [
           "Self-reported “healthy” behaviors overestimate compared with accelerometer or dietary recall studies.",
-          " BRFSS skips institutionalized populations—important for older HF prevalence comparisons.",
-          "Compare BRFSS smoking trends with NYTS for youth—different instruments."
+          " BRFSS skips institutionalized populations-important for older HF prevalence comparisons.",
+          "Compare BRFSS smoking trends with NYTS for youth-different instruments."
         ]
       },
       {
@@ -2797,15 +2797,15 @@
         "paragraphs": [
           "Ranking states on self-reported health without noting confidence intervals and sample size.",
           "Attributing year jumps to biology when question wording changed.",
-          "Using BRFSS heart attack history as incidence—it's prevalence of survivor reporting."
+          "Using BRFSS heart attack history as incidence-it's prevalence of survivor reporting."
         ]
       },
       {
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
-          "State health departments intervene where BRFSS shows low activity or high smoking—statistics drive budgets.",
-          "Equity: language access and cell coverage affect who answers—weights adjust partially, not perfectly.",
-          "Pair BRFSS maps with CDC WONDER mortality outcomes cautiously—ecological fallacy risk."
+          "State health departments intervene where BRFSS shows low activity or high smoking-statistics drive budgets.",
+          "Equity: language access and cell coverage affect who answers-weights adjust partially, not perfectly.",
+          "Pair BRFSS maps with CDC WONDER mortality outcomes cautiously-ecological fallacy risk."
         ]
       },
       {
@@ -2850,11 +2850,11 @@
   {
     "slug": "out-of-hospital-cardiac-arrest-registry-metrics",
     "takeaways": [
-      "OHCA metrics include incidence, bystander CPR rate, shockable rhythm proportion, and survival to discharge—each with registry definitions.",
-      "Denominator is often all EMS-treated arrests or presumed cardiac etiology subsets—compare carefully.",
+      "OHCA metrics include incidence, bystander CPR rate, shockable rhythm proportion, and survival to discharge-each with registry definitions.",
+      "Denominator is often all EMS-treated arrests or presumed cardiac etiology subsets-compare carefully.",
       "Utstein template reporting standardizes comparisons across communities.",
       "Survival statistics reflect chain of survival, not hospital brand alone.",
-      "Race and neighborhood correlate with outcomes via response time and chronic stress—not innate difference."
+      "Race and neighborhood correlate with outcomes via response time and chronic stress-not innate difference."
     ],
     "sections": [
       {
@@ -2877,7 +2877,7 @@
         "heading": "How trends can fool you",
         "paragraphs": [
           "Increased AED registration improves documentation, appearing as incidence rise.",
-          "COVID-19 fear reduced bystander CPR in some regions—temporary metric shifts.",
+          "COVID-19 fear reduced bystander CPR in some regions-temporary metric shifts.",
           "Hospital withdrawal policies affect discharge survival definitions slightly across eras."
         ]
       },
@@ -2902,7 +2902,7 @@
         "paragraphs": [
           "OHCA registry metrics teach acute cardiovascular surveillance distinct from chronic disease prevalence.",
           "Students link chain-of-survival numerators to policy levers (CPR training, telecommunicator CPR).",
-          "Not emergency response instruction—call local emergency services in real events."
+          "Not emergency response instruction-call local emergency services in real events."
         ]
       }
     ],
@@ -2931,9 +2931,9 @@
   {
     "slug": "door-to-balloon-stemi-system-measure",
     "takeaways": [
-      "Door-to-balloon (D2B) time measures minutes from hospital arrival to PCI in STEMI—system speed metric.",
+      "Door-to-balloon (D2B) time measures minutes from hospital arrival to PCI in STEMI-system speed metric.",
       "CMS reporting drove national improvement; floor effects now shift focus to first-medical-contact-to-device.",
-      "Denominator is STEMI patients undergoing primary PCI at participating hospitals—not all MI.",
+      "Denominator is STEMI patients undergoing primary PCI at participating hospitals-not all MI.",
       "Shorter D2B improves outcomes when delays were long; marginal gains may diminish at ultra-low times.",
       "Rural transfer patterns create competing metrics (door-in-door-out)."
     ],
@@ -2942,16 +2942,16 @@
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
           "D2B time captures reperfusion speed for ST-elevation myocardial infarction treated with percutaneous coronary intervention. National registries (ACTION, CMS quality programs) track median and percent under 90 minutes.",
-          "First door-to-balloon includes transfers—subintervals isolate referral delays.",
+          "First door-to-balloon includes transfers-subintervals isolate referral delays.",
           "AHA quality chapters cite D2B improvement as success story with remaining rural gaps."
         ]
       },
       {
         "heading": "How to interpret them without being misled",
         "paragraphs": [
-          "Hospitals excluding eligible patients from reporting would artificially improve metrics—audit numerator integrity.",
+          "Hospitals excluding eligible patients from reporting would artificially improve metrics-audit numerator integrity.",
           "Symptom onset to balloon remains patient-centered timeline D2B omits.",
-          "Fibrinolysis-first systems use different quality measures—do not compare to PCI D2B blindly."
+          "Fibrinolysis-first systems use different quality measures-do not compare to PCI D2B blindly."
         ]
       },
       {
@@ -2965,8 +2965,8 @@
       {
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
-          "Regional STEMI systems coordinate EMS bypass—statistics reflect coordination, not single departments.",
-          "Equity: Black and rural patients face longer total ischemic times—D2B alone undercounts delay before arrival.",
+          "Regional STEMI systems coordinate EMS bypass-statistics reflect coordination, not single departments.",
+          "Equity: Black and rural patients face longer total ischemic times-D2B alone undercounts delay before arrival.",
           "Pair D2B trends with OHCA and mortality for balanced quality view."
         ]
       },
@@ -2975,7 +2975,7 @@
         "paragraphs": [
           "Report median and 90th percentile, not only percent under threshold.",
           "Include transfer metrics when present.",
-          "Not hospital shopping advice for acute symptoms—call emergency services."
+          "Not hospital shopping advice for acute symptoms-call emergency services."
         ]
       },
       {
@@ -3012,10 +3012,10 @@
   {
     "slug": "volume-outcome-relationships-surgery-statistics",
     "takeaways": [
-      "Volume-outcome studies correlate hospital or surgeon procedure count with mortality/complications—observational, not experimental.",
+      "Volume-outcome studies correlate hospital or surgeon procedure count with mortality/complications-observational, not experimental.",
       "Threshold recommendations (minimum annual volumes) embed statistical cutpoints with debate.",
-      "Case mix confounding persists despite risk adjustment—high-volume centers may receive sicker referrals.",
-      "Regionalization policies trade access for outcomes—equity tensions.",
+      "Case mix confounding persists despite risk adjustment-high-volume centers may receive sicker referrals.",
+      "Regionalization policies trade access for outcomes-equity tensions.",
       "Read volume stats as system design inputs, not consumer shopping alone."
     ],
     "sections": [
@@ -3023,7 +3023,7 @@
         "heading": "Metric definition",
         "paragraphs": [
           "Procedure volume is count of operations (CABG, valve, TAVR) over a year at a site or by a surgeon. Outcome metrics are risk-adjusted mortality or composite complications from registries (STS, TVT).",
-          "Volume-outcome gradients describe improved outcomes at higher volumes—slope magnitude varies by procedure complexity.",
+          "Volume-outcome gradients describe improved outcomes at higher volumes-slope magnitude varies by procedure complexity.",
           "Learning curve literature extends volume concepts to individual operator experience."
         ]
       },
@@ -3038,16 +3038,16 @@
       {
         "heading": "How trends can fool you",
         "paragraphs": [
-          "TAVR growth shifted volume from surgical AVR—historical CABG volume-outcome curves differ from contemporary mixes.",
-          "Low-volume hospitals may stop reporting by ceasing programs—survivorship bias in registry trends.",
-          "Risk adjustment models update—rankings shift without true outcome change."
+          "TAVR growth shifted volume from surgical AVR-historical CABG volume-outcome curves differ from contemporary mixes.",
+          "Low-volume hospitals may stop reporting by ceasing programs-survivorship bias in registry trends.",
+          "Risk adjustment models update-rankings shift without true outcome change."
         ]
       },
       {
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
-          "Travel burdens for regionalization fall on rural and low-income patients—volume policies need access mitigation.",
-          "Minority-serving hospitals may have lower volumes due to referral networks, not skill—avoid stigmatizing institutions.",
+          "Travel burdens for regionalization fall on rural and low-income patients-volume policies need access mitigation.",
+          "Minority-serving hospitals may have lower volumes due to referral networks, not skill-avoid stigmatizing institutions.",
           "Read volume-outcome as argument for supported regional centers plus transport systems."
         ]
       },
@@ -3094,7 +3094,7 @@
     "slug": "air-pollution-lag-days-heart-event-time-series",
     "takeaways": [
       "Time-series studies estimate excess cardiovascular events after pollution spikes using lag days (0, 1, 2…).",
-      "Effect sizes are small at individual level but meaningful at population scale—absolute excess counts depend on baseline event rates.",
+      "Effect sizes are small at individual level but meaningful at population scale-absolute excess counts depend on baseline event rates.",
       "Confounding by temperature, season, and influenza requires adjustment.",
       "PM2.5 and ozone metrics differ by monitor network coverage.",
       "Environmental cardiovascular stats support policy, not personal panic from single AQI days."
@@ -3103,7 +3103,7 @@
       {
         "heading": "What the numbers are trying to measure",
         "paragraphs": [
-          "Distributed lag models quantify association between daily pollution concentration and daily MI or heart failure hospitalization counts, often as percent increase per 10 µg/m³ PM2.5 at lag 0–2 days.",
+          "Distributed lag models quantify association between daily pollution concentration and daily MI or heart failure hospitalization counts, often as percent increase per 10 µg/m³ PM2.5 at lag 0-2 days.",
           "Case-crossover designs match same person day vs control days to control fixed confounders.",
           "AHA statements summarize epidemiologic consensus; GBD attributes CVD burden partly to ambient pollution with modeling."
         ]
@@ -3111,7 +3111,7 @@
       {
         "heading": "How to interpret them without being misled",
         "paragraphs": [
-          "Percent increases apply to daily baseline rates—if baseline is low, absolute excess events remain small.",
+          "Percent increases apply to daily baseline rates-if baseline is low, absolute excess events remain small.",
           "Monitor proximity misclassifies exposure; socioeconomic patterns cluster error.",
           "Multi-pollutant models separate correlated exposures imperfectly."
         ]
@@ -3127,9 +3127,9 @@
       {
         "heading": "What the data imply for learning and policy literacy",
         "paragraphs": [
-          "EPA and local policy use these stats for standard setting—comment periods need literate citizens.",
-          "NHANES biomarkers occasionally link pollution to subclinical measures—different design from time-series.",
-          "Equity: marginalized communities often face higher exposure—disparity is environmental justice."
+          "EPA and local policy use these stats for standard setting-comment periods need literate citizens.",
+          "NHANES biomarkers occasionally link pollution to subclinical measures-different design from time-series.",
+          "Equity: marginalized communities often face higher exposure-disparity is environmental justice."
         ]
       },
       {
@@ -3177,16 +3177,16 @@
       "GBD ranks causes of death and DALYs using modeled estimates where vital registration is incomplete.",
       "CVD often leads globally, but composition (ischemic heart disease vs stroke vs HF) varies by region.",
       "Age-standardization enables country comparisons; uncertainty intervals are wide in low-data settings.",
-      "Rankings change with GBD revision methods—not only real epidemiologic shifts.",
+      "Rankings change with GBD revision methods-not only real epidemiologic shifts.",
       "Use GBD for big-picture literacy; pair with national sources (AHA, CDC) for U.S. detail."
     ],
     "sections": [
       {
         "heading": "Metric definition",
         "paragraphs": [
-          "Global Burden of Disease estimates disability-adjusted life years (DALYs) and deaths by cause, age, sex, and location. Cardiovascular cluster includes ischemic heart disease, stroke, hypertensive heart disease, and other cardiovascular—taxonomy matters for rankings.",
-          "Years of life lost and years lived with disability combine into DALYs—distinct from mortality rank alone.",
-          "Risk factor attribution (systolic BP, LDL, diet) is separate from cause ranking—do not merge slides carelessly."
+          "Global Burden of Disease estimates disability-adjusted life years (DALYs) and deaths by cause, age, sex, and location. Cardiovascular cluster includes ischemic heart disease, stroke, hypertensive heart disease, and other cardiovascular-taxonomy matters for rankings.",
+          "Years of life lost and years lived with disability combine into DALYs-distinct from mortality rank alone.",
+          "Risk factor attribution (systolic BP, LDL, diet) is separate from cause ranking-do not merge slides carelessly."
         ]
       },
       {
@@ -3200,17 +3200,17 @@
       {
         "heading": "How trends can fool you",
         "paragraphs": [
-          "GBD 2019 vs 2021 revisions reallocated deaths across causes—rank shifts partly methodological.",
-          "Low-income countries with weak vital registration rely on verbal autopsy models—wider uncertainty.",
+          "GBD 2019 vs 2021 revisions reallocated deaths across causes-rank shifts partly methodological.",
+          "Low-income countries with weak vital registration rely on verbal autopsy models-wider uncertainty.",
           "COVID-19 disrupted mortality patterns temporarily affecting CVD rank narratives."
         ]
       },
       {
         "heading": "Equity and subgroup reading skills",
         "paragraphs": [
-          "Within-country inequality maps in GBD show rural vs urban CVD burden—national rank hides internal disparities.",
-          "Colonial data gaps skew historical trends—read with humility.",
-          "Avoid using global rank to minimize domestic disparity work—both scales matter."
+          "Within-country inequality maps in GBD show rural vs urban CVD burden-national rank hides internal disparities.",
+          "Colonial data gaps skew historical trends-read with humility.",
+          "Avoid using global rank to minimize domestic disparity work-both scales matter."
         ]
       },
       {
@@ -3227,7 +3227,7 @@
         "paragraphs": [
           "GBD CVD ranking literacy closes the flagship data series: from local NHANES denominators to planetary cause lists with explicit modeling.",
           "Cardily readers should compare one U.S. AHA statistic with its GBD counterpart and note definition drift.",
-          "Educational global health statistics—not travel or personal risk guidance."
+          "Educational global health statistics-not travel or personal risk guidance."
         ]
       }
     ],

@@ -14,14 +14,14 @@ CONTENT = ROOT / "content"
 SOURCES = {
     "diseases-and-conditions": [
         {"label": "American Heart Association", "url": "https://www.heart.org/"},
-        {"label": "CDC — Heart Disease", "url": "https://www.cdc.gov/heart-disease/"},
+        {"label": "CDC, Heart Disease", "url": "https://www.cdc.gov/heart-disease/"},
         {"label": "NHLBI", "url": "https://www.nhlbi.nih.gov/"},
         {"label": "American College of Cardiology", "url": "https://www.acc.org/"},
     ],
     "prevention-and-lifestyle": [
         {"label": "AHA Life's Essential 8", "url": "https://www.heart.org/en/healthy-living/healthy-lifestyle/lifes-essential-8"},
-        {"label": "CDC — Heart Disease Prevention", "url": "https://www.cdc.gov/heart-disease/prevention/"},
-        {"label": "NHLBI — Healthy Lifestyle", "url": "https://www.nhlbi.nih.gov/health/heart-healthy-living"},
+        {"label": "CDC, Heart Disease Prevention", "url": "https://www.cdc.gov/heart-disease/prevention/"},
+        {"label": "NHLBI, Healthy Lifestyle", "url": "https://www.nhlbi.nih.gov/health/heart-healthy-living"},
         {"label": "Dietary Guidelines for Americans", "url": "https://www.dietaryguidelines.gov/"},
     ],
     "research-and-innovation": [
@@ -39,11 +39,11 @@ SOURCES = {
 }
 
 MECHANISM_BANK = {
-    "coronary": "Coronary arteries supply oxygen-rich blood to myocardium. When atherosclerotic plaque narrows a lumen—or when plaque ruptures and thrombosis suddenly occludes flow—myocytes face ischemia. Duration and severity of mismatch determine whether tissue recovers, stuns, or infarcts.",
+    "coronary": "Coronary arteries supply oxygen-rich blood to myocardium. When atherosclerotic plaque narrows a lumen-or when plaque ruptures and thrombosis suddenly occludes flow-myocytes face ischemia. Duration and severity of mismatch determine whether tissue recovers, stuns, or infarcts.",
     "atherosclerosis": "Atherosclerosis begins with endothelial injury and lipid retention in the arterial intima. Macrophages become foam cells; fibrous caps form over necrotic cores. Inflammation and mechanical stress influence whether plaques remain stable or become thrombosis-prone.",
     "infarction": "Infarction means irreversible myocyte death from prolonged ischemia. Clinically, injury is often tracked with troponin rise and fall plus ischemic symptoms or ECG changes. Not every troponin elevation equals a classic type 1 plaque-rupture myocardial infarction.",
     "heart-failure": "Heart failure is a clinical syndrome of congestion and/or inadequate cardiac output. It can occur with reduced ejection fraction (pumping weakness) or preserved ejection fraction (often stiff filling). Neurohormonal activation (sympathetic, RAAS) initially compensates, then worsens remodeling.",
-    "ejection": "Ejection fraction estimates the fraction of end-diastolic volume ejected each beat. It is useful—but incomplete. Diastolic function, valves, pulmonary pressures, and filling pressures can be abnormal even when EF looks “normal.”",
+    "ejection": "Ejection fraction estimates the fraction of end-diastolic volume ejected each beat. It is useful-but incomplete. Diastolic function, valves, pulmonary pressures, and filling pressures can be abnormal even when EF looks “normal.”",
     "atrial-fibrillation": "In atrial fibrillation, organized atrial contraction is replaced by rapid disorganized activity. Ventricular rate becomes irregularly irregular. Stroke risk relates partly to left-atrial appendage stasis and thrombus formation, which is why anticoagulation discussions are central.",
     "arrhythmia": "Arrhythmias arise from abnormal automaticity, triggered activity, or reentry circuits. Scar, stretch, ischemia, electrolytes, and channelopathies change conduction and refractoriness, creating the substrate for tachycardias or bradyarrhythmias.",
     "hypertension": "Chronically elevated arterial pressure increases afterload and damages vessel walls. Over years this promotes left-ventricular hypertrophy, arterial stiffness, atherosclerosis acceleration, and higher risk of stroke, heart failure, and kidney disease.",
@@ -52,7 +52,7 @@ MECHANISM_BANK = {
     "aortic": "The aorta faces high pressure continuously. Aneurysm means pathologic dilation; dissection means an intimal tear creating a false lumen. Genetics, hypertension, and bicuspid aortopathy are recurring risk themes in educational discussions.",
     "lipid": "ApoB-containing lipoproteins, especially LDL particles, drive atherosclerotic plaque growth. Lifetime exposure matters: earlier and longer elevations generally mean more cumulative plaque burden.",
     "diabetes": "Insulin resistance and hyperglycemia amplify vascular injury through endothelial dysfunction, dyslipidemia patterns, and inflammation. Cardiometabolic risk is therefore shared across glucose, blood pressure, weight, and lipids.",
-    "obesity": "Excess adiposity—especially visceral fat—links to hypertension, dyslipidemia, sleep apnea, and inflammation. Risk is not only scale weight; distribution and metabolic context matter.",
+    "obesity": "Excess adiposity-especially visceral fat-links to hypertension, dyslipidemia, sleep apnea, and inflammation. Risk is not only scale weight; distribution and metabolic context matter.",
     "sleep": "Short or fragmented sleep raises sympathetic tone, impairs glucose handling, and associates with higher blood pressure. Obstructive sleep apnea adds nocturnal hypoxia and hemodynamic swings.",
     "exercise": "Regular aerobic activity improves endothelial function, insulin sensitivity, and blood-pressure profiles. Resistance training adds metabolic and musculoskeletal benefits. Dose, progression, and safety screening matter for individuals with known disease.",
     "sodium": "High sodium intake can expand plasma volume and elevate blood pressure in salt-sensitive people. Population sodium reduction is a classic public-health lever; individual counseling still depends on context (for example heart-failure care plans).",
@@ -61,7 +61,7 @@ MECHANISM_BANK = {
     "sglt2": "SGLT2 inhibitors began as glucose-lowering drugs and later showed heart-failure and kidney outcome benefits in major trials. They illustrate how cardiometabolic pathways overlap across specialties.",
     "trial": "A randomized trial assigns interventions by chance to reduce confounding. Readers should still inspect endpoints, blinding, follow-up, adherence, and whether the enrolled population matches the people they care about.",
     "risk": "Risk tools estimate average probabilities in populations with similar profiles. They support conversations; they do not dictate destiny. Absolute risk and time horizon usually communicate better than relative percentages alone.",
-    "absolute": "Absolute risk answers “how many events per 100 (or 1000) people over a period.” Relative risk can look large while absolute benefit remains small—especially in low-baseline-risk groups.",
+    "absolute": "Absolute risk answers “how many events per 100 (or 1000) people over a period.” Relative risk can look large while absolute benefit remains small-especially in low-baseline-risk groups.",
     "prevalence": "Prevalence is existing cases at a time point; incidence is new cases over time. Mixing them produces nonsense comparisons in headlines and student essays alike.",
 }
 
@@ -72,7 +72,7 @@ MISCONCEPTIONS = [
     "Young age lowers average risk; it does not make ischemia impossible.",
     "Wearable alerts are screening signals, not automatic diagnoses.",
     "Lifestyle change and medications are often partners, not rivals.",
-    "Chest pain has many causes; cardiac causes are not the only dangerous ones—and not every cardiac problem announces itself as classic pain.",
+    "Chest pain has many causes; cardiac causes are not the only dangerous ones-and not every cardiac problem announces itself as classic pain.",
     "One viral study rarely overturns a body of guideline-level evidence overnight.",
 ]
 
@@ -143,7 +143,7 @@ def enrich_topic(topic: dict) -> dict:
     kw = ", ".join(keywords[:6]) if keywords else title.lower()
 
     takeaways = [
-        f"{title} is an educational deep dive—not a personal diagnosis or treatment plan.",
+        f"{title} is an educational deep dive-not a personal diagnosis or treatment plan.",
         f"Hold this angle: {angle}.",
         f"Key vocabulary cluster: {kw}.",
         misc[0],
@@ -164,7 +164,7 @@ def enrich_topic(topic: dict) -> dict:
             paras = [
                 f"In “{heading}”, start by naming the system under discussion and the failure mode it faces.",
                 mechanisms[1],
-                f"Related terms around this topic include {kw}. Sort each term into mechanism, syndrome label, test finding, or treatment class—those buckets prevent category errors.",
+                f"Related terms around this topic include {kw}. Sort each term into mechanism, syndrome label, test finding, or treatment class-those buckets prevent category errors.",
                 "Build a three-layer note: (1) one-sentence definition, (2) one-sentence mechanism, (3) one common public misconception. If any layer is missing, keep studying before debating nuances.",
                 mechanisms[2],
             ]
@@ -186,9 +186,9 @@ def enrich_topic(topic: dict) -> dict:
             ]
         else:
             paras = [
-                f"Turn “{heading}” into better care conversations. Sample prompts: What does this mean for my absolute risk over the next 5–10 years? Which evaluation steps fit my age and history? Which choices are preference-sensitive?",
+                f"Turn “{heading}” into better care conversations. Sample prompts: What does this mean for my absolute risk over the next 5-10 years? Which evaluation steps fit my age and history? Which choices are preference-sensitive?",
                 "If you are a student, convert the article into a one-page concept map: triggers → mechanisms → findings → decision forks → open questions.",
-                "If you support a family member, focus on warning symptoms, follow-up timing, and medication purposes at a high level—leaving prescribing and diagnosis to the care team.",
+                "If you support a family member, focus on warning symptoms, follow-up timing, and medication purposes at a high level-leaving prescribing and diagnosis to the care team.",
                 "Cardily publishes educational clarity for the next generation of cardiovascular learners and the public. Emergency symptoms require emergency services.",
                 f"Suggested next read: another Insight sharing keywords among {kw}, then one research-literacy or data-literacy piece so methods stay attached to facts.",
             ]
@@ -201,7 +201,7 @@ def enrich_topic(topic: dict) -> dict:
                 f"“{title}” rewards slow reading. The lasting skill is recognizing precise claims, overextended claims, and personal questions that need a clinician.",
                 f"Re-anchor: {angle}. Retrieval cue: {kw}. Number habit: prefer absolute risk and clear denominators whenever statistics appear.",
                 mechanisms[0],
-                "Continue learning across Cardily Insights, and treat medical decisions as collaborative clinical work—not a DIY project from a webpage.",
+                "Continue learning across Cardily Insights, and treat medical decisions as collaborative clinical work-not a DIY project from a webpage.",
             ],
         }
     )

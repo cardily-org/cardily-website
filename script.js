@@ -749,7 +749,7 @@ if (document.readyState === 'loading') {
     initCookieConsent();
 }
 
-// Contact form — inquiry type from URL + mailto routing
+// Contact form, inquiry type from URL + mailto routing
 const CARDILY_CONTACT_EMAIL = 'cardily.org@gmail.com';
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -778,7 +778,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const inquiryType = document.getElementById('inquiry-type').value;
             const message = document.getElementById('contact-message').value.trim();
 
-            const subject = encodeURIComponent(`Cardily Contact: ${inquiryType} — ${name}`);
+            const subject = encodeURIComponent(`Cardily Contact: ${inquiryType}, ${name}`);
             const body = encodeURIComponent(
                 `Inquiry Type: ${inquiryType}\n\nName: ${name}\nEmail: ${email}\n\nMessage:\n${message}`
             );

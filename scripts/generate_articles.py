@@ -191,11 +191,11 @@ def load_bodies() -> dict[str, dict]:
 def default_sources(category: str) -> list[dict]:
     base = [
         {
-            "label": "American Heart Association — Heart and Stroke Resources",
+            "label": "American Heart Association, Heart and Stroke Resources",
             "url": "https://www.heart.org/",
         },
         {
-            "label": "CDC — Heart Disease",
+            "label": "CDC, Heart Disease",
             "url": "https://www.cdc.gov/heart-disease/",
         },
         {
@@ -219,7 +219,7 @@ def default_sources(category: str) -> list[dict]:
         base.insert(
             0,
             {
-                "label": "PubMed — Biomedical Literature",
+                "label": "PubMed, Biomedical Literature",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/",
             },
         )
@@ -258,11 +258,11 @@ def synthesize_body(topic: dict) -> dict:
     }.get(difficulty, "We balance accessibility with precision.")
 
     takeaways = [
-        f"{title} belongs in Cardily’s {cat_label} library as education — not as a personal care plan.",
+        f"{title} belongs in Cardily’s {cat_label} library as education, not as a personal care plan.",
         f"Learning angle: {angle}.",
         f"Anchor terms to track: {kw}.",
         "Prefer absolute risk, study design, and clinical context over headlines or single-study certainty.",
-        "Urgent symptoms (severe chest pain, trouble breathing, sudden weakness, fainting with concerning features) need emergency care — not an article.",
+        "Urgent symptoms (severe chest pain, trouble breathing, sudden weakness, fainting with concerning features) need emergency care, not an article.",
     ]
 
     category_bridges = {
@@ -271,12 +271,12 @@ def synthesize_body(topic: dict) -> dict:
             "Many cardiovascular conditions sit on a spectrum. Mild forms, atypical presentations, and look-alike diagnoses are why clinicians gather history, exam findings, and tests instead of relying on a single buzzword.",
         ],
         "prevention-and-lifestyle": [
-            "Prevention literacy is strongest when habits are linked to biology — blood pressure load, lipid particles, insulin resistance, sleep debt, nicotine exposure — rather than aesthetic goals or internet extremes.",
+            "Prevention literacy is strongest when habits are linked to biology, blood pressure load, lipid particles, insulin resistance, sleep debt, nicotine exposure, rather than aesthetic goals or internet extremes.",
             "Sustainable change usually beats perfect short-term restriction. Educational prevention content should reduce friction, not manufacture guilt.",
         ],
         "research-and-innovation": [
             "Innovation coverage should teach readers how evidence is generated: design, endpoints, bias, generalizability, and the gap between a promising signal and practice-ready care.",
-            "New devices, drugs, and algorithms earn trust through transparent methods and reproducible benefit — not through marketing vocabulary.",
+            "New devices, drugs, and algorithms earn trust through transparent methods and reproducible benefit, not through marketing vocabulary.",
         ],
         "data-and-statistics": [
             "Cardiovascular statistics are tools for thinking. Rates, risks, and rankings only become meaningful when definitions, denominators, and adjustment methods are clear.",
@@ -306,7 +306,7 @@ def synthesize_body(topic: dict) -> dict:
             ]
         elif i == 2:
             paras = [
-                f"Under “{heading}”, think like a careful clinician or scientist without pretending to be one. Real-world evaluation usually sequences history, examination, and selectively chosen tests, then interprets results against guidelines and the whole patient — age, other conditions, medications, values, and access to care.",
+                f"Under “{heading}”, think like a careful clinician or scientist without pretending to be one. Real-world evaluation usually sequences history, examination, and selectively chosen tests, then interprets results against guidelines and the whole patient, age, other conditions, medications, values, and access to care.",
                 "Educational articles can describe those categories. They cannot decide which test you personally need, which medication is appropriate, or whether a finding is urgent.",
                 "When reading studies or news about this topic, inspect the endpoint (death, hospitalization, symptom score, or lab surrogate), the population enrolled, follow-up length, and whether benefits are shown as relative change, absolute change, or both.",
                 "Also notice exclusion criteria. Trials and registries often under-represent older adults, pregnant people, and communities facing the highest burden of disease. That gap is part of interpreting “what the evidence says.”",
@@ -323,7 +323,7 @@ def synthesize_body(topic: dict) -> dict:
         else:
             paras = [
                 f"Use “{heading}” to convert reading into better conversations. Bring concrete questions: What does this mean for my overall risk? Which screening or diagnostic steps fit my age and history? Which uncertainties should we decide together?",
-                "If you are supporting a family member, ask about warning symptoms, follow-up timing, medication purposes at a high level, and trustworthy educational materials — still leaving prescribing and diagnosis to the care team.",
+                "If you are supporting a family member, ask about warning symptoms, follow-up timing, medication purposes at a high level, and trustworthy educational materials, still leaving prescribing and diagnosis to the care team.",
                 "Cardily’s lane is educational clarity for the next generation of cardiovascular learners and the public. Personal diagnosis, dosing, and emergency decisions belong with licensed clinicians and emergency services.",
                 "If learning this topic raised anxiety, that is common. Pair curiosity with care: continue studying mechanisms and evidence, and route personal symptoms to appropriate clinical channels.",
                 f"Suggested next step inside the library: browse related {cat_label} Insights, then cross-check one research-literacy or data-literacy piece so methods stay attached to facts.",
@@ -337,7 +337,7 @@ def synthesize_body(topic: dict) -> dict:
             "paragraphs": [
                 f"“{title}” rewards slow reading. The payoff is not a memorized slogan; it is the ability to notice when a claim is precise, when it is overextended, and when a personal question needs a clinician.",
                 f"Return to the spine of the piece: {angle}. Hold the keyword cluster ({kw}) as a retrieval cue. Revisit absolute versus relative risk whenever numbers appear.",
-                "Cardily publishes this library to make cardiology more learnable — transparent about uncertainty, respectful of clinical boundaries, and ambitious about public understanding.",
+                "Cardily publishes this library to make cardiology more learnable, transparent about uncertainty, respectful of clinical boundaries, and ambitious about public understanding.",
             ],
         }
     )

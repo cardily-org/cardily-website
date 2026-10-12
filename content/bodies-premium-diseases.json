@@ -3,7 +3,7 @@
     "slug": "understanding-heart-failure-with-reduced-ejection-fraction-a-clear-educational-g",
     "takeaways": [
       "Heart failure with reduced ejection fraction (HFrEF) means the left ventricle pumps out a smaller fraction of blood with each beat, not that the heart has stopped.",
-      "The remodeling cascade—injury, neurohormonal activation, chamber dilation, and fibrosis—often explains why symptoms worsen gradually and then suddenly.",
+      "The remodeling cascade-injury, neurohormonal activation, chamber dilation, and fibrosis-often explains why symptoms worsen gradually and then suddenly.",
       "Dyspnea, fatigue, and fluid retention reflect both backward failure (congestion) and forward failure (inadequate perfusion).",
       "Echocardiography and natriuretic peptides help clinicians classify heart failure; numbers support thinking, they do not replace clinical context.",
       "Guideline-directed medical therapy targets the remodeling cascade, but individual responses vary and evidence continues to evolve."
@@ -12,9 +12,9 @@
       {
         "heading": "Core definition",
         "paragraphs": [
-          "Heart failure with reduced ejection fraction is a clinical syndrome in which the heart cannot meet the body’s circulatory needs at normal filling pressures, accompanied by a measurably weak left ventricular pump function. Ejection fraction—the percentage of blood ejected per beat—is a shorthand for contractile strength, not a complete picture of cardiac health. Clinicians typically label “reduced” when that fraction falls below guideline thresholds used in trials and practice, though the exact cutoffs you hear quoted can differ slightly between sources.",
+          "Heart failure with reduced ejection fraction is a clinical syndrome in which the heart cannot meet the body’s circulatory needs at normal filling pressures, accompanied by a measurably weak left ventricular pump function. Ejection fraction-the percentage of blood ejected per beat-is a shorthand for contractile strength, not a complete picture of cardiac health. Clinicians typically label “reduced” when that fraction falls below guideline thresholds used in trials and practice, though the exact cutoffs you hear quoted can differ slightly between sources.",
           "Importantly, HFrEF is not synonymous with a recent heart attack or with end-stage disease. Many people live for years with reduced EF while symptoms are controlled. The label bundles physiology (weak squeeze), symptoms (breathlessness, swelling, reduced exercise tolerance), and often a history of myocardial injury from ischemia, toxins, genetics, or inflammatory processes.",
-          "Students sometimes equate “heart failure” with pulmonary edema alone. In education, it helps to separate the chronic compensated state—where neurohormonal systems hold the line—from decompensation, when those compensations fail and congestion or hypotension dominates.",
+          "Students sometimes equate “heart failure” with pulmonary edema alone. In education, it helps to separate the chronic compensated state-where neurohormonal systems hold the line-from decompensation, when those compensations fail and congestion or hypotension dominates.",
           "A common misconception is that a normal-sized heart rules out HFrEF. Dilated cardiomyopathy is classic, but some infiltrative or tachycardia-mediated phenotypes may show less dramatic chamber enlargement early on. Always pair imaging with history and exam.",
           "Drill: In one sentence, distinguish syndrome (heart failure) from measurement (reduced EF). In two sentences, explain why someone might have low EF yet minimal symptoms today."
         ]
@@ -23,8 +23,8 @@
         "heading": "Pathophysiology in plain language",
         "paragraphs": [
           "The remodeling cascade begins when cardiomyocytes are stressed or lost. Surviving muscle stretches, the chamber dilates, and the heart geometrically reshapes to preserve stroke volume temporarily. That adaptation comes at a cost: wall tension rises, oxygen demand increases, and the mitral valve apparatus may distort, causing regurgitation that further reduces effective forward flow.",
-          "Neurohormonal activation—particularly renin–angiotensin–aldosterone and sympathetic signaling—is the body’s short-term rescue plan. Vasoconstriction and sodium retention maintain blood pressure, but chronically they stiffen vessels, fibrose the myocardium, and accelerate decline. This is why many HFrEF therapies block or modulate these pathways rather than only treating symptoms.",
-          "Mitral regurgitation and elevated filling pressures feed backward into the lungs and systemic veins, producing congestion. Forward flow may simultaneously fall, causing cool extremities, renal hypoperfusion, and fatigue. The same patient can be “wet” and “cold” in advanced disease—a pattern students should recognize conceptually even before mastering hemodynamic catheters.",
+          "Neurohormonal activation-particularly renin-angiotensin-aldosterone and sympathetic signaling-is the body’s short-term rescue plan. Vasoconstriction and sodium retention maintain blood pressure, but chronically they stiffen vessels, fibrose the myocardium, and accelerate decline. This is why many HFrEF therapies block or modulate these pathways rather than only treating symptoms.",
+          "Mitral regurgitation and elevated filling pressures feed backward into the lungs and systemic veins, producing congestion. Forward flow may simultaneously fall, causing cool extremities, renal hypoperfusion, and fatigue. The same patient can be “wet” and “cold” in advanced disease-a pattern students should recognize conceptually even before mastering hemodynamic catheters.",
           "Arrhythmias, especially atrial fibrillation and ventricular ectopy, both cause and consequence of remodeling, can abruptly change symptoms. Rate control and rhythm strategies interact with EF; teaching materials sometimes oversimplify this bidirectional relationship.",
           "Evidence humility note: We understand broad mechanisms well, but predicting who will reverse remodel on therapy remains imperfect. Imaging trends matter, yet not everyone with improved EF feels better, and vice versa."
         ]
@@ -33,10 +33,10 @@
         "heading": "Symptoms and warning patterns",
         "paragraphs": [
           "Dyspnea on exertion is the hallmark symptom, often described as inability to keep up with prior activity rather than pain. Orthopnea and paroxysmal nocturnal dyspnea suggest pulmonary congestion when lying flat. Patients may adapt by sleeping propped on pillows, so ask about sleep position changes.",
-          "Peripheral edema, abdominal bloating, and early satiety can reflect systemic venous congestion and gut edema—not only “leg swelling from standing.” Rapid weight gain over days often tracks fluid retention before overt edema appears.",
+          "Peripheral edema, abdominal bloating, and early satiety can reflect systemic venous congestion and gut edema-not only “leg swelling from standing.” Rapid weight gain over days often tracks fluid retention before overt edema appears.",
           "Fatigue and exercise intolerance may dominate when forward output is low, even if lungs sound clear. Cognitive slowing or decreased appetite in older adults sometimes gets attributed to aging rather than low perfusion.",
           "Warning patterns that clinicians act on urgently include rest dyspnea, chest pain suggesting ischemia, syncope, new arrhythmia symptoms, or confusion with hypotension. This article does not tell you what to do personally; it maps why those patterns raise concern.",
-          "Misconception: Absence of ankle swelling does not exclude significant congestion, especially with diuretic use or early decompensation. Conversely, edema can have non-cardiac drivers—always think differentially."
+          "Misconception: Absence of ankle swelling does not exclude significant congestion, especially with diuretic use or early decompensation. Conversely, edema can have non-cardiac drivers-always think differentially."
         ]
       },
       {
@@ -45,14 +45,14 @@
           "Echocardiography is central: it estimates ejection fraction, chamber sizes, valve function, and filling pressures indirectly. Strain imaging and three-dimensional echo add nuance in specialty settings but are not required for basic literacy.",
           "Natriuretic peptides (BNP or NT-proBNP) reflect wall stress; they support diagnosis and prognosis in appropriate contexts but can be elevated in renal disease, atrial fibrillation, or pulmonary embolism. Trending values can be more informative than a single draw.",
           "Electrocardiogram and ambulatory monitoring screen for ischemia, scar, and arrhythmia substrates. Cardiac MRI helps characterize scar, inflammation, and infiltrative disease when standard echo is inconclusive.",
-          "Laboratory panels evaluate contributors—thyroid disease, iron deficiency, renal function—and medication effects. Right heart catheterization is reserved for selected cases such as unclear hemodynamics or advanced therapy planning.",
+          "Laboratory panels evaluate contributors-thyroid disease, iron deficiency, renal function-and medication effects. Right heart catheterization is reserved for selected cases such as unclear hemodynamics or advanced therapy planning.",
           "Students should hear test names as questions they answer: Is the pump weak? Are pressures high? Is there an ischemic or arrhythmic trigger? Is there a reversible contributor?"
         ]
       },
       {
         "heading": "Learning checkpoints",
         "paragraphs": [
-          "Master the triangle of symptoms, EF classification, and guideline-directed therapy classes before memorizing drug names. Understand why ACE inhibitors/ARBs/ARNI, beta blockers, mineralocorticoid antagonists, and SGLT2 inhibitors appear in conversations about HFrEF—they modify the remodeling story.",
+          "Master the triangle of symptoms, EF classification, and guideline-directed therapy classes before memorizing drug names. Understand why ACE inhibitors/ARBs/ARNI, beta blockers, mineralocorticoid antagonists, and SGLT2 inhibitors appear in conversations about HFrEF-they modify the remodeling story.",
           "Practice explaining congestion versus low output in plain language to a friend. Use a diagram of the left ventricle, lungs, and legs if it helps you teach backward failure.",
           "Compare HFrEF with HFpEF at a high level: weak squeeze versus stiff filling. That contrast prevents the common error “EF is normal, so heart failure is ruled out.”",
           "When reading trials, note who was enrolled (EF cutoffs, NYHA class, background therapy). External validity is part of evidence literacy.",
@@ -63,7 +63,7 @@
         "heading": "Putting it together",
         "paragraphs": [
           "HFrEF is best understood as a remodeling cascade set in motion by injury and sustained by compensatory hormones that eventually become harmful. Symptoms track both lung and body congestion and reduced forward flow, which is why two patients with the same EF can feel different.",
-          "Tests translate physiology into numbers you can discuss intelligently with preceptors: echo for structure and squeeze, biomarkers for wall stress, MRI when etiology is unclear. Keep differential thinking alive—thyroid, ischemia, tachycardia, toxins, and genetics all belong on the mental checklist.",
+          "Tests translate physiology into numbers you can discuss intelligently with preceptors: echo for structure and squeeze, biomarkers for wall stress, MRI when etiology is unclear. Keep differential thinking alive-thyroid, ischemia, tachycardia, toxins, and genetics all belong on the mental checklist.",
           "Stay curious about how therapies target mechanisms, but hold humility about individual trajectories. Cardily’s goal is clarity for learners, not prescriptions; pair this article with primary sources and supervised clinical experience."
         ]
       }
@@ -95,7 +95,7 @@
   {
     "slug": "understanding-heart-failure-with-preserved-ejection-fraction-a-clear-educational",
     "takeaways": [
-      "HFpEF means heart failure symptoms with a relatively preserved ejection fraction—stiff, poorly relaxing ventricles can fail despite a “normal” squeeze number.",
+      "HFpEF means heart failure symptoms with a relatively preserved ejection fraction-stiff, poorly relaxing ventricles can fail despite a “normal” squeeze number.",
       "Comorbidity clusters (hypertension, obesity, diabetes, sleep apnea, renal disease) often drive the syndrome as much as isolated myocardial stiffness.",
       "Diagnosis requires symptoms plus objective evidence of structural or functional cardiac abnormalities; excluding mimics is part of sound reasoning.",
       "Therapy emphasizes blood pressure, volume, rhythm, and comorbidity control; few trials mirror the drug-success story seen in HFrEF.",
@@ -105,20 +105,20 @@
       {
         "heading": "Why this diagnosis matters",
         "paragraphs": [
-          "Heart failure with preserved ejection fraction (HFpEF) sits at the intersection of symptoms, elevated filling pressures, and echocardiographic patterns that suggest diastolic dysfunction—even when the ejection fraction number looks reassuring. Prevalence has risen with aging populations and cardiometabolic disease, making this label common on wards and in clinics.",
+          "Heart failure with preserved ejection fraction (HFpEF) sits at the intersection of symptoms, elevated filling pressures, and echocardiographic patterns that suggest diastolic dysfunction-even when the ejection fraction number looks reassuring. Prevalence has risen with aging populations and cardiometabolic disease, making this label common on wards and in clinics.",
           "Why the diagnosis matters: HFpEF carries substantial morbidity and hospitalization risk, yet students often under-study it because the EF remains “normal.” Outcomes improve when teams recognize congestion early and manage comorbid drivers rather than dismissing complaints.",
           "HFpEF is heterogeneous. Some phenotypes emphasize left ventricular hypertrophy and hypertension; others emphasize obesity-related hemodynamics, atrial myopathy, or pulmonary vascular disease. Teaching simplifies to “stiff heart,” but real patients mix mechanisms.",
-          "Misconception: HFpEF is “diastolic heart failure” and therefore mild. Severity tracks symptoms, hospital course, and filling pressures—not EF alone.",
+          "Misconception: HFpEF is “diastolic heart failure” and therefore mild. Severity tracks symptoms, hospital course, and filling pressures-not EF alone.",
           "Drill: List three non-cardiac conditions that can mimic HFpEF symptoms (e.g., deconditioning, lung disease, anemia) and one echo finding beyond EF that supports cardiac failure."
         ]
       },
       {
         "heading": "Mechanisms and natural history",
         "paragraphs": [
-          "Diastole is the relaxation and filling phase. When the left ventricle is stiff or the atrium fails to boost filling, pressure rises in the left atrium and backs up to the lungs. Squeeze may still look normal because EF is a ratio of stroke volume to end-diastolic volume—both can fall together, preserving the percentage.",
+          "Diastole is the relaxation and filling phase. When the left ventricle is stiff or the atrium fails to boost filling, pressure rises in the left atrium and backs up to the lungs. Squeeze may still look normal because EF is a ratio of stroke volume to end-diastolic volume-both can fall together, preserving the percentage.",
           "Systemic microvascular inflammation and endothelial dysfunction link cardiometabolic risk to myocardial stiffening in many models. Extracellular matrix expansion and hypertrophy reduce compliance over years of elevated afterload.",
           "Atrial fibrillation often both contributes to and results from atrial stretch in HFpEF. Loss of atrial kick can tip a compensated patient into pulmonary congestion without changing EF dramatically.",
-          "Pulmonary hypertension and right ventricular strain may appear as HFpEF progresses, blurring lines with pulmonary vascular disease. Hemodynamic classification at catheterization can clarify when standard echo is ambiguous—though not every patient needs invasive study.",
+          "Pulmonary hypertension and right ventricular strain may appear as HFpEF progresses, blurring lines with pulmonary vascular disease. Hemodynamic classification at catheterization can clarify when standard echo is ambiguous-though not every patient needs invasive study.",
           "Natural history often involves gradual functional decline punctuated by decompensations triggered by dietary sodium, uncontrolled blood pressure, arrhythmia, or infection. Evidence on reversing stiffness is limited; stabilization is a realistic framing."
         ]
       },
@@ -136,10 +136,10 @@
         "heading": "Treatment categories at a high level",
         "paragraphs": [
           "Treatment categories at guideline level focus on symptom relief and risk modification rather than a single magic drug class. Diuretics address congestion; blood pressure targets reduce afterload and hypertrophy progression.",
-          "SGLT2 inhibitors have entered HFpEF conversations based on trial subsets showing benefit in broader heart failure populations—exact labeling and eligibility evolve, so learners should read current guideline summaries rather than outdated slides.",
+          "SGLT2 inhibitors have entered HFpEF conversations based on trial subsets showing benefit in broader heart failure populations-exact labeling and eligibility evolve, so learners should read current guideline summaries rather than outdated slides.",
           "Rhythm control for atrial fibrillation, rate control when needed, and anticoagulation when stroke risk warrants are parallel tracks. Sleep apnea treatment and weight management may improve hemodynamics in selected phenotypes.",
           "Exercise training improves quality of life in many chronic heart failure settings when safely supervised; HFpEF patients historically were under-referred to rehab.",
-          "Avoid implying that because HFpEF lacks HFrEF’s pharmacologic home runs, nothing helps. Multidisciplinary care—nursing, pharmacy, cardiology, primary care—often drives day-to-day stability."
+          "Avoid implying that because HFpEF lacks HFrEF’s pharmacologic home runs, nothing helps. Multidisciplinary care-nursing, pharmacy, cardiology, primary care-often drives day-to-day stability."
         ]
       },
       {
@@ -147,7 +147,7 @@
         "paragraphs": [
           "Read HFpEF chapters alongside hypertension, obesity medicine, and atrial fibrillation resources; siloed study misses shared pathophysiology.",
           "Practice interpreting echo reports beyond EF: look for left atrial enlargement, diastolic grade descriptions, tricuspid regurgitation velocity hints, and LV wall thickness.",
-          "Follow debates on unified “heart failure” trials versus EF-stratified endpoints—this teaches how science reshapes labels.",
+          "Follow debates on unified “heart failure” trials versus EF-stratified endpoints-this teaches how science reshapes labels.",
           "Use case vignettes without jumping to treatment; first articulate why HFpEF is plausible and what would falsify it.",
           "Keep learning responsibly: guidelines differ by region; your preceptors may emphasize phenotyping tools still emerging in research."
         ]
@@ -157,7 +157,7 @@
         "paragraphs": [
           "HFpEF teaches that ejection fraction is a single frame in a long film about pressure, volume, and comorbidity. Symptoms plus structural or functional cardiac evidence define the syndrome; normal EF is compatible with serious illness.",
           "Mechanisms weave together stiff ventricles, atrial failure, pulmonary vascular limits, and systemic inflammation. Differential diagnosis keeps you honest when dyspnea has many owners.",
-          "Therapy is multidimensional and evolving—respect what works for congestion and cardiometabolic risk while staying updated on trial-driven additions. Cardily offers conceptual maps; clinical preceptors tailor plans to individuals."
+          "Therapy is multidimensional and evolving-respect what works for congestion and cardiometabolic risk while staying updated on trial-driven additions. Cardily offers conceptual maps; clinical preceptors tailor plans to individuals."
         ]
       }
     ],
@@ -188,10 +188,10 @@
   {
     "slug": "understanding-coronary-artery-disease-a-clear-educational-guide",
     "takeaways": [
-      "Coronary artery disease (CAD) is a supply–demand mismatch: atherosclerotic narrowing plus increased myocardial oxygen need produces ischemia.",
+      "Coronary artery disease (CAD) is a supply-demand mismatch: atherosclerotic narrowing plus increased myocardial oxygen need produces ischemia.",
       "Stable angina, acute coronary syndromes, and silent ischemia sit on a spectrum of plaque biology and flow limitation.",
       "Risk factors modify vessel wall biology over years; symptoms may appear only when stenoses become hemodynamically significant or when plaques rupture.",
-      "Evaluation blends history, ECG, biomarkers, stress imaging, and angiography—each answers a different question.",
+      "Evaluation blends history, ECG, biomarkers, stress imaging, and angiography-each answers a different question.",
       "Students should link plaque stability, thrombosis, and microvascular dysfunction rather than memorizing stenosis percentages alone."
     ],
     "sections": [
@@ -199,8 +199,8 @@
         "heading": "What this condition is",
         "paragraphs": [
           "Coronary artery disease describes atherosclerotic plaque buildup in the epicardial arteries that nourish the heart muscle. The condition is chronic and cumulative, often silent until luminal narrowing or acute plaque disruption limits blood flow during exertion or rest. CAD is not one event but a continuum from endothelial injury to fibrous cap formation, calcification, and possible thrombosis.",
-          "Clinically, CAD presents as chronic stable angina, acute coronary syndromes, ischemic cardiomyopathy, or sometimes as arrhythmia or heart failure without classic chest pain. Epidemiologic patterns vary by age, sex, and ancestry, but the core supply–demand framework applies broadly.",
-          "A common student error is equating CAD with ‘blocked arteries’ only at severe stenosis. Physiologically, non-obstructive disease and microvascular dysfunction can still cause ischemia—MINOCA and INOCA phenotypes remind us the angiogram is not the whole story.",
+          "Clinically, CAD presents as chronic stable angina, acute coronary syndromes, ischemic cardiomyopathy, or sometimes as arrhythmia or heart failure without classic chest pain. Epidemiologic patterns vary by age, sex, and ancestry, but the core supply-demand framework applies broadly.",
+          "A common student error is equating CAD with ‘blocked arteries’ only at severe stenosis. Physiologically, non-obstructive disease and microvascular dysfunction can still cause ischemia-MINOCA and INOCA phenotypes remind us the angiogram is not the whole story.",
           "Drill: Define ischemia in one line. In two lines, explain how stable plaque differs conceptually from plaque rupture with thrombosis."
         ]
       },
@@ -209,7 +209,7 @@
         "paragraphs": [
           "Atherosclerosis begins with endothelial dysfunction and lipid retention in the intima. Inflammatory cells, smooth muscle migration, and extracellular matrix create a fibrous cap over a lipid-rich core. Calcification may follow, visible later on CT calcium scoring.",
           "When plaque encroaches the lumen, coronary flow reserve drops. At rest, autoregulation and collateral vessels may compensate; with exercise, heart rate and contractility raise oxygen demand until supply fails, producing angina.",
-          "Plaque rupture or erosion exposes thrombogenic material, triggering platelet aggregation and possible vessel occlusion— the acute coronary syndrome pathway. Distal embolization of thrombus or plaque debris can cause microinfarcts even when major vessels appear only moderately diseased.",
+          "Plaque rupture or erosion exposes thrombogenic material, triggering platelet aggregation and possible vessel occlusion, the acute coronary syndrome pathway. Distal embolization of thrombus or plaque debris can cause microinfarcts even when major vessels appear only moderately diseased.",
           "Chronic ischemia can depress contractile function (hibernation) or provoke remodeling toward heart failure. Valvular disease and tachycardia can worsen ischemia by raising demand or shortening diastolic filling time."
         ]
       },
@@ -218,7 +218,7 @@
         "paragraphs": [
           "History remains foundational: exertional chest pressure, radiation patterns, associated dyspnea, diaphoresis, and anginal equivalents ( jaw, arm, nausea) guide pretest probability. Atypical presentations are more common in women, diabetes, and older adults.",
           "Resting ECG may show prior infarction or ischemic changes during pain. Stress testing with ECG or imaging unmasks flow limitation. Anatomic assessment via coronary CT angiography or invasive angiography defines stenosis location and complexity.",
-          "Biomarkers such as troponin distinguish acute myocardial injury from chronic stable disease. Risk scores integrate age, cholesterol, blood pressure, smoking, and diabetes for primary prevention conversations—not personal prescribing here.",
+          "Biomarkers such as troponin distinguish acute myocardial injury from chronic stable disease. Risk scores integrate age, cholesterol, blood pressure, smoking, and diabetes for primary prevention conversations-not personal prescribing here.",
           "Functional tests (FFR, perfusion PET) sometimes clarify whether a stenosis is truly flow-limiting, because anatomy alone misleads in moderate lesions."
         ]
       },
@@ -227,7 +227,7 @@
         "paragraphs": [
           "Master supply versus demand before drug classes. Understand stable angina versus ACS warning features at an educational level only.",
           "Draw a timeline from endothelial dysfunction to acute thrombosis. Label where lifestyle and risk-factor modification act versus where revascularization is discussed in guidelines.",
-          "Practice explaining why a 40% stenosis can be asymptomatic while a 70% lesion causes exertional angina—hint: reserve, collaterals, and demand.",
+          "Practice explaining why a 40% stenosis can be asymptomatic while a 70% lesion causes exertional angina-hint: reserve, collaterals, and demand.",
           "Learn microvascular angina as part of the CAD spectrum so you do not dismiss symptoms when angiograms look mild."
         ]
       },
@@ -238,15 +238,15 @@
           "Inquire how sex-specific symptom patterns change their workup thresholds.",
           "Discuss when they consider non-atherosclerotic chest pain mimics despite risk factors.",
           "Explore how patient preferences shape revascularization in stable disease versus ACS.",
-          "Request feedback on your angina history-taking checklist—structure beats memorized scripts."
+          "Request feedback on your angina history-taking checklist-structure beats memorized scripts."
         ]
       },
       {
         "heading": "Putting it together",
         "paragraphs": [
-          "CAD education centers on how years of vessel wall biology meet moments of increased myocardial demand or sudden plaque instability. Thinking in supply–demand pairs keeps chronic angina, silent ischemia, and acute syndromes on one map.",
+          "CAD education centers on how years of vessel wall biology meet moments of increased myocardial demand or sudden plaque instability. Thinking in supply-demand pairs keeps chronic angina, silent ischemia, and acute syndromes on one map.",
           "Evaluation layers history, electrical and biomarker clues, stress physiology, and anatomy. No single test tells the whole story; pretest probability keeps you from over-interpreting any one result.",
-          "Stay evidence-humble: trial eras and populations differ. Cardily teaches mechanisms and questions worth asking clinicians—not individualized treatment plans."
+          "Stay evidence-humble: trial eras and populations differ. Cardily teaches mechanisms and questions worth asking clinicians-not individualized treatment plans."
         ]
       }
     ],
@@ -280,7 +280,7 @@
       "ST-elevation myocardial infarction (STEMI) conceptually represents acute transmural ischemia from coronary occlusion, reflected on ECG as ST-segment elevation in specific territories.",
       "Time is myocardium in teaching parlance: sustained occlusion threatens extensive necrosis without timely reperfusion.",
       "ECG patterns map to coronary anatomy approximately; localization helps learners predict complications and territory at risk.",
-      "STEMI sits within acute coronary syndromes alongside NSTEMI and unstable angina—biomarkers and ECG differentiate categories.",
+      "STEMI sits within acute coronary syndromes alongside NSTEMI and unstable angina-biomarkers and ECG differentiate categories.",
       "Public education emphasizes recognizing symptoms; this article explains concepts, not emergency self-triage instructions."
     ],
     "sections": [
@@ -288,8 +288,8 @@
         "heading": "What this condition is",
         "paragraphs": [
           "STEMI is an acute coronary syndrome pattern defined by ECG ST-segment elevation (or equivalent findings) in the setting of myocardial ischemia, usually with rising cardiac biomarkers. It signals that a coronary artery is likely acutely occluded or nearly so, threatening transmural infarction.",
-          "Learners first meet STEMI through ECG criteria and territorial labels—anterior, inferior, lateral—each tied to culprit vessel concepts. The label triggers systems of care designed for rapid reperfusion in appropriate settings.",
-          "STEMI is not the only serious heart attack pattern. NSTEMI may be equally dangerous but presents without ST elevation, stressing that ‘heart attack’ is a clinical–biomarker–ECG bundle, not one shape on a strip.",
+          "Learners first meet STEMI through ECG criteria and territorial labels-anterior, inferior, lateral-each tied to culprit vessel concepts. The label triggers systems of care designed for rapid reperfusion in appropriate settings.",
+          "STEMI is not the only serious heart attack pattern. NSTEMI may be equally dangerous but presents without ST elevation, stressing that ‘heart attack’ is a clinical-biomarker-ECG bundle, not one shape on a strip.",
           "Misconception: chest pain must be crushing for STEMI. Dyspnea, syncope, or nausea may dominate, especially in diabetes and older adults."
         ]
       },
@@ -297,9 +297,9 @@
         "heading": "How the heart and vessels are affected",
         "paragraphs": [
           "Occlusion upstream starves downstream myocardium of oxygen. Within minutes, electrical instability can produce ventricular arrhythmias; over hours, cell death progresses from endocardium toward epicardium in classic models.",
-          "ST elevation on ECG reflects abnormal repolarization currents in injured myocardium— a surface recording phenomenon, not a direct measure of necrosis volume. Reciprocal ST depression in opposite leads often supports an ischemic vector.",
+          "ST elevation on ECG reflects abnormal repolarization currents in injured myocardium, a surface recording phenomenon, not a direct measure of necrosis volume. Reciprocal ST depression in opposite leads often supports an ischemic vector.",
           "Loss of contractile function in the affected territory reduces stroke volume and may cause cardiogenic shock in large infarcts. Papillary muscle rupture, ventricular septal defect, and free wall rupture are mechanical complications learners catalog by timing and territory.",
-          "Reperfusion itself can cause arrhythmias or transient ST changes (‘reperfusion elevation’). Clinicians balance benefits of opening the artery against bleeding risks from antithrombotic therapy—details belong to protocol training."
+          "Reperfusion itself can cause arrhythmias or transient ST changes (‘reperfusion elevation’). Clinicians balance benefits of opening the artery against bleeding risks from antithrombotic therapy-details belong to protocol training."
         ]
       },
       {
@@ -307,14 +307,14 @@
         "paragraphs": [
           "Evaluation in STEMI systems begins with a diagnostic ECG interpreted rapidly, serial biomarkers, and clinical correlation. Point-of-care decisions prioritize occlusion recognition and activation of reperfusion pathways where indicated.",
           "Echocardiography may assess wall motion, complications, and mechanical problems after stabilization. Coronary angiography identifies culprit lesions and guides stenting or, rarely, surgery.",
-          "Labs also screen for mimics—pericarditis, early repolarization, left bundle branch block strategies—using modified criteria where guidelines allow.",
+          "Labs also screen for mimics-pericarditis, early repolarization, left bundle branch block strategies-using modified criteria where guidelines allow.",
           "Students should learn what an ECG represents conceptually: summation of electrical activity, affected by lead placement, baseline abnormalities, and timing of presentation."
         ]
       },
       {
         "heading": "What students should master first",
         "paragraphs": [
-          "Memorize territorial–vessel associations as approximations, not laws. Anomalies and collaterals alter maps.",
+          "Memorize territorial-vessel associations as approximations, not laws. Anomalies and collaterals alter maps.",
           "Contrast STEMI with NSTEMI using both ECG and troponin kinetics conceptually.",
           "Study reperfusion injury and no-reflow as advanced topics that explain why opened arteries do not always mean full recovery.",
           "Review complications timeline: hours (arrhythmia), days (murmurs of rupture), weeks (aneurysm, dressler discussions in texts)."
@@ -335,7 +335,7 @@
         "paragraphs": [
           "STEMI teaching links ECG ST elevation to acute coronary occlusion physiology and territorial injury. The ECG is a conceptual window on repolarization abnormalities, best read with history and biomarkers.",
           "Vessel occlusion threatens pump function and electrical stability; complications follow predictable anatomic and temporal patterns worth cataloging in coursework.",
-          "Systems of rapid reperfusion are guideline-driven and locale-specific. Cardily clarifies the science behind the labels—you learn emergency actions through certified training and local protocols, not from this overview alone."
+          "Systems of rapid reperfusion are guideline-driven and locale-specific. Cardily clarifies the science behind the labels-you learn emergency actions through certified training and local protocols, not from this overview alone."
         ]
       }
     ],
@@ -370,7 +370,7 @@
       "Classic MI demographics do not apply; SCAD requires angiographic pattern recognition and often conservative or specialized revascularization strategies.",
       "Underlying arteriopathies and connective tissue traits are debated; fibromuscular dysplasia appears in some cohort studies.",
       "Recurrence and healing phases influence long-term counseling themes discussed in specialty clinics.",
-      "Not every dissection looks identical on angiography—type classifications help communication among teams."
+      "Not every dissection looks identical on angiography-type classifications help communication among teams."
     ],
     "sections": [
       {
@@ -387,7 +387,7 @@
         "paragraphs": [
           "The intimal tear or medial hemorrhage compresses the lumen from within. Flow may fluctuate as the hematoma organizes or extends. Side branches can be jeopardized by the dissection track.",
           "Myocardial injury reflects territory supplied by the affected vessel. Ventricular arrhythmias remain a concern during acute ischemia, as with other ACS phenotypes.",
-          "Healing often occurs over weeks with medical therapy and activity modification in many cases; stenting may be avoided when dissections are distal or when stenting risks propagate the tear—decisions are specialist territory.",
+          "Healing often occurs over weeks with medical therapy and activity modification in many cases; stenting may be avoided when dissections are distal or when stenting risks propagate the tear-decisions are specialist territory.",
           "Extracoronary vascular abnormalities, especially fibromuscular dysplasia, coexist in some patients, prompting vascular imaging discussions in comprehensive programs."
         ]
       },
@@ -406,7 +406,7 @@
           "Learn angiographic SCAD types as communication tools, not as solo determinants of therapy.",
           "Contrast SCAD with atherosclerotic ACS mechanisms to avoid automatic stent reflexes in case discussions.",
           "Study peripartum cardiovascular disease as a broader category including SCAD, cardiomyopathy, and preeclampsia-related strain.",
-          "Review recurrence themes cautiously—rates vary by study design; avoid quoting precise numbers without a source at hand."
+          "Review recurrence themes cautiously-rates vary by study design; avoid quoting precise numbers without a source at hand."
         ]
       },
       {
@@ -457,7 +457,7 @@
     "takeaways": [
       "Acute decompensated heart failure (ADHF) is worsening heart failure symptoms requiring urgent evaluation, often driven by congestion, perfusion failure, or both.",
       "Phenotypes include ‘wet and warm,’ ‘wet and cold,’ and profiles dominated by hypertension versus hypotension.",
-      "Triggers include dietary indiscretion, ischemia, arrhythmia, infection, medication nonadherence, and renal dysfunction—identifying contributors is educational priority.",
+      "Triggers include dietary indiscretion, ischemia, arrhythmia, infection, medication nonadherence, and renal dysfunction-identifying contributors is educational priority.",
       "Diuretics and afterload reduction feature prominently in teaching; exact regimens are clinician decisions.",
       "BNP trends and lung ultrasound concepts help learners connect exam findings to pathophysiology."
     ],
@@ -475,7 +475,7 @@
         "heading": "How the heart and vessels are affected",
         "paragraphs": [
           "Congestion rises when sodium and water retention exceed the heart’s ability to redistribute fluid at acceptable pressures. Pulmonary capillary wedge pressure elevations translate to crackles, orthopnea, and sometimes pink frothy sputum in teaching vignettes.",
-          "Low-output decompensation presents with hypotension, cool extremities, and organ hypoperfusion—renal function often worsens. Mixed pictures are common in advanced disease.",
+          "Low-output decompensation presents with hypotension, cool extremities, and organ hypoperfusion-renal function often worsens. Mixed pictures are common in advanced disease.",
           "Right-sided failure adds jugular venous distension, hepatomegaly, and ascites. Isolated right failure prompts pulmonary embolism and lung disease differentials.",
           "Arrhythmias and ischemia can both trigger and result from ADHF, creating feedback loops that ward teams untangle daily."
         ]
@@ -486,7 +486,7 @@
           "Evaluation starts with ABCs in clinical training, then history of weight change, diet, medications, and adherence. Exam focuses on volume status, perfusion, and precipitants.",
           "Labs include renal function, electrolytes, troponin when ischemia suspected, and natriuretic peptides. Chest imaging assesses pulmonary edema versus pneumonia.",
           "Echocardiography clarifies EF, valves, and estimated pressures when not recently available. In selected cases, right heart catheterization guides therapy in advanced centers.",
-          "Point-of-care lung ultrasound for B-lines appears in modern curricula as a congestion adjunct—not a replacement for comprehensive assessment."
+          "Point-of-care lung ultrasound for B-lines appears in modern curricula as a congestion adjunct-not a replacement for comprehensive assessment."
         ]
       },
       {
@@ -511,7 +511,7 @@
       {
         "heading": "Putting it together",
         "paragraphs": [
-          "ADHF is the acute face of a chronic syndrome—congestion phenotypes and perfusion status organize thinking faster than ejection fraction alone.",
+          "ADHF is the acute face of a chronic syndrome-congestion phenotypes and perfusion status organize thinking faster than ejection fraction alone.",
           "Triggers are often modifiable; student habit should be to hunt precipitants while stabilizing physiology in supervised settings.",
           "Cardily frames patterns and vocabulary for wards; never substitute this education for emergency care instructions tailored to you."
         ]
@@ -545,17 +545,17 @@
     "slug": "understanding-aortic-stenosis-a-clear-educational-guide",
     "takeaways": [
       "Aortic stenosis is narrowing of the aortic valve orifice, creating pressure overload on the left ventricle.",
-      "Classic symptom triad teaching includes angina, syncope, and heart failure—often late markers of severe disease.",
+      "Classic symptom triad teaching includes angina, syncope, and heart failure-often late markers of severe disease.",
       "Echocardiography grades severity by velocity and valve area estimates; symptoms drive timing of intervention discussions.",
       "Calcific degeneration dominates in older adults; bicuspid valves present earlier-life pathways.",
-      "Pressure overload leads to hypertrophy, then fibrosis, then dysfunction if untreated—natural history is a core teaching arc."
+      "Pressure overload leads to hypertrophy, then fibrosis, then dysfunction if untreated-natural history is a core teaching arc."
     ],
     "sections": [
       {
         "heading": "What this condition is",
         "paragraphs": [
           "Aortic stenosis (AS) restricts blood flow from the left ventricle to the aorta during systole. The valve leaflets may fuse or calcify, reducing effective orifice area. AS is among the most common valvular lesions in high-income aging populations, though congenital bicuspid valves create a second peak in mid-life.",
-          "Patients may remain asymptomatic for years despite moderate narrowing because the ventricle compensates with concentric hypertrophy. Symptom onset often signals advanced hemodynamic compromise and worse prognosis in historical natural history studies—always interpreted with modern intervention options in mind.",
+          "Patients may remain asymptomatic for years despite moderate narrowing because the ventricle compensates with concentric hypertrophy. Symptom onset often signals advanced hemodynamic compromise and worse prognosis in historical natural history studies-always interpreted with modern intervention options in mind.",
           "Distinguish AS from aortic sclerosis (leaflet thickening without significant obstruction) to avoid overtreatment language in beginner discussions.",
           "Drill: State the difference between pressure overload (AS) and volume overload (aortic regurgitation) in two sentences."
         ]
@@ -564,9 +564,9 @@
         "heading": "How the heart and vessels are affected",
         "paragraphs": [
           "The left ventricle generates higher pressures to eject through a narrowed valve, leading to wall thickening that initially preserves chamber size. Over time, rising wall stress, microvascular ischemia in the hypertrophied wall, and fibrosis impair relaxation and contractility.",
-          "Coronary perfusion can be compromised because elevated LVEDP and shortened diastole reduce subendocardial flow—explaining angina without concomitant CAD in teaching cases.",
+          "Coronary perfusion can be compromised because elevated LVEDP and shortened diastole reduce subendocardial flow-explaining angina without concomitant CAD in teaching cases.",
           "Pulmonary hypertension may develop as elevated left atrial pressure transmits backward. Atrial fibrillation is poorly tolerated when atrial kick is needed to fill a stiff ventricle.",
-          "Syncope reflects inability to raise cardiac output during exertion or abnormal baroreceptor responses in advanced AS—mechanisms remain debated and multifactorial."
+          "Syncope reflects inability to raise cardiac output during exertion or abnormal baroreceptor responses in advanced AS-mechanisms remain debated and multifactorial."
         ]
       },
       {
@@ -574,7 +574,7 @@
         "paragraphs": [
           "Echocardiography measures peak velocity, mean gradient, and valve area estimates; continuous-wave Doppler is central. Exercise testing may unmask symptoms in apparently asymptomatic severe AS in supervised protocols.",
           "ECG may show left ventricular hypertrophy; chest imaging might reveal calcified valve or post-stenotic aortic dilation.",
-          "Coronary angiography often precedes valve intervention to assess coexisting CAD in older patients—integration, not isolation, of pathologies.",
+          "Coronary angiography often precedes valve intervention to assess coexisting CAD in older patients-integration, not isolation, of pathologies.",
           "Low-flow, low-gradient AS with reduced EF is a special teaching category requiring careful hemodynamic assessment."
         ]
       },
@@ -584,7 +584,7 @@
           "Learn severity thresholds as echo-derived estimates with measurement limitations, not as physical laws.",
           "Map symptoms to hemodynamics: why dyspnea appears when the ventricle decompensates.",
           "Compare surgical aortic valve replacement versus transcatheter approaches at indication level only.",
-          "Study bicuspid aortic valve associations with aortopathy—another reason for lifelong surveillance themes."
+          "Study bicuspid aortic valve associations with aortopathy-another reason for lifelong surveillance themes."
         ]
       },
       {
@@ -602,7 +602,7 @@
         "paragraphs": [
           "Aortic stenosis exemplifies pressure overload pathophysiology: compensate with hypertrophy, then fail with symptoms. Echo quantifies obstruction; symptoms anchor urgency conversations in guidelines.",
           "Angina, syncope, and heart failure remain pedagogical red flags for advanced disease, though modern valve therapies change outcomes compared with historical cohorts.",
-          "Cardily teaches mechanisms and evaluation vocabulary—valve timing and procedure choice belong to heart teams who know the individual echo and comorbidity picture."
+          "Cardily teaches mechanisms and evaluation vocabulary-valve timing and procedure choice belong to heart teams who know the individual echo and comorbidity picture."
         ]
       }
     ],
@@ -634,10 +634,10 @@
     "slug": "understanding-atrial-fibrillation-a-clear-educational-guide",
     "takeaways": [
       "Atrial fibrillation (AF) is chaotic atrial electrical activity with irregular ventricular response, loss of organized atrial contraction, and elevated thromboembolic risk.",
-      "Management frameworks often separate rate control, rhythm control, and stroke prevention—each addresses a distinct mechanism.",
+      "Management frameworks often separate rate control, rhythm control, and stroke prevention-each addresses a distinct mechanism.",
       "AF is frequently a marker of underlying heart disease, hypertension, sleep apnea, or alcohol use rather than an isolated rhythm glitch.",
       "Stroke risk stratification uses scores in guidelines; anticoagulation decisions are individualized by clinicians.",
-      "Persistent versus paroxysmal labels describe duration patterns, not necessarily different stroke risk—teaching emphasizes comprehensive assessment."
+      "Persistent versus paroxysmal labels describe duration patterns, not necessarily different stroke risk-teaching emphasizes comprehensive assessment."
     ],
     "sections": [
       {
@@ -646,7 +646,7 @@
           "AF is the most common sustained arrhythmia in clinical practice. Instead of coordinated atrial depolarization, multiple wavelets or drivers produce fibrillatory conduction; the atrioventricular node filters impulses, yielding irregularly irregular ventricular rates on exam and ECG.",
           "Patients may feel palpitations, fatigue, dyspnea, or nothing at all. AF discovered incidentally still requires structured evaluation because thromboembolic and hemodynamic consequences may accrue silently.",
           "Lone AF without structural heart disease is less common than once thought; deeper imaging often reveals subtle abnormalities.",
-          "Misconception: AF always requires immediate cardioversion in every setting—therapy depends on duration, hemodynamics, and thrombus risk per protocols."
+          "Misconception: AF always requires immediate cardioversion in every setting-therapy depends on duration, hemodynamics, and thrombus risk per protocols."
         ]
       },
       {
@@ -655,7 +655,7 @@
           "Loss of atrial systole reduces ventricular filling, particularly important in diastolic dysfunction or mitral stenosis. Rapid ventricular rates shorten diastole, impairing coronary and ventricular filling.",
           "Blood stasis in the left atrial appendage promotes thrombus formation; embolization to cerebral or systemic arteries defines much of AF’s morbidity.",
           "Tachycardia-mediated cardiomyopathy can develop with prolonged uncontrolled rates, potentially reversible if rhythm or rate is controlled.",
-          "AF often coexists with heart failure in a vicious cycle—each worsening the other through rate, filling pressures, and neurohormonal activation."
+          "AF often coexists with heart failure in a vicious cycle-each worsening the other through rate, filling pressures, and neurohormonal activation."
         ]
       },
       {
@@ -663,8 +663,8 @@
         "paragraphs": [
           "Diagnosis is ECG-based: absent P waves, irregular RR intervals. Ambulatory monitoring quantifies burden when paroxysmal symptoms are intermittent.",
           "Echocardiography assesses structure, function, and thrombus suspicion when clinically indicated. Thyroid function, sleep apnea screening, and alcohol history explore modifiable drivers.",
-          "Stroke risk calculators integrate age, sex, heart failure, hypertension, diabetes, vascular disease, and prior stroke—learn conceptually, not as self-application tools.",
-          "Anticoagulation versus left atrial appendage occlusion devices are guideline topics for eligible patients—details require specialist input."
+          "Stroke risk calculators integrate age, sex, heart failure, hypertension, diabetes, vascular disease, and prior stroke-learn conceptually, not as self-application tools.",
+          "Anticoagulation versus left atrial appendage occlusion devices are guideline topics for eligible patients-details require specialist input."
         ]
       },
       {
@@ -690,7 +690,7 @@
         "heading": "Putting it together",
         "paragraphs": [
           "AF combines electrical chaos, hemodynamic inefficiency, and pro-thrombotic atrial milieu. Rate, rhythm, and stroke prevention are parallel educational tracks.",
-          "Underlying contributors—hypertension, valvular disease, obesity, alcohol—often deserve as much attention as the rhythm itself.",
+          "Underlying contributors-hypertension, valvular disease, obesity, alcohol-often deserve as much attention as the rhythm itself.",
           "Cardily clarifies concepts behind scores and therapies; anticoagulation and procedural choices require personalized clinical judgment."
         ]
       }
@@ -722,10 +722,10 @@
   {
     "slug": "understanding-ischemic-stroke-a-clear-educational-guide",
     "takeaways": [
-      "Ischemic stroke is brain infarction from arterial occlusion, embolism, or hypoperfusion—not all strokes share cardiac causes, but cardioembolism is a major teachable pathway.",
+      "Ischemic stroke is brain infarction from arterial occlusion, embolism, or hypoperfusion-not all strokes share cardiac causes, but cardioembolism is a major teachable pathway.",
       "Atrial fibrillation, ventricular thrombus, valvular disease, and certain shunts appear in cardioembolic differential lists.",
-      "Time-sensitive reperfusion (IV thrombolysis, mechanical thrombectomy) applies to selected ischemic strokes—public messaging differs from deep mechanism learning.",
-      "Secondary prevention targets source, platelets, anticoagulation when indicated, and vascular risk factors—always clinician-directed.",
+      "Time-sensitive reperfusion (IV thrombolysis, mechanical thrombectomy) applies to selected ischemic strokes-public messaging differs from deep mechanism learning.",
+      "Secondary prevention targets source, platelets, anticoagulation when indicated, and vascular risk factors-always clinician-directed.",
       "Neuroimaging distinguishes ischemia from hemorrhage before most cardiac-directed therapies proceed."
     ],
     "sections": [
@@ -733,16 +733,16 @@
         "heading": "What this condition is",
         "paragraphs": [
           "Ischemic stroke results when a brain artery is occluded or critically hypoperfused, leading to neuronal injury in a vascular territory. Symptoms map to anatomy: sudden weakness, speech change, vision loss, ataxia, or neglect depending on affected vessels.",
-          "Cardiovascular learners focus on embolic strokes arising from the heart or proximal aorta, where thrombus dislodges to cerebral arteries. Not every ischemic stroke is cardioembolic—large artery atherosclerosis and lacunar small vessel disease are parallel highways.",
+          "Cardiovascular learners focus on embolic strokes arising from the heart or proximal aorta, where thrombus dislodges to cerebral arteries. Not every ischemic stroke is cardioembolic-large artery atherosclerosis and lacunar small vessel disease are parallel highways.",
           "Stroke is a clinical emergency in systems of care; educational materials emphasize rapid triage without instructing readers how to manage their own events.",
-          "Transient ischemic attack (TIA) implies temporary symptoms without infarction on imaging—still a warning for future stroke risk."
+          "Transient ischemic attack (TIA) implies temporary symptoms without infarction on imaging-still a warning for future stroke risk."
         ]
       },
       {
         "heading": "How the heart and vessels are affected",
         "paragraphs": [
           "Cardioembolic mechanisms include stasis in fibrillating atria, mural thrombus after large anterior MI, mechanical valves, and endocarditis vegetations. Patent foramen ovale with paradoxical embolism sits in differential for younger cryptogenic strokes in teaching frameworks.",
-          "Hemodynamic strokes occur with systemic hypotension or severe carotid stenosis when autoregulation fails—demand and supply language returns from cardiology.",
+          "Hemodynamic strokes occur with systemic hypotension or severe carotid stenosis when autoregulation fails-demand and supply language returns from cardiology.",
           "Atrial myopathy concepts extend stroke risk beyond overt AF in research discourse; learners should know the debate exists without overclaiming clinical utility.",
           "Ischemic injury triggers edema and potential herniation in large territories; cardiac comorbidity worsens outcomes through limited reserve."
         ]
@@ -752,7 +752,7 @@
         "paragraphs": [
           "Non-contrast head CT primarily excludes hemorrhage before thrombolysis in appropriate candidates. MRI is more sensitive for acute ischemia when available.",
           "ECG, telemetry, and echocardiography search for AF, thrombus, valvular lesions, and cardiomyopathy. Vascular imaging evaluates carotid and intracranial atherosclerosis.",
-          "Blood work supports mimics—hypoglycemia, hyponatremia—and risk factor assessment. Cardiac monitoring duration for occult AF is institution-specific.",
+          "Blood work supports mimics-hypoglycemia, hyponatremia-and risk factor assessment. Cardiac monitoring duration for occult AF is institution-specific.",
           "Stroke subtyping systems (TOAST et al.) help learners organize etiology without becoming rigid doctrine."
         ]
       },
@@ -762,7 +762,7 @@
           "Build a cardioembolic checklist: AF, structural heart disease, recent MI, prosthetic valve, endocarditis, myxoma (rare).",
           "Contrast antiplatelet and anticoagulant roles in secondary prevention conceptually.",
           "Study heart-brain axes: heart failure with low output and stroke risk via hypoperfusion or associated AF.",
-          "Practice localizing deficits to arteries using simple diagrams—education improves communication on rounds."
+          "Practice localizing deficits to arteries using simple diagrams-education improves communication on rounds."
         ]
       },
       {
@@ -779,7 +779,7 @@
         "heading": "Putting it together",
         "paragraphs": [
           "Ischemic stroke education for cardiologists-in-training emphasizes embolic sources and shared risk factors with coronary disease. Brain imaging first separates ischemic from hemorrhagic patterns.",
-          "Mechanisms span cardioembolism, atherothrombosis, and hypoperfusion—each suggests different testing emphasis.",
+          "Mechanisms span cardioembolism, atherothrombosis, and hypoperfusion-each suggests different testing emphasis.",
           "Cardily provides conceptual maps; hyperacute treatment and prevention plans require stroke and neurology teams with full data."
         ]
       }
@@ -811,7 +811,7 @@
   {
     "slug": "understanding-masked-hypertension-a-clear-educational-guide",
     "takeaways": [
-      "Masked hypertension describes higher blood pressure out of office than in clinic readings—office measurements look acceptable while home or ambulatory values run high.",
+      "Masked hypertension describes higher blood pressure out of office than in clinic readings-office measurements look acceptable while home or ambulatory values run high.",
       "The hidden elevation concept explains why target-organ risk may track ambulatory profiles more closely than casual office checks in many studies.",
       "Measurement technique, device validation, and proper cuff size matter before labeling patterns.",
       "Masked hypertension overlaps with nocturnal non-dipping patterns in teaching discussions.",
@@ -824,7 +824,7 @@
           "Masked hypertension is a blood pressure phenotyping label, not a separate organ disease. Office visits show normal or controlled readings while out-of-office monitoring reveals sustained elevation.",
           "The term pairs logically with white coat hypertension, its mirror image. Together they teach that clinic numbers are an incomplete movie of daily pressure load.",
           "Cardiovascular risk in cohort studies often correlates with ambulatory burden, motivating interest in detecting masked patterns in high-risk individuals.",
-          "Students confuse isolated single high home reading with a pattern—diagnosis requires structured repeated measurement."
+          "Students confuse isolated single high home reading with a pattern-diagnosis requires structured repeated measurement."
         ]
       },
       {
@@ -832,7 +832,7 @@
         "paragraphs": [
           "Chronic elevation of systolic and diastolic pressure promotes endothelial dysfunction, arterial stiffening, left ventricular hypertrophy, and microvascular kidney injury. When office readings miss nocturnal or workday surges, organ stress continues unnoticed.",
           "Sympathetic activation, obesity, sleep apnea, alcohol, and occupational stress may contribute to out-of-office spikes in some patients.",
-          "Masked uncontrolled hypertension can occur when office values seem at goal on therapy but home readings remain high—adherence and timing of doses may be explored clinically.",
+          "Masked uncontrolled hypertension can occur when office values seem at goal on therapy but home readings remain high-adherence and timing of doses may be explored clinically.",
           "Evidence humility: exact prevalence estimates vary by population and definitions; avoid citing precise percentages without a current reference."
         ]
       },
@@ -841,14 +841,14 @@
         "paragraphs": [
           "Home blood pressure monitoring with validated devices and proper technique (seated, rested, arm supported) is central educationally. Ambulatory blood pressure monitoring over 24 hours remains a reference standard in many guidelines for phenotyping.",
           "Repeat office measurements, automated office blood pressure, and review of measurement errors reduce misclassification.",
-          "Target organ assessment—retinal exam, urine albumin, ECG for LVH—may appear in workups but does not define masked hypertension itself.",
+          "Target organ assessment-retinal exam, urine albumin, ECG for LVH-may appear in workups but does not define masked hypertension itself.",
           "Sleep studies enter when nocturnal hypertension or apnea is suspected as a driver."
         ]
       },
       {
         "heading": "What students should master first",
         "paragraphs": [
-          "Practice instructing standardized home BP technique in simulation—errors create false phenotypes.",
+          "Practice instructing standardized home BP technique in simulation-errors create false phenotypes.",
           "Compare white coat, masked, and sustained hypertension in a three-row table.",
           "Learn when guidelines suggest ambulatory monitoring after discordant readings.",
           "Discuss adherence and white coat effects as confounders before escalating labels."
@@ -901,7 +901,7 @@
     "slug": "understanding-coronary-calcium-scoring-a-clear-educational-guide",
     "takeaways": [
       "Coronary artery calcium scoring quantifies calcified plaque burden on non-contrast cardiac CT, often reported as an Agatston score.",
-      "It aids risk stratification in selected asymptomatic adults—not a test for acute chest pain or stenosis grading.",
+      "It aids risk stratification in selected asymptomatic adults-not a test for acute chest pain or stenosis grading.",
       "Higher scores generally imply more atherosclerotic plaque, but calcium is only one component of plaque biology.",
       "Results should integrate with traditional risk factors and shared decision-making frameworks.",
       "Zero calcium reduces likelihood of significant stenosis but does not eliminate non-calcified plaque or non-atherosclerotic chest pain."
@@ -912,7 +912,7 @@
         "paragraphs": [
           "Coronary calcium scoring is a non-contrast CT scan that detects and quantifies calcification in coronary arteries. Calcium marks advanced atherosclerotic plaque in many cases, serving as a surrogate for overall plaque burden in risk discussions.",
           "The Agatston score sums weighted areas of calcification across arteries. Percentile charts compare individuals to age- and sex-matched references in some reports.",
-          "This is preventive cardiology education territory—distinct from coronary CT angiography with contrast that visualizes lumens.",
+          "This is preventive cardiology education territory-distinct from coronary CT angiography with contrast that visualizes lumens.",
           "Misconception: calcium score equals need for invasive angiography. Scores inform probability and motivation for risk factor modification, not automatic procedures."
         ]
       },
@@ -920,7 +920,7 @@
         "heading": "How the heart and vessels are affected",
         "paragraphs": [
           "Calcification develops in the plaque lifecycle as lipid-rich lesions organize and mineralize. Non-calcified soft plaque may coexist; therefore zero calcium is reassuring but not absolute immunity from events in teaching language.",
-          "Calcified burden correlates with lifetime exposure to risk factors—hypertension, smoking, dyslipidemia, diabetes—and genetic predisposition.",
+          "Calcified burden correlates with lifetime exposure to risk factors-hypertension, smoking, dyslipidemia, diabetes-and genetic predisposition.",
           "Scores do not measure stenosis severity directly; moderate calcium may accompany stable plaque while acute events often involve mixed morphology.",
           "Radiation dose is low relative to many CT studies but still part of informed discussion in appropriate candidates."
         ]
@@ -928,10 +928,10 @@
       {
         "heading": "How clinicians usually evaluate it",
         "paragraphs": [
-          "Indications appear in prevention guidelines for intermediate-risk patients when results might change management intensity—always interpreted with current society documents.",
+          "Indications appear in prevention guidelines for intermediate-risk patients when results might change management intensity-always interpreted with current society documents.",
           "Pre-test counseling covers what the test does and does not show, including lack of soft plaque detail on standard calcium scans.",
           "Follow-up intervals and rescanning strategies vary; serial scoring is not universally recommended.",
-          "Integration with lipids, blood pressure, family history, and inflammatory markers forms comprehensive prevention—not score alone."
+          "Integration with lipids, blood pressure, family history, and inflammatory markers forms comprehensive prevention-not score alone."
         ]
       },
       {
@@ -956,9 +956,9 @@
       {
         "heading": "Putting it together",
         "paragraphs": [
-          "Coronary calcium scoring educates around atherosclerotic burden visible as calcification—a piece of the risk stratification puzzle.",
+          "Coronary calcium scoring educates around atherosclerotic burden visible as calcification-a piece of the risk stratification puzzle.",
           "It complements, not replaces, factor-based models and clinical judgment. Soft plaque and non-cardiac pain remain outside its view.",
-          "Cardily frames the test for learners exploring prevention science; ordering and acting on scores is a clinician–patient conversation."
+          "Cardily frames the test for learners exploring prevention science; ordering and acting on scores is a clinician-patient conversation."
         ]
       }
     ],
@@ -992,7 +992,7 @@
       "Anomalous coronary artery origin and course variants are congenital anatomy differences that may compress between great vessels in some patterns.",
       "Sudden cardiac death debates focus on specific high-risk anatomies, especially in athletes, but absolute risk quantification is contested.",
       "Imaging with CT or MRI clarifies origin and intramural segments better than standard angiography alone in many cases.",
-      "Not every variant warrants restriction from sports—multidisciplinary risk assessment is standard teaching.",
+      "Not every variant warrants restriction from sports-multidisciplinary risk assessment is standard teaching.",
       "Symptoms may be absent; discovery can be incidental during unrelated cardiac imaging."
     ],
     "sections": [
@@ -1001,7 +1001,7 @@
         "paragraphs": [
           "Coronary arteries usually arise from the aortic sinuses of Valsalva with predictable paths. Anomalous origins describe arteries arising from the wrong sinus, a single coronary ostium, or coursing between the aorta and pulmonary artery where systolic compression may occur.",
           "Athletes and adolescents hear about these variants because exertional syncope or sudden death triggers evaluation, though most people with variants never experience events.",
-          "Anatomy naming uses origin, course (intramural, interarterial), and slit-like ostium descriptors—precision matters in multidisciplinary conferences.",
+          "Anatomy naming uses origin, course (intramural, interarterial), and slit-like ostium descriptors-precision matters in multidisciplinary conferences.",
           "Misconception: any anomaly is catastrophic. Many variants are benign incidental findings."
         ]
       },
@@ -1011,7 +1011,7 @@
           "Interarterial anomalous left coronary from the right sinus (ALCA-R) is classically emphasized in pathology case series because acute angle takeoff and compression during exercise may provoke ischemia or arrhythmia.",
           "Right coronary anomalies from the left sinus vary in risk depending on course and dominance. Intramural segments within the aortic wall may not dilate normally.",
           "Ischemia may result from ostial narrowing, compression, or endothelial dysfunction during exertion rather from fixed atherosclerotic stenosis.",
-          "Myocardial bridging sometimes coexists, complicating symptom attribution—another reason for integrated imaging."
+          "Myocardial bridging sometimes coexists, complicating symptom attribution-another reason for integrated imaging."
         ]
       },
       {
@@ -1020,7 +1020,7 @@
           "Echocardiography rarely defines origins; coronary CT angiography is a workhorse for anatomy. Cardiac MRI adds function and scar assessment when ischemia is suspected.",
           "Exercise stress testing may reproduce symptoms but sensitivity is imperfect for anatomy-driven ischemia.",
           "Electrocardiogram and holter evaluate arrhythmia substrates. Family history of sudden death influences screening intensity in relatives when high-risk anatomy confirmed.",
-          "Shared decision tools for sports participation incorporate anatomy, symptoms, and institutional expertise—not rules memorized in isolation."
+          "Shared decision tools for sports participation incorporate anatomy, symptoms, and institutional expertise-not rules memorized in isolation."
         ]
       },
       {
@@ -1028,7 +1028,7 @@
         "paragraphs": [
           "Sketch normal versus interarterial courses using simple diagrams.",
           "Differentiate anomalous origins from coronary fistulas and SCAD in differential lists.",
-          "Study sudden death in young athletes as multifactorial—HCM, channelopathies, commotio, and anomalies coexist in curricula.",
+          "Study sudden death in young athletes as multifactorial-HCM, channelopathies, commotio, and anomalies coexist in curricula.",
           "Practice explaining uncertainty when evidence for prophylactic surgery is limited."
         ]
       },
@@ -1045,7 +1045,7 @@
       {
         "heading": "Putting it together",
         "paragraphs": [
-          "Anomalous coronary origins teach anatomy-first thinking in young people with chest symptoms or sudden death family history. Specific courses—not the word anomaly alone—drive concern.",
+          "Anomalous coronary origins teach anatomy-first thinking in young people with chest symptoms or sudden death family history. Specific courses-not the word anomaly alone-drive concern.",
           "Advanced imaging clarifies ostia and paths; risk discussions remain nuanced with evolving registry data.",
           "Cardily supports literacy for students and athletes’ families; clearance and procedures require expert consensus with full imaging."
         ]
@@ -1079,7 +1079,7 @@
     "slug": "understanding-right-heart-failure-phenotype-a-clear-educational-guide",
     "takeaways": [
       "Right heart failure features systemic venous congestion and often low cardiac output from right ventricular dysfunction.",
-      "Left heart failure, pulmonary hypertension, and acute pulmonary embolism are frequent upstream drivers—think backward from the RV.",
+      "Left heart failure, pulmonary hypertension, and acute pulmonary embolism are frequent upstream drivers-think backward from the RV.",
       "Exam highlights jugular venous pressure, peripheral edema, hepatojugular reflux, and ascites.",
       "RV function is assessed by echocardiography with specialized indices; MRI aids quantification.",
       "Treatment targets volume, afterload on the RV (PAP), and underlying left-sided or pulmonary disease."
@@ -1098,7 +1098,7 @@
         "heading": "How the heart and vessels are affected",
         "paragraphs": [
           "Elevated right atrial pressure distends neck veins and backs up into the liver, gut, and periphery. Chronic congestion causes congestive hepatopathy and may impair nutrition.",
-          "The interventricular septum shifts in severe RV pressure overload, affecting left ventricular filling—ventricular interdependence explains why RV disease reduces systemic output.",
+          "The interventricular septum shifts in severe RV pressure overload, affecting left ventricular filling-ventricular interdependence explains why RV disease reduces systemic output.",
           "Pulmonary hypertension increases RV afterload; adaptive hypertrophy eventually fails, dilating the thin-walled RV.",
           "Arrhythmias such as atrial flutter with rapid ventricular response can decompensate marginal RV function quickly."
         ]
@@ -1135,7 +1135,7 @@
         "heading": "Putting it together",
         "paragraphs": [
           "Right heart failure phenotype centers systemic venous congestion and RV pump limits. Look upstream for lung, pulmonary vascular, and left heart causes.",
-          "Exam and echo translate physiology into actionable categories—preload, afterload, contractility—within supervised care.",
+          "Exam and echo translate physiology into actionable categories-preload, afterload, contractility-within supervised care.",
           "Cardily clarifies venous congestion language; hemodynamic management stays with your treating team."
         ]
       }
@@ -1167,10 +1167,10 @@
   {
     "slug": "understanding-palliative-care-in-advanced-heart-failure-a-clear-educational-guid",
     "takeaways": [
-      "Palliative care in advanced heart failure focuses on symptom relief, quality of life, and values-concordant goals alongside—or integrated with—cardiac therapies.",
+      "Palliative care in advanced heart failure focuses on symptom relief, quality of life, and values-concordant goals alongside-or integrated with-cardiac therapies.",
       "Supportive care is not ‘giving up’; it can run parallel to inotropes, transplant evaluation, or device therapy.",
       "Dyspnea, fatigue, pain, nausea, depression, and decision fatigue dominate patient experience.",
-      "Advance care planning clarifies preferences before crises—educational emphasis, not legal advice here.",
+      "Advance care planning clarifies preferences before crises-educational emphasis, not legal advice here.",
       "Multidisciplinary teams include nursing, social work, chaplaincy, and pharmacy alongside cardiology."
     ],
     "sections": [
@@ -1178,8 +1178,8 @@
         "heading": "What this condition is",
         "paragraphs": [
           "Advanced heart failure describes refractory symptoms despite guideline-directed therapy, often with recurrent hospitalizations or declining functional status. Palliative care addresses suffering and support for patients and caregivers throughout the illness trajectory.",
-          "Early palliative referral is increasingly taught alongside advanced HF therapies to improve symptom control and communication—not as a signal that death is imminent.",
-          "Hospice is a subset of palliative services for those nearing end of life who choose comfort-focused plans—definitions differ by region and payer systems.",
+          "Early palliative referral is increasingly taught alongside advanced HF therapies to improve symptom control and communication-not as a signal that death is imminent.",
+          "Hospice is a subset of palliative services for those nearing end of life who choose comfort-focused plans-definitions differ by region and payer systems.",
           "Students sometimes equate palliative with opioid-only care; in reality, diuretic tuning, psychosocial support, and spiritual care matter equally."
         ]
       },
@@ -1188,7 +1188,7 @@
         "paragraphs": [
           "Low forward flow and congestion produce dyspnea at rest, orthopnea, cachexia, and functional decline. Renal congestion and diuretic resistance complicate medication balance.",
           "Cognitive impairment and frailty intersect with HF, making shared decision-making challenging but essential.",
-          "Device therapies (LVAD, ICD) introduce unique symptom and ethical dimensions—shock storms, driveline infections, and deactivation conversations appear in curricula.",
+          "Device therapies (LVAD, ICD) introduce unique symptom and ethical dimensions-shock storms, driveline infections, and deactivation conversations appear in curricula.",
           "Caregiver burnout is a measurable outcome; education includes assessing family capacity."
         ]
       },
@@ -1197,7 +1197,7 @@
         "paragraphs": [
           "Evaluation integrates symptom scales, prognostic scores (used cautiously), and goals-of-care discussions. Echo and labs inform prognosis conversations but do not replace human values.",
           "Palliative clinicians assess mood, cognition, social determinants, and spiritual distress.",
-          "Conflict resolution occurs when patients desire ‘everything’ yet suffer from burdensome interventions—communication skills training helps.",
+          "Conflict resolution occurs when patients desire ‘everything’ yet suffer from burdensome interventions-communication skills training helps.",
           "Documentation of code status and surrogate decision-makers is systems-dependent; learners observe legal standards locally."
         ]
       },
@@ -1257,10 +1257,10 @@
     "slug": "understanding-adolescent-sudden-death-prevention-themes-a-clear-educational-guid",
     "takeaways": [
       "Adolescent sudden cardiac death is rare but devastating; prevention debates center on screening yield, false positives, and cost-effectiveness.",
-      "Etiologies include cardiomyopathies, channelopathies, anomalous coronaries, myocarditis, and commotio cordis—each with different detection strategies.",
+      "Etiologies include cardiomyopathies, channelopathies, anomalous coronaries, myocarditis, and commotio cordis-each with different detection strategies.",
       "Universal ECG screening for athletes remains controversial across guidelines and countries.",
       "Family history and warning symptoms (syncope with exertion) prompt deeper evaluation in teaching frameworks.",
-      "Public access defibrillation and CPR training are complementary community layers—not screening replacements."
+      "Public access defibrillation and CPR training are complementary community layers-not screening replacements."
     ],
     "sections": [
       {
@@ -1268,7 +1268,7 @@
         "paragraphs": [
           "Sudden death prevention themes in adolescents address how communities identify cardiac conditions before catastrophic events on fields or courts. Because events are uncommon, screening tests need very low false-positive rates to avoid unnecessary restriction and anxiety.",
           "Educational modules present both sides: Italian screening experiences versus US emphasis on history, physical, and selective testing.",
-          "Prevention is not only medical—coaching on chest protection in commotio, heat policies, and emergency action plans matter.",
+          "Prevention is not only medical-coaching on chest protection in commotio, heat policies, and emergency action plans matter.",
           "Misconception: a normal sports physical guarantees cardiac safety. It misses many silent conditions."
         ]
       },
@@ -1277,7 +1277,7 @@
         "paragraphs": [
           "Hypertrophic cardiomyopathy thickens myocardium and predisposes to arrhythmia during exertion. Long QT and other channelopathies alter repolarization without structural clues on casual exam.",
           "Anomalous coronaries and arrhythmogenic cardiomyopathies appear in registry data of young sudden deaths. Myocarditis after viral illness is time-sensitive concern.",
-          "Commotio cordis requires impact timing to the chest during a vulnerable repolarization window—different mechanism, similar tragedy.",
+          "Commotio cordis requires impact timing to the chest during a vulnerable repolarization window-different mechanism, similar tragedy.",
           "Psychosocial stress and stimulant misuse appear in case discussions as modifiable contributors in some settings."
         ]
       },
@@ -1285,16 +1285,16 @@
         "heading": "How clinicians usually evaluate it",
         "paragraphs": [
           "History asks about exertional syncope, palpitations, chest pain, and family sudden death under age fifty. Physical exam listens for murmurs though sensitivity is limited.",
-          "ECG may reveal hypertrophy, pre-excitation, long QT, or Brugada patterns—each requiring confirmatory pathways. Echocardiography, MRI, and genetic testing follow structured algorithms in specialty clinics.",
+          "ECG may reveal hypertrophy, pre-excitation, long QT, or Brugada patterns-each requiring confirmatory pathways. Echocardiography, MRI, and genetic testing follow structured algorithms in specialty clinics.",
           "Exercise testing and ambulatory monitoring roles vary by diagnosis suspicion.",
-          "Evidence controversies include cost, operator expertise for ECG interpretation, and racial bias in ECG criteria—students must read critically."
+          "Evidence controversies include cost, operator expertise for ECG interpretation, and racial bias in ECG criteria-students must read critically."
         ]
       },
       {
         "heading": "What students should master first",
         "paragraphs": [
           "Compare AHA/ACC preparticipation evaluation steps with European screening models without declaring a winner.",
-          "Build a differential for syncope during sprinting versus after standing quickly—orthostasis versus arrhythmia.",
+          "Build a differential for syncope during sprinting versus after standing quickly-orthostasis versus arrhythmia.",
           "Study false positive cascades: abnormal ECG leading to unnecessary restriction.",
           "Learn AED placement and emergency action plan components for schools."
         ]
@@ -1313,7 +1313,7 @@
         "heading": "Putting it together",
         "paragraphs": [
           "Adolescent sudden death prevention sits at the intersection of rare disease epidemiology, ethics, and sports culture. No single screen is perfect; layered strategies combine history, targeted testing, and emergency readiness.",
-          "Evidence controversies are real—learners should cite guideline positions and limitations rather than slogans.",
+          "Evidence controversies are real-learners should cite guideline positions and limitations rather than slogans.",
           "Cardily fosters informed debate; participation clearance for any individual athlete belongs to qualified clinicians with full evaluation."
         ]
       }
@@ -1349,7 +1349,7 @@
       "Biomarkers such as troponin detect cardiomyocyte injury; ECG may show ischemic changes, normalization, or be nondiagnostic.",
       "NSTEMI shares acute coronary syndrome pathways with unstable angina and STEMI but timing and reperfusion strategies differ in guidelines.",
       "Risk stratification tools guide early invasive versus conservative strategies in teaching frameworks.",
-      "Demand ischemia and non-coronary troponin elevation belong in differential interpretation—not every troponin rise is Type 1 MI."
+      "Demand ischemia and non-coronary troponin elevation belong in differential interpretation-not every troponin rise is Type 1 MI."
     ],
     "sections": [
       {
@@ -1358,7 +1358,7 @@
           "Non-ST-elevation myocardial infarction (NSTEMI) sits in the acute coronary syndrome family with unstable angina, distinguished by detectable cardiac biomarker release indicating necrosis. The ECG may show ST depression, T-wave inversion, transient ST changes, or appear deceptively normal.",
           "Educational emphasis contrasts ECG’s electrical snapshot with troponin’s chemical detection of injury. Either can be normal early; serial testing matters in clinical protocols.",
           "NSTEMI severity spans small microinfarcts to large territory injury when occlusion is subtotal or intermittent.",
-          "Misconception: absence of ST elevation means ‘minor’ event—outcomes depend on territory, comorbidity, and treatment pathways."
+          "Misconception: absence of ST elevation means ‘minor’ event-outcomes depend on territory, comorbidity, and treatment pathways."
         ]
       },
       {
@@ -1366,8 +1366,8 @@
         "paragraphs": [
           "Plaque disruption with partial thrombosis, embolization, or supply-demand mismatch can produce NSTEMI patterns. Oxygen demand exceeding supply through severe anemia or tachycardia raises Type 2 MI concepts parallel here.",
           "Myocardial injury releases troponin proportionally to necrosis volume in broad terms, though kinetics vary with renal clearance and chronic elevation states.",
-          "Ischemia without infarction (unstable angina) shares symptoms but lacks biomarker rise—boundary cases appear with high-sensitivity assays.",
-          "Inflammatory myocarditis and pulmonary embolism can elevate troponin via right ventricular strain—context prevents mislabeling."
+          "Ischemia without infarction (unstable angina) shares symptoms but lacks biomarker rise-boundary cases appear with high-sensitivity assays.",
+          "Inflammatory myocarditis and pulmonary embolism can elevate troponin via right ventricular strain-context prevents mislabeling."
         ]
       },
       {
@@ -1383,7 +1383,7 @@
         "heading": "Tests you will hear about",
         "paragraphs": [
           "High-sensitivity troponin protocols with timed draws dominate modern ED teaching. CK-MB has largely historical roles.",
-          "Coronary angiography timing depends on risk scores and clinical stability—early invasive versus selective strategies appear in trials learners summarize.",
+          "Coronary angiography timing depends on risk scores and clinical stability-early invasive versus selective strategies appear in trials learners summarize.",
           "Echocardiography assesses wall motion to localize injury when ECG is subtle.",
           "Chest pain units and accelerated pathways are systems topics; science remains history, ECG, biomarkers, imaging."
         ]
@@ -1436,7 +1436,7 @@
     "takeaways": [
       "Type 2 myocardial infarction denotes myocardial injury from supply-demand mismatch without acute plaque rupture as the primary mechanism.",
       "Severe anemia, sepsis, tachyarrhythmia, hypotension, or hypertensive emergency can precipitate injury in vulnerable myocardium.",
-      "Distinguishing Type 1 from Type 2 MI affects downstream testing emphasis—angiography may show non-obstructive disease.",
+      "Distinguishing Type 1 from Type 2 MI affects downstream testing emphasis-angiography may show non-obstructive disease.",
       "Troponin elevation alone does not specify type; clinical context and universal definition criteria guide classification.",
       "Treating the precipitant is central conceptually, alongside standard ACS care when uncertainty remains."
     ],
@@ -1446,7 +1446,7 @@
         "paragraphs": [
           "Universal MI definitions separate Type 1 events (primary coronary event such as plaque rupture) from Type 2 events where ischemia results from increased demand or decreased supply in the setting of epicardial or microvascular dysfunction.",
           "Why the label matters: registry and quality metrics, secondary prevention intensity, and angiography expectations shift when Type 2 is recognized.",
-          "Type 2 is common in hospitalized patients with sepsis, GI bleeding, or tachyarrhythmia—settings where students first encounter troponin bumps.",
+          "Type 2 is common in hospitalized patients with sepsis, GI bleeding, or tachyarrhythmia-settings where students first encounter troponin bumps.",
           "Misconception: Type 2 is ‘not a real MI.’ Biomarker criteria and prognosis can still be serious."
         ]
       },
@@ -1455,7 +1455,7 @@
         "paragraphs": [
           "Fixed moderate stenosis plus doubled oxygen demand may produce ischemia without new thrombus. Tachycardia shortens diastolic coronary filling time, especially in hypertrophied hearts.",
           "Anemia reduces oxygen carrying capacity; hypotension reduces coronary perfusion pressure. Both can tip balance in CAD or HF patients.",
-          "Coronary vasospasm or embolism could blur lines—classification requires best clinical judgment with available data.",
+          "Coronary vasospasm or embolism could blur lines-classification requires best clinical judgment with available data.",
           "Repeat injury from untreated precipitants can expand infarct size if demand persists."
         ]
       },
@@ -1463,8 +1463,8 @@
         "heading": "Differential thinking",
         "paragraphs": [
           "Differentiate Type 2 MI from myocardial injury without ischemia (troponin rise from PE, myocarditis, renal failure) using symptoms, ECG, and imaging where available.",
-          "Demand ischemia without biomarker criteria may be labeled differently—precision language prevents chart confusion.",
-          "Takotsubo stress cardiomyopathy presents with chest pain and troponin rise but distinct wall motion patterns—differential, not Type 2 per se.",
+          "Demand ischemia without biomarker criteria may be labeled differently-precision language prevents chart confusion.",
+          "Takotsubo stress cardiomyopathy presents with chest pain and troponin rise but distinct wall motion patterns-differential, not Type 2 per se.",
           "Student drill: Given sepsis with troponin rise, list data supporting ischemic versus non-ischemic injury."
         ]
       },
@@ -1482,7 +1482,7 @@
         "paragraphs": [
           "Follow MI definition updates from consensus documents rather than outdated slide decks.",
           "Discuss charting that separates injury, infarction, and type when learning documentation.",
-          "Explore health equity angles—Type 2 labels in complex hospital courses deserve nuanced communication to patients.",
+          "Explore health equity angles-Type 2 labels in complex hospital courses deserve nuanced communication to patients.",
           "Use case conferences to debate angiography in Type 2 without faux certainty."
         ]
       },
@@ -1526,7 +1526,7 @@
       "Episodes may occur at rest, often at night, and can produce transient ST elevation on ECG.",
       "Functional ischemia can exist with angiographically mild or normal epicardial arteries.",
       "Triggers include smoking, stimulants, and certain medications in teaching lists.",
-      "Diagnosis may require provocative testing in specialty settings— not a self-test topic."
+      "Diagnosis may require provocative testing in specialty settings, not a self-test topic."
     ],
     "sections": [
       {
@@ -1535,14 +1535,14 @@
           "Coronary vasospasm narrows the vessel lumen through intense smooth muscle contraction rather than fixed atherosclerotic plaque. When flow drops below myocardial demand, ischemia and pain result, sometimes with arrhythmia.",
           "Prinzmetal (variant) angina historically described rest angina with ST elevation that resolves as spasm relaxes.",
           "Vasospasm coexists with atherosclerosis in some patients; stenosis lowers flow reserve, making spasm more symptomatic.",
-          "Misconception: young smokers with normal angiograms cannot have serious ischemia—vasospasm disproves that."
+          "Misconception: young smokers with normal angiograms cannot have serious ischemia-vasospasm disproves that."
         ]
       },
       {
         "heading": "Pathophysiology in plain language",
         "paragraphs": [
           "Endothelial dysfunction, oxidative stress, and hypercontractile smooth muscle contribute in models. Smoking is a major preventable contributor in educational materials.",
-          "Transmural ischemia during spasm can mimic STEMI on ECG until resolution—differentiation requires clinical correlation and serial ECG.",
+          "Transmural ischemia during spasm can mimic STEMI on ECG until resolution-differentiation requires clinical correlation and serial ECG.",
           "Multivessel spasm or malignant arrhythmia during spasm explains rare sudden events in case reports.",
           "Microvascular angina may overlap when epicardial spasm is absent but microvascular constriction occurs."
         ]
@@ -1562,7 +1562,7 @@
           "Coronary angiography with intracoronary acetylcholine or ergonovine provocative testing is used in research and expert centers with safety protocols.",
           "Ambulatory ECG may capture transient ST changes during spontaneous pain.",
           "Non-invasive coronary CT may exclude fixed disease before functional testing emphasis.",
-          "Calcium channel blockers and nitrates appear in guideline discussions for treatment—specific prescribing is clinician role."
+          "Calcium channel blockers and nitrates appear in guideline discussions for treatment-specific prescribing is clinician role."
         ]
       },
       {
@@ -1577,7 +1577,7 @@
       {
         "heading": "Putting it together",
         "paragraphs": [
-          "Coronary vasospasm highlights functional ischemia—dynamic luminal change without severe fixed plaque.",
+          "Coronary vasospasm highlights functional ischemia-dynamic luminal change without severe fixed plaque.",
           "Rest pain and transient ST elevation are pedagogical clues; confirmation often needs specialized testing.",
           "Cardily separates mechanism learning from provocative testing decisions made by experienced teams."
         ]
@@ -1611,10 +1611,10 @@
     "slug": "understanding-myocardial-bridging-a-clear-educational-guide",
     "takeaways": [
       "Myocardial bridging occurs when a coronary artery segment tunnels through myocardium, potentially compressed in systole.",
-      "It is common at autopsy yet often asymptomatic—symptom attribution requires careful integration.",
+      "It is common at autopsy yet often asymptomatic-symptom attribution requires careful integration.",
       "Debate continues over when bridging causes ischemia versus incidental finding on CTA.",
       "Intravascular imaging and fractional flow reserve during dobutamine may clarify hemodynamic significance in expert hands.",
-      "Treatment spans medical therapy to surgical unroofing in selected refractory cases—specialist domain."
+      "Treatment spans medical therapy to surgical unroofing in selected refractory cases-specialist domain."
     ],
     "sections": [
       {
@@ -1622,7 +1622,7 @@
         "paragraphs": [
           "A myocardial bridge is an anatomic variant where a coronary artery (often the mid left anterior descending) dives into the myocardium instead of remaining on the epicardial surface. Systolic muscle contraction may pinch the segment, affecting flow more in diastole-dominated coronary perfusion paradoxically in some models.",
           "Why it matters educationally: CTA and angiography reports frequently mention bridging in young patients with chest pain, creating counseling challenges.",
-          "Bridging differs from anomalous origins and SCAD—students sort anatomy labels precisely.",
+          "Bridging differs from anomalous origins and SCAD-students sort anatomy labels precisely.",
           "Misconception: any bridge on a report explains all symptoms. Many bridges are benign."
         ]
       },
@@ -1639,7 +1639,7 @@
         "heading": "Differential thinking",
         "paragraphs": [
           "Differentiate bridging from obstructive CAD, vasospasm, HCM, and anxiety-related chest pain using integrated testing.",
-          "Athletes with bridging present in sports cardiology debates—restriction is not automatic.",
+          "Athletes with bridging present in sports cardiology debates-restriction is not automatic.",
           "Symptoms resembling angina with normal epicardial stenosis should prompt functional evaluation rather than dismissal.",
           "Student drill: What additional data would convince you bridging is symptomatic versus incidental?"
         ]
@@ -1647,7 +1647,7 @@
       {
         "heading": "Treatment categories at a high level",
         "paragraphs": [
-          "Beta blockers and rate control appear in case series to prolong diastole conceptually. Nitrates may worsen bridging in some teaching examples—an important paradox to remember.",
+          "Beta blockers and rate control appear in case series to prolong diastole conceptually. Nitrates may worsen bridging in some teaching examples-an important paradox to remember.",
           "Surgical myotomy or bypass is rare for severe confirmed cases.",
           "Stenting bridged segments historically caused complications; contemporary caution persists.",
           "Shared decision-making emphasizes uncertainty when evidence is case-based."
@@ -1656,7 +1656,7 @@
       {
         "heading": "How to keep learning responsibly",
         "paragraphs": [
-          "Read imaging reports critically—depth and length descriptors vary by modality.",
+          "Read imaging reports critically-depth and length descriptors vary by modality.",
           "Discuss psychological impact of ‘anatomic abnormality’ labels on active adults.",
           "Explore research on combined vasospasm and bridging phenotypes.",
           "Practice explaining why autopsy prevalence exceeds symptomatic prevalence."
@@ -1700,7 +1700,7 @@
     "takeaways": [
       "Pulmonary arterial hypertension (PAH) is pre-capillary pulmonary hypertension with elevated pulmonary vascular resistance and no primary left heart or lung parenchymal cause.",
       "WHO Group 1 in classification schemes; distinct from Group 2 (left heart) and Group 3 (lung disease).",
-      "Symptoms are nonspecific—dyspnea, fatigue, syncope—often delaying diagnosis until advanced.",
+      "Symptoms are nonspecific-dyspnea, fatigue, syncope-often delaying diagnosis until advanced.",
       "Right heart catheterization is required for formal hemodynamic definition in guidelines.",
       "Targeted vasodilator therapies exist for PAH but are not interchangeable with general pulmonary hypertension labels."
     ],
@@ -1709,7 +1709,7 @@
         "heading": "Why this diagnosis matters",
         "paragraphs": [
           "PAH is a hemodynamic diagnosis: mean pulmonary artery pressure above guideline thresholds with normal pulmonary capillary wedge pressure and elevated pulmonary vascular resistance, after excluding other World Health Organization groups.",
-          "Why classification literacy matters: giving PAH-specific drugs to Group 2 pulmonary hypertension from left heart disease can harm—teaching emphasizes correct grouping before therapy vocabulary.",
+          "Why classification literacy matters: giving PAH-specific drugs to Group 2 pulmonary hypertension from left heart disease can harm-teaching emphasizes correct grouping before therapy vocabulary.",
           "Idiopathic, heritable, drug-associated, and connective tissue disease-associated subtypes appear in registries.",
           "Misconception: echo-estimated PA pressure alone diagnoses PAH. Catheterization confirms."
         ]
@@ -1719,7 +1719,7 @@
         "paragraphs": [
           "Progressive remodeling of small pulmonary arterioles increases resistance; right ventricle hypertrophies then fails, producing systemic congestion.",
           "Endothelial dysfunction, imbalance of vasoconstrictors and vasodilators, and proliferation mirror vascular biology themes from systemic hypertension but in the pulmonary circuit.",
-          "Exercise imposes rising cardiac output against fixed resistance—explaining exertional syncope as ominous sign.",
+          "Exercise imposes rising cardiac output against fixed resistance-explaining exertional syncope as ominous sign.",
           "Natural history without treatment historically led to RV failure; modern therapies modify trajectories in trials learners review qualitatively."
         ]
       },
@@ -1727,7 +1727,7 @@
         "heading": "Differential thinking",
         "paragraphs": [
           "Differentiate PAH from chronic thromboembolic pulmonary hypertension (Group 4), which may be surgical or interventional in selected cases.",
-          "Left heart failure with preserved EF can elevate pulmonary pressures with normal wedge only in specific hemodynamic profiles—expert interpretation required.",
+          "Left heart failure with preserved EF can elevate pulmonary pressures with normal wedge only in specific hemodynamic profiles-expert interpretation required.",
           "Lung disease and hypoxia (Group 3) dominate epidemiologically; PAH is rarer but treatment-specific.",
           "Portopulmonary hypertension in liver disease is a specialized subset."
         ]
@@ -1735,7 +1735,7 @@
       {
         "heading": "Treatment categories at a high level",
         "paragraphs": [
-          "PAH therapies include endothelin receptor antagonists, PDE-5 inhibitors, prostacyclin pathway agents, and soluble guanylate cyclase stimulators—learn classes, not personal regimens.",
+          "PAH therapies include endothelin receptor antagonists, PDE-5 inhibitors, prostacyclin pathway agents, and soluble guanylate cyclase stimulators-learn classes, not personal regimens.",
           "Combination therapy strategies evolve with trial data; humility about rapid guideline change is warranted.",
           "Supportive care includes diuretics for RV failure, oxygen when indicated, and supervised rehabilitation where safe.",
           "Transplant evaluation enters advanced disease discussions."
@@ -1744,7 +1744,7 @@
       {
         "heading": "How to keep learning responsibly",
         "paragraphs": [
-          "Draw WHO Group 1–5 table from memory with one example each.",
+          "Draw WHO Group 1-5 table from memory with one example each.",
           "Explain why vasodilator challenge during cath is specialized testing.",
           "Study connective tissue disease screening themes in new PAH diagnoses.",
           "Follow registry outcomes language without repeating outdated survival numbers."
@@ -1788,18 +1788,18 @@
     "takeaways": [
       "Hemorrhagic stroke involves bleeding into brain parenchyma (intracerebral) or subarachnoid space, distinct from ischemic infarction.",
       "Hypertensive arteriopathy and cerebral amyloid angiopathy are common teaching associations in older adults.",
-      "Anticoagulation and antiplatelet use increase bleeding risk—cardiology learners intersect here.",
+      "Anticoagulation and antiplatelet use increase bleeding risk-cardiology learners intersect here.",
       "Neuroimaging non-contrast CT usually detects acute blood; ischemic therapies are contraindicated when hemorrhage present.",
-      "Stroke is not one disease—cardiovascular care must respect subtype before echo-driven embolic workups dominate."
+      "Stroke is not one disease-cardiovascular care must respect subtype before echo-driven embolic workups dominate."
     ],
     "sections": [
       {
         "heading": "Core definition",
         "paragraphs": [
           "Hemorrhagic stroke accounts for a minority of strokes globally but carries high mortality and morbidity. Intracerebral hemorrhage (ICH) bleeds into brain tissue; subarachnoid hemorrhage (SAH) often arises from ruptured saccular aneurysms with thunderclap headache.",
-          "Educational framing: the same ‘stroke’ word covers opposite vascular events—clot versus bleed—requiring immediate imaging differentiation.",
+          "Educational framing: the same ‘stroke’ word covers opposite vascular events-clot versus bleed-requiring immediate imaging differentiation.",
           "Cardiology overlap peaks with ICH during anticoagulation for AF or mechanical valves, and when hypertensive heart disease reflects long-standing pressure load.",
-          "Misconception: small hemorrhages always produce mild deficits—location determines impact."
+          "Misconception: small hemorrhages always produce mild deficits-location determines impact."
         ]
       },
       {
@@ -1815,7 +1815,7 @@
         "heading": "Symptoms and warning patterns",
         "paragraphs": [
           "Sudden focal deficit, decreased consciousness, headache, vomiting, and seizure may occur with ICH. SAH presents with abrupt maximal headache, meningismus, and altered mentation.",
-          "Blood pressure is often elevated acutely—whether to lower aggressively is managed per neurology protocols, not self-directed.",
+          "Blood pressure is often elevated acutely-whether to lower aggressively is managed per neurology protocols, not self-directed.",
           "Neurologic exam localizes deficit; unlike ischemic stroke, thrombolysis is excluded when blood is present.",
           "Student drill: Why must AF patients with sudden headache get CT before assuming embolic ischemia?"
         ]
@@ -1876,7 +1876,7 @@
     "takeaways": [
       "Hypertension is sustained elevation of arterial blood pressure, a major modifiable cardiovascular risk factor.",
       "Pressure load damages endothelium, stiffens arteries, promotes LV hypertrophy, and accelerates atherosclerosis.",
-      "It is often asymptomatic—earning the ‘silent killer’ label in public health education.",
+      "It is often asymptomatic-earning the ‘silent killer’ label in public health education.",
       "Diagnosis requires repeated standardized measurements, not single readings.",
       "Treatment categories span lifestyle and pharmacologic classes at guideline level; individualization is clinical."
     ],
@@ -1896,7 +1896,7 @@
           "Elevated pressure increases arterial wall shear and promotes endothelial dysfunction. Stiffening reduces compliance, raising systolic pressure and pulse wave reflection.",
           "Left ventricular hypertrophy develops as the heart adapts to afterload; diastolic dysfunction and HFpEF pathways follow.",
           "Microvascular kidney injury and retinal changes reflect chronic end-organ exposure.",
-          "Hypertensive emergencies and urgencies represent extreme pressure with or without acute organ dysfunction—distinct teaching categories with protocol care."
+          "Hypertensive emergencies and urgencies represent extreme pressure with or without acute organ dysfunction-distinct teaching categories with protocol care."
         ]
       },
       {
@@ -1904,7 +1904,7 @@
         "paragraphs": [
           "Headache alone is a poor screening symptom. Severe hypertension may present with dyspnea from heart failure or neurologic symptoms when end organs acutely fail.",
           "Secondary hypertension clues: young age, resistant HTN, hypokalemia, abdominal bruit, snoring with daytime sleepiness.",
-          "Orthostatic symptoms may relate to overtreatment in older adults—balance matters.",
+          "Orthostatic symptoms may relate to overtreatment in older adults-balance matters.",
           "Student drill: List four silent end-organ consequences of chronic hypertension."
         ]
       },
@@ -1920,17 +1920,17 @@
       {
         "heading": "Learning checkpoints",
         "paragraphs": [
-          "Memorize major drug classes by mechanism: RAAS blockade, calcium channel blockade, thiazide-like diuretics, beta blockade where indicated—not as first-line for all in modern guidelines.",
+          "Memorize major drug classes by mechanism: RAAS blockade, calcium channel blockade, thiazide-like diuretics, beta blockade where indicated-not as first-line for all in modern guidelines.",
           "Practice lifestyle counseling themes: sodium reduction, activity, weight, alcohol moderation.",
-          "Study hypertension in pregnancy separately—overlapping but distinct disorders.",
-          "Use phenotyping language: white coat, masked, resistant—without self-diagnosis."
+          "Study hypertension in pregnancy separately-overlapping but distinct disorders.",
+          "Use phenotyping language: white coat, masked, resistant-without self-diagnosis."
         ]
       },
       {
         "heading": "Putting it together",
         "paragraphs": [
           "Hypertension education links invisible pressure load to visible end-organ change over years. Measurement rigor and repeated readings define the diagnosis.",
-          "Mechanisms span vessels, heart, kidney, and brain—consistent with its role as a root risk factor for many Cardily topics.",
+          "Mechanisms span vessels, heart, kidney, and brain-consistent with its role as a root risk factor for many Cardily topics.",
           "Cardily teaches biology and evaluation; medication choices require clinicians who know your full risk picture."
         ]
       }
@@ -1964,7 +1964,7 @@
     "takeaways": [
       "White coat hypertension is elevated blood pressure in medical settings with lower readings elsewhere.",
       "Measurement context and anxiety physiology explain part of the pattern; device and technique still matter.",
-      "Some individuals with white coat patterns develop sustained hypertension over time—longitudinal follow-up themes appear in studies.",
+      "Some individuals with white coat patterns develop sustained hypertension over time-longitudinal follow-up themes appear in studies.",
       "Out-of-office monitoring confirms phenotyping before labeling.",
       "Treatment is not automatic; decisions integrate overall cardiovascular risk."
     ],
@@ -1982,7 +1982,7 @@
         "heading": "Mechanisms and natural history",
         "paragraphs": [
           "Sympathetic activation in clinical encounters can transiently raise cardiac output and vascular tone. Repeated clinic visits may show variable spikes.",
-          "Long-term organ damage risk in pure white coat appears lower than sustained hypertension in many cohorts, yet not zero—debate continues on aggressiveness of follow-up.",
+          "Long-term organ damage risk in pure white coat appears lower than sustained hypertension in many cohorts, yet not zero-debate continues on aggressiveness of follow-up.",
           "Progression to sustained hypertension is a reason for periodic ambulatory monitoring in teaching plans.",
           "Evidence humility: definitions and thresholds evolve; avoid rigid lifetime labels without re-testing."
         ]
@@ -1991,7 +1991,7 @@
         "heading": "Differential thinking",
         "paragraphs": [
           "Differentiate white coat from poor technique (cuff too small, talking during measurement) and from true sustained hypertension using ABPM or structured home logs.",
-          "Masked hypertension may coexist in some individuals—office normal, out-of-office high—opposite pattern worth excluding.",
+          "Masked hypertension may coexist in some individuals-office normal, out-of-office high-opposite pattern worth excluding.",
           "Secondary hypertension should still be considered when clues appear regardless of white coat label.",
           "Student drill: Design a monitoring plan conceptually for discordant office and home readings."
         ]
@@ -2001,14 +2001,14 @@
         "paragraphs": [
           "Lifestyle modification benefits almost all blood pressure phenotypes at population level.",
           "Pharmacologic treatment decisions weigh global risk, end-organ damage, and patient preference when ambulatory averages borderline.",
-          "Some guidelines suggest treatment for high-risk profiles even with white coat pattern—read primary sources for nuance.",
+          "Some guidelines suggest treatment for high-risk profiles even with white coat pattern-read primary sources for nuance.",
           "Behavioral interventions to reduce measurement anxiety are adjuncts, not replacements for objective monitoring."
         ]
       },
       {
         "heading": "How to keep learning responsibly",
         "paragraphs": [
-          "Discuss health literacy when teaching home BP—teach back method.",
+          "Discuss health literacy when teaching home BP-teach back method.",
           "Explore disparities: who gets ABPM access in your community?",
           "Ask preceptors how they document phenotyping in charts.",
           "Review medicolegal themes when dismissing clinic highs without out-of-office data."
@@ -2050,10 +2050,10 @@
   {
     "slug": "understanding-resistant-hypertension-a-clear-educational-guide",
     "takeaways": [
-      "Resistant hypertension is generally defined as blood pressure above goal despite three antihypertensive agents including a diuretic at adequate doses—exact criteria follow current guidelines.",
+      "Resistant hypertension is generally defined as blood pressure above goal despite three antihypertensive agents including a diuretic at adequate doses-exact criteria follow current guidelines.",
       "Pseudo-resistance from poor adherence, white coat effect, or incorrect measurement is common and should be excluded.",
       "Secondary causes become more likely in resistant cases educationally.",
-      "Spironolactone often appears in add-on therapy trials for true resistance—class-level teaching.",
+      "Spironolactone often appears in add-on therapy trials for true resistance-class-level teaching.",
       "Specialist referral and structured workup are typical themes."
     ],
     "sections": [
@@ -2062,7 +2062,7 @@
         "paragraphs": [
           "Resistant hypertension labels persistently elevated blood pressure despite lifestyle measures and pharmacologic therapy from multiple classes, including a diuretic, when doses are optimized and adherence confirmed.",
           "Definitions used in trials and guidelines give learners a common language for epidemiology and therapy research.",
-          "Not every ‘hard to treat’ patient meets formal resistance criteria—precision prevents nihilism.",
+          "Not every ‘hard to treat’ patient meets formal resistance criteria-precision prevents nihilism.",
           "Misconception: resistance equals renal artery stenosis. Many cases remain multifactorial essential hypertension."
         ]
       },
@@ -2070,7 +2070,7 @@
         "heading": "Pathophysiology in plain language",
         "paragraphs": [
           "Volume expansion from inadequate diuretic effect or high sodium intake sustains pressure despite RAAS blockade.",
-          "Sleep apnea, obesity, alcohol, and NSAIDs antagonize control—modifiable contributors belong on every resistant checklist.",
+          "Sleep apnea, obesity, alcohol, and NSAIDs antagonize control-modifiable contributors belong on every resistant checklist.",
           "Secondary aldosteronism and primary hyperaldosteronism elevate resistance prevalence in specialty series.",
           "Arterial stiffness in older adults limits diastolic lowering even with multiple agents."
         ]
@@ -2081,7 +2081,7 @@
           "Resistant hypertension rarely announces itself with unique symptoms; headaches or epistaxis are not reliable markers.",
           "Hypokalemia or muscle cramps may hint at aldosterone excess in secondary forms.",
           "Snoring and daytime somnolence suggest sleep apnea as contributor.",
-          "Medication side effects (ankle swelling from calcium channel blockers) affect adherence—ask sensitively."
+          "Medication side effects (ankle swelling from calcium channel blockers) affect adherence-ask sensitively."
         ]
       },
       {
@@ -2089,7 +2089,7 @@
         "paragraphs": [
           "ABPM or home BP confirms true resistance versus white coat or masked patterns.",
           "Labs: renal function, electrolytes, aldosterone-renin ratio when indicated, urinalysis.",
-          "Imaging for renal artery stenosis selectively—not universal screening.",
+          "Imaging for renal artery stenosis selectively-not universal screening.",
           "Adherence testing (pharmacy fills, observed ingestion) is pragmatic before invasive workups."
         ]
       },
@@ -2098,7 +2098,7 @@
         "paragraphs": [
           "List pseudo-resistance causes before accepting the resistant label.",
           "Study PATHWAY-2 style narratives about spironolactone add-on qualitatively.",
-          "Learn renal denervation as evolving option with mixed trial history—evidence humility.",
+          "Learn renal denervation as evolving option with mixed trial history-evidence humility.",
           "Practice explaining multidrug regimens with mechanism-based rationales to simulated patients."
         ]
       },
@@ -2138,11 +2138,11 @@
   {
     "slug": "understanding-secondary-hypertension-a-clear-educational-guide",
     "takeaways": [
-      "Secondary hypertension arises from identifiable causes—renal, endocrine, vascular, obstructive sleep apnea, drugs—rather than idiopathic essential mechanisms alone.",
+      "Secondary hypertension arises from identifiable causes-renal, endocrine, vascular, obstructive sleep apnea, drugs-rather than idiopathic essential mechanisms alone.",
       "Clues include early onset, resistant HTN, hypokalemia, abdominal bruit, and episodic symptoms in pheochromocytoma.",
-      "Primary aldosteronism is more common than classic teaching once suggested—screening themes expanded in modern guidelines.",
+      "Primary aldosteronism is more common than classic teaching once suggested-screening themes expanded in modern guidelines.",
       "Treating the cause may cure or greatly improve pressure control.",
-      "Not every patient needs exhaustive secondary workup—risk-based selection preserves efficiency."
+      "Not every patient needs exhaustive secondary workup-risk-based selection preserves efficiency."
     ],
     "sections": [
       {
@@ -2151,7 +2151,7 @@
           "Secondary hypertension means elevated blood pressure driven by a specific disease process amenable to targeted therapy. It represents a minority of all hypertension but a larger share of resistant or young-onset cases.",
           "Why diagnosis matters: stenting renal artery stenosis, removing adrenal adenoma, or treating apnea can transform control and reduce cardiovascular risk.",
           "Essential hypertension remains the default diagnosis after appropriate screening negatives.",
-          "Misconception: secondary workup is only for exotic cases—sleep apnea and primary aldosteronism are common in specialty practice."
+          "Misconception: secondary workup is only for exotic cases-sleep apnea and primary aldosteronism are common in specialty practice."
         ]
       },
       {
@@ -2167,7 +2167,7 @@
         "heading": "Differential thinking",
         "paragraphs": [
           "Resistant hypertension, hypertension with spontaneous hypokalemia, adrenal incidentaloma, or family history of early stroke prompts aldosteronism screening in guidelines.",
-          "Episodic headache, sweating, and palpitations suggest pheochromocytoma—plasma or urine metanephrines in workup pathways.",
+          "Episodic headache, sweating, and palpitations suggest pheochromocytoma-plasma or urine metanephrines in workup pathways.",
           "Snoring and obesity redirect toward sleep apnea evaluation.",
           "Medication and substance review catches NSAIDs, decongestants, stimulants, liquorice, and immunosuppressants."
         ]
@@ -2177,7 +2177,7 @@
         "paragraphs": [
           "Treatment targets underlying cause: adrenalectomy or mineralocorticoid antagonists for aldosteronism, revascularization or medical RAAS blockade for renovascular disease depending on anatomy and kidney function.",
           "OSA therapy with positive airway pressure may lower BP modestly but improves overall risk.",
-          "Beta blockade precedes alpha blockade in pheochromocytoma preparation in teaching sequences—protocol detail for specialists.",
+          "Beta blockade precedes alpha blockade in pheochromocytoma preparation in teaching sequences-protocol detail for specialists.",
           "Coarctation repair in suitable anatomy reduces afterload long term."
         ]
       },
@@ -2187,7 +2187,7 @@
           "Build an age-based secondary HTN differential: pediatric coarctation versus adult renal disease.",
           "Practice interpreting aldosterone-renin ratio limitations with common medications.",
           "Study when to image renal arteries noninvasively.",
-          "Maintain skepticism about ‘rule-out’ lists—follow-up matters if clinical course worsens."
+          "Maintain skepticism about ‘rule-out’ lists-follow-up matters if clinical course worsens."
         ]
       },
       {
@@ -2237,8 +2237,8 @@
         "heading": "Why this diagnosis matters",
         "paragraphs": [
           "Sleep apnea disrupts normal nocturnal physiology: repeated obstructions raise intrathoracic pressure swings, activate sympathetic tone, and drop oxygen saturation. The heart experiences cyclic stress akin to many brief insults nightly.",
-          "Why cardiologists care: OSA clusters with obesity, hypertension, and AF—conditions already on ward rounds daily.",
-          "Central sleep apnea appears in heart failure with Cheyne-Stokes respiration—a related but distinct physiology.",
+          "Why cardiologists care: OSA clusters with obesity, hypertension, and AF-conditions already on ward rounds daily.",
+          "Central sleep apnea appears in heart failure with Cheyne-Stokes respiration-a related but distinct physiology.",
           "Misconception: only obese men have OSA. Thin patients and women are under-recognized."
         ]
       },
@@ -2248,7 +2248,7 @@
           "Intermittent hypoxia promotes oxidative stress and endothelial dysfunction. Sympathetic activation elevates nocturnal and daytime blood pressure.",
           "Transmural pressure swings affect atria and ventricles, potentially promoting remodeling and arrhythmia substrates.",
           "Pulmonary vasoconstriction during hypoxemia contributes to pulmonary hypertension in severe disease over time.",
-          "Mechanistic proof in humans is complex; observational data dominate much of the literature—evidence humility applies."
+          "Mechanistic proof in humans is complex; observational data dominate much of the literature-evidence humility applies."
         ]
       },
       {
@@ -2266,7 +2266,7 @@
           "CPAP reduces apneas and improves sleep quality; blood pressure and AF burden may improve in trials subsets.",
           "Weight loss and positional therapy are adjuncts. Mandibular devices help mild OSA in selected patients.",
           "In treatment-resistant hypertension, screening for OSA is guideline-highlighted.",
-          "Adaptive servo-ventilation has specific cautions in certain HF populations—learners read trial safety signals."
+          "Adaptive servo-ventilation has specific cautions in certain HF populations-learners read trial safety signals."
         ]
       },
       {
@@ -2281,7 +2281,7 @@
       {
         "heading": "Putting it together",
         "paragraphs": [
-          "Sleep apnea and the heart intersect through nightly hypoxia, pressure swings, and sympathetic activation—mechanisms that amplify common cardiac conditions.",
+          "Sleep apnea and the heart intersect through nightly hypoxia, pressure swings, and sympathetic activation-mechanisms that amplify common cardiac conditions.",
           "Diagnosis requires sleep testing; cardiovascular benefit from treatment is plausible and supported in parts of the literature with ongoing study.",
           "Cardily connects sleep physiology to cardiology wards; CPAP prescriptions and follow-up belong to sleep and primary teams coordinating with cardiology."
         ]
@@ -2314,18 +2314,18 @@
   {
     "slug": "understanding-pregnancy-associated-hypertension-a-clear-educational-guide",
     "takeaways": [
-      "Hypertensive disorders of pregnancy include chronic hypertension, gestational hypertension, preeclampsia, and eclampsia—each with distinct timing and implications.",
+      "Hypertensive disorders of pregnancy include chronic hypertension, gestational hypertension, preeclampsia, and eclampsia-each with distinct timing and implications.",
       "Preeclampsia features new hypertension with proteinuria or end-organ dysfunction after twenty weeks gestation in classic teaching.",
       "Placental malperfusion and angiogenic imbalance models explain much of pathophysiology research.",
       "Maternal and fetal risks drive close monitoring; delivery timing is a core management theme in obstetric cardiology interfaces.",
-      "Long-term cardiovascular risk rises after preeclampsia—surveillance themes postpartum appear in prevention discussions."
+      "Long-term cardiovascular risk rises after preeclampsia-surveillance themes postpartum appear in prevention discussions."
     ],
     "sections": [
       {
         "heading": "Why this diagnosis matters",
         "paragraphs": [
           "Pregnancy-associated hypertension spans conditions where blood pressure elevation occurs in relation to gestation. Chronic hypertension predates pregnancy or appears before twenty weeks; gestational hypertension arises later without preeclampsia features initially.",
-          "Preeclampsia adds multisystem involvement—renal, hepatic, neurologic, hematologic—beyond pressure alone.",
+          "Preeclampsia adds multisystem involvement-renal, hepatic, neurologic, hematologic-beyond pressure alone.",
           "Eclampsia denotes seizures superimposed on preeclampsia spectrum.",
           "Misconception: mild BP rise in pregnancy is always benign. Context and trajectory matter."
         ]
@@ -2343,7 +2343,7 @@
         "heading": "Differential thinking",
         "paragraphs": [
           "Differentiate preeclampsia from gestational hypertension when proteinuria or organ dysfunction emerges.",
-          "Mimics include thrombotic microangiopathies and acute fatty liver—high-acuity differentials in specialty care.",
+          "Mimics include thrombotic microangiopathies and acute fatty liver-high-acuity differentials in specialty care.",
           "Chronic hypertension with superimposed preeclampsia complicates labeling when baseline pressure already elevated.",
           "Student drill: List maternal organ systems involved in severe preeclampsia beyond kidneys."
         ]
@@ -2351,9 +2351,9 @@
       {
         "heading": "Treatment categories at a high level",
         "paragraphs": [
-          "Antihypertensive choices in pregnancy differ from standard adult lists—certain agents contraindicated, others preferred in guideline tables learners consult.",
+          "Antihypertensive choices in pregnancy differ from standard adult lists-certain agents contraindicated, others preferred in guideline tables learners consult.",
           "Magnesium sulfate prevents eclampsia in severe preeclampsia protocols.",
-          "Delivery is definitive for preeclampsia when maternal or fetal stability requires—timing individualized.",
+          "Delivery is definitive for preeclampsia when maternal or fetal stability requires-timing individualized.",
           "Postpartum BP can surge; long-term CVD prevention counseling follows many societies’ recommendations qualitatively."
         ]
       },
@@ -2370,7 +2370,7 @@
         "heading": "Putting it together",
         "paragraphs": [
           "Pregnancy-associated hypertension unites obstetrics and cardiovascular pathophysiology through placental perfusion and endothelial injury.",
-          "Classification by timing and organ involvement guides monitoring and delivery decisions—always specialist territory.",
+          "Classification by timing and organ involvement guides monitoring and delivery decisions-always specialist territory.",
           "Cardily educates on mechanisms and long-term risk themes; prenatal care teams manage individual pregnancies."
         ]
       }
@@ -2406,7 +2406,7 @@
       "Lower intracellular cholesterol upregulates LDL receptors, clearing LDL particles from blood.",
       "Pleiotropic effects on inflammation and endothelium are discussed but LDL lowering remains primary proven mechanism for ASCVD risk reduction.",
       "Muscle symptoms are reported and evaluated clinically; true statin intolerance rates are debated.",
-      "Statins are a class with varying potency and drug interactions—prescribing is clinician role."
+      "Statins are a class with varying potency and drug interactions-prescribing is clinician role."
     ],
     "sections": [
       {
@@ -2422,7 +2422,7 @@
         "heading": "Pathophysiology in plain language",
         "paragraphs": [
           "Reduced LDL particle concentration slows atherosclerosis progression in imaging and event trials conceptually.",
-          "Some statins stabilize plaque biology in research models through anti-inflammatory pathways independent of LDL—extent of clinical contribution remains secondary to LDL lowering in most teaching.",
+          "Some statins stabilize plaque biology in research models through anti-inflammatory pathways independent of LDL-extent of clinical contribution remains secondary to LDL lowering in most teaching.",
           "Hepatic synthesis inhibition also reduces VLDL production indirectly in some agents.",
           "Genetic variants affecting statin transport (SLCO1B1) inform myopathy risk discussions in precision medicine contexts."
         ]
@@ -2433,7 +2433,7 @@
           "Statins do not typically cause hypertension symptoms; muscle aching is the common patient concern in education.",
           "Severe muscle breakdown (rhabdomyolysis) is rare; learners recognize when urgent evaluation themes appear in protocols.",
           "Liver enzyme elevation can occur; monitoring practices follow guideline schedules.",
-          "New-onset diabetes risk is slightly increased in some populations—a risk-benefit theme in long-term prevention."
+          "New-onset diabetes risk is slightly increased in some populations-a risk-benefit theme in long-term prevention."
         ]
       },
       {
@@ -2491,8 +2491,8 @@
     "slug": "understanding-sglt2-inhibitors-heart-effects-a-clear-educational-guide",
     "takeaways": [
       "SGLT2 inhibitors block renal glucose reabsorption, causing glycosuria and modest glucose lowering in diabetes.",
-      "Heart failure trials showed benefit in HFrEF and broader HF populations beyond glucose effects— reshaping cardiology conversations.",
-      "Proposed mechanisms include natriuresis, reduced preload, metabolic shifts, and effects on myocardial energetics—active research area.",
+      "Heart failure trials showed benefit in HFrEF and broader HF populations beyond glucose effects, reshaping cardiology conversations.",
+      "Proposed mechanisms include natriuresis, reduced preload, metabolic shifts, and effects on myocardial energetics-active research area.",
       "They are not interchangeable with GLP-1 agents though both appear in cardiometabolic guidelines for different indications.",
       "Euglycemic DKA and genital infections are teaching safety topics in appropriate populations."
     ],
@@ -2502,7 +2502,7 @@
         "paragraphs": [
           "Sodium-glucose cotransporter 2 (SGLT2) inhibitors were developed as diabetes drugs targeting proximal tubule glucose reabsorption. Unexpected cardiovascular and renal outcome benefits in large trials redirected attention to heart failure therapeutics.",
           "Why HF care changed: benefits appeared relatively independent of baseline diabetes in key heart failure trials, prompting guideline additions for selected HF patients.",
-          "Drug names end in -flozin in many markets—class recognition for students.",
+          "Drug names end in -flozin in many markets-class recognition for students.",
           "Misconception: SGLT2 inhibitors are ‘only diabetes pills.’ Their HF indications stand alone educationally."
         ]
       },
@@ -2510,7 +2510,7 @@
         "heading": "Mechanisms and natural history",
         "paragraphs": [
           "Glycosuria osmotically diureses sodium and water, lowering preload and blood pressure modestly.",
-          "Shift toward ketone body utilization in myocardium is hypothesized to improve efficiency during stress—human proof evolving.",
+          "Shift toward ketone body utilization in myocardium is hypothesized to improve efficiency during stress-human proof evolving.",
           "Reduced interstitial congestion and improved ventricular loading conditions may explain symptomatic HF improvements.",
           "Renal hemodynamic effects (afferent arteriole modulation in models) contribute to kidney outcome trials."
         ]
@@ -2520,7 +2520,7 @@
         "paragraphs": [
           "Differentiate SGLT2 use for HF versus glycemic control indications on labels, which evolve by region.",
           "Contraindications include hypersensitivity and, in some settings, type 1 diabetes due to DKA risk themes.",
-          "Volume depletion symptoms may appear early—clinical monitoring is standard.",
+          "Volume depletion symptoms may appear early-clinical monitoring is standard.",
           "Student drill: Why might loop diuretic doses change when SGLT2 inhibitors start in HF teaching cases?"
         ]
       },
@@ -2530,7 +2530,7 @@
           "Initiation in stabilized HF patients appears in protocol education; acute sick-day rules differ from maintenance.",
           "Combination with ARNI, beta blockers, MRA, and other GDMT is common in trial populations learners read about.",
           "Renal function monitoring follows product labels and local guidance.",
-          "Cost and access disparities affect real-world uptake—health systems topic."
+          "Cost and access disparities affect real-world uptake-health systems topic."
         ]
       },
       {
@@ -2582,13 +2582,13 @@
       "Thromboembolism to brain causes ischemic stroke; systemic emboli also occur.",
       "Transesophageal echocardiography detects appendage thrombus before cardioversion in many protocols.",
       "Anticoagulation reduces stroke risk based on risk scores; left atrial appendage occlusion devices are alternatives in selected patients.",
-      "Not all AF strokes imply visible thrombus on a single study—emboli may have already departed."
+      "Not all AF strokes imply visible thrombus on a single study-emboli may have already departed."
     ],
     "sections": [
       {
         "heading": "Core definition",
         "paragraphs": [
-          "Atrial thrombus is organized clot within the atrium, classically in the left atrial appendage—a blind-ended pouch with low flow during fibrillation.",
+          "Atrial thrombus is organized clot within the atrium, classically in the left atrial appendage-a blind-ended pouch with low flow during fibrillation.",
           "Stroke pathway: thrombus dislodges, travels through systemic circulation, lodges in cerebral artery producing ischemic infarct.",
           "Teaching ties together AF, stasis (Virchow’s triad), and anticoagulation rationale.",
           "Misconception: brief AF episodes never cause stroke. Burden and risk factors integrate in scores."
@@ -2598,7 +2598,7 @@
         "heading": "Pathophysiology in plain language",
         "paragraphs": [
           "Loss of organized atrial contraction during AF reduces appendage emptying. Endothelial injury and procoagulant milieu complete Virchow elements.",
-          "Large anterior MI with apical akinesis can produce ventricular thrombus—different chamber, similar embolic stroke risk theme.",
+          "Large anterior MI with apical akinesis can produce ventricular thrombus-different chamber, similar embolic stroke risk theme.",
           "Mechanical valves and endocarditis vegetations are additional cardioembolic sources learners list alongside appendage thrombus.",
           "Appendage morphology (chicken wing versus cauliflower) appears in occlusion device planning research."
         ]
@@ -2617,8 +2617,8 @@
         "paragraphs": [
           "TEE visualizes appendage before elective cardioversion when AF duration exceeds guideline thresholds.",
           "Anticoagulation with DOACs or warfarin per scores; LAA closure for eligible patients intolerant of long-term anticoagulation in selected centers.",
-          "Cardioversion without adequate anticoagulation risks dislodging pre-existing thrombus—protocol timing matters.",
-          "Post-stroke anticoagulation start timing balances hemorrhagic transformation risk—neurology-led."
+          "Cardioversion without adequate anticoagulation risks dislodging pre-existing thrombus-protocol timing matters.",
+          "Post-stroke anticoagulation start timing balances hemorrhagic transformation risk-neurology-led."
         ]
       },
       {
@@ -2634,7 +2634,7 @@
         "heading": "Putting it together",
         "paragraphs": [
           "Atrial thrombus and stroke education links AF stasis in the appendage to embolic brain infarction.",
-          "Imaging and anticoagulation frameworks reduce—but do not eliminate—cardioembolic events.",
+          "Imaging and anticoagulation frameworks reduce-but do not eliminate-cardioembolic events.",
           "Cardily clarifies pathways; anticoagulation choices require individualized clinical judgment."
         ]
       }
@@ -2705,7 +2705,7 @@
         "paragraphs": [
           "Coronary angiography remains reference; CTA also depicts ectasia.",
           "Functional testing may reveal ischemia when slow flow suspected.",
-          "Antiplatelet therapy themes appear in case-based reviews; anticoagulation considered when thrombotic history—specialist decisions.",
+          "Antiplatelet therapy themes appear in case-based reviews; anticoagulation considered when thrombotic history-specialist decisions.",
           "Revascularization stenting of ectatic segments carries technical challenges; medical management often dominates."
         ]
       },
@@ -2846,7 +2846,7 @@
       "It is controversial: distinguishing pathologic noncompaction from normal variant trabeculation challenges diagnosis.",
       "Associations include heart failure, arrhythmia, and thromboembolism in case series.",
       "Genetic cardiomyopathy overlap exists; family screening themes appear in specialty clinics.",
-      "Criteria based on trabecular-to-compact layer ratios differ by modality—humility in labeling."
+      "Criteria based on trabecular-to-compact layer ratios differ by modality-humility in labeling."
     ],
     "sections": [
       {
@@ -2863,7 +2863,7 @@
         "paragraphs": [
           "Noncompacted myocardium may contract poorly, contributing to systolic dysfunction and heart failure symptoms.",
           "Trabecular recesses can harbor thrombus in theory, raising anticoagulation discussions when EF low or AF present.",
-          "Ventricular arrhythmias and sudden death reports appear in registries—risk stratification imperfect.",
+          "Ventricular arrhythmias and sudden death reports appear in registries-risk stratification imperfect.",
           "Genetic mutations overlap with dilated or hypertrophic cardiomyopathy pathways."
         ]
       },
@@ -2881,7 +2881,7 @@
         "paragraphs": [
           "Heart failure therapy follows cardiomyopathy guidelines when dysfunction present.",
           "ICD decisions use general sudden death risk tools with caution due to evolving LVNC risk data.",
-          "Anticoagulation not universal—tied to AF, thrombus, or very low EF per clinician judgment.",
+          "Anticoagulation not universal-tied to AF, thrombus, or very low EF per clinician judgment.",
           "Genetic counseling offered when familial disease suspected."
         ]
       },
@@ -2897,7 +2897,7 @@
       {
         "heading": "Putting it together",
         "paragraphs": [
-          "Myocardial noncompaction sits at the intersection of embryology, imaging technology, and cardiomyopathy genetics—with legitimate diagnostic controversy.",
+          "Myocardial noncompaction sits at the intersection of embryology, imaging technology, and cardiomyopathy genetics-with legitimate diagnostic controversy.",
           "When dysfunction or arrhythmia exists, management aligns with heart failure and sudden death prevention principles regardless of label debates.",
           "Cardily encourages nuanced reading of imaging reports; definitive diagnosis often needs expert echo/MRI correlation."
         ]
@@ -2933,7 +2933,7 @@
       "High-output heart failure features elevated cardiac output yet inadequate organ perfusion because of extremely low systemic vascular resistance or metabolic demand.",
       "Causes include severe anemia, thyrotoxicosis, arteriovenous fistulas, beriberi, and pregnancy hyperdynamic states.",
       "Ejection fraction may be normal or high; classic low-EF heart failure frameworks mislead if output is not measured conceptually.",
-      "Treat underlying cause often reverses failure—volume and afterload management adjunctive.",
+      "Treat underlying cause often reverses failure-volume and afterload management adjunctive.",
       "Warm extremities and wide pulse pressure are exam teaching clues."
     ],
     "sections": [
@@ -2943,7 +2943,7 @@
           "High-output heart failure is heart failure syndrome with increased cardiac output meeting defined hemodynamic thresholds on catheterization in classic descriptions, yet patients experience congestion and hypoperfusion symptoms because vascular beds are massively dilated or metabolic needs outstrip delivery.",
           "It contradicts beginner assumption that heart failure always means low output numerically.",
           "Recognition prevents mislabeling as primary cardiomyopathy when the driver is thyroid storm or fistula.",
-          "Misconception: normal EF excludes heart failure entirely—high-output HF is counterexample."
+          "Misconception: normal EF excludes heart failure entirely-high-output HF is counterexample."
         ]
       },
       {
@@ -2960,7 +2960,7 @@
         "paragraphs": [
           "Warm flushed skin, bounding pulses, and tachycardia contrast with cold low-output failure.",
           "Hyperdynamic precordium on exam and wide pulse pressure support teaching diagnosis before labs return.",
-          "Pregnancy normally increases output; peripartum cardiomyopathy is different entity—avoid conflation.",
+          "Pregnancy normally increases output; peripartum cardiomyopathy is different entity-avoid conflation.",
           "Student drill: Given anemia and dyspnea, list findings favoring high-output HF versus iron deficiency alone."
         ]
       },
@@ -2986,7 +2986,7 @@
         "heading": "Putting it together",
         "paragraphs": [
           "High-output heart failure teaches that syndrome definition is about adequacy of perfusion relative to need, not output number alone.",
-          "Underlying shunts, hormones, and anemia explain most cases—fix the driver when possible.",
+          "Underlying shunts, hormones, and anemia explain most cases-fix the driver when possible.",
           "Cardily highlights exam and hemodynamic clues; invasive confirmation and cause-specific treatment stay in clinical teams’ hands."
         ]
       }
@@ -3021,14 +3021,14 @@
       "Low-output heart failure emphasizes inadequate forward flow and perfusion, often with cool extremities and hypotension.",
       "Profiles overlap with ‘cold and wet’ or ‘cold and dry’ congestion-perfusion grids used in acute care teaching.",
       "Cardiac index and lactate conceptually reflect perfusion; echocardiography shows weak squeeze in many cases.",
-      "Inotropes and mechanical support appear in advanced decompensation protocols—not self-directed therapies.",
+      "Inotropes and mechanical support appear in advanced decompensation protocols-not self-directed therapies.",
       "Differentiate from distributive shock where output may be high initially."
     ],
     "sections": [
       {
         "heading": "Why this diagnosis matters",
         "paragraphs": [
-          "Low-output signs appear when the heart cannot generate sufficient stroke volume to perfuse organs despite often elevated filling pressures. Patients may be congested, underperfused, or both—the ‘cold’ descriptor signals vasoconstriction and reduced extremity flow.",
+          "Low-output signs appear when the heart cannot generate sufficient stroke volume to perfuse organs despite often elevated filling pressures. Patients may be congested, underperfused, or both-the ‘cold’ descriptor signals vasoconstriction and reduced extremity flow.",
           "Why it matters: therapy differs from hypertensive flash pulmonary edema where afterload reduction dominates without hypotension.",
           "Low output occurs in HFrEF decompensation, massive PE, tamponade, and severe valvular disease among other causes.",
           "Misconception: all decompensated HF patients have high blood pressure. Some present in cardiogenic shock."
@@ -3039,7 +3039,7 @@
         "paragraphs": [
           "Reduced forward flow activates sympathetic and renin responses, raising vasoconstriction at cost of end-organ perfusion.",
           "Renal hypoperfusion causes oliguria; gut ischemia causes pain and malabsorption in extreme cases.",
-          "Lactic acidosis in advanced shock reflects anaerobic metabolism—emergency medicine crossover.",
+          "Lactic acidosis in advanced shock reflects anaerobic metabolism-emergency medicine crossover.",
           "Ventricular interdependence means RV failure can reduce LV filling, lowering output further."
         ]
       },
@@ -3047,7 +3047,7 @@
         "heading": "Differential thinking",
         "paragraphs": [
           "Differentiate cardiogenic shock from sepsis and hemorrhagic shock using exam, echo, and invasive pressures when available.",
-          "Tamponade and tension pneumothorax are reversible mechanical causes of low output—always on emergency differentials.",
+          "Tamponade and tension pneumothorax are reversible mechanical causes of low output-always on emergency differentials.",
           "Large pulmonary embolism reduces LV preload abruptly.",
           "Student drill: Place tamponade, PE, and MI shock on a perfusion-congestion grid."
         ]
@@ -3058,7 +3058,7 @@
           "Inotropes (dobutamine, milrinone) increase contractility in selected hospitalized patients under monitoring.",
           "Vasopressors may maintain coronary perfusion pressure when hypotensive.",
           "Mechanical circulatory support (IABP, Impella, ECMO themes) bridges to recovery or transplant in advanced centers.",
-          "Diuretics cautiously when profoundly hypotensive—preload dependence varies."
+          "Diuretics cautiously when profoundly hypotensive-preload dependence varies."
         ]
       },
       {
@@ -3073,7 +3073,7 @@
       {
         "heading": "Putting it together",
         "paragraphs": [
-          "Low-output heart failure signs orient learners to perfusion failure—not only lung congestion.",
+          "Low-output heart failure signs orient learners to perfusion failure-not only lung congestion.",
           "Cold extremities, hypotension, and organ dysfunction prompt wide differential before defaulting to one diagnosis.",
           "Cardily teaches frameworks like cold/wet profiles; vasoactive and mechanical therapies belong in monitored critical care settings."
         ]
@@ -3107,7 +3107,7 @@
     "slug": "understanding-pulmonary-hypertension-groups-a-clear-educational-guide",
     "takeaways": [
       "WHO pulmonary hypertension groups classify hemodynamic etiologies: PAH (1), left heart disease (2), lung disease/hypoxia (3), CTEPH (4), unclear/multifactorial (5).",
-      "Group determines therapy—PAH drugs are not for all pulmonary hypertension.",
+      "Group determines therapy-PAH drugs are not for all pulmonary hypertension.",
       "Right heart catheterization with wedge pressure and PVR defines groups formally.",
       "Echo estimates pulmonary pressures but cannot alone assign group.",
       "Classification literacy prevents treatment errors and anchors research enrollment."
@@ -3144,7 +3144,7 @@
         "heading": "Treatment categories at a high level",
         "paragraphs": [
           "Group 1 therapies: endothelin antagonists, PDE5 inhibitors, prostacyclins, sGC stimulators in combinations.",
-          "Group 2: treat left heart failure, valves, ischemia—not PAH vasodilators alone.",
+          "Group 2: treat left heart failure, valves, ischemia-not PAH vasodilators alone.",
           "Group 3: oxygen, lung disease management; PAH drugs generally avoided.",
           "Group 4: pulmonary thromboendarterectomy or balloon angioplasty in expert centers when operable."
         ]
@@ -3194,7 +3194,7 @@
   {
     "slug": "understanding-frailty-and-heart-failure-a-clear-educational-guide",
     "takeaways": [
-      "Frailty describes decreased physiologic reserve and vulnerability to stressors—common in older heart failure patients.",
+      "Frailty describes decreased physiologic reserve and vulnerability to stressors-common in older heart failure patients.",
       "Frailty metrics predict hospitalization and mortality sometimes beyond ejection fraction alone.",
       "Polypharmacy, sarcopenia, cognitive impairment, and slow gait intertwine with HF care.",
       "Rehabilitation and nutritional support are multidisciplinary themes.",
@@ -3224,7 +3224,7 @@
         "paragraphs": [
           "Differentiate frailty from depression, thyroid disease, and neurologic gait disorders.",
           "Delirium during HF admission may unmask baseline cognitive frailty.",
-          "Orthostatic hypotension from polypharmacy causes falls—safety lens on rounds.",
+          "Orthostatic hypotension from polypharmacy causes falls-safety lens on rounds.",
           "Student drill: List geriatric syndromes to assess on HF admission besides JVP."
         ]
       },
@@ -3234,7 +3234,7 @@
           "Cardiac rehab adapted to capacity improves strength when enrollment barriers addressed.",
           "Medication simplification and deprescribing reviews reduce harm.",
           "Palliative integration early for high-burden frail patients aligns with goals.",
-          "Transplant/LVAD programs use frailty screening to predict recovery—controversial thresholds evolve."
+          "Transplant/LVAD programs use frailty screening to predict recovery-controversial thresholds evolve."
         ]
       },
       {
@@ -3282,11 +3282,11 @@
   {
     "slug": "understanding-pediatric-hypertension-a-clear-educational-guide",
     "takeaways": [
-      "Pediatric hypertension uses age, sex, and height percentile-based thresholds—not adult cutoffs.",
+      "Pediatric hypertension uses age, sex, and height percentile-based thresholds-not adult cutoffs.",
       "Primary hypertension links to obesity and family history; secondary causes are more common in younger children.",
       "Coarctation, renal disease, and endocrine disorders appear in secondary differentials.",
       "Ambulatory BP monitoring helps confirm diagnosis and assess nocturnal patterns.",
-      "Early recognition aims to prevent adult cardiovascular sequelae—long-view prevention theme."
+      "Early recognition aims to prevent adult cardiovascular sequelae-long-view prevention theme."
     ],
     "sections": [
       {
@@ -3312,7 +3312,7 @@
         "paragraphs": [
           "Most pediatric hypertension is asymptomatic; headaches alone are weak screen.",
           "Secondary clues: very young age, stage 2 without family history, hypokalemia, abdominal mass.",
-          "Sport participation questions arise when BP high—requires proper evaluation not automatic exclusion.",
+          "Sport participation questions arise when BP high-requires proper evaluation not automatic exclusion.",
           "Student drill: Why measure leg BP when coarctation suspected?"
         ]
       },
@@ -3322,7 +3322,7 @@
           "Repeated manual auscultatory measurement preferred in guidelines over casual oscillometric alone for diagnosis confirmation.",
           "ABPM confirms persistence and nocturnal non-dipping.",
           "Echocardiography for LV hypertrophy; labs and renal ultrasound in secondary workup pathways.",
-          "Lifestyle intervention first for many; pharmacotherapy follows guideline tables when indicated—pediatric specialist role."
+          "Lifestyle intervention first for many; pharmacotherapy follows guideline tables when indicated-pediatric specialist role."
         ]
       },
       {
@@ -3373,14 +3373,14 @@
       "MINOCA (myocardial infarction with non-obstructive coronary arteries) denotes MI criteria met with angiographic stenosis below obstructive thresholds.",
       "Mechanisms include plaque rupture with non-obstructive disease, embolism, vasospasm, SCAD, and takotsubo.",
       "Workup extends beyond angiography to MRI, OCT, provocative testing, and selective imaging in specialty pathways.",
-      "Prognosis varies by underlying cause—one label, multiple diseases.",
+      "Prognosis varies by underlying cause-one label, multiple diseases.",
       "Do not tell patients their arteries are ‘clean’ when troponin and clinical MI criteria are met."
     ],
     "sections": [
       {
         "heading": "What this condition is",
         "paragraphs": [
-          "MINOCA describes patients who meet universal MI definitions—symptoms, biomarkers, ECG/imaging evidence—yet invasive angiography shows no obstructive atherosclerotic stenosis typically defined above seventy percent.",
+          "MINOCA describes patients who meet universal MI definitions-symptoms, biomarkers, ECG/imaging evidence-yet invasive angiography shows no obstructive atherosclerotic stenosis typically defined above seventy percent.",
           "Why surprising angiograms matter: patients may feel dismissed if clinicians equate normal-looking arteries with ‘not a heart attack.’",
           "MINOCA is common enough in registries to warrant structured evaluation algorithms in teaching hospitals.",
           "Misconception: MINOCA is benign. Risk depends on identified mechanism."
@@ -3407,10 +3407,10 @@
       {
         "heading": "What students should master first",
         "paragraphs": [
-          "Secondary prevention targets identified mechanism—statins if plaque present, avoid nitrates in some bridging cases per specialist, treat vasospasm if proven.",
+          "Secondary prevention targets identified mechanism-statins if plaque present, avoid nitrates in some bridging cases per specialist, treat vasospasm if proven.",
           "Antiplatelet duration follows MI guidelines unless alternative diagnosis changes plan.",
           "Psychosocial support when takotsubo or SCAD in young patients.",
-          "Registry enrollment advances MINOCA science—students learn evolving field."
+          "Registry enrollment advances MINOCA science-students learn evolving field."
         ]
       },
       {
@@ -3425,7 +3425,7 @@
       {
         "heading": "Putting it together",
         "paragraphs": [
-          "MINOCA teaches that myocardial infarction is a clinical–biomarker entity separable from angiographic stenosis severity.",
+          "MINOCA teaches that myocardial infarction is a clinical-biomarker entity separable from angiographic stenosis severity.",
           "Mechanistic workup transforms a confusing label into actionable categories like SCAD, spasm, or takotsubo.",
           "Cardily promotes respect for patient experience when arteries look clear; definitive care paths need specialized evaluation."
         ]
@@ -3469,7 +3469,7 @@
         "heading": "What this condition is",
         "paragraphs": [
           "HCM is defined by increased ventricular wall thickness not explained by loading conditions like hypertension or aortic stenosis alone. It is a leading cause of sudden cardiac death in young athletes in educational materials.",
-          "Genetic heterogeneity means family members may have varied expressivity—some hypertrophy, some genotype-positive phenotype-negative.",
+          "Genetic heterogeneity means family members may have varied expressivity-some hypertrophy, some genotype-positive phenotype-negative.",
           "Apical, concentric, and septal patterns exist; obstruction is not universal.",
           "Misconception: all HCM patients have murmur at rest. Obstruction can be labile."
         ]
@@ -3488,7 +3488,7 @@
         "paragraphs": [
           "Differentiate HCM from athlete’s heart (regression with deconditioning, normal diastolic function) and hypertension LVH.",
           "Fabry disease and amyloidosis are infiltrative mimics in older appearing hypertrophy.",
-          "Aortic stenosis can coexist in elders—multiple problems possible.",
+          "Aortic stenosis can coexist in elders-multiple problems possible.",
           "Student drill: List echo features suggesting HCM versus athlete adaptation."
         ]
       },
@@ -3497,8 +3497,8 @@
         "paragraphs": [
           "Beta blockers and non-dihydropyridine calcium channel blockers for symptoms; disopyramide in selected obstructive cases in specialty care.",
           "Septal reduction therapy (myectomy or alcohol ablation) for refractory obstructive symptoms.",
-          "ICD for high-risk sudden death markers per guideline algorithms—specialist decision.",
-          "Sports restriction individualized after shared risk assessment—not one rule for all."
+          "ICD for high-risk sudden death markers per guideline algorithms-specialist decision.",
+          "Sports restriction individualized after shared risk assessment-not one rule for all."
         ]
       },
       {

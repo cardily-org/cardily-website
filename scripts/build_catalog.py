@@ -64,7 +64,7 @@ def diseases() -> list[dict]:
         ("Mitral Stenosis", "rheumatic, left atrium", "how left atrial pressure rises"),
         ("Mitral Regurgitation", "leaflet, annular, ischemic", "primary versus secondary MR frameworks"),
         ("Mitral Valve Prolapse", "myxomatous, click", "spectrum from benign to severe"),
-        ("Tricuspid Regurgitation", "right heart, secondary TR", "often secondary — why that matters"),
+        ("Tricuspid Regurgitation", "right heart, secondary TR", "often secondary, why that matters"),
         ("Pulmonic Valve Disease", "congenital, stenosis", "less common valve lesions explained"),
         ("Infective Endocarditis", "vegetation, bacteremia", "Duke criteria conceptually for students"),
         ("Rheumatic Heart Disease", "group A strep, chronic valve", "global burden educational framing"),

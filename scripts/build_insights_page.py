@@ -82,7 +82,7 @@ def main() -> None:
                             <span class="insight-card-description">
                                 {html.escape(CATEGORY_BLURBS[cat])}
                             </span>
-                            <span class="insight-card-status">{n} articles — browse all</span>
+                            <span class="insight-card-status">{n} articles, browse all</span>
                         </span>
                         <span class="insight-card-arrow" aria-hidden="true">→</span>
                     </a>"""
@@ -163,7 +163,7 @@ def main() -> None:
             <div class="page-content">
                 <h1>Insights</h1>
                 <p>
-                    <strong>{total} educational articles</strong> on cardiovascular health — diseases, prevention,
+                    <strong>{total} educational articles</strong> on cardiovascular health, diseases, prevention,
                     research literacy, and data. Click a category below, or browse the full library on this page.
                 </p>
                 <p class="insights-hero-actions">
@@ -181,7 +181,7 @@ def main() -> None:
                     <span class="insights-eyebrow">Choose a collection</span>
                     <h2>Four ways into the library</h2>
                     <p>
-                        Each category opens a full list of articles. No “coming soon” — the library is published.
+                        Each category opens a full list of articles. No “coming soon”, the library is published.
                     </p>
                 </div>
 
