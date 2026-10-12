@@ -2678,7 +2678,7 @@ html.smooth-scroll {
 .page-hero {
     background: linear-gradient(135deg, #dc2626 0%, #b91c1c 50%, #991b1b 100%);
     color: white;
-    padding: 60px 0 60px;
+    padding: 7rem 0 5rem;
 }
 
 .page-hero .page-content h1 {
@@ -3733,18 +3733,29 @@ textarea:focus {
 }
 
 /* Insights Page */
+.insights-hero {
+    padding: 7.5rem 0 5.5rem;
+}
+
 .insights-hero .page-content {
-    padding-top: 52px;
-    padding-bottom: 52px;
+    padding-top: 0;
+    padding-bottom: 0;
+    max-width: 42rem;
 }
 
 .insights-hero .page-content h1 {
-    margin: 0 0 1rem;
+    margin: 0 0 1.75rem;
+    line-height: 1.1;
 }
 
 .insights-hero .page-content p {
-    max-width: 760px;
-    margin: 0;
+    max-width: 40rem;
+    margin: 0 0 0.75rem;
+    line-height: 1.75;
+}
+
+.insights-hero .page-content p:last-of-type {
+    margin-bottom: 0;
 }
 
 .insights-library {
@@ -3968,9 +3979,21 @@ textarea:focus {
 }
 
 @media (max-width: 480px) {
+    .insights-hero {
+        padding: 6.25rem 0 4rem;
+    }
+
     .insights-hero .page-content {
-        padding-top: 36px;
-        padding-bottom: 36px;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .insights-hero .page-content h1 {
+        margin-bottom: 1.35rem;
+    }
+
+    .insights-hero-actions {
+        margin-top: 2.25rem;
     }
 
     .insights-content {
@@ -4468,8 +4491,8 @@ a.insight-category-card {
 .insights-hero-actions {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.75rem;
-    margin-top: 1.5rem;
+    gap: 1rem;
+    margin-top: 2.75rem;
 }
 
 .insights-hero-actions .btn {
